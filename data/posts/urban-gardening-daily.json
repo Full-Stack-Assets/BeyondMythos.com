@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-greens-in-containers",
+    "title": "Growing Micro Greens in Small Spaces",
+    "dek": "Maximize space with micro greens",
+    "takeaway": "Micro greens can thrive in small containers with proper care",
+    "whatHappened": "Micro greens have become increasingly popular among urban gardeners due to their ease of growth and nutritional benefits. They can be grown in small containers, making them perfect for apartment dwellers and balcony gardeners. With the right conditions, micro greens can be harvested in as little as one week.",
+    "whyItMatters": "Growing micro greens in small spaces can provide a steady supply of fresh produce, even in the midst of winter. They are also rich in nutrients and can add variety to meals. By growing micro greens, urban gardeners can take control of their food supply and enjoy the benefits of homegrown produce.",
+    "howToThink": "To grow micro greens in small containers, choose a container that is at least 2-3 inches deep and has good drainage. Select a mix of micro green seeds that are suitable for indoor growing and provide the right amount of light. Keep the soil consistently moist and harvest the micro greens when they are 1-3 inches tall.",
+    "pros": [
+      "Space-efficient",
+      "Easy to grow",
+      "Nutritious"
+    ],
+    "cons": [
+      "Requires consistent moisture",
+      "Can be sensitive to light",
+      "Limited harvest window"
+    ],
+    "watchOut": "Be cautious not to overwater, as this can lead to mold and poor growth",
+    "faq": [
+      {
+        "q": "What are micro greens?",
+        "a": "Micro greens are young, nutrient-dense versions of leafy greens and other vegetables"
+      },
+      {
+        "q": "How often should I water micro greens?",
+        "a": "Water micro greens when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I grow micro greens indoors?",
+        "a": "Yes, micro greens can be grown indoors with proper lighting and temperature control"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "container gardening",
+      "micro greens"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-28T23:38:02.737Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "summer-container-maintenance",
     "title": "Beat the Heat: Summer Container Care Essentials",
     "dek": "Keep your containers thriving this summer.",

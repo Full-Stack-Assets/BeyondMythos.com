@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Growing Micro Greens in Small Spaces</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/micro-greens-in-containers.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/micro-greens-in-containers.html</guid>
+      <pubDate>Tue, 28 Jul 2026 23:38:02 GMT</pubDate>
+      <description>Maximize space with micro greens</description>
+    </item>
+    <item>
       <title>Beat the Heat: Summer Container Care Essentials</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/summer-container-maintenance.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/summer-container-maintenance.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-4.html</guid>
       <pubDate>Sat, 18 Jul 2026 08:26:35 GMT</pubDate>
       <description>No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.</description>
-    </item>
-    <item>
-      <title>Sky&apos;s the Limit: Vertical Gardening for Apartment Dwellers</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/vertical-gardening-hacks-2.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/vertical-gardening-hacks-2.html</guid>
-      <pubDate>Sat, 18 Jul 2026 06:32:58 GMT</pubDate>
-      <description>Maximize space with vertical gardening</description>
     </item>
   </channel>
 </rss>

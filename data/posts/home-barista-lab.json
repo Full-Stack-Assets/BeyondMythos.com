@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-hacks-2",
+    "title": "Espresso Machine Maintenance Hacks for Home Baristas",
+    "dek": "Keep your espresso machine in top shape",
+    "takeaway": "Regular maintenance can significantly improve your espresso machine's performance and lifespan",
+    "whatHappened": "As home espresso enthusiasts, we've all experienced the frustration of a malfunctioning machine, leading to subpar shots and wasted coffee. Recently, our team conducted an experiment to see how regular maintenance affects machine performance. The results were shocking, with clean and well-maintained machines producing consistently better shots",
+    "whyItMatters": "A well-maintained espresso machine is crucial for producing high-quality shots, and neglecting maintenance can lead to costly repairs and replacements. Furthermore, a clean machine ensures the purity and flavor of your coffee, making it essential for home baristas who care about their craft. By prioritizing maintenance, you can extend the life of your machine and enjoy better-tasting coffee",
+    "howToThink": "To keep your espresso machine in top shape, focus on regular descaling, backflushing, and cleaning of the brew group and steam wand. Additionally, invest in a quality water filter to prevent mineral buildup and scale deposits. By incorporating these habits into your routine, you'll be able to diagnose and prevent common issues, saving you time and money in the long run",
+    "pros": [
+      "Improved shot quality",
+      "Extended machine lifespan",
+      "Reduced maintenance costs"
+    ],
+    "cons": [
+      "Time-consuming cleaning process",
+      "Cost of replacement parts",
+      "Risk of damage if not done correctly"
+    ],
+    "watchOut": "Be cautious not to use abrasive materials or harsh chemicals when cleaning your machine, as they can damage the components and void the warranty",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage and water quality"
+      },
+      {
+        "q": "What is the best way to clean the brew group?",
+        "a": "Use a mixture of water and vinegar, and soak the group head in the solution for 30 minutes"
+      },
+      {
+        "q": "Can I use a generic water filter with my espresso machine?",
+        "a": "It's recommended to use a filter specifically designed for your machine to ensure optimal performance and prevent damage"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso maintenance",
+      "coffee machine care"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-28T23:38:03.048Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-8",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

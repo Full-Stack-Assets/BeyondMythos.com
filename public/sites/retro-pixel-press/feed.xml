@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Console Modding 101: Unlocking Hidden Potential</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding.html</guid>
+      <pubDate>Tue, 28 Jul 2026 23:38:03 GMT</pubDate>
+      <description>Transform your retro console with modding</description>
+    </item>
+    <item>
       <title>From Dust to Dynamite: DIY Retro Console Repair</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-2.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/diy-retro-console-repair.html</guid>
       <pubDate>Sat, 18 Jul 2026 08:26:37 GMT</pubDate>
       <description>Save money, fix your console</description>
-    </item>
-    <item>
-      <title>Rethinking Arcade Hardware: Custom Boards for Retro Enthusiasts</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/custom-arcade-boards.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-arcade-boards.html</guid>
-      <pubDate>Sat, 18 Jul 2026 06:32:58 GMT</pubDate>
-      <description>Upgrade your arcade experience</description>
     </item>
   </channel>
 </rss>

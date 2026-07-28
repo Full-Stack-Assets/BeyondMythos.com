@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding",
+    "title": "Retro Console Modding 101: Unlocking Hidden Potential",
+    "dek": "Transform your retro console with modding",
+    "takeaway": "Modding can breathe new life into old consoles, but be cautious of compatibility issues",
+    "whatHappened": "The world of retro console modding has exploded in recent years, with enthusiasts pushing the limits of what's possible with classic hardware. From overclocking to custom firmware, the options are endless. However, with great power comes great responsibility, and modders must be aware of the potential risks and downsides.",
+    "whyItMatters": "Modding can unlock new features, improve performance, and even add modern conveniences to retro consoles. For speedrunners, modding can provide a competitive edge, while collectors can use it to preserve and restore their beloved consoles. As the retro gaming community continues to grow, modding is becoming an essential skill for enthusiasts.",
+    "howToThink": "When approaching retro console modding, it's essential to research and understand the potential risks and benefits. Start with small, reversible modifications and gradually work your way up to more complex projects. Always prioritize compatibility and stability, and be prepared to troubleshoot and debug your work.",
+    "pros": [
+      "Improved performance",
+      "New features",
+      "Customization"
+    ],
+    "cons": [
+      "Compatibility issues",
+      "Voided warranties",
+      "Potential damage"
+    ],
+    "watchOut": "Be cautious of online tutorials and guides that may not be compatible with your specific console or modding setup",
+    "faq": [
+      {
+        "q": "What is overclocking?",
+        "a": "Overclocking is the process of increasing a console's clock speed to improve performance"
+      },
+      {
+        "q": "Can modding void my warranty?",
+        "a": "Yes, modding can void your warranty, so proceed with caution and research the terms of your warranty before starting a project"
+      },
+      {
+        "q": "Where can I find modding resources?",
+        "a": "Online forums, social media groups, and dedicated modding communities are great resources for finding tutorials, guides, and troubleshooting advice"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-07-28T23:38:03.107Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-console-repair-101-2",
     "title": "From Dust to Dynamite: DIY Retro Console Repair",
     "dek": "Fix old consoles at home",

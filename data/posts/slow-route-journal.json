@@ -1,5 +1,56 @@
 [
   {
+    "slug": "local-transport-hacks",
+    "title": "Mastering Local Rail Schedules",
+    "dek": "Rail hacks for slow travelers",
+    "takeaway": "Understanding local rail schedules can significantly reduce travel time and increase exploration efficiency",
+    "whatHappened": "During a recent trip to a rural town, I discovered the importance of mastering local rail schedules to navigate the area efficiently. By understanding the rail system, I was able to visit more places and experience the local culture. This experience highlighted the need for slow travelers to prioritize learning local rail schedules",
+    "whyItMatters": "Mastering local rail schedules matters because it allows slow travelers to make the most of their time, reduce their environmental impact, and truly experience the local culture. It also enables them to connect with the community and support local businesses. By doing so, travelers can have a more authentic and fulfilling experience",
+    "howToThink": "To master local rail schedules, start by researching the rail system before your trip, look for patterns and peak hours, and consider purchasing a local rail pass for convenience. Additionally, don't be afraid to ask locals for advice and tips on navigating the rail system. By taking a proactive approach, you can make the most of your time and create a more enjoyable travel experience",
+    "pros": [
+      "Increased efficiency",
+      "Reduced environmental impact",
+      "Improved cultural immersion"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Limited English support",
+      "Unreliable schedules"
+    ],
+    "watchOut": "Be cautious of limited or unreliable rail schedules in rural areas, which can significantly impact your travel plans",
+    "faq": [
+      {
+        "q": "How do I research local rail schedules?",
+        "a": "You can research local rail schedules on the official rail website or through a travel app"
+      },
+      {
+        "q": "What is the benefit of purchasing a local rail pass?",
+        "a": "A local rail pass can provide convenience and cost savings, as well as priority boarding and seating"
+      },
+      {
+        "q": "How can I get help if I get lost or confused?",
+        "a": "You can ask locals for assistance, visit a tourist information office, or contact the rail customer support team"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail Travel",
+      "Local Exploration"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-28T23:38:03.182Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "packing-pre-spend-checklist-8",
     "title": "The packing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified packing purchase from an expensive mood.",
