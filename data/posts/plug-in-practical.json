@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "fast-charging-myths",
+    "title": "Busting the Myths of Fast Charging",
+    "category": "Charging",
+    "dek": "Separate fact from fiction on fast charging",
+    "takeaway": "Fast charging doesn't degrade your battery as much as you think",
+    "whatHappened": "Fast charging has been a topic of debate among EV owners. Many fear it degrades their batteries. However, recent studies show this isn't entirely true. In fact, most modern EVs are designed to handle fast charging without significant battery degradation. This shift in understanding could change how we use our vehicles",
+    "whyItMatters": "Understanding the truth about fast charging can significantly impact your daily driving habits and your EV's lifespan. It could mean more spontaneous road trips and less range anxiety",
+    "howToThink": "When considering fast charging, think about your typical driving patterns. If you frequently take long trips, fast charging might be a lifesaver. However, if you mostly drive short distances, standard charging might suffice. Balance convenience with cost and battery health",
+    "pros": [
+      "Convenience",
+      "Less range anxiety",
+      "Faster road trips"
+    ],
+    "cons": [
+      "Higher cost",
+      "Limited stations",
+      "Battery heat concerns"
+    ],
+    "watchOut": "Be cautious of older vehicles which may not handle fast charging as well as newer models",
+    "faq": [
+      {
+        "q": "How often can I fast charge?",
+        "a": "It's generally safe to fast charge up to 80% of your battery's capacity daily"
+      },
+      {
+        "q": "Does fast charging affect my warranty?",
+        "a": "Most manufacturers support fast charging and it does not typically void your warranty"
+      },
+      {
+        "q": "Can all EVs fast charge?",
+        "a": "Not all EVs are equipped for fast charging; check your vehicle's specifications"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/electricvehicles community threads",
+        "url": "https://www.reddit.com/r/electricvehicles/"
+      },
+      {
+        "label": "Search interest: \"home EV charging setup\"",
+        "url": "https://duckduckgo.com/?q=home%20EV%20charging%20setup"
+      }
+    ],
+    "tags": [
+      "EV Charging",
+      "Fast Charge"
+    ],
+    "publishedAt": "2026-07-29T09:49:47.629Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ev-range-anxiety",
+    "title": "Overcoming Range Anxiety in Your Daily Commute",
+    "category": "Range",
+    "dek": "Tips to alleviate range anxiety for EV owners",
+    "takeaway": "Planning and awareness can significantly reduce range anxiety",
+    "whatHappened": "Range anxiety is a common concern for prospective and current EV owners. However, with the expansion of charging infrastructure and improvements in vehicle technology, there are many strategies to mitigate this anxiety. From route planning to understanding your vehicle's capabilities, being informed is key",
+    "whyItMatters": "Range anxiety can be a barrier to EV adoption. By understanding how to manage and alleviate it, more people can confidently switch to electric vehicles, contributing to a cleaner environment",
+    "howToThink": "To overcome range anxiety, think ahead. Plan your routes in advance using EV-friendly navigation tools. Also, keep your vehicle's battery health in mind and adjust your driving habits accordingly. Regular software updates can also improve your vehicle's range and efficiency",
+    "pros": [
+      "Reduced stress",
+      "Increased efficiency",
+      "Environmentally friendly"
+    ],
+    "cons": [
+      "Limited charging points",
+      "Higher upfront costs",
+      "Battery degradation concerns"
+    ],
+    "watchOut": "Be aware of extreme temperatures which can affect your vehicle's range",
+    "faq": [
+      {
+        "q": "How can I check my EV's range?",
+        "a": "Your vehicle's onboard computer or mobile app can provide real-time range estimates"
+      },
+      {
+        "q": "Does terrain affect my EV's range?",
+        "a": "Yes, driving in hilly or mountainous terrain can reduce your EV's range due to increased energy consumption"
+      },
+      {
+        "q": "Can I charge my EV at home?",
+        "a": "Yes, most EVs come with home charging solutions, making overnight charging convenient"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/evcharging community threads",
+        "url": "https://www.reddit.com/r/evcharging/"
+      },
+      {
+        "label": "Search interest: \"EV road trip planning\"",
+        "url": "https://duckduckgo.com/?q=EV%20road%20trip%20planning"
+      }
+    ],
+    "tags": [
+      "Range Anxiety",
+      "EV Tips"
+    ],
+    "publishedAt": "2026-07-27T20:49:47.629Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "electric-vehicle-ownership",
+    "title": "The Real Cost of Electric Vehicle Ownership",
+    "category": "Ownership",
+    "dek": "Understanding the total cost of owning an EV",
+    "takeaway": "Electric vehicles can be more cost-effective in the long run despite higher upfront costs",
+    "whatHappened": "The cost of electric vehicle ownership extends beyond the purchase price. It includes factors like charging costs, maintenance, and potential battery replacement. However, EVs also offer significant savings on fuel and lower maintenance needs compared to traditional gasoline vehicles",
+    "whyItMatters": "For those considering switching to an EV, understanding the total cost of ownership is crucial. It can help in making an informed decision that aligns with your budget and driving needs",
+    "howToThink": "When calculating the cost of EV ownership, consider your daily driving habits, access to charging infrastructure, and the vehicle's overall efficiency. Also, factor in government incentives and tax credits that can offset the initial purchase price",
+    "pros": [
+      "Lower operating costs",
+      "Environmental benefits",
+      "Smooth, quiet ride"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Charging time",
+      "Limited model options"
+    ],
+    "watchOut": "Be mindful of battery health and how it affects the resale value of your vehicle",
+    "faq": [
+      {
+        "q": "How much does it cost to charge an EV?",
+        "a": "The cost to charge an EV varies by location and the type of charging method used, but it's generally cheaper than gasoline"
+      },
+      {
+        "q": "Do EVs require less maintenance?",
+        "a": "Yes, EVs have fewer moving parts and thus require less maintenance compared to traditional vehicles"
+      },
+      {
+        "q": "Can I sell my EV?",
+        "a": "Yes, the resale market for EVs is growing, and with proper maintenance, you can sell your EV for a decent price"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/TeslaLounge community threads",
+        "url": "https://www.reddit.com/r/TeslaLounge/"
+      },
+      {
+        "label": "Search interest: \"electric car ownership costs\"",
+        "url": "https://duckduckgo.com/?q=electric%20car%20ownership%20costs"
+      }
+    ],
+    "tags": [
+      "EV Costs",
+      "Ownership Benefits"
+    ],
+    "publishedAt": "2026-07-26T07:49:47.629Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ev-deal-finder",
+    "title": "Finding the Best Deals on Electric Vehicles",
+    "category": "Deals",
+    "dek": "Tips and tricks for scoring the best EV deals",
+    "takeaway": "Research and timing are key to finding the best deals on electric vehicles",
+    "whatHappened": "The electric vehicle market is competitive, with numerous models and incentives available. To find the best deals, it's essential to research thoroughly, considering factors like price, features, and manufacturer incentives. Additionally, keeping an eye on local and national tax credits can provide significant savings",
+    "whyItMatters": "Finding the right deal can make electric vehicle ownership more accessible and affordable for a wider range of people, contributing to increased EV adoption and a reduction in emissions",
+    "howToThink": "When searching for EV deals, think about your needs and priorities. Consider the type of vehicle that suits your lifestyle, your budget, and the incentives available in your area. Also, don't hesitate to negotiate the price and explore financing options",
+    "pros": [
+      "Affordability",
+      "Variety of models",
+      "Incentives"
+    ],
+    "cons": [
+      "Complexity of incentives",
+      "Limited inventory",
+      "Depreciation concerns"
+    ],
+    "watchOut": "Be cautious of deals that seem too good to be true and ensure you understand all the terms and conditions",
+    "faq": [
+      {
+        "q": "What incentives are available for EV buyers?",
+        "a": "Incentives vary by location but can include tax credits, rebates, and exemptions from certain fees"
+      },
+      {
+        "q": "How do I find the best EV for my budget?",
+        "a": "Research different models, compare prices, and consider factors like operating costs and incentives"
+      },
+      {
+        "q": "Can I lease an EV?",
+        "a": "Yes, leasing is a popular option for EVs, offering lower monthly payments and the opportunity to drive a new vehicle every few years"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/electricvehicles community threads",
+        "url": "https://www.reddit.com/r/electricvehicles/"
+      },
+      {
+        "label": "Search interest: \"home EV charging setup\"",
+        "url": "https://duckduckgo.com/?q=home%20EV%20charging%20setup"
+      }
+    ],
+    "tags": [
+      "EV Deals",
+      "Buying Tips"
+    ],
+    "publishedAt": "2026-07-24T18:49:47.629Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ev-charging-etiquette",
+    "title": "The Unspoken Rules of EV Charging Etiquette",
+    "category": "Charging",
+    "dek": "Navigating the dos and don'ts of public EV charging",
+    "takeaway": "Practicing good EV charging etiquette can enhance the charging experience for all users",
+    "whatHappened": "As the number of electric vehicles on the road increases, so does the demand for public charging stations. This has led to a need for etiquette guidelines to ensure that all users can charge their vehicles efficiently and respectfully. From not overstaying your welcome to keeping charging stations clean, every action counts",
+    "whyItMatters": "Good charging etiquette is essential for fostering a positive community among EV owners and promoting the widespread adoption of electric vehicles. It can also help reduce conflicts and improve the overall charging experience",
+    "howToThink": "When using public charging stations, think about the other users. Be mindful of the time you spend charging, especially if others are waiting. Keep the area around the charger clean, and be considerate of non-EV parkers. These small actions contribute to a more harmonious and efficient charging environment",
+    "pros": [
+      "Efficient charging",
+      "Community building",
+      "Reduced conflict"
+    ],
+    "cons": [
+      "Limited charging spots",
+      "Inconsiderate users",
+      "Charging speed variability"
+    ],
+    "watchOut": "Be aware of your surroundings when charging in public areas, especially at night or in isolated spots",
+    "faq": [
+      {
+        "q": "How long can I charge my EV at a public station?",
+        "a": "It depends on the station's policies, but generally, it's considered polite to limit your charging time to what's necessary"
+      },
+      {
+        "q": "Can I charge my EV at any public charger?",
+        "a": "Most public chargers are compatible with all EVs, but it's a good idea to check the charger's specifications beforehand"
+      },
+      {
+        "q": "How do I report a malfunctioning charger?",
+        "a": "You can usually report issues to the charger's network provider or the station's owner"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/evcharging community threads",
+        "url": "https://www.reddit.com/r/evcharging/"
+      },
+      {
+        "label": "Search interest: \"EV road trip planning\"",
+        "url": "https://duckduckgo.com/?q=EV%20road%20trip%20planning"
+      }
+    ],
+    "tags": [
+      "EV Charging",
+      "Public Charging"
+    ],
+    "publishedAt": "2026-07-23T05:49:47.629Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ev-range-extension",
+    "title": "Technologies Extending Electric Vehicle Range",
+    "category": "Range",
+    "dek": "Innovations that are pushing the boundaries of EV range",
+    "takeaway": "Advancements in technology are continually improving the range of electric vehicles",
+    "whatHappened": "The range of electric vehicles has been a focal point for innovation, with several technologies emerging to extend how far EVs can travel on a single charge. From advancements in battery technology to more efficient electric motors, these developments are making EVs more practical for a wider range of consumers",
+    "whyItMatters": "Increased range can alleviate one of the primary concerns potential EV buyers have, thereby expanding the market for electric vehicles and contributing to a cleaner, more sustainable transportation sector",
+    "howToThink": "When considering the range of an EV, think about the latest technologies and how they might impact your driving experience. Also, look into upcoming models and innovations that could further extend range capabilities, making EVs an even more viable option for your needs",
+    "pros": [
+      "Increased range",
+      "Improved efficiency",
+      "Enhanced driving experience"
+    ],
+    "cons": [
+      "Higher costs",
+      "Complexity of new technologies",
+      "Charging infrastructure limitations"
+    ],
+    "watchOut": "Be cautious of over-reliance on range-extending technologies and remember to drive efficiently",
+    "faq": [
+      {
+        "q": "What are the latest advancements in EV battery technology?",
+        "a": "Recent advancements include solid-state batteries and lithium-iron-phosphate batteries, offering improved range and safety"
+      },
+      {
+        "q": "How do regenerative braking systems work?",
+        "a": "These systems capture kinetic energy and convert it back into electrical energy, extending the vehicle's range"
+      },
+      {
+        "q": "Can solar panels extend my EV's range?",
+        "a": "Yes, some EVs come equipped with solar panels that can generate electricity and extend the vehicle's range, especially during parking"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/TeslaLounge community threads",
+        "url": "https://www.reddit.com/r/TeslaLounge/"
+      },
+      {
+        "label": "Search interest: \"electric car ownership costs\"",
+        "url": "https://duckduckgo.com/?q=electric%20car%20ownership%20costs"
+      }
+    ],
+    "tags": [
+      "EV Range",
+      "Innovations"
+    ],
+    "publishedAt": "2026-07-21T16:49:47.629Z",
+    "readMinutes": 2
+  }
+]
