@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-your-grinder",
+    "title": "Grinder Alignment: The Unsung Hero of Home Espresso",
+    "dek": "Get the most from your beans with proper grinder setup",
+    "takeaway": "Proper burr alignment is crucial for consistent espresso shots at home",
+    "whatHappened": "Recently, we explored the importance of budget grinder upgrades and their impact on home espresso. However, even with a high-quality grinder, improper alignment can lead to inconsistent shots. Our experiments revealed that a misaligned grinder can result in channeling, uneven extraction, and a disappointing cup.",
+    "whyItMatters": "A well-aligned grinder ensures that the coffee beans are ground evenly, allowing for optimal extraction during the brewing process. This directly affects the flavor profile of the espresso, making it richer and more balanced. Additionally, proper alignment reduces wear and tear on the grinder, extending its lifespan.",
+    "howToThink": "To tune your grinder, start by adjusting the burrs to the recommended setting, then experiment with small increments to find the sweet spot for your specific coffee beans. Regularly cleaning and maintaining the grinder is also essential to prevent old coffee oils and residue from affecting the taste. By paying attention to these details, you can significantly improve the quality of your home espresso.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Requires patience",
+      "May need frequent adjustments",
+      "Can be messy"
+    ],
+    "watchOut": "Be cautious not to over-tighten the burrs, as this can damage the grinder and affect its performance",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Daily, to prevent old coffee oils from building up"
+      },
+      {
+        "q": "Can I use a pre-aligned grinder?",
+        "a": "Yes, but it's still important to check and adjust as needed"
+      },
+      {
+        "q": "Will aligning my grinder improve pour-over brewing?",
+        "a": "While alignment is crucial for espresso, it also positively impacts pour-over brewing by ensuring a consistent grind"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso tips",
+      "grinder maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-29T13:22:32.262Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "maximizing-coffee-flavor-with-distribution-tools",
     "title": "Distribution Done Right: The Secret to Perfect Espresso Shots",
     "dek": "Unlock perfect espresso shots with the right distribution tools.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Hardware Hacks to Supercharge Your Speedruns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks.html</guid>
+      <pubDate>Wed, 29 Jul 2026 13:22:32 GMT</pubDate>
+      <description>Upgrade your retro console for smoother speedruns</description>
+    </item>
+    <item>
       <title>Retro Reborn: Upgrading to HDMI for Smoother Speedruns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-hdmi-upgrade.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-hdmi-upgrade.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-3.html</guid>
       <pubDate>Sat, 18 Jul 2026 16:35:13 GMT</pubDate>
       <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Reviving Retro Hardware: A New Era of Innovation</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-7.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-7.html</guid>
-      <pubDate>Sat, 18 Jul 2026 15:36:28 GMT</pubDate>
-      <description>Breathe new life into old consoles</description>
     </item>
   </channel>
 </rss>

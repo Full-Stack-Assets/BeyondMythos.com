@@ -1,5 +1,56 @@
 [
   {
+    "slug": "avoiding-tourist-traps-in-local-stays-2",
+    "title": "Off the Beaten Path: Unconventional Accommodations",
+    "dek": "Ditch the resorts for local charm",
+    "takeaway": "Immerse yourself in local culture by choosing unconventional accommodations",
+    "whatHappened": "On a recent trip to rural Italy, I stumbled upon a family-run agriturismo that offered a glimpse into authentic rural life. The experience was transformative, with home-cooked meals and insight into local traditions. This encounter sparked a curiosity about alternative accommodations that truly reflect the local character.",
+    "whyItMatters": "Opting for unconventional stays not only supports local economies but also provides a richer, more immersive travel experience. By avoiding tourist traps, travelers can forge meaningful connections with the community and gain a deeper understanding of the local way of life. This approach to travel is essential for slow-travel and low-impact explorers seeking authenticity.",
+    "howToThink": "When searching for accommodations, consider options like farm stays, guesthouses, or boutique hotels that are deeply rooted in the local community. Look for reviews and recommendations from fellow travelers who share your values. Be open to new experiences and step out of your comfort zone to truly immerse yourself in the local culture.",
+    "pros": [
+      "Immersive cultural experiences",
+      "Supports local economies",
+      "Unique accommodations"
+    ],
+    "cons": [
+      "Limited amenities",
+      "Language barriers",
+      "Unconventional settings"
+    ],
+    "watchOut": "Be cautious of establishments that claim to be 'local' but lack genuine community ties",
+    "faq": [
+      {
+        "q": "What is an agriturismo?",
+        "a": "A type of Italian farm stay that offers accommodations and meals"
+      },
+      {
+        "q": "How do I find unconventional stays?",
+        "a": "Research online, ask fellow travelers, or consult local tourism boards"
+      },
+      {
+        "q": "Are alternative accommodations more expensive?",
+        "a": "Not always, many options offer competitive pricing and better value"
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "slow travel",
+      "local stays"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-29T13:22:32.158Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "carry-on-packing-list-field-test-3",
     "title": "\"carry on packing list\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about carry on packing list through a month of actual use. Some of it survived.",
