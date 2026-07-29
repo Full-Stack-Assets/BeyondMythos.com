@@ -1051,8 +1051,30 @@
       "streamUrl": "https://www.beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-07-29T13:22:36.392Z"
+    },
+    {
+      "id": "backyard-birding-log-1785338345337",
+      "slug": "backyard-birding-log",
+      "name": "Backyard Birding Log",
+      "tagline": "Fresh takes for casual birdwatchers and backyard naturalists.",
+      "nicheId": "backyard-birding",
+      "audience": "casual birdwatchers and backyard naturalists",
+      "categories": [
+        "Feeders",
+        "Identification",
+        "Migration",
+        "Habitat"
+      ],
+      "url": "https://www.beyondmythos.com/sites/backyard-birding-log/",
+      "localUrl": "https://www.beyondmythos.com/sites/backyard-birding-log/",
+      "vercel": null,
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-07-29T15:19:05.174Z",
+      "streamUrl": "https://www.beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-07-29T12:20:26.933Z",
+  "lastGeneratedAt": "2026-07-29T15:19:05.174Z",
   "lastPostRunAt": "2026-07-29T13:22:37.055Z"
 }
