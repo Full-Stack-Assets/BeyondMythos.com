@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-6",
+    "title": "Squeeze Every Inch: Balcony Garden Hacks for Small Spaces",
+    "dek": "Get the most from your balcony garden",
+    "takeaway": "With the right strategy, even the smallest balconies can become thriving gardens",
+    "whatHappened": "As apartment dwellers, we often face the challenge of limited space for gardening. However, with a little creativity, it's possible to transform even the smallest balconies into productive gardens. By utilizing vertical space and selecting the right plants, anyone can enjoy the benefits of gardening, regardless of their available space.",
+    "whyItMatters": "Maximizing balcony space is crucial for urban gardeners, as it allows for greater yields and a wider variety of plants. This, in turn, can lead to improved mental and physical health, as well as a sense of accomplishment and connection to nature. By making the most of their available space, gardeners can also reduce their environmental footprint by growing their own food and reducing reliance on industrial agriculture.",
+    "howToThink": "To maximize balcony space, gardeners should consider using trellises, wall-mounted planters, and other vertical gardening solutions. It's also essential to choose compact or dwarf varieties of plants, which are specifically bred for small-space gardening. Additionally, gardeners should prioritize plants that are easy to care for and can thrive in a variety of conditions, such as herbs and succulents.",
+    "pros": [
+      "Increased yields",
+      "Improved air quality",
+      "Enhanced mental health"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires regular maintenance",
+      "Limited space for root growth"
+    ],
+    "watchOut": "Be cautious not to overwater, as this can lead to root rot and other problems in small-space gardens",
+    "faq": [
+      {
+        "q": "What are the best plants for small-space gardening?",
+        "a": "Compact or dwarf varieties of herbs, vegetables, and succulents are ideal for small-space gardening"
+      },
+      {
+        "q": "How often should I water my balcony garden?",
+        "a": "Watering frequency depends on the specific plants and climate, but as a general rule, water when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I use regular potting soil in my balcony garden?",
+        "a": "It's recommended to use a high-quality potting mix specifically designed for containers, as it will retain moisture and nutrients more effectively"
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "balcony gardening",
+      "small-space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-29T01:08:03.674Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "micro-greens-in-containers",
     "title": "Growing Micro Greens in Small Spaces",
     "dek": "Maximize space with micro greens",

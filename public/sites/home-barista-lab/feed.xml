@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Unlocking Hidden Flavors: The Importance of Water Quality</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-2.html</guid>
+      <pubDate>Wed, 29 Jul 2026 01:08:03 GMT</pubDate>
+      <description>Water quality affects flavor</description>
+    </item>
+    <item>
       <title>Espresso Machine Maintenance Hacks for Home Baristas</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks-2.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-descale.html</guid>
       <pubDate>Sat, 18 Jul 2026 10:03:31 GMT</pubDate>
       <description>Limescale buildup can ruin your espresso machine</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-4.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-4.html</guid>
-      <pubDate>Sat, 18 Jul 2026 08:26:35 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>

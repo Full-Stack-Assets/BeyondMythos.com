@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-coffee-flavor-2",
+    "title": "Unlocking Hidden Flavors: The Importance of Water Quality",
+    "dek": "Water quality affects flavor",
+    "takeaway": "Using filtered water can significantly improve the taste of your espresso",
+    "whatHappened": "Recent experiments have shown that water quality plays a crucial role in the flavor of espresso. Mineral-rich water can bring out unique notes, while impurities can lead to bitterness. By adjusting water quality, home baristas can tailor their espresso to their taste preferences.",
+    "whyItMatters": "Water quality is often overlooked, but it can make or break the flavor of your espresso. With the right water, you can bring out the full potential of your coffee beans and enjoy a more balanced and nuanced cup. This is especially important for home baristas who are looking to elevate their brewing game.",
+    "howToThink": "To maximize coffee flavor, consider investing in a water filter or using a water testing kit to determine the mineral content of your water. You can also experiment with different water sources, such as bottled or tap water, to find the one that works best for you. By taking control of your water quality, you can take your espresso to the next level.",
+    "pros": [
+      "Improved flavor",
+      "Increased customization",
+      "Enhanced brewing experience"
+    ],
+    "cons": [
+      "Added expense",
+      "Requires maintenance",
+      "May not be noticeable for all coffee beans"
+    ],
+    "watchOut": "Be careful not to over-filter your water, as this can lead to a lack of minerals and a flat taste",
+    "faq": [
+      {
+        "q": "What is the ideal water quality for espresso?",
+        "a": "The ideal water quality for espresso is a balance of minerals and purity, with a total dissolved solids (TDS) level between 100-200 ppm"
+      },
+      {
+        "q": "Can I use tap water for espresso?",
+        "a": "Yes, but it's recommended to use a water filter to remove impurities and minerals that can affect the flavor"
+      },
+      {
+        "q": "How often should I change my water filter?",
+        "a": "It's recommended to change your water filter every 6-12 months, depending on usage and manufacturer instructions"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "coffee flavor",
+      "water quality"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-29T01:08:03.404Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-hacks-2",
     "title": "Espresso Machine Maintenance Hacks for Home Baristas",
     "dek": "Keep your espresso machine in top shape",

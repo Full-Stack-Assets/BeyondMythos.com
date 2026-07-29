@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-4.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-4.html</guid>
+      <pubDate>Wed, 29 Jul 2026 01:08:01 GMT</pubDate>
+      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Retro Console Modding 101: Unlocking Hidden Potential</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-2.html</guid>
       <pubDate>Sat, 18 Jul 2026 10:03:30 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
-    </item>
-    <item>
-      <title>Fix It Yourself: DIY Retro Console Repair</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/diy-retro-console-repair.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/diy-retro-console-repair.html</guid>
-      <pubDate>Sat, 18 Jul 2026 08:26:37 GMT</pubDate>
-      <description>Save money, fix your console</description>
     </item>
   </channel>
 </rss>
