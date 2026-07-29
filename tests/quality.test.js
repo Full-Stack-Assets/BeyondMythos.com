@@ -17,6 +17,7 @@ const { postTemplates, hourlyPostTemplate } = require("../lib/templates");
 const { themeKeyForNiche, THEMES } = require("../lib/themes");
 const { mapWithConcurrency } = require("../lib/concurrency");
 const { getBaseUrl } = require("../lib/config");
+const { pickNiche } = require("../lib/niches");
 
 describe("slugify", () => {
   it("converts text to kebab-case", () => {
@@ -118,6 +119,20 @@ describe("themes", () => {
   it("falls back to a hash-based theme for unknown niches", () => {
     const key = themeKeyForNiche("unknown-niche");
     assert.ok(THEMES[key]);
+  });
+});
+
+describe("niche selection", () => {
+  it("uses unused niches before reusing existing ones", () => {
+    const niche = pickNiche(new Set(["retro-gaming"]));
+    assert.notEqual(niche.id, "retro-gaming");
+  });
+
+  it("reuses configured niches after all niches are used", () => {
+    const allIds = new Set(require("../data/niches.json").map((niche) => niche.id));
+    const niche = pickNiche(allIds);
+    assert.ok(niche);
+    assert.ok(allIds.has(niche.id));
   });
 });
 
