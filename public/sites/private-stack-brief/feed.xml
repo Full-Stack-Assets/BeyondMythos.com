@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Private Stack Brief</title>
+    <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
+    <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
+    <item>
+      <title>The state of Browsers in 2026</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/state-of-browsers.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/state-of-browsers.html</guid>
+      <pubDate>Wed, 29 Jul 2026 12:20:27 GMT</pubDate>
+      <description>A field report on browsers: where things stand, and what privacy-conscious consumers and security hobbyists should do next.</description>
+    </item>
+    <item>
+      <title>Starter guide: Passwords without the overwhelm</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/starter-guide-passwords.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/starter-guide-passwords.html</guid>
+      <pubDate>Mon, 27 Jul 2026 23:20:27 GMT</pubDate>
+      <description>A practical on-ramp to passwords for privacy-conscious consumers and security hobbyists — one repeatable workflow, no gear debt.</description>
+    </item>
+    <item>
+      <title>&quot;password manager setup&quot; — separating signal from noise</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/signal-vs-noise-password-manager-setup.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/signal-vs-noise-password-manager-setup.html</guid>
+      <pubDate>Sun, 26 Jul 2026 10:20:27 GMT</pubDate>
+      <description>Thousands of people search &quot;password manager setup&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
+    </item>
+    <item>
+      <title>Why privacy-conscious consumers are rethinking Devices</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/rethinking-devices.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/rethinking-devices.html</guid>
+      <pubDate>Fri, 24 Jul 2026 21:20:27 GMT</pubDate>
+      <description>A quiet shift is underway in how privacy-conscious consumers and security hobbyists approach devices — less maximalism, more maintenance.</description>
+    </item>
+    <item>
+      <title>Threats on a budget: what actually matters</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/budget-threats.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/budget-threats.html</guid>
+      <pubDate>Thu, 23 Jul 2026 08:20:27 GMT</pubDate>
+      <description>Where money changes outcomes in threats — and the line items that are pure vanity.</description>
+    </item>
+    <item>
+      <title>What to watch next in Passwords: five quiet shifts</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/what-to-watch-passwords.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/what-to-watch-passwords.html</guid>
+      <pubDate>Tue, 21 Jul 2026 19:20:27 GMT</pubDate>
+      <description>Ignore the headlines — these are the slower currents reshaping passwords for privacy-conscious consumers and security hobbyists.</description>
+    </item>
+  </channel>
+</rss>
