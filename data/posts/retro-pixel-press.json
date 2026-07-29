@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-game-controller-mods",
+    "title": "Upgrade Your Game: A Beginner's Guide to Controller Mods",
+    "dek": "Take your retro gaming to the next level",
+    "takeaway": "Controller mods can greatly enhance your retro gaming experience with minimal investment",
+    "whatHappened": "Recently, the retro gaming community has seen a surge in controller modding, with enthusiasts and pros alike customizing their pads for better performance and comfort. This trend has led to the creation of various DIY guides and tutorials, making it easier than ever to upgrade your controllers. As a result, players can now enjoy their favorite classic games with improved accuracy and reduced fatigue.",
+    "whyItMatters": "For speedrunners and hardcore gamers, controller mods can mean the difference between a good run and a great one, providing a competitive edge and improved overall gaming experience. Moreover, mods can also help extend the life of your controllers, saving you money in the long run. By upgrading your controllers, you can also enhance the gameplay of your favorite retro games, making them feel fresh and exciting again.",
+    "howToThink": "When considering controller mods, think about your specific gaming needs and preferences, and research the different types of mods available, such as button remapping, joystick upgrades, and ergonomic enhancements. Start with small, simple mods and gradually work your way up to more complex projects, and always follow proper safety guidelines and tutorials to avoid damaging your equipment. Additionally, join online communities and forums to connect with other modders and learn from their experiences.",
+    "pros": [
+      "Improved performance",
+      "Enhanced comfort",
+      "Customization options"
+    ],
+    "cons": [
+      "Voiding warranties",
+      "Potential damage",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be cautious when soldering and handling electrical components to avoid injury or damage",
+    "faq": [
+      {
+        "q": "What are the most popular controller mods?",
+        "a": "Button remapping, joystick upgrades, and ergonomic enhancements are among the most popular mods"
+      },
+      {
+        "q": "Do I need to be tech-savvy to mod my controller?",
+        "a": "While some technical knowledge is helpful, many mods can be done with basic DIY skills and patience"
+      },
+      {
+        "q": "Can I mod any type of controller?",
+        "a": "Most controllers can be modded, but some may require more complex or specialized techniques"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-07-29T05:12:19.414Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-sd-card-setups",
     "title": "SD Card Speed Demystified: A Guide for Retro Console Owners",
     "dek": "SD card speed matters for retro consoles",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-commuting-hacks",
+    "title": "Winterize Your Commute: Tips for Braving the Cold",
+    "dek": "Stay warm and safe on winter ebike commutes",
+    "takeaway": "With the right gear and mindset, you can comfortably commute by ebike year-round",
+    "whatHappened": "As winter sets in, many ebike commuters face new challenges, from icy roads to freezing temperatures. Despite these obstacles, many riders are finding ways to adapt and thrive. With a few simple modifications and the right mindset, you can stay safe and warm on your winter commute.",
+    "whyItMatters": "Winter commuting by ebike requires a unique set of skills and preparation, but the benefits are well worth the effort. Not only can you save money on transportation and stay healthy, but you'll also be reducing your carbon footprint and setting a great example for your community. By embracing winter commuting, you can take your ebike game to the next level and experience the joy of riding in a whole new way.",
+    "howToThink": "To prepare for winter commuting, start by assessing your gear and making any necessary adjustments. Invest in warm, waterproof clothing and consider adding lights and reflectors to increase your visibility. It's also a good idea to check your bike's tire pressure and brakes regularly, and to practice riding in different winter conditions to build your skills and confidence.",
+    "pros": [
+      "Increased calorie burn",
+      "Improved mental health",
+      "Year-round commuting"
+    ],
+    "cons": [
+      "Cold weather",
+      "Reduced visibility",
+      "Increased maintenance"
+    ],
+    "watchOut": "Be cautious of black ice and frozen puddles, which can be particularly hazardous for ebike commuters",
+    "faq": [
+      {
+        "q": "What kind of clothing should I wear for winter commuting?",
+        "a": "Look for warm, waterproof, and breathable clothing, such as a good jacket and gloves"
+      },
+      {
+        "q": "How can I stay visible in low light conditions?",
+        "a": "Add lights and reflectors to your bike and clothing to increase your visibility to motorists and other riders"
+      },
+      {
+        "q": "What kind of maintenance should I perform on my ebike during the winter?",
+        "a": "Regularly check your tire pressure, brakes, and battery to ensure your ebike is running smoothly and safely"
+      }
+    ],
+    "category": "Commuting",
+    "tags": [
+      "winter commuting",
+      "ebike maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike to ebike conversion\"",
+        "url": "https://duckduckgo.com/?q=bike%20to%20ebike%20conversion"
+      }
+    ],
+    "publishedAt": "2026-07-29T05:12:24.522Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-maintenance-mistakes-9",
     "title": "Five mistakes everyone makes in their first month of maintenance",
     "dek": "The most common early stumbles in maintenance, and the cheap corrections that fix them for e-bike commuters and converts.",

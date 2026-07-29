@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Upgrade Your Game: A Beginner&apos;s Guide to Controller Mods</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-controller-mods.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-controller-mods.html</guid>
+      <pubDate>Wed, 29 Jul 2026 05:12:19 GMT</pubDate>
+      <description>Take your retro gaming to the next level</description>
+    </item>
+    <item>
       <title>SD Card Speed Demystified: A Guide for Retro Console Owners</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-sd-card-setups.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-sd-card-setups.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-4.html</guid>
       <pubDate>Sat, 18 Jul 2026 12:37:18 GMT</pubDate>
       <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your hardware in two hours</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-5.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-5.html</guid>
-      <pubDate>Sat, 18 Jul 2026 11:36:07 GMT</pubDate>
-      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

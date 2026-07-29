@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrating-for-consistency",
+    "title": "Dialing in perfection: the art of precision calibration",
+    "dek": "Unlock smooth prints with precise calibration",
+    "takeaway": "Proper calibration is key to consistent and high-quality 3D prints",
+    "whatHappened": "Recently, we've seen a surge in hobbyists struggling with inconsistent print quality, often due to improper calibration. This can lead to wasted filament, failed prints, and frustration. By understanding the importance of calibration, hobbyists can take the first step towards resolving these issues.",
+    "whyItMatters": "Calibration affects every aspect of the printing process, from layer adhesion to surface finish. A well-calibrated printer can produce prints with precise dimensions, smooth surfaces, and vibrant colors. Conversely, a poorly calibrated printer can lead to a range of problems, including warping, delamination, and stringing.",
+    "howToThink": "To achieve optimal calibration, hobbyists should focus on adjusting the printer's parameters in small increments, testing and refining their settings with each print. It's also essential to maintain a clean and well-maintained printer, as dust and debris can affect calibration. By adopting a methodical and patient approach, hobbyists can dial in their printer's settings for consistent and high-quality results",
+    "pros": [
+      "Improved print quality",
+      "Increased consistency",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires patience",
+      "May require additional hardware"
+    ],
+    "watchOut": "Be cautious not to over-calibrate, as this can lead to decreased print speed and increased wear on the printer's components",
+    "faq": [
+      {
+        "q": "What is the most critical aspect of calibration?",
+        "a": "Layer height and bed leveling are crucial for achieving optimal print quality"
+      },
+      {
+        "q": "How often should I calibrate my printer?",
+        "a": "Calibration should be performed regularly, ideally after every 10-20 hours of printing or when switching filaments"
+      },
+      {
+        "q": "Can I use calibration tools to streamline the process?",
+        "a": "Yes, tools like calibration cards and software can help simplify and accelerate the calibration process"
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "3d printing",
+      "calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/functionalprint community threads",
+        "url": "https://www.reddit.com/r/functionalprint/"
+      },
+      {
+        "label": "Search interest: \"printer upgrade guide\"",
+        "url": "https://duckduckgo.com/?q=printer%20upgrade%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-29T05:12:24.235Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-filament-mistakes-9",
     "title": "Five mistakes everyone makes in their first month of filament",
     "dek": "The most common early stumbles in filament, and the cheap corrections that fix them for home 3D-printing hobbyists.",
