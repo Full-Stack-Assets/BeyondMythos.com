@@ -24,6 +24,7 @@
         <a href="../#dispatches">Sound</a>
         <a href="../#dispatches">Distribution</a>
         <a href="../about.html">About</a>
+        <a href="../#shop">Shop</a>
         <a href="../feed.xml">RSS</a>
       </nav>
     </div>
@@ -91,7 +92,7 @@
       <span class="mono-label">Newsletter</span>
       <h3 class="display">Get the weekly dispatch</h3>
       <p>The week's highest-signal Indie Frame Notes stories, synthesized. No spam.</p>
-      <form data-newsletter>
+      <form data-newsletter data-site="indie-frame-notes" data-endpoint="https://www.beyondmythos.com/api/newsletter/subscribe">
         <input type="email" name="email" placeholder="you@example.com" required />
         <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" />
         <button type="submit">Subscribe</button>
@@ -99,12 +100,28 @@
       <p class="ack">You're on the list. Watch for the next dispatch.</p>
     </aside>
 
+      <section class="monetize" id="shop">
+      <span class="mono-label">Shop the stack</span>
+      <h2 class="display">Useful tools for indie filmmakers and short-film creators</h2>
+      <p>Digital guides, templates, and partner picks selected for this niche.</p>
+      
+      <div class="commerce-grid"><article class="commerce-item"><strong>Niche Monetization Toolkit</strong><p>Affiliate frameworks, ad placement guides, and product page templates.</p><a href="https://www.beyondmythos.com/store#product-208">View product →</a></article>
+<article class="commerce-item"><strong>Creator Invoice &amp; Media Kit Bundle</strong><p>Editable media kit, rate card, and invoice templates for creators.</p><a href="https://www.beyondmythos.com/store#product-211">View product →</a></article>
+<article class="commerce-item"><strong>Gumroad Product Page Swipe File</strong><p>Sales page sections, pricing tests, and launch email copy for Gumroad products.</p><a href="https://www.beyondmythos.com/store#product-218">View product →</a></article>
+<article class="commerce-item"><strong>Shopify Digital Product Starter Theme</strong><p>A lightweight Shopify structure for guides, templates, prompt packs, and downloadable bundles.</p><a href="https://www.beyondmythos.com/store#product-219">View product →</a></article>
+<article class="commerce-item"><strong>Creator Automation SOP Library</strong><p>Step-by-step operating procedures for research, publishing, QA, syndication, and monetization.</p><a href="https://www.beyondmythos.com/store#product-222">View product →</a></article>
+<article class="commerce-item"><strong>Digital Product Idea Bank</strong><p>Two hundred digital download ideas mapped to niches, buyer intent, and marketplace fit.</p><a href="https://www.beyondmythos.com/store#product-225">View product →</a></article></div>
+      
+      <p style="margin-top:1rem"><a href="../#shop" style="color:var(--accent);text-decoration:none">Browse offers for this dispatch →</a></p>
+      <p class="disclosure">Disclosure: some outbound links may be affiliate or partner links. We may earn a commission at no extra cost to you.</p>
+    </section>
+
       <section class="keep-reading">
         <span class="mono-label" style="color:var(--accent)">Keep reading</span>
         <ul>
+          <li><a href="five-sound-mistakes-13.html">Five mistakes everyone makes in their first month of sound</a><span class="meta">Jul 29</span></li>
           <li><a href="short-film-festival-strategy-field-test-5.html">&quot;short film festival strategy&quot; in practice: a real-world field test</a><span class="meta">Jul 29</span></li>
           <li><a href="ask-the-forge-gear-13.html">Ask the forge: your gear questions, answered</a><span class="meta">Jul 28</span></li>
-          <li><a href="myth-vs-reality-short-film-festival-strategy-5.html">Myth vs. reality: short film festival strategy</a><span class="meta">Jul 19</span></li>
         </ul>
         <p style="margin-top:1.2rem"><a href="../" style="color:var(--accent);text-decoration:none">← Back to Indie Frame Notes</a></p>
       </section>
@@ -127,7 +144,7 @@
       <span class="mono-label">Newsletter</span>
       <h3 class="display">Get the weekly dispatch</h3>
       <p>The week's highest-signal Indie Frame Notes stories, synthesized. No spam.</p>
-      <form data-newsletter>
+      <form data-newsletter data-site="indie-frame-notes" data-endpoint="https://www.beyondmythos.com/api/newsletter/subscribe">
         <input type="email" name="email" placeholder="you@example.com" required />
         <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" />
         <button type="submit">Subscribe</button>
@@ -144,9 +161,17 @@ document.addEventListener("submit", function (event) {
   if (!form) return;
   event.preventDefault();
   var ack = form.parentElement.querySelector(".ack");
+  var email = form.querySelector('input[name="email"]');
+  var hp = form.querySelector('input[name="website"]');
+  fetch(form.getAttribute('data-endpoint') || '/api/newsletter/subscribe', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ email: email && email.value, website: hp && hp.value, site: form.getAttribute('data-site') || document.title })
+  }).catch(function () {});
   if (ack) { ack.style.display = "block"; }
   form.reset();
 });
 </script>
+  <script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
 </body>
 </html>

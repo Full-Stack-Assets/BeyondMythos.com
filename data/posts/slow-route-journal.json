@@ -1,5 +1,56 @@
 [
   {
+    "slug": "local-rail-discounts",
+    "title": "Cracking the Code on Local Rail Discounts",
+    "dek": "Save big on local rail travel",
+    "takeaway": "Local rail discounts can significantly reduce travel costs for slow-travelers",
+    "whatHappened": "Recent changes in rail policies have led to an increase in available discounts for local travelers. Many of these discounts, however, are not well-advertised, leaving travelers to uncover them through research. By understanding the system, travelers can navigate the complex web of rail discounts and save money.",
+    "whyItMatters": "For slow-travelers, reducing costs is crucial to sustaining long-term travel. Local rail discounts can be a significant factor in this, allowing travelers to allocate funds to other aspects of their journey. Moreover, supporting local rail systems contributes to the local economy and promotes sustainable travel practices.",
+    "howToThink": "To take advantage of local rail discounts, travelers should research the specific rail lines they plan to use and look for special promotions or discount cards. Additionally, considering off-peak travel times and booking in advance can lead to further savings. Flexibility in travel plans can also open up more discount opportunities.",
+    "pros": [
+      "Cost savings",
+      "Increased travel flexibility",
+      "Supports local economies"
+    ],
+    "cons": [
+      "Complex discount systems",
+      "Limited availability",
+      "Requires research"
+    ],
+    "watchOut": "Be cautious of discount terms and conditions to avoid unexpected fees or restrictions",
+    "faq": [
+      {
+        "q": "What types of discounts are available?",
+        "a": "Types include student, senior, and group discounts, as well as frequent traveler cards"
+      },
+      {
+        "q": "How do I find local rail discounts?",
+        "a": "Research the rail company's website, visit local ticket offices, or ask locals for advice"
+      },
+      {
+        "q": "Can I combine discounts?",
+        "a": "This varies by rail company, so it's essential to check the terms and conditions of each discount"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "sustainable travel",
+      "local rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-29T04:52:10.692Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "avoiding-tourist-traps-in-local-stays",
     "title": "Authentic Accommodations: How to Avoid Tourist Traps",
     "dek": "Find genuine local stays",

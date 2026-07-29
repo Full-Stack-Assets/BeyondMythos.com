@@ -24,6 +24,7 @@
         <a href="../#dispatches">Shelters</a>
         <a href="../#dispatches">Food</a>
         <a href="../about.html">About</a>
+        <a href="../#shop">Shop</a>
         <a href="../feed.xml">RSS</a>
       </nav>
     </div>
@@ -91,7 +92,7 @@
       <span class="mono-label">Newsletter</span>
       <h3 class="display">Get the weekly dispatch</h3>
       <p>The week's highest-signal Base Weight Bulletin stories, synthesized. No spam.</p>
-      <form data-newsletter>
+      <form data-newsletter data-site="base-weight-bulletin" data-endpoint="https://www.beyondmythos.com/api/newsletter/subscribe">
         <input type="email" name="email" placeholder="you@example.com" required />
         <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" />
         <button type="submit">Subscribe</button>
@@ -99,12 +100,28 @@
       <p class="ack">You're on the list. Watch for the next dispatch.</p>
     </aside>
 
+      <section class="monetize" id="shop">
+      <span class="mono-label">Shop the stack</span>
+      <h2 class="display">Useful tools for ultralight backpackers and thru-hike dreamers</h2>
+      <p>Digital guides, templates, and partner picks selected for this niche.</p>
+      
+      <div class="commerce-grid"><article class="commerce-item"><strong>Shopify Digital Product Starter Theme</strong><p>A lightweight Shopify structure for guides, templates, prompt packs, and downloadable bundles.</p><a href="https://www.beyondmythos.com/store#product-219">View product →</a></article>
+<article class="commerce-item"><strong>Blue Light Blocking Glasses</strong><p>Lightweight frames for late-night editing and research marathons.</p><a href="https://www.beyondmythos.com/store#product-8">View product →</a></article>
+<article class="commerce-item"><strong>Webcam Privacy Cover (3-pack)</strong><p>Ultra-thin sliding covers for laptop and external webcams.</p><a href="https://www.beyondmythos.com/store#product-9">View product →</a></article>
+<article class="commerce-item"><strong>Ring Light Mini 6&quot;</strong><p>Clip-on LED with warm/cool modes for video calls and B-roll.</p><a href="https://www.beyondmythos.com/store#product-12">View product →</a></article>
+<article class="commerce-item"><strong>Content Calendar Template Pack</strong><p>12-month editorial calendar with archetype rotation built in.</p><a href="https://www.beyondmythos.com/store#product-203">View product →</a></article>
+<article class="commerce-item"><strong>AI Blog Prompt Library</strong><p>50+ tested prompts for hourly posts, FAQs, and niche briefs.</p><a href="https://www.beyondmythos.com/store#product-204">View product →</a></article></div>
+      
+      <p style="margin-top:1rem"><a href="../#shop" style="color:var(--accent);text-decoration:none">Browse offers for this dispatch →</a></p>
+      <p class="disclosure">Disclosure: some outbound links may be affiliate or partner links. We may earn a commission at no extra cost to you.</p>
+    </section>
+
       <section class="keep-reading">
         <span class="mono-label" style="color:var(--accent)">Keep reading</span>
         <ul>
+          <li><a href="quiet-upgrade-food-11.html">The quiet upgrade: small tweaks in food with outsized returns</a><span class="meta">Jul 29</span></li>
           <li><a href="myth-vs-reality-lower-base-weight-cheap-4.html">Myth vs. reality: lower base weight cheap</a><span class="meta">Jul 29</span></li>
           <li><a href="weekend-project-packs-10.html">A weekend project: level up your packs in two hours</a><span class="meta">Jul 28</span></li>
-          <li><a href="community-pulse-backpacking-4.html">Community pulse: what r/backpacking is debating this week</a><span class="meta">Jul 20</span></li>
         </ul>
         <p style="margin-top:1.2rem"><a href="../" style="color:var(--accent);text-decoration:none">← Back to Base Weight Bulletin</a></p>
       </section>
@@ -127,7 +144,7 @@
       <span class="mono-label">Newsletter</span>
       <h3 class="display">Get the weekly dispatch</h3>
       <p>The week's highest-signal Base Weight Bulletin stories, synthesized. No spam.</p>
-      <form data-newsletter>
+      <form data-newsletter data-site="base-weight-bulletin" data-endpoint="https://www.beyondmythos.com/api/newsletter/subscribe">
         <input type="email" name="email" placeholder="you@example.com" required />
         <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" />
         <button type="submit">Subscribe</button>
@@ -144,9 +161,17 @@ document.addEventListener("submit", function (event) {
   if (!form) return;
   event.preventDefault();
   var ack = form.parentElement.querySelector(".ack");
+  var email = form.querySelector('input[name="email"]');
+  var hp = form.querySelector('input[name="website"]');
+  fetch(form.getAttribute('data-endpoint') || '/api/newsletter/subscribe', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ email: email && email.value, website: hp && hp.value, site: form.getAttribute('data-site') || document.title })
+  }).catch(function () {});
   if (ack) { ack.style.display = "block"; }
   form.reset();
 });
 </script>
+  <script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
 </body>
 </html>

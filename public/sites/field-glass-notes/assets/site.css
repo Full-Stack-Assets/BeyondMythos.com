@@ -180,6 +180,18 @@ details.faq .answer { padding: 0 1.1rem 1rem; color: var(--muted); }
 .newsletter .hp { position: absolute; left: -9999px; }
 .newsletter .ack { color: var(--accent); font-size: 0.9rem; margin-top: 0.6rem; display: none; }
 
+.monetize { border: 1px solid var(--line); background: var(--panel); border-radius: var(--radius); padding: 1.4rem; margin: 2.5rem 0; }
+.monetize h2, .monetize h3 { margin-top: 0.35rem; }
+.commerce-grid { display: grid; gap: 1rem; grid-template-columns: 1fr; margin-top: 1rem; }
+@media (min-width: 720px) { .commerce-grid { grid-template-columns: repeat(3, 1fr); } }
+.commerce-item { border: 1px solid var(--line); border-radius: var(--radius); padding: 1rem; background: color-mix(in srgb, var(--paper) 70%, var(--panel)); }
+.commerce-item strong { display: block; color: var(--ink); line-height: 1.25; }
+.commerce-item p { margin: 0.5rem 0 0.8rem; color: var(--muted); font-size: 0.9rem; }
+.commerce-item a, .market-links a, .sponsor a { color: var(--accent); text-decoration: none; font-weight: 700; }
+.sponsor { border-left: 3px solid var(--accent-2); padding-left: 1rem; margin: 1rem 0; }
+.market-links { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 1rem; }
+.disclosure { color: var(--muted); font-size: 0.78rem; line-height: 1.5; }
+
 .keep-reading { margin: 2.5rem 0; }
 .keep-reading ul { list-style: none; padding: 0; margin: 1rem 0 0; }
 .keep-reading li { border-bottom: 1px solid var(--line); padding: 0.7rem 0; display: flex; justify-content: space-between; gap: 1rem; }

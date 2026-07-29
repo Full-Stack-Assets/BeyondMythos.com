@@ -24,6 +24,7 @@
         <a href="#dispatches">Pantry</a>
         <a href="#dispatches">Knife Skills</a>
         <a href="about.html">About</a>
+        <a href="#shop">Shop</a>
         <a href="feed.xml">RSS</a>
       </nav>
     </div>
@@ -66,7 +67,7 @@
       <span class="mono-label">Newsletter</span>
       <h3 class="display">Get the weekly dispatch</h3>
       <p>The week's highest-signal Sous Chef Signal stories, synthesized. No spam.</p>
-      <form data-newsletter>
+      <form data-newsletter data-site="sous-chef-signal" data-endpoint="https://www.beyondmythos.com/api/newsletter/subscribe">
         <input type="email" name="email" placeholder="you@example.com" required />
         <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" />
         <button type="submit">Subscribe</button>
@@ -83,9 +84,17 @@ document.addEventListener("submit", function (event) {
   if (!form) return;
   event.preventDefault();
   var ack = form.parentElement.querySelector(".ack");
+  var email = form.querySelector('input[name="email"]');
+  var hp = form.querySelector('input[name="website"]');
+  fetch(form.getAttribute('data-endpoint') || '/api/newsletter/subscribe', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ email: email && email.value, website: hp && hp.value, site: form.getAttribute('data-site') || document.title })
+  }).catch(function () {});
   if (ack) { ack.style.display = "block"; }
   form.reset();
 });
 </script>
+  <script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
 </body>
 </html>

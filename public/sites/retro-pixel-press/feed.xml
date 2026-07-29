@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>SD Card Speed Demystified: A Guide for Retro Console Owners</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-sd-card-setups.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-sd-card-setups.html</guid>
+      <pubDate>Wed, 29 Jul 2026 04:52:10 GMT</pubDate>
+      <description>SD card speed matters for retro consoles</description>
+    </item>
+    <item>
       <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-5.html</guid>
       <pubDate>Sat, 18 Jul 2026 11:36:07 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/snes is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-2.html</guid>
-      <pubDate>Sat, 18 Jul 2026 10:03:30 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

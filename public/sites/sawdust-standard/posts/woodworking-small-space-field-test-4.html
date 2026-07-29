@@ -24,6 +24,7 @@
         <a href="../#dispatches">Joinery</a>
         <a href="../#dispatches">Finishing</a>
         <a href="../about.html">About</a>
+        <a href="../#shop">Shop</a>
         <a href="../feed.xml">RSS</a>
       </nav>
     </div>
@@ -91,7 +92,7 @@
       <span class="mono-label">Newsletter</span>
       <h3 class="display">Get the weekly dispatch</h3>
       <p>The week's highest-signal Sawdust Standard stories, synthesized. No spam.</p>
-      <form data-newsletter>
+      <form data-newsletter data-site="sawdust-standard" data-endpoint="https://www.beyondmythos.com/api/newsletter/subscribe">
         <input type="email" name="email" placeholder="you@example.com" required />
         <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" />
         <button type="submit">Subscribe</button>
@@ -99,12 +100,28 @@
       <p class="ack">You're on the list. Watch for the next dispatch.</p>
     </aside>
 
+      <section class="monetize" id="shop">
+      <span class="mono-label">Shop the stack</span>
+      <h2 class="display">Useful tools for hobby woodworkers in small shops</h2>
+      <p>Digital guides, templates, and partner picks selected for this niche.</p>
+      
+      <div class="commerce-grid"><article class="commerce-item"><strong>Hourly Publishing Automation Guide</strong><p>GitHub Actions + Vercel setup for continuous niche site deployment.</p><a href="https://www.beyondmythos.com/store#product-210">View product →</a></article>
+<article class="commerce-item"><strong>RSS &amp; Feed Syndication Setup Guide</strong><p>Feed validation, reader onboarding, and cross-site syndication how-to.</p><a href="https://www.beyondmythos.com/store#product-212">View product →</a></article>
+<article class="commerce-item"><strong>Sponsor Rate Card Builder</strong><p>Editable sponsor packages, CPM/CPC calculators, and outreach scripts for small publishers.</p><a href="https://www.beyondmythos.com/store#product-216">View product →</a></article>
+<article class="commerce-item"><strong>Micro-SaaS Landing Page Copy Kit</strong><p>Hero copy, pricing sections, FAQ blocks, and CTA variants for small software tools.</p><a href="https://www.beyondmythos.com/store#product-227">View product →</a></article>
+<article class="commerce-item"><strong>Adjustable Laptop Stand</strong><p>Aluminum riser for better posture during long writing sessions.</p><a href="https://www.beyondmythos.com/store#product-7">View product →</a></article>
+<article class="commerce-item"><strong>Content Calendar Template Pack</strong><p>12-month editorial calendar with archetype rotation built in.</p><a href="https://www.beyondmythos.com/store#product-203">View product →</a></article></div>
+      
+      <p style="margin-top:1rem"><a href="../#shop" style="color:var(--accent);text-decoration:none">Browse offers for this dispatch →</a></p>
+      <p class="disclosure">Disclosure: some outbound links may be affiliate or partner links. We may earn a commission at no extra cost to you.</p>
+    </section>
+
       <section class="keep-reading">
         <span class="mono-label" style="color:var(--accent)">Keep reading</span>
         <ul>
+          <li><a href="finishing-pre-spend-checklist-12.html">The finishing checklist: run this before you spend</a><span class="meta">Jul 29</span></li>
           <li><a href="five-joinery-mistakes-11.html">Five mistakes everyone makes in their first month of joinery</a><span class="meta">Jul 29</span></li>
           <li><a href="ask-the-forge-shop-setup-11.html">Ask the forge: your shop setup questions, answered</a><span class="meta">Jul 20</span></li>
-          <li><a href="quiet-upgrade-finishing-11.html">The quiet upgrade: small tweaks in finishing with outsized returns</a><span class="meta">Jul 19</span></li>
         </ul>
         <p style="margin-top:1.2rem"><a href="../" style="color:var(--accent);text-decoration:none">← Back to Sawdust Standard</a></p>
       </section>
@@ -127,7 +144,7 @@
       <span class="mono-label">Newsletter</span>
       <h3 class="display">Get the weekly dispatch</h3>
       <p>The week's highest-signal Sawdust Standard stories, synthesized. No spam.</p>
-      <form data-newsletter>
+      <form data-newsletter data-site="sawdust-standard" data-endpoint="https://www.beyondmythos.com/api/newsletter/subscribe">
         <input type="email" name="email" placeholder="you@example.com" required />
         <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" />
         <button type="submit">Subscribe</button>
@@ -144,9 +161,17 @@ document.addEventListener("submit", function (event) {
   if (!form) return;
   event.preventDefault();
   var ack = form.parentElement.querySelector(".ack");
+  var email = form.querySelector('input[name="email"]');
+  var hp = form.querySelector('input[name="website"]');
+  fetch(form.getAttribute('data-endpoint') || '/api/newsletter/subscribe', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ email: email && email.value, website: hp && hp.value, site: form.getAttribute('data-site') || document.title })
+  }).catch(function () {});
   if (ack) { ack.style.display = "block"; }
   form.reset();
 });
 </script>
+  <script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
 </body>
 </html>
