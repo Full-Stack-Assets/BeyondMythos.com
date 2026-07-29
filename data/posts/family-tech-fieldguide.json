@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "screen-time-limits",
+    "title": "Setting Healthy Screen Time Limits",
+    "category": "Screen Time",
+    "dek": "Limit screen time for kids",
+    "takeaway": "Set screen time limits to ensure healthy habits",
+    "whatHappened": "Excessive screen time can lead to health issues in kids. Parents must set limits to ensure kids engage in physical activities. This helps in maintaining a balance between screen time and outdoor activities.",
+    "whyItMatters": "Screen time limits are crucial for kids' physical and mental health. It helps prevent conditions like obesity and improves sleep quality. Moreover, it enhances their social skills and academic performance.",
+    "howToThink": "Parents should set screen time limits based on their child's age and individual needs. They can use built-in features on devices or third-party apps to track and limit screen time. Encouraging physical activities and outdoor play is also essential.",
+    "pros": [
+      "Improved physical health",
+      "Better sleep",
+      "Enhanced social skills"
+    ],
+    "cons": [
+      "Difficulty enforcing limits",
+      "Impact on homework",
+      "Potential for tantrums"
+    ],
+    "watchOut": "Be cautious of screen time limits that are too restrictive, as this can lead to rebellion in kids",
+    "faq": [
+      {
+        "q": "What is the recommended screen time for kids?",
+        "a": "The recommended screen time varies by age, but generally, it's 1-2 hours per day for kids aged 2-18"
+      },
+      {
+        "q": "How can I set screen time limits on my child's device?",
+        "a": "Use built-in features like Screen Time on iOS or Digital Wellbeing on Android, or third-party apps like Freedom or Moment"
+      },
+      {
+        "q": "What are some alternative activities to screen time?",
+        "a": "Outdoor play, reading, drawing, or engaging in sports and physical activities"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "tags": [
+      "Parenting",
+      "Health"
+    ],
+    "publishedAt": "2026-07-29T04:07:18.317Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "kids-app-safety",
+    "title": "Ensuring Kids' App Safety",
+    "category": "Safety",
+    "dek": "Keep kids safe online",
+    "takeaway": "Use app safety features to protect kids from online threats",
+    "whatHappened": "Kids are vulnerable to online threats when using apps. Parents must ensure app safety to prevent exposure to harmful content. This can be achieved by using built-in safety features or third-party apps.",
+    "whyItMatters": "App safety is crucial for protecting kids from online threats like cyberbullying, predators, and explicit content. It also helps prevent accidental in-app purchases or data breaches.",
+    "howToThink": "Parents should research and choose apps with robust safety features. They can also use app blockers or filters to restrict access to certain content. Regularly monitoring kids' app usage is also essential.",
+    "pros": [
+      "Protection from online threats",
+      "Prevention of data breaches",
+      "Restriction of in-app purchases"
+    ],
+    "cons": [
+      "Difficulty finding safe apps",
+      "Impact on app functionality",
+      "Potential for over-restriction"
+    ],
+    "watchOut": "Be cautious of apps that collect sensitive data or have weak safety features",
+    "faq": [
+      {
+        "q": "What are some safe apps for kids?",
+        "a": "Popular safe apps include PBS Kids, Duolingo, and Toca Life"
+      },
+      {
+        "q": "How can I block inappropriate content on my child's device?",
+        "a": "Use built-in features like Content & Privacy Restrictions on iOS or Google Play Store's parental controls on Android"
+      },
+      {
+        "q": "What are some signs of online threats?",
+        "a": "Signs include unusual app behavior, changes in child's behavior, or unexpected in-app purchases"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/daddit community threads",
+        "url": "https://www.reddit.com/r/daddit/"
+      },
+      {
+        "label": "Search interest: \"kids screen time rules\"",
+        "url": "https://duckduckgo.com/?q=kids%20screen%20time%20rules"
+      }
+    ],
+    "tags": [
+      "Online Safety",
+      "Parental Controls"
+    ],
+    "publishedAt": "2026-07-27T15:07:18.317Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "educational-apps",
+    "title": "Choosing the Best Educational Apps for Kids",
+    "category": "Apps",
+    "dek": "Find educational apps for kids",
+    "takeaway": "Choose educational apps that align with kids' learning needs and goals",
+    "whatHappened": "With numerous educational apps available, parents must choose the best ones for their kids. This requires researching and evaluating apps based on their content, features, and reviews.",
+    "whyItMatters": "Educational apps can enhance kids' learning experience and improve their academic performance. They can also help develop critical thinking, problem-solving, and creativity skills.",
+    "howToThink": "Parents should evaluate educational apps based on their child's learning needs and goals. They can read reviews, check ratings, and assess the app's content and features. Ensuring the app is aligned with the child's curriculum is also crucial.",
+    "pros": [
+      "Improved learning experience",
+      "Enhanced academic performance",
+      "Development of critical skills"
+    ],
+    "cons": [
+      "Information overload",
+      "Difficulty finding suitable apps",
+      "Potential for distraction"
+    ],
+    "watchOut": "Be cautious of educational apps with in-app purchases or ads",
+    "faq": [
+      {
+        "q": "What are some popular educational apps for kids?",
+        "a": "Popular educational apps include Khan Academy Kids, National Geographic Kids, and BrainPOP"
+      },
+      {
+        "q": "How can I evaluate the effectiveness of an educational app?",
+        "a": "Evaluate the app's content, features, and reviews, and assess its alignment with your child's learning needs and goals"
+      },
+      {
+        "q": "What are some tips for using educational apps with kids?",
+        "a": "Tips include setting goals, providing guidance, and monitoring progress, as well as encouraging kids to explore and learn at their own pace"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "tags": [
+      "Education",
+      "Learning"
+    ],
+    "publishedAt": "2026-07-26T02:07:18.317Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "kids-device-security",
+    "title": "Securing Kids' Devices from Cyber Threats",
+    "category": "Devices",
+    "dek": "Protect kids' devices from cyber threats",
+    "takeaway": "Use device security features to protect kids from cyber threats",
+    "whatHappened": "Kids' devices are vulnerable to cyber threats, and parents must take measures to secure them. This includes using built-in security features, installing antivirus software, and educating kids about online safety.",
+    "whyItMatters": "Device security is crucial for protecting kids from cyber threats like malware, phishing, and data breaches. It also helps prevent unauthorized access to their personal data and online activities.",
+    "howToThink": "Parents should enable built-in security features like firewall and antivirus software. They can also install third-party security apps and educate kids about online safety best practices.",
+    "pros": [
+      "Protection from cyber threats",
+      "Prevention of data breaches",
+      "Enhanced online safety"
+    ],
+    "cons": [
+      "Difficulty configuring security features",
+      "Impact on device performance",
+      "Potential for over-restriction"
+    ],
+    "watchOut": "Be cautious of devices with outdated software or weak security features",
+    "faq": [
+      {
+        "q": "What are some device security features for kids?",
+        "a": "Features include parental controls, antivirus software, and firewalls"
+      },
+      {
+        "q": "How can I secure my child's device from cyber threats?",
+        "a": "Enable built-in security features, install antivirus software, and educate kids about online safety best practices"
+      },
+      {
+        "q": "What are some signs of a cyber threat on a kid's device?",
+        "a": "Signs include unusual device behavior, unexpected pop-ups, or changes in kid's online behavior"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "tags": [
+      "Cyber Security",
+      "Device Protection"
+    ],
+    "publishedAt": "2026-07-24T13:07:18.317Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "screen-time-rules",
+    "title": "Establishing Screen Time Rules for Kids",
+    "category": "Screen Time",
+    "dek": "Set screen time rules for kids",
+    "takeaway": "Establish screen time rules to ensure healthy habits and responsible screen use",
+    "whatHappened": "Parents must establish screen time rules to ensure kids develop healthy habits and use screens responsibly. This requires setting limits, creating schedules, and monitoring screen time.",
+    "whyItMatters": "Screen time rules are essential for preventing excessive screen time, which can lead to health issues, social problems, and decreased academic performance.",
+    "howToThink": "Parents should set screen time rules based on their child's age, individual needs, and family values. They can create schedules, set limits, and monitor screen time to ensure compliance.",
+    "pros": [
+      "Improved physical health",
+      "Enhanced social skills",
+      "Better academic performance"
+    ],
+    "cons": [
+      "Difficulty enforcing rules",
+      "Impact on homework",
+      "Potential for rebellion"
+    ],
+    "watchOut": "Be cautious of screen time rules that are too restrictive or punitive",
+    "faq": [
+      {
+        "q": "What are some effective screen time rules for kids?",
+        "a": "Rules include setting limits, creating schedules, and monitoring screen time"
+      },
+      {
+        "q": "How can I establish screen time rules for my child?",
+        "a": "Set clear rules, communicate them effectively, and consistently enforce them"
+      },
+      {
+        "q": "What are some tips for monitoring screen time?",
+        "a": "Tips include using built-in features, setting reminders, and having open conversations with kids about screen time"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/daddit community threads",
+        "url": "https://www.reddit.com/r/daddit/"
+      },
+      {
+        "label": "Search interest: \"kids screen time rules\"",
+        "url": "https://duckduckgo.com/?q=kids%20screen%20time%20rules"
+      }
+    ],
+    "tags": [
+      "Parenting",
+      "Screen Time Management"
+    ],
+    "publishedAt": "2026-07-23T00:07:18.317Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "online-safety-tips",
+    "title": "Teaching Kids Online Safety Tips",
+    "category": "Safety",
+    "dek": "Teach kids online safety",
+    "takeaway": "Educate kids on online safety tips to protect them from cyber threats",
+    "whatHappened": "Kids must be educated on online safety tips to protect them from cyber threats like cyberbullying, predators, and online harassment.",
+    "whyItMatters": "Online safety is crucial for protecting kids from cyber threats and ensuring their well-being in the digital world.",
+    "howToThink": "Parents should educate kids on online safety tips, such as being cautious when interacting with strangers online, avoiding sharing personal info, and reporting suspicious activity.",
+    "pros": [
+      "Protection from cyber threats",
+      "Enhanced online awareness",
+      "Development of critical thinking skills"
+    ],
+    "cons": [
+      "Difficulty conveying complex concepts",
+      "Impact on kid's online freedom",
+      "Potential for over-restriction"
+    ],
+    "watchOut": "Be cautious of online safety tips that are too simplistic or ineffective",
+    "faq": [
+      {
+        "q": "What are some online safety tips for kids?",
+        "a": "Tips include being cautious with strangers, avoiding personal info sharing, and reporting suspicious activity"
+      },
+      {
+        "q": "How can I teach my child online safety?",
+        "a": "Educate kids on online safety tips, set clear rules, and have open conversations about online behavior"
+      },
+      {
+        "q": "What are some signs of online safety issues?",
+        "a": "Signs include changes in kid's online behavior, unexpected messages, or reports of cyberbullying"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "tags": [
+      "Online Safety",
+      "Cyber Security"
+    ],
+    "publishedAt": "2026-07-21T11:07:18.317Z",
+    "readMinutes": 2
+  }
+]
