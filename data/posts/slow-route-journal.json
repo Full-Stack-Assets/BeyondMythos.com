@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-travel-stays",
+    "title": "Eco-Lodge Escapes: Combining Comfort with Sustainability",
+    "dek": "Experience luxury without the footprint",
+    "takeaway": "Eco-lodges offer a unique blend of comfort and sustainability for the conscious traveler",
+    "whatHappened": "During a recent stay at an eco-lodge, I witnessed firsthand the harmony between nature and luxury. The lodge's commitment to using renewable energy and reducing waste was truly impressive. From locally sourced meals to innovative recycling programs, every aspect of the stay was designed with the environment in mind.",
+    "whyItMatters": "As travelers, we have the power to choose where we stay and how our presence impacts local ecosystems. Eco-lodges provide a guilt-free alternative to traditional hotels, allowing us to indulge in comfort while supporting sustainable practices. By opting for eco-lodges, we promote a shift towards more environmentally friendly tourism.",
+    "howToThink": "When searching for eco-lodges, consider factors such as energy sourcing, waste management, and community involvement. Look for certifications like LEED or EarthCheck, and read reviews from fellow travelers to ensure the lodge aligns with your values. By doing your research, you can make informed decisions that support your slow-travel philosophy.",
+    "pros": [
+      "Sustainable practices",
+      "Unique experiences",
+      "Supports local communities"
+    ],
+    "cons": [
+      "Higher costs",
+      "Limited availability",
+      "Variable comfort levels"
+    ],
+    "watchOut": "Be wary of 'greenwashing' and thoroughly research the lodge's environmental claims to avoid disappointment",
+    "faq": [
+      {
+        "q": "What is an eco-lodge?",
+        "a": "An eco-lodge is an environmentally friendly accommodation that minimizes its impact on the surrounding ecosystem"
+      },
+      {
+        "q": "How can I find eco-lodges?",
+        "a": "Look for certifications, read reviews, and research the lodge's sustainability practices online"
+      },
+      {
+        "q": "Are eco-lodges more expensive?",
+        "a": "Yes, eco-lodges can be pricier than traditional hotels, but the benefits to the environment and local communities often outweigh the additional cost"
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "eco-stays",
+      "sustainable travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-29T21:35:05.118Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "mindful-rail-choices",
     "title": "Slow Travel by Rail: The Power of Consciously Choosing Your Route",
     "dek": "Transform your journey with thoughtful rail choices.",

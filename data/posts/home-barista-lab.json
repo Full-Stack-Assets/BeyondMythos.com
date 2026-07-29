@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-calibration-2",
+    "title": "Dialing In: The Secret to Perfect Espresso Shots",
+    "dek": "Get the most out of your espresso machine",
+    "takeaway": "Proper calibration of your espresso machine is crucial for optimal flavor",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end espresso machines, only to find that they're not producing the desired results. This is often due to improper calibration, which can lead to inconsistent shots and a lack of flavor. By calibrating your machine, you can unlock its full potential and take your espresso game to the next level.",
+    "whyItMatters": "Calibration is essential for achieving the perfect balance of temperature, pressure, and flow rate, all of which impact the flavor of your espresso. A well-calibrated machine ensures that each shot is extracted to the optimal level, resulting in a more nuanced and satisfying flavor profile. Additionally, proper calibration can help extend the lifespan of your machine by preventing wear and tear.",
+    "howToThink": "To calibrate your espresso machine, start by consulting the user manual and adjusting the temperature and pressure settings according to the manufacturer's guidelines. Next, experiment with different flow rates and grind settings to find the sweet spot for your machine. Finally, regularly clean and maintain your machine to prevent any buildup or blockages that could affect its performance.",
+    "pros": [
+      "Optimal flavor",
+      "Increased consistency",
+      "Extended machine lifespan"
+    ],
+    "cons": [
+      "Requires technical knowledge",
+      "Time-consuming process",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be careful not to over-calibrate, as this can lead to over-extraction and a bitter taste",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for espresso extraction?",
+        "a": "Between 195°F and 205°F"
+      },
+      {
+        "q": "How often should I calibrate my espresso machine?",
+        "a": "Every 1-3 months, depending on usage"
+      },
+      {
+        "q": "Can I calibrate my espresso machine myself, or do I need a professional?",
+        "a": "Most machines can be calibrated by the user, but if you're unsure, it's best to consult a professional"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso machine",
+      "calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-29T21:35:04.858Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "coffee-grinder-cleaning-hacks",
     "title": "Grinder Cleaning Hacks for Better Flavors",
     "dek": "Get more from your beans with a clean grinder",
