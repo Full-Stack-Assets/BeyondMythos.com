@@ -838,5 +838,320 @@
       "zwift training plans",
       "pain cave setup"
     ]
+  },
+  {
+    "id": "backyard-birding",
+    "name": "Backyard Birding Log",
+    "audience": "casual birdwatchers and backyard naturalists",
+    "categories": [
+      "Feeders",
+      "Identification",
+      "Migration",
+      "Habitat"
+    ],
+    "subreddits": [
+      "birding",
+      "whatsthisbird",
+      "Ornithology"
+    ],
+    "braveQueries": [
+      "backyard bird feeder setup",
+      "bird migration calendar",
+      "native plants for birds"
+    ]
+  },
+  {
+    "id": "home-baking",
+    "name": "Crumb Craft Weekly",
+    "audience": "home bakers and sourdough beginners",
+    "categories": [
+      "Bread",
+      "Pastry",
+      "Tools",
+      "Troubleshooting"
+    ],
+    "subreddits": [
+      "Breadit",
+      "Sourdough",
+      "Baking"
+    ],
+    "braveQueries": [
+      "sourdough starter troubleshooting",
+      "home baking tools",
+      "artisan bread at home"
+    ]
+  },
+  {
+    "id": "bike-commuting",
+    "name": "Pedal Commute Notes",
+    "audience": "urban bike commuters and car-light riders",
+    "categories": [
+      "Routes",
+      "Safety",
+      "Maintenance",
+      "Gear"
+    ],
+    "subreddits": [
+      "bikecommuting",
+      "bicycling",
+      "whichbike"
+    ],
+    "braveQueries": [
+      "bike commute gear",
+      "urban cycling safety",
+      "commuter bike maintenance"
+    ]
+  },
+  {
+    "id": "analog-photography",
+    "name": "Grain Street Journal",
+    "audience": "film photographers and darkroom hobbyists",
+    "categories": [
+      "Film Stocks",
+      "Cameras",
+      "Scanning",
+      "Darkroom"
+    ],
+    "subreddits": [
+      "analog",
+      "filmphotography",
+      "Darkroom"
+    ],
+    "braveQueries": [
+      "best 35mm film stocks",
+      "film camera buying guide",
+      "home film scanning"
+    ]
+  },
+  {
+    "id": "personal-finance",
+    "name": "Quiet Money Ledger",
+    "audience": "budget-minded savers and first-time investors",
+    "categories": [
+      "Budgeting",
+      "Debt",
+      "Investing",
+      "Tools"
+    ],
+    "subreddits": [
+      "personalfinance",
+      "Frugal",
+      "Bogleheads"
+    ],
+    "braveQueries": [
+      "zero based budget guide",
+      "emergency fund strategy",
+      "index fund investing basics"
+    ]
+  },
+  {
+    "id": "aquarium-keeping",
+    "name": "Glass Tank Gazette",
+    "audience": "freshwater aquarium keepers and aquascapers",
+    "categories": [
+      "Water",
+      "Plants",
+      "Fish",
+      "Gear"
+    ],
+    "subreddits": [
+      "Aquariums",
+      "PlantedTank",
+      "Aquascape"
+    ],
+    "braveQueries": [
+      "freshwater aquarium cycling",
+      "planted tank setup",
+      "aquarium algae control"
+    ]
+  },
+  {
+    "id": "miniature-painting",
+    "name": "Tiny Brush Review",
+    "audience": "miniature painters and tabletop hobbyists",
+    "categories": [
+      "Paints",
+      "Techniques",
+      "Tools",
+      "Showcase"
+    ],
+    "subreddits": [
+      "minipainting",
+      "Warhammer40k",
+      "TerrainBuilding"
+    ],
+    "braveQueries": [
+      "miniature painting beginner guide",
+      "speed painting miniatures",
+      "best hobby brushes"
+    ]
+  },
+  {
+    "id": "home-fitness",
+    "name": "Garage Gym Signal",
+    "audience": "home gym builders and strength-training beginners",
+    "categories": [
+      "Programming",
+      "Equipment",
+      "Recovery",
+      "Space"
+    ],
+    "subreddits": [
+      "homegym",
+      "fitness",
+      "bodyweightfitness"
+    ],
+    "braveQueries": [
+      "garage gym essentials",
+      "home strength program",
+      "adjustable dumbbells guide"
+    ]
+  },
+  {
+    "id": "parenting-tech",
+    "name": "Family Tech Fieldguide",
+    "audience": "parents managing kids, screens, and smart devices",
+    "categories": [
+      "Screen Time",
+      "Safety",
+      "Apps",
+      "Devices"
+    ],
+    "subreddits": [
+      "Parenting",
+      "daddit",
+      "Mommit"
+    ],
+    "braveQueries": [
+      "parental controls guide",
+      "kids screen time rules",
+      "family tech setup"
+    ]
+  },
+  {
+    "id": "local-history",
+    "name": "Archive Walks",
+    "audience": "local history buffs and community archivists",
+    "categories": [
+      "Archives",
+      "Maps",
+      "Landmarks",
+      "Research"
+    ],
+    "subreddits": [
+      "AskHistorians",
+      "Genealogy",
+      "urbanexploration"
+    ],
+    "braveQueries": [
+      "local history research",
+      "old map archives",
+      "community archive project"
+    ]
+  },
+  {
+    "id": "camp-cooking",
+    "name": "Campfire Pantry",
+    "audience": "camp cooks and weekend backpackers",
+    "categories": [
+      "Meals",
+      "Stoves",
+      "Prep",
+      "Cleanup"
+    ],
+    "subreddits": [
+      "camping",
+      "trailmeals",
+      "backpacking"
+    ],
+    "braveQueries": [
+      "easy camping meals",
+      "backpacking food ideas",
+      "camp stove comparison"
+    ]
+  },
+  {
+    "id": "privacy-security",
+    "name": "Private Stack Brief",
+    "audience": "privacy-conscious consumers and security hobbyists",
+    "categories": [
+      "Browsers",
+      "Passwords",
+      "Devices",
+      "Threats"
+    ],
+    "subreddits": [
+      "privacy",
+      "cybersecurity",
+      "opsec"
+    ],
+    "braveQueries": [
+      "password manager setup",
+      "privacy browser comparison",
+      "home network security basics"
+    ]
+  },
+  {
+    "id": "sewing-patterns",
+    "name": "Seam Allowance Daily",
+    "audience": "home sewists and pattern hackers",
+    "categories": [
+      "Patterns",
+      "Fabric",
+      "Fitting",
+      "Machines"
+    ],
+    "subreddits": [
+      "sewing",
+      "sewhelp",
+      "quilting"
+    ],
+    "braveQueries": [
+      "beginner sewing patterns",
+      "how to fit sewing patterns",
+      "sewing machine maintenance"
+    ]
+  },
+  {
+    "id": "electric-vehicles",
+    "name": "Plug In Practical",
+    "audience": "EV owners and prospective electric car buyers",
+    "categories": [
+      "Charging",
+      "Range",
+      "Ownership",
+      "Deals"
+    ],
+    "subreddits": [
+      "electricvehicles",
+      "evcharging",
+      "TeslaLounge"
+    ],
+    "braveQueries": [
+      "home EV charging setup",
+      "EV road trip planning",
+      "electric car ownership costs"
+    ]
+  },
+  {
+    "id": "desk-setup",
+    "name": "Desk Setup Review",
+    "audience": "remote workers optimizing small workspaces",
+    "categories": [
+      "Ergonomics",
+      "Lighting",
+      "Audio",
+      "Organization"
+    ],
+    "subreddits": [
+      "Workspaces",
+      "battlestations",
+      "StandingDesk"
+    ],
+    "braveQueries": [
+      "ergonomic desk setup",
+      "remote work lighting",
+      "cable management desk"
+    ]
   }
 ]
