@@ -3,10 +3,12 @@
 
 const { describe, it } = require("node:test");
 const assert = require("node:assert/strict");
+const fs = require("fs");
 
 const { slugify } = require("../lib/slug");
 const { buildCheckoutLineItems } = require("../lib/checkout");
-const { getProductById, listProducts } = require("../lib/products");
+const { getProductById, listProducts, offerTierForProduct } = require("../lib/products");
+const { purchasePayloadFromSession } = require("../lib/stripe-webhooks");
 const { parseModelJson, extractPostsArray } = require("../lib/content-prompts");
 const {
   resolveContentProvider,
@@ -15,10 +17,26 @@ const {
 } = require("../lib/content-provider");
 const { postTemplates, hourlyPostTemplate } = require("../lib/templates");
 const { themeKeyForNiche, THEMES } = require("../lib/themes");
+const { renderHome } = require("../lib/renderer");
 const { mapWithConcurrency } = require("../lib/concurrency");
 const { getBaseUrl } = require("../lib/config");
 const { pickNiche } = require("../lib/niches");
 const { getMarketplaceLinks, getSponsorSlot, recommendedProducts, affiliateSearchUrl } = require("../lib/monetization");
+const { loadPortfolioStrategy, summarizePortfolio, listPortfolioDomains } = require("../lib/portfolio");
+const {
+  COMMERCE_STATE_PATH,
+  saveCommerceState,
+  recordCheckoutStarted,
+  recordPurchase,
+  customerAccess,
+  resolveDigitalAccess,
+  revenueDashboard
+} = require("../lib/fulfillment");
+const {
+  NEWSLETTER_STATE_PATH,
+  saveNewsletterState,
+  recordNewsletterSignup
+} = require("../lib/newsletter");
 
 describe("slugify", () => {
   it("converts text to kebab-case", () => {
@@ -47,6 +65,14 @@ describe("products and checkout", () => {
     assert.ok(digital.every((product) => product.type === "digital"));
     assert.ok(merch.length >= 8);
     assert.ok(merch.every((product) => product.category === "merch"));
+  });
+
+  it("assigns offer tiers and supports tier filtering", () => {
+    assert.equal(offerTierForProduct(getProductById(202)), "entry");
+    assert.equal(offerTierForProduct(getProductById(226)), "core");
+    assert.equal(offerTierForProduct(getProductById(213)), "premium");
+    const premium = listProducts({ type: "digital", tier: "premium" });
+    assert.ok(premium.every((product) => product.offerTier === "premium"));
   });
 
   it("rejects unknown product ids", () => {
@@ -197,6 +223,167 @@ describe("config", () => {
     else process.env.STOREFORGE_URL = previous.store;
     if (previous.front === undefined) delete process.env.FRONTEND_URL;
     else process.env.FRONTEND_URL = previous.front;
+  });
+
+  describe("portfolio strategy", () => {
+    it("contains tier/domain role mappings and campaign structure", () => {
+      const strategy = loadPortfolioStrategy();
+      const summary = summarizePortfolio(strategy);
+      const domains = listPortfolioDomains(strategy);
+      assert.ok(summary.tierCount >= 3);
+      assert.ok(summary.domainCount >= 10);
+      assert.ok(domains.some((domain) => domain.domain === "beyondmythos.com" && domain.northStarKpi === "digital sales"));
+      assert.ok((strategy.campaignCalendar?.weeklyThemes || []).length >= 13);
+    });
+  });
+
+  describe("fulfillment and revenue", () => {
+    it("records purchases and serves tokenized digital access", () => {
+      const original = fs.readFileSync(COMMERCE_STATE_PATH, "utf8");
+      try {
+        saveCommerceState({ customers: [], purchases: [], events: [] });
+        recordCheckoutStarted({ site: "beyondmythos.com", email: "buyer@example.com", items: [{ id: 201, quantity: 1 }] });
+        const created = recordPurchase({
+          email: "buyer@example.com",
+          site: "beyondmythos.com",
+          items: [{ id: 201, quantity: 1 }, { id: 205, quantity: 1 }]
+        });
+        assert.ok(created.purchase.id);
+        assert.ok(created.accessToken);
+        const access = customerAccess(created.accessToken);
+        assert.equal(access.customer.email, "buyer@example.com");
+        assert.ok(access.purchases[0].downloads.length >= 1);
+        const download = access.purchases[0].downloads[0];
+        const resolved = resolveDigitalAccess({
+          purchaseId: access.purchases[0].id,
+          productId: download.productId,
+          token: created.accessToken
+        });
+        assert.match(resolved.message, /Delivery access granted/);
+      } finally {
+        fs.writeFileSync(COMMERCE_STATE_PATH, original, "utf8");
+      }
+    });
+
+    it("computes cross-site revenue dashboard metrics", () => {
+      const original = fs.readFileSync(COMMERCE_STATE_PATH, "utf8");
+      try {
+        saveCommerceState({ customers: [], purchases: [], events: [] });
+        recordCheckoutStarted({ site: "beyondmythos.com", email: "a@example.com", items: [{ id: 201, quantity: 1 }] });
+        recordCheckoutStarted({ site: "wireandlogic.com", email: "b@example.com", items: [{ id: 213, quantity: 1 }] });
+        recordPurchase({ email: "a@example.com", site: "beyondmythos.com", items: [{ id: 201, quantity: 1 }] });
+        const dashboard = revenueDashboard();
+        assert.equal(dashboard.totals.checkoutsStarted, 2);
+        assert.equal(dashboard.totals.purchasesCompleted, 1);
+        assert.equal(dashboard.totals.conversionRate, 0.5);
+        assert.ok(dashboard.topFunnels.length >= 1);
+      } finally {
+        fs.writeFileSync(COMMERCE_STATE_PATH, original, "utf8");
+      }
+    });
+
+    it("avoids duplicate purchases for the same provider session id", () => {
+      const original = fs.readFileSync(COMMERCE_STATE_PATH, "utf8");
+      try {
+        saveCommerceState({ customers: [], purchases: [], events: [] });
+        const first = recordPurchase({
+          email: "idempotent@example.com",
+          site: "beyondmythos.com",
+          provider: "stripe",
+          providerSessionId: "cs_test_123",
+          items: [{ id: 201, quantity: 1 }]
+        });
+        const second = recordPurchase({
+          email: "idempotent@example.com",
+          site: "beyondmythos.com",
+          provider: "stripe",
+          providerSessionId: "cs_test_123",
+          items: [{ id: 201, quantity: 1 }]
+        });
+        const snapshot = JSON.parse(fs.readFileSync(COMMERCE_STATE_PATH, "utf8"));
+        assert.equal(snapshot.purchases.length, 1);
+        assert.equal(second.purchase.id, first.purchase.id);
+        assert.equal(second.existing, true);
+      } finally {
+        fs.writeFileSync(COMMERCE_STATE_PATH, original, "utf8");
+      }
+    });
+  });
+});
+
+describe("stripe webhook mapping", () => {
+  it("maps Stripe checkout session + line items to catalog purchase payload", () => {
+    const payload = purchasePayloadFromSession({
+      session: {
+        id: "cs_test_456",
+        customer_email: "buyer@example.com",
+        metadata: { site: "beyondmythos.com" }
+      },
+      lineItems: [
+        { quantity: 1, price: { product: { metadata: { product_id: "201" } } } },
+        { quantity: 2, price: { product: { metadata: { product_id: "205" } } } }
+      ]
+    });
+    assert.equal(payload.provider, "stripe");
+    assert.equal(payload.providerSessionId, "cs_test_456");
+    assert.equal(payload.email, "buyer@example.com");
+    assert.equal(payload.items.length, 2);
+    assert.deepEqual(payload.items[0], { id: 201, quantity: 1 });
+    assert.deepEqual(payload.items[1], { id: 205, quantity: 2 });
+  });
+});
+
+describe("newsletter persistence", () => {
+  it("records signups locally and deduplicates repeats", () => {
+    const hadFile = fs.existsSync(NEWSLETTER_STATE_PATH);
+    const original = hadFile ? fs.readFileSync(NEWSLETTER_STATE_PATH, "utf8") : null;
+    try {
+      saveNewsletterState({ signups: [] });
+      const first = recordNewsletterSignup({ email: "reader@example.com", site: "retro-pixel-press" });
+      const second = recordNewsletterSignup({ email: "reader@example.com", site: "retro-pixel-press" });
+      const state = JSON.parse(fs.readFileSync(NEWSLETTER_STATE_PATH, "utf8"));
+      assert.equal(first.existing, false);
+      assert.equal(second.existing, true);
+      assert.equal(state.signups.length, 1);
+    } finally {
+      if (!hadFile) fs.rmSync(NEWSLETTER_STATE_PATH, { force: true });
+      else fs.writeFileSync(NEWSLETTER_STATE_PATH, original, "utf8");
+    }
+  });
+});
+
+describe("site AI agent embed", () => {
+  it("renders ElevenLabs widget when ELEVENLABS_AGENT_ID is configured", () => {
+    const saved = process.env.ELEVENLABS_AGENT_ID;
+    try {
+      process.env.ELEVENLABS_AGENT_ID = "agent_test_123";
+      const html = renderHome(
+        {
+          slug: "test-site",
+          name: "Test Site",
+          tagline: "Tagline",
+          audience: "audience",
+          categories: ["Tools"],
+          createdAt: new Date().toISOString(),
+          streamUrl: "https://www.beyondmythos.com/"
+        },
+        [
+          {
+            slug: "hello",
+            title: "Hello",
+            category: "Tools",
+            dek: "Dek",
+            publishedAt: new Date().toISOString(),
+            readMinutes: 2
+          }
+        ],
+        THEMES[themeKeyForNiche("retro-gaming")]
+      );
+      assert.match(html, /elevenlabs-convai/);
+    } finally {
+      if (saved === undefined) delete process.env.ELEVENLABS_AGENT_ID;
+      else process.env.ELEVENLABS_AGENT_ID = saved;
+    }
   });
 });
 

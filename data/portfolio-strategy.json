@@ -1,0 +1,198 @@
+{
+  "updatedAt": "2026-07-29T00:00:00.000Z",
+  "tiers": [
+    {
+      "id": "tier-1",
+      "label": "Core growth",
+      "goal": "Scale traffic, subscribers, and monetization with repeatable playbooks.",
+      "domains": [
+        {
+          "domain": "beyondmythos.com",
+          "role": "revenue site",
+          "northStarKpi": "digital sales",
+          "topOffers": ["Niche Monetization Toolkit", "Autonomous Blog Engine Blueprint", "Creator Automation SOP Library"],
+          "leadMagnets": ["Newsletter Lead Magnet Bundle", "Blog Launch Checklist", "AI Prompt QA Checklist"],
+          "trafficChannels": ["SEO clusters", "cross-site referrals", "weekly newsletter"],
+          "status": "active"
+        },
+        {
+          "domain": "wireandlogic.com",
+          "role": "lead-gen site",
+          "northStarKpi": "email subscribers",
+          "topOffers": ["AI Blog Prompt Library", "Micro-SaaS Landing Page Copy Kit", "Automation Consulting Intake Kit"],
+          "leadMagnets": ["Prompt teardown guide", "Dev workflow audit checklist", "SaaS launch CTA swipe file"],
+          "trafficChannels": ["developer SEO", "community sharing", "short-form social"],
+          "status": "active"
+        },
+        {
+          "domain": "moviesrule.com",
+          "role": "revenue site",
+          "northStarKpi": "affiliate clicks",
+          "topOffers": ["Etsy Digital Download Launch Pack", "Newsletter Archive — Annual Access", "Programmatic SEO Page Pack"],
+          "leadMagnets": ["Weekly watch checklist", "genre release tracker", "streaming deal digest"],
+          "trafficChannels": ["SEO watch guides", "newsletter", "social clips"],
+          "status": "active"
+        },
+        {
+          "domain": "nextgengear.cc",
+          "role": "revenue site",
+          "northStarKpi": "affiliate clicks",
+          "topOffers": ["SEO Dispatch Playbook", "Niche Research Spreadsheet System", "Affiliate Disclosure & Link Kit"],
+          "leadMagnets": ["gear buyer checklist", "budget build scorecard", "deal alert signup"],
+          "trafficChannels": ["comparison SEO", "partnership placements", "email promotions"],
+          "status": "active"
+        },
+        {
+          "domain": "thetunerdepot.com",
+          "role": "lead-gen site",
+          "northStarKpi": "sponsor leads",
+          "topOffers": ["Local Business Content Pack", "Sponsor Rate Card Builder", "Niche Newsletter Sponsorship Kit"],
+          "leadMagnets": ["maintenance interval sheet", "build planning sheet", "shop sponsorship one-pager"],
+          "trafficChannels": ["local SEO", "forum/community posts", "newsletter"],
+          "status": "active"
+        },
+        {
+          "domain": "astrokobi.space",
+          "role": "brand support site",
+          "northStarKpi": "email subscribers",
+          "topOffers": ["RSS & Feed Syndication Setup Guide", "Niche Site Starter Kit", "BeyondMythos Brand Kit"],
+          "leadMagnets": ["night sky tracker", "stargazing setup checklist", "STEM reading list"],
+          "trafficChannels": ["education SEO", "newsletter", "partner collaborations"],
+          "status": "active"
+        },
+        {
+          "domain": "astrokobi.online",
+          "role": "brand support site",
+          "northStarKpi": "email subscribers",
+          "topOffers": ["RSS & Feed Syndication Setup Guide", "Niche Site Starter Kit", "BeyondMythos Brand Kit"],
+          "leadMagnets": ["night sky tracker", "stargazing setup checklist", "STEM reading list"],
+          "trafficChannels": ["education SEO", "newsletter", "partner collaborations"],
+          "status": "active"
+        },
+        {
+          "domain": "astrokobi.site",
+          "role": "brand support site",
+          "northStarKpi": "email subscribers",
+          "topOffers": ["RSS & Feed Syndication Setup Guide", "Niche Site Starter Kit", "BeyondMythos Brand Kit"],
+          "leadMagnets": ["night sky tracker", "stargazing setup checklist", "STEM reading list"],
+          "trafficChannels": ["education SEO", "newsletter", "partner collaborations"],
+          "status": "active"
+        },
+        {
+          "domain": "astrokobi.com",
+          "role": "brand support site",
+          "northStarKpi": "email subscribers",
+          "topOffers": ["RSS & Feed Syndication Setup Guide", "Niche Site Starter Kit", "BeyondMythos Brand Kit"],
+          "leadMagnets": ["night sky tracker", "stargazing setup checklist", "STEM reading list"],
+          "trafficChannels": ["education SEO", "newsletter", "partner collaborations"],
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "tier-2",
+      "label": "Experimental",
+      "goal": "Run adjacent niche tests with strict CAC and conversion targets.",
+      "domains": [
+        {
+          "domain": "nextgengear.one",
+          "role": "lead-gen site",
+          "northStarKpi": "email subscribers",
+          "topOffers": ["Niche Monetization Toolkit", "Programmatic SEO Page Pack", "Digital Product Idea Bank"],
+          "leadMagnets": ["new gear launch radar", "comparison framework", "offer test worksheet"],
+          "trafficChannels": ["long-tail SEO", "cross-site referrals", "partnership links"],
+          "status": "experimental"
+        }
+      ]
+    },
+    {
+      "id": "tier-3",
+      "label": "Liquidation / flip candidates",
+      "goal": "Monetize unused domains through lean landing pages or direct resale.",
+      "domains": [
+        {
+          "domain": "dropfable.com",
+          "role": "resale asset",
+          "northStarKpi": "resale inquiries",
+          "topOffers": ["Domain resale package"],
+          "leadMagnets": ["brand concept one-pager"],
+          "trafficChannels": ["marketplace listings", "direct outbound", "portfolio landing page"],
+          "status": "unused"
+        },
+        {
+          "domain": "nowfable.com",
+          "role": "resale asset",
+          "northStarKpi": "resale inquiries",
+          "topOffers": ["Domain resale package"],
+          "leadMagnets": ["brand concept one-pager"],
+          "trafficChannels": ["marketplace listings", "direct outbound", "portfolio landing page"],
+          "status": "unused"
+        },
+        {
+          "domain": "nextgengear.xyz",
+          "role": "resale asset",
+          "northStarKpi": "resale inquiries",
+          "topOffers": ["Domain resale package"],
+          "leadMagnets": ["micro-site waitlist"],
+          "trafficChannels": ["marketplace listings", "cross-promo", "portfolio landing page"],
+          "status": "unused"
+        },
+        {
+          "domain": "vibecoderz.app",
+          "role": "resale asset",
+          "northStarKpi": "resale inquiries",
+          "topOffers": ["Domain resale package"],
+          "leadMagnets": ["startup concept deck"],
+          "trafficChannels": ["marketplace listings", "direct outreach", "portfolio landing page"],
+          "status": "unused"
+        }
+      ]
+    }
+  ],
+  "campaignCalendar": {
+    "durationDays": 90,
+    "weeklyThemes": [
+      "Authority playbooks",
+      "Problem/solution breakdowns",
+      "Tool stack spotlights",
+      "Case study teardown",
+      "Checklist and templates",
+      "Buyer comparisons",
+      "Community proof and testimonials",
+      "Offer stack week",
+      "Partnership co-promotion",
+      "Micro-product launch",
+      "FAQ and objection handling",
+      "Sponsorship package push",
+      "Quarter-end optimization"
+    ],
+    "assetMix": ["article", "email", "social thread", "short video", "downloadable lead magnet"]
+  },
+  "operations": {
+    "cadence": {
+      "weekly": "KPI review",
+      "monthly": "site scoring and resource reallocation",
+      "quarterly": "keep/scale/sell domain decisions"
+    },
+    "backlogLanes": [
+      "revenue blockers",
+      "growth experiments",
+      "design upgrades",
+      "domain-asset actions"
+    ],
+    "qualityChecks": ["content QA checklist", "brand QA checklist", "affiliate disclosure QA", "purchase support transparency QA"]
+  },
+  "executionPhases": [
+    { "id": "A", "name": "Fulfillment and tracking", "focus": "Unblock purchase delivery, customer access, and funnel telemetry." },
+    { "id": "B", "name": "Conversion UX", "focus": "Improve homepage, product, checkout, and post-purchase UX." },
+    { "id": "C", "name": "Audience engine", "focus": "Launch shared segmentation and recurring campaign loops." },
+    { "id": "D", "name": "Offer and sponsorship expansion", "focus": "Scale offer ladders and activate sponsor packages." },
+    { "id": "E", "name": "Optimization", "focus": "Scale top performers and retire low-yield properties." }
+  ],
+  "successCriteria": [
+    "Buyers can purchase and receive digital products without support intervention.",
+    "Every tier-1 site has active list growth and at least one validated monetization funnel.",
+    "Portfolio UI stays consistent with niche-specific expression.",
+    "Unused domains either generate leads/revenue or remain actively listed for sale."
+  ]
+}
