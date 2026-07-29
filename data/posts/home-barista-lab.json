@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-7",
+    "title": "Brewing Up Savings: The Case for Regular Espresso Machine Maintenance",
+    "dek": "Keep your espresso machine in top shape",
+    "takeaway": "Regular maintenance can extend the life of your espresso machine and improve coffee quality",
+    "whatHappened": "As home coffee enthusiasts, we've all been there - a faulty espresso machine can be a real buzzkill. Recently, we've seen a surge in users reporting issues with their gear, from clogged group heads to faulty pumps. But what if we told you that many of these problems can be prevented with simple maintenance?",
+    "whyItMatters": "A well-maintained espresso machine is crucial for producing high-quality shots, and neglecting upkeep can lead to costly repairs or even replacement. By taking care of your machine, you'll not only ensure optimal performance but also extend its lifespan. This, in turn, will save you money and reduce waste",
+    "howToThink": "To keep your espresso machine in top shape, make it a habit to descale regularly, clean the group head and portafilter, and check for worn-out seals. By incorporating these simple tasks into your routine, you'll be able to diagnose potential issues before they become major problems. Start by scheduling regular maintenance sessions and stick to them",
+    "pros": [
+      "Saves money",
+      "Improves coffee quality",
+      "Extends machine lifespan"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical knowledge",
+      "Additional costs for replacement parts"
+    ],
+    "watchOut": "Neglecting maintenance can lead to irreversible damage, so don't wait until it's too late",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What are the most common signs of a clogged group head?",
+        "a": "Reduced flow rate, increased pressure, or faulty shot quality"
+      },
+      {
+        "q": "Can I perform maintenance tasks myself or do I need a professional?",
+        "a": "Most tasks can be done DIY, but complex issues may require a professional technician"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Machine",
+      "Home Barista"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-29T23:40:26.337Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-10",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

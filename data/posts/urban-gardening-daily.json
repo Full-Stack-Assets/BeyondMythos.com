@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-green-revolution-2",
+    "title": "Growing Microgreens on Your Balcony for Year-Round Harvests",
+    "dek": "Year-round salad fix",
+    "takeaway": "Microgreens can thrive in small balcony spaces with minimal equipment",
+    "whatHappened": "Microgreens have been gaining popularity among urban gardeners due to their high yield and low maintenance requirements. They can be harvested in as little as 7-10 days and can thrive in small spaces with minimal equipment. This makes them an ideal choice for apartment dwellers and balcony gardeners.",
+    "whyItMatters": "Microgreens are not only a great way to add some freshness to your meals, but they also provide a range of health benefits. They are packed with nutrients and antioxidants, making them a great addition to a balanced diet. By growing your own microgreens, you can have a constant supply of fresh produce right at your fingertips.",
+    "howToThink": "To get started with growing microgreens, you'll need a few basic supplies such as a container, soil, and seeds. Choose a variety that is suitable for indoor growing and provide your microgreens with plenty of light and water. With a little practice and patience, you can be enjoying fresh, homegrown microgreens in no time.",
+    "pros": [
+      "High yield",
+      "Low maintenance",
+      "Year-round harvest"
+    ],
+    "cons": [
+      "Requires consistent lighting",
+      "Can be sensitive to temperature",
+      "Needs regular watering"
+    ],
+    "watchOut": "Be careful not to overwater your microgreens, as this can lead to mold and root rot.",
+    "faq": [
+      {
+        "q": "What type of container is best for growing microgreens?",
+        "a": "A shallow container with good drainage is ideal"
+      },
+      {
+        "q": "How often should I water my microgreens?",
+        "a": "Water your microgreens when the soil feels dry to the touch"
+      },
+      {
+        "q": "Can I grow microgreens indoors without direct sunlight?",
+        "a": "Yes, you can grow microgreens indoors using grow lights or a sunny windowsill"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "balcony gardening",
+      "indoor herbs"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-29T23:40:26.232Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-seasonal-9",
     "title": "Ask the forge: your seasonal questions, answered",
     "dek": "Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.",
