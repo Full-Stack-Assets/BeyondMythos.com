@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-container-care-2",
+    "title": "Protecting Your Winter Herb Harvest",
+    "dek": "Keep herbs thriving in winter.",
+    "takeaway": "With proper care, herbs can thrive in winter containers, providing fresh flavors year-round.",
+    "whatHappened": "As winter approaches, many apartment dwellers and balcony gardeners worry about the fate of their herb gardens. However, with the right strategies, herbs can continue to flourish. By selecting hardy, cold-tolerant herbs and providing protection from extreme weather, gardeners can enjoy a continuous harvest.",
+    "whyItMatters": "Having a thriving herb garden in winter not only provides access to fresh flavors but also adds a touch of greenery to otherwise barren landscapes. This can boost mood and overall well-being during the colder months. Moreover, growing herbs in winter can be a fun and rewarding challenge for gardeners of all levels.",
+    "howToThink": "To keep your winter herb garden thriving, focus on choosing the right herbs for the season, such as rosemary and thyme, and ensure your containers provide good drainage and insulation. Regularly inspect your plants for signs of stress or disease, and prune them back to encourage healthy growth. Additionally, consider using grow lights to supplement natural light, especially during the shortest days of the year.",
+    "pros": [
+      "Year-round harvest",
+      "Improved air quality",
+      "Aesthetic appeal"
+    ],
+    "cons": [
+      "Limited herb selection",
+      "Higher maintenance",
+      "Potential for frost damage"
+    ],
+    "watchOut": "Be cautious of frost, which can quickly damage or kill herb plants, and take protective measures such as covering your containers or bringing them indoors during extreme cold snaps.",
+    "faq": [
+      {
+        "q": "What are the hardiest herbs for winter containers?",
+        "a": "Rosemary, thyme, and sage are known for their cold tolerance and can thrive in winter conditions with proper care."
+      },
+      {
+        "q": "How often should I water my winter herb garden?",
+        "a": "Herbs in winter containers typically require less water due to cooler temperatures and reduced evaporation; check the soil moisture regularly to avoid overwatering."
+      },
+      {
+        "q": "Can I use regular potting soil for my winter herbs?",
+        "a": "It's best to use a well-draining potting mix specifically designed for containers to prevent waterlogged soil and root rot."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "winter gardening",
+      "herb care"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-29T18:40:43.279Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "maximizing-balcony-space-7",
     "title": "Boost Your Yield: Essential Balcony Layout Tips",
     "dek": "Get the most from your balcony garden",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "scaling-your-roast",
+    "title": "Roast Level Hacking: The Overlooked Variable in Your Espresso",
+    "dek": "Unlock new flavors by tweaking roast levels",
+    "takeaway": "Adjusting roast levels can dramatically impact the flavor of your espresso shots",
+    "whatHappened": "In a recent experiment, we discovered that small changes in roast levels significantly altered the flavor profiles of our espresso shots. By adjusting the roast from light to medium, we noticed a shift from bright, acidic notes to richer, fuller flavors. This variation in roast level impacted not just the taste but also the overall body and finish of the espresso.",
+    "whyItMatters": "Understanding how to manipulate roast levels is crucial for home baristas as it allows for greater control over the final product. By learning to adjust roast levels, enthusiasts can tailor their espresso to suit personal preferences, from fruity and floral to deep and chocolatey. This level of customization enhances the overall coffee experience, making each shot more enjoyable and rewarding.",
+    "howToThink": "When experimenting with roast levels, it's essential to start with small increments to taste the differences. Invest in a quality roast analyzer or work closely with a roaster who can provide detailed insights into their roasting processes. Record your roast levels and flavor notes to track the changes and identify patterns that work best for you.",
+    "pros": [
+      "Customizable flavor",
+      "Enhanced body and finish",
+      "Increased control"
+    ],
+    "cons": [
+      "Requires trial and error",
+      "May need specialized equipment",
+      "Can be time-consuming"
+    ],
+    "watchOut": "Be cautious not to over-roast, as this can lead to burnt flavors and a less enjoyable espresso experience",
+    "faq": [
+      {
+        "q": "What is the ideal roast level for espresso?",
+        "a": "The ideal roast level depends on personal taste, but medium to medium-dark roasts are commonly preferred for espresso"
+      },
+      {
+        "q": "How do I adjust roast levels at home?",
+        "a": "You can adjust roast levels by experimenting with different roasting times or by working with a roaster to customize your beans"
+      },
+      {
+        "q": "Will changing roast levels affect my equipment?",
+        "a": "Changing roast levels should not directly affect your equipment, but it may require adjustments in grind size or tamping pressure to achieve the optimal shot"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "roast customization",
+      "espresso flavor"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-29T18:40:43.462Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-made-easy",
     "title": "Tamping Mastery: The Simple Path to Better Espresso",
     "dek": "Expert tamping in 5 minutes",

@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Roast Level Hacking: The Overlooked Variable in Your Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/scaling-your-roast.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/scaling-your-roast.html</guid>
+      <pubDate>Wed, 29 Jul 2026 18:40:43 GMT</pubDate>
+      <description>Unlock new flavors by tweaking roast levels</description>
+    </item>
+    <item>
       <title>Tamping Mastery: The Simple Path to Better Espresso</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-made-easy.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-made-easy.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-6.html</guid>
       <pubDate>Sat, 18 Jul 2026 19:49:23 GMT</pubDate>
       <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-5.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-5.html</guid>
-      <pubDate>Sat, 18 Jul 2026 18:35:33 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>
