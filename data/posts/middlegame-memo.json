@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tactics-transformation",
+    "title": "Revolutionizing Your Attack: Tactics for the Modern Player",
+    "dek": "Transform your chess with tactics",
+    "takeaway": "Incorporating tactics into your study routine can significantly improve your chess skills",
+    "whatHappened": "Many adult chess players struggle to improve their game due to a lack of focus on tactics. By prioritizing tactics, players can develop a stronger foundation and improve their overall performance. Recent studies have shown that tactics training can lead to significant improvements in chess ratings",
+    "whyItMatters": "Tactics are essential for chess improvement as they allow players to develop a deeper understanding of the game and make more informed decisions during play. By mastering tactics, players can gain a competitive edge and enhance their overall chess experience. Furthermore, tactics training can help players develop critical thinking and problem-solving skills",
+    "howToThink": "To incorporate tactics into your study routine, start by setting aside dedicated time for tactics training and focus on practicing different types of tactics, such as pins and forks. Additionally, try to apply tactical principles to your everyday games, and review master games to see how tactics are used in real-world situations",
+    "pros": [
+      "Improved chess skills",
+      "Enhanced critical thinking",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Frustrating at times",
+      "Requires dedication"
+    ],
+    "watchOut": "Don't get discouraged if you don't see immediate results from tactics training, as improvement takes time and practice",
+    "faq": [
+      {
+        "q": "What are the best resources for tactics training?",
+        "a": "Chess.com, Lichess, and Chess24 are popular online resources for tactics training"
+      },
+      {
+        "q": "How often should I practice tactics?",
+        "a": "Aim to practice tactics at least 2-3 times a week, for 30 minutes to an hour each session"
+      },
+      {
+        "q": "Can tactics training be done offline?",
+        "a": "Yes, tactics training can be done offline using chess workbooks, puzzle books, or by analyzing master games"
+      }
+    ],
+    "category": "Tactics",
+    "tags": [
+      "Chess Improvement",
+      "Tactics Training"
+    ],
+    "sources": [
+      {
+        "label": "r/chessbeginners community threads",
+        "url": "https://www.reddit.com/r/chessbeginners/"
+      },
+      {
+        "label": "Search interest: \"endgame fundamentals\"",
+        "url": "https://duckduckgo.com/?q=endgame%20fundamentals"
+      }
+    ],
+    "publishedAt": "2026-07-29T11:08:07.429Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tactics-training-routine-field-test-4",
     "title": "\"tactics training routine\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about tactics training routine through a month of actual use. Some of it survived.",

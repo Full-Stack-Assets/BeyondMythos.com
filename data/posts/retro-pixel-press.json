@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-hdmi-upgrade",
+    "title": "Retro Reborn: Upgrading to HDMI for Smoother Speedruns",
+    "dek": "Upgrade your retro console to HDMI",
+    "takeaway": "HDMI upgrades can significantly improve speedrun performance and video quality",
+    "whatHappened": "Retro console owners have long struggled with outdated video outputs, but recent advancements in HDMI upgrade technology have made it possible to breathe new life into classic systems. This upgrade allows for smoother, more stable video output, reducing lag and improving overall gaming performance. As a result, speedrunners can now achieve more precise and consistent runs.",
+    "whyItMatters": "For speedrunners, every frame counts, and HDMI upgrades can provide a crucial edge in competition. Moreover, the improved video quality enhances the overall gaming experience, making it more enjoyable for retro game enthusiasts. By upgrading to HDMI, collectors can also future-proof their consoles, ensuring they remain compatible with modern displays.",
+    "howToThink": "When considering an HDMI upgrade, it's essential to research compatible solutions for your specific retro console model. Look for upgrades that are designed with speedrunners in mind, offering features like low latency and high-quality video processing. Additionally, ensure the upgrade is reversible, allowing you to restore your console to its original state if needed.",
+    "pros": [
+      "Improved video quality",
+      "Reduced lag",
+      "Increased compatibility"
+    ],
+    "cons": [
+      "Costly upgrades",
+      "Potential for installation errors",
+      "Limited compatibility with certain consoles"
+    ],
+    "watchOut": "Be cautious of cheap, low-quality HDMI upgrade solutions that may damage your console or provide subpar performance",
+    "faq": [
+      {
+        "q": "What is the average cost of an HDMI upgrade for a retro console?",
+        "a": "The cost can range from $20 to $200, depending on the console model and upgrade solution"
+      },
+      {
+        "q": "Will an HDMI upgrade void my console's warranty?",
+        "a": "It depends on the upgrade solution and manufacturer; be sure to check before installing"
+      },
+      {
+        "q": "Can I install an HDMI upgrade myself, or do I need a professional?",
+        "a": "While some upgrades can be installed DIY, others may require professional expertise to avoid damaging the console"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "SpeedrunTech"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-29T11:08:03.814Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-console-upgrade-options",
     "title": "Retro Console Upgrade Options for Speed Demons",
     "dek": "Upgrade for speed",

@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Distribution Done Right: The Secret to Perfect Espresso Shots</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-with-distribution-tools.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-with-distribution-tools.html</guid>
+      <pubDate>Wed, 29 Jul 2026 11:08:03 GMT</pubDate>
+      <description>Unlock perfect espresso shots with the right distribution tools.</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-9.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-9.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/grinder-maintenance-hacks.html</guid>
       <pubDate>Sat, 18 Jul 2026 15:36:28 GMT</pubDate>
       <description>Get more from your grinder.</description>
-    </item>
-    <item>
-      <title>Temperature Tuning for Espresso Mastery</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-temp-for-perfection.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-temp-for-perfection.html</guid>
-      <pubDate>Sat, 18 Jul 2026 14:07:51 GMT</pubDate>
-      <description>Dial in the perfect shot with temperature control.</description>
     </item>
   </channel>
 </rss>

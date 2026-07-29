@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Reborn: Upgrading to HDMI for Smoother Speedruns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-hdmi-upgrade.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-hdmi-upgrade.html</guid>
+      <pubDate>Wed, 29 Jul 2026 11:08:03 GMT</pubDate>
+      <description>Upgrade your retro console to HDMI</description>
+    </item>
+    <item>
       <title>Retro Console Upgrade Options for Speed Demons</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade-options.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade-options.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-7.html</guid>
       <pubDate>Sat, 18 Jul 2026 15:36:28 GMT</pubDate>
       <description>Breathe new life into old consoles</description>
-    </item>
-    <item>
-      <title>Mod Your Way to Glory: A Beginner&apos;s Guide to Retro Console Modding</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-2.html</guid>
-      <pubDate>Sat, 18 Jul 2026 14:07:51 GMT</pubDate>
-      <description>Unlock your console&apos;s full potential</description>
     </item>
   </channel>
 </rss>

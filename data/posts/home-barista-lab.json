@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-coffee-flavor-with-distribution-tools",
+    "title": "Distribution Done Right: The Secret to Perfect Espresso Shots",
+    "dek": "Unlock perfect espresso shots with the right distribution tools.",
+    "takeaway": "Proper distribution is key to achieving balanced and flavorful espresso shots at home.",
+    "whatHappened": "Recently, we've seen a surge in home baristas experimenting with distribution tools to improve their espresso game. From manual distributors to automated tools, the options are vast, but the goal remains the same: to evenly saturate the coffee grounds for a perfect shot. However, with so many tools on the market, it can be difficult to know where to start.",
+    "whyItMatters": "Even distribution of coffee grounds is crucial for achieving the perfect espresso shot, as it ensures all grounds are saturated evenly, resulting in a balanced and flavorful extraction. Without proper distribution, channeling can occur, leading to under-extracted or over-extracted shots. By using the right distribution tool, home baristas can take their espresso to the next level.",
+    "howToThink": "When selecting a distribution tool, consider the type of espresso machine you're using, as well as your personal preference for manual or automated tools. It's also essential to practice and experiment with different distribution techniques to find what works best for you. Finally, remember that distribution is just one part of the espresso equation – also focus on grind quality, tamping, and machine maintenance for optimal results.",
+    "pros": [
+      "Improved shot consistency",
+      "Increased flavor balance",
+      "Easy to use and clean"
+    ],
+    "cons": [
+      "Additional cost",
+      "May require practice to master",
+      "Not essential for all espresso machines"
+    ],
+    "watchOut": "Be cautious of over-distribution, as it can lead to channeling and a less-than-desirable flavor profile.",
+    "faq": [
+      {
+        "q": "What is the best type of distribution tool for a manual espresso machine?",
+        "a": "A manual distribution tool is often the best choice for manual espresso machines, as it allows for more control and precision."
+      },
+      {
+        "q": "Can I use a distribution tool with a super-automatic espresso machine?",
+        "a": "While some super-automatic machines may have built-in distribution systems, using a separate distribution tool can still be beneficial for achieving optimal results."
+      },
+      {
+        "q": "How do I clean and maintain my distribution tool?",
+        "a": "Regularly clean your distribution tool with soap and water, and dry thoroughly to prevent any buildup or bacterial growth."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-29T11:08:03.711Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-9",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

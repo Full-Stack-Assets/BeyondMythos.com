@@ -1,5 +1,56 @@
 [
   {
+    "slug": "streamlining-your-pack-list",
+    "title": "Cutting the Fat: How to Optimize Your Pack List",
+    "dek": "Shed weight, not essentials",
+    "takeaway": "A well-optimized pack list is key to a successful thru-hike",
+    "whatHappened": "Many backpackers struggle with packing too much gear, leading to a heavier pack and decreased mobility. By streamlining your pack list, you can shed unnecessary weight and focus on the essentials. This can be achieved by meticulous planning and a willingness to cut back on non-essential items.",
+    "whyItMatters": "A lighter pack can greatly improve your overall hiking experience, reducing fatigue and allowing you to cover more ground. Additionally, a well-optimized pack list can help you stay within your budget and reduce waste. By prioritizing the most important items, you can ensure a safer and more enjoyable journey.",
+    "howToThink": "When optimizing your pack list, consider the principles of ultralight backpacking: prioritize multi-use items, choose gear with a high weight-to-value ratio, and be ruthless about cutting back on non-essentials. It's also important to regularly review and update your pack list to reflect changing conditions and new gear options.",
+    "pros": [
+      "Increased mobility",
+      "Reduced fatigue",
+      "Improved budgeting"
+    ],
+    "cons": [
+      "Initial time investment",
+      "Potential for oversight",
+      "Difficulty in making cuts"
+    ],
+    "watchOut": "Be cautious not to sacrifice essential items in the pursuit of a lighter pack",
+    "faq": [
+      {
+        "q": "What is the best way to start optimizing my pack list?",
+        "a": "Begin by making a thorough inventory of your current gear and identifying areas for reduction"
+      },
+      {
+        "q": "How do I know what items to cut from my pack list?",
+        "a": "Consider the frequency of use, weight, and importance of each item to determine what can be safely removed"
+      },
+      {
+        "q": "Are there any resources available to help with pack list optimization?",
+        "a": "Yes, there are many online resources and communities dedicated to ultralight backpacking and pack list optimization"
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "pack optimization",
+      "ultralight backpacking"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-07-29T11:08:07.659Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "lower-base-weight-cheap-field-test-4",
     "title": "\"lower base weight cheap\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about lower base weight cheap through a month of actual use. Some of it survived.",
