@@ -11,6 +11,8 @@ Blog forge + storefront API. BeyondMythos continuously deploys new niche blog si
 - **Hourly posts** — `.github/workflows/hourly-posts.yml` adds one fresh post to *every* existing site at :45 and redeploys its standalone project, so sites keep publishing continuously
 - **No API key required** — template mode works out of the box; optional AI via Groq (free), OpenRouter, OpenAI, or Gemini
 - **Store API** — 30+ products (merch, digital guides, dropship accessories) with catalog-validated Stripe Checkout
+- **Portfolio strategy engine** — tiered domain operating model, KPI mapping, and campaign cadence exposed via API + `/portfolio`
+- **Digital fulfillment foundation** — customer access links, digital delivery retrieval, and recovery endpoints
 
 ## Requirements
 
@@ -43,6 +45,7 @@ cp .env.example .env
 | `DISABLE_AI_CONTENT` | No | Set to `true` to force template-only mode |
 | `STRIPE_SECRET_KEY` | Checkout only | Stripe Checkout sessions |
 | `FRONTEND_URL` | Checkout only | Stripe success/cancel redirects |
+| `CUSTOMER_ACCESS_SECRET` | Recommended | HMAC secret used for customer digital access tokens |
 | `STORE_NAME` | No | Store branding in `/api/store/config` |
 | `CORS_ORIGIN` | No | Comma-separated CORS allowlist |
 | `SITE_CONCURRENCY` | No | Parallel site processing in hourly scripts (default `4`) |
@@ -77,6 +80,7 @@ Post content is persisted per site in `data/posts/{slug}.json`, so the archive g
 ## Store catalog
 
 Products are defined server-side in `lib/products.js` and sold via Stripe Checkout. Clients send only `{ id, quantity }` — prices are never trusted from the browser.
+Each product now includes a normalized offer tier (`entry`, `core`, or `premium`) so you can build consistent offer ladders across properties.
 
 | Category | Type | Examples |
 |----------|------|----------|
@@ -98,6 +102,8 @@ StoreForge now exposes revenue primitives on the live dashboard and every genera
 - Newsletter capture (`POST /api/newsletter/subscribe`, forwarded to `NEWSLETTER_WEBHOOK_URL` when configured)
 - Per-niche product recommendations from the server-side product catalog
 - External digital download storefront links: Etsy, Gumroad, Shopify, Payhip, Lemon Squeezy, and Ko-fi
+- Customer self-serve delivery access (`/api/customer/access/request` + `/api/customer/access`)
+- Revenue telemetry for checkout starts, completed purchases, refunds, and top funnels (`/api/revenue/dashboard`)
 
 Useful storefront env vars: `ETSY_SHOP_URL`, `GUMROAD_PROFILE_URL`, `SHOPIFY_STORE_URL`, `PAYHIP_STORE_URL`, `LEMONSQUEEZY_STORE_URL`, `KOFI_SHOP_URL`.
 
@@ -191,17 +197,27 @@ curl https://YOUR-PROJECT.vercel.app/api/status
 | Method | Path | Description |
 |--------|------|-------------|
 | `GET` | `/` | Live blog stream dashboard (HTML) |
+| `GET` | `/portfolio` | Portfolio operating model page (tiers, roles, KPIs, campaign cadence) |
 | `GET` | `/api/status` | API health JSON |
 | `GET` | `/healthz` | Health check |
 | `GET` | `/api/blog-sites` | All deployed blog sites |
+| `GET` | `/api/portfolio/strategy` | Tier strategy, domain role map, KPI and campaign metadata |
+| `GET` | `/api/portfolio/dashboard` | Strategy summary + cross-site revenue view |
 | `POST` | `/api/blog-sites/generate` | Generate + register a new site (auth required) |
 | `GET` | `/sites/{slug}/` | Generated blog site |
 | `GET` | `/store` | Public digital product storefront |
 | `GET` | `/api/store/config` | Store branding, categories, and product types |
-| `GET` | `/api/store/products` | Product list (`?type=digital`, `?category=merch`, `?fulfillment=dropship`) |
+| `GET` | `/api/store/products` | Product list (`?type=digital`, `?category=merch`, `?fulfillment=dropship`, `?tier=entry|core|premium`) |
 | `GET` | `/api/monetization/config` | Public monetization status, marketplace links, and disclosure |
 | `POST` | `/api/newsletter/subscribe` | Newsletter capture endpoint; forwards to `NEWSLETTER_WEBHOOK_URL` when configured |
 | `POST` | `/api/create-checkout` | Stripe Checkout session (catalog-validated; send `{ id, quantity }` per item) |
+| `POST` | `/api/purchases/record` | Record a paid purchase + generate customer access token (auth required) |
+| `POST` | `/api/customer/access/request` | Request a fresh customer delivery-access link by email |
+| `GET` | `/api/customer/access` | Retrieve purchases/download links from a signed access token |
+| `POST` | `/api/purchases/recover` | Recovery flow for expired digital-delivery links |
+| `GET` | `/api/digital-access/{purchaseId}/{productId}` | Validate tokenized access to a digital product |
+| `POST` | `/api/purchases/refund` | Mark purchase refunded for analytics/recovery updates (auth required) |
+| `GET` | `/api/revenue/dashboard` | Cross-site funnel KPIs (conversion, refunds, top funnels, product performance) |
 
 ## Standalone deployments per site
 

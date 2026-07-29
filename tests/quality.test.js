@@ -3,10 +3,11 @@
 
 const { describe, it } = require("node:test");
 const assert = require("node:assert/strict");
+const fs = require("fs");
 
 const { slugify } = require("../lib/slug");
 const { buildCheckoutLineItems } = require("../lib/checkout");
-const { getProductById, listProducts } = require("../lib/products");
+const { getProductById, listProducts, offerTierForProduct } = require("../lib/products");
 const { parseModelJson, extractPostsArray } = require("../lib/content-prompts");
 const {
   resolveContentProvider,
@@ -19,6 +20,16 @@ const { mapWithConcurrency } = require("../lib/concurrency");
 const { getBaseUrl } = require("../lib/config");
 const { pickNiche } = require("../lib/niches");
 const { getMarketplaceLinks, getSponsorSlot, recommendedProducts, affiliateSearchUrl } = require("../lib/monetization");
+const { loadPortfolioStrategy, summarizePortfolio, listPortfolioDomains } = require("../lib/portfolio");
+const {
+  COMMERCE_STATE_PATH,
+  saveCommerceState,
+  recordCheckoutStarted,
+  recordPurchase,
+  customerAccess,
+  resolveDigitalAccess,
+  revenueDashboard
+} = require("../lib/fulfillment");
 
 describe("slugify", () => {
   it("converts text to kebab-case", () => {
@@ -47,6 +58,14 @@ describe("products and checkout", () => {
     assert.ok(digital.every((product) => product.type === "digital"));
     assert.ok(merch.length >= 8);
     assert.ok(merch.every((product) => product.category === "merch"));
+  });
+
+  it("assigns offer tiers and supports tier filtering", () => {
+    assert.equal(offerTierForProduct(getProductById(202)), "entry");
+    assert.equal(offerTierForProduct(getProductById(226)), "core");
+    assert.equal(offerTierForProduct(getProductById(213)), "premium");
+    const premium = listProducts({ type: "digital", tier: "premium" });
+    assert.ok(premium.every((product) => product.offerTier === "premium"));
   });
 
   it("rejects unknown product ids", () => {
@@ -197,6 +216,64 @@ describe("config", () => {
     else process.env.STOREFORGE_URL = previous.store;
     if (previous.front === undefined) delete process.env.FRONTEND_URL;
     else process.env.FRONTEND_URL = previous.front;
+  });
+
+  describe("portfolio strategy", () => {
+    it("contains tier/domain role mappings and campaign structure", () => {
+      const strategy = loadPortfolioStrategy();
+      const summary = summarizePortfolio(strategy);
+      const domains = listPortfolioDomains(strategy);
+      assert.ok(summary.tierCount >= 3);
+      assert.ok(summary.domainCount >= 10);
+      assert.ok(domains.some((domain) => domain.domain === "beyondmythos.com" && domain.northStarKpi === "digital sales"));
+      assert.ok((strategy.campaignCalendar?.weeklyThemes || []).length >= 13);
+    });
+  });
+
+  describe("fulfillment and revenue", () => {
+    it("records purchases and serves tokenized digital access", () => {
+      const original = fs.readFileSync(COMMERCE_STATE_PATH, "utf8");
+      try {
+        saveCommerceState({ customers: [], purchases: [], events: [] });
+        recordCheckoutStarted({ site: "beyondmythos.com", email: "buyer@example.com", items: [{ id: 201, quantity: 1 }] });
+        const created = recordPurchase({
+          email: "buyer@example.com",
+          site: "beyondmythos.com",
+          items: [{ id: 201, quantity: 1 }, { id: 205, quantity: 1 }]
+        });
+        assert.ok(created.purchase.id);
+        assert.ok(created.accessToken);
+        const access = customerAccess(created.accessToken);
+        assert.equal(access.customer.email, "buyer@example.com");
+        assert.ok(access.purchases[0].downloads.length >= 1);
+        const download = access.purchases[0].downloads[0];
+        const resolved = resolveDigitalAccess({
+          purchaseId: access.purchases[0].id,
+          productId: download.productId,
+          token: created.accessToken
+        });
+        assert.match(resolved.message, /Delivery access granted/);
+      } finally {
+        fs.writeFileSync(COMMERCE_STATE_PATH, original, "utf8");
+      }
+    });
+
+    it("computes cross-site revenue dashboard metrics", () => {
+      const original = fs.readFileSync(COMMERCE_STATE_PATH, "utf8");
+      try {
+        saveCommerceState({ customers: [], purchases: [], events: [] });
+        recordCheckoutStarted({ site: "beyondmythos.com", email: "a@example.com", items: [{ id: 201, quantity: 1 }] });
+        recordCheckoutStarted({ site: "wireandlogic.com", email: "b@example.com", items: [{ id: 213, quantity: 1 }] });
+        recordPurchase({ email: "a@example.com", site: "beyondmythos.com", items: [{ id: 201, quantity: 1 }] });
+        const dashboard = revenueDashboard();
+        assert.equal(dashboard.totals.checkoutsStarted, 2);
+        assert.equal(dashboard.totals.purchasesCompleted, 1);
+        assert.equal(dashboard.totals.conversionRate, 0.5);
+        assert.ok(dashboard.topFunnels.length >= 1);
+      } finally {
+        fs.writeFileSync(COMMERCE_STATE_PATH, original, "utf8");
+      }
+    });
   });
 });
 
