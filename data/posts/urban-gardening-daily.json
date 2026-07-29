@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-7",
+    "title": "Boost Your Yield: Essential Balcony Layout Tips",
+    "dek": "Get the most from your balcony garden",
+    "takeaway": "Smart layout choices can significantly increase your balcony garden's yield and productivity",
+    "whatHappened": "As urban gardening continues to gain popularity, many apartment dwellers are looking for ways to maximize their outdoor space. With a little creativity, even the smallest balconies can become thriving gardens. By applying a few key principles, gardeners can make the most of their available space and enjoy a bountiful harvest.",
+    "whyItMatters": "Maximizing your balcony space is crucial for urban gardeners, as it allows for a greater variety of plants and a more substantial yield. This, in turn, can lead to increased food security, improved air quality, and enhanced mental well-being. By optimizing their outdoor space, gardeners can also create a peaceful oasis in the midst of the bustling city.",
+    "howToThink": "To maximize your balcony space, consider using vertical containers, trellises, and tiered planters. Grouping plants by their lighting requirements can also help ensure each plant receives the right amount of sunlight. Additionally, choosing compact or dwarf varieties of plants can help make the most of your available space.",
+    "pros": [
+      "Increased yield",
+      "Improved air quality",
+      "Enhanced aesthetics"
+    ],
+    "cons": [
+      "Initial investment",
+      "Ongoing maintenance",
+      "Potential for overcrowding"
+    ],
+    "watchOut": "Be cautious not to overwater your plants, as this can lead to root rot and other issues in tight spaces",
+    "faq": [
+      {
+        "q": "What is the best way to determine the right amount of sunlight for my plants?",
+        "a": "Check the plant's specific lighting requirements and observe the amount of direct sunlight your balcony receives throughout the day"
+      },
+      {
+        "q": "How can I prevent my plants from becoming too top-heavy?",
+        "a": "Use a sturdy trellis or cage to provide support, and consider pruning or trimming back overgrown stems"
+      },
+      {
+        "q": "What is the most space-efficient way to water my plants?",
+        "a": "Consider using a drip irrigation system or a self-watering planter to minimize waste and reduce maintenance"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "small space tips"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-29T16:57:05.577Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-11",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

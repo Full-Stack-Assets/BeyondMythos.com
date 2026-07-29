@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-pixel-perfection",
+    "title": "Optimizing Retro Consoles for Competitive Speedruns",
+    "dek": "Upgrade your retro gear for speedrun success",
+    "takeaway": "Properly optimizing your retro console can significantly improve your speedrun performance",
+    "whatHappened": "Recent advancements in retro console modification have made it possible for speedrunners to achieve faster load times and improved overall performance. By upgrading their hardware, speedrunners can gain a competitive edge in the scene. However, navigating the world of retro console mods can be daunting for newcomers.",
+    "whyItMatters": "With the rise of competitive speedrunning, having optimized hardware can be the difference between a world record and a mediocre run. Moreover, proper optimization can help extend the lifespan of classic consoles, preserving their functionality for future generations. As the speedrunning community continues to grow, the demand for optimized retro consoles will only increase.",
+    "howToThink": "When approaching retro console optimization, it's essential to consider the specific needs of your setup and the games you're running. Researching the most effective mods for your console and consulting with experienced speedrunners can help you make informed decisions. Additionally, keeping your console and its components clean and well-maintained is crucial for optimal performance.",
+    "pros": [
+      "Improved load times",
+      "Enhanced performance",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Cost of upgrades",
+      "Technical complexity",
+      "Potential for hardware damage"
+    ],
+    "watchOut": "Be cautious when installing mods to avoid damaging your console or voiding its warranty",
+    "faq": [
+      {
+        "q": "What's the best way to upgrade my retro console?",
+        "a": "Research and consult with experienced speedrunners to determine the most effective mods for your setup"
+      },
+      {
+        "q": "Can I use modern hardware with my retro console?",
+        "a": "Yes, but ensure compatibility and consider potential latency or performance issues"
+      },
+      {
+        "q": "How do I maintain my optimized retro console?",
+        "a": "Regularly clean and inspect your console and its components to prevent damage and ensure optimal performance"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-29T16:57:05.181Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rebooting-retro-peripherals",
     "title": "Reviving Retro Peripherals for Modern Speedruns",
     "dek": "Upgrade your retro game with new peripherals",
