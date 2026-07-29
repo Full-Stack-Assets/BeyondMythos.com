@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Grinder Cleaning Hacks for Better Flavors</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-cleaning-hacks.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-cleaning-hacks.html</guid>
+      <pubDate>Wed, 29 Jul 2026 19:59:15 GMT</pubDate>
+      <description>Get more from your beans with a clean grinder</description>
+    </item>
+    <item>
       <title>Roast Level Hacking: The Overlooked Variable in Your Espresso</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/scaling-your-roast.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/scaling-your-roast.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-tweaks.html</guid>
       <pubDate>Sat, 18 Jul 2026 21:32:47 GMT</pubDate>
       <description>Improve your espresso with precise tamping.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your gear questions, answered</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-6.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-6.html</guid>
-      <pubDate>Sat, 18 Jul 2026 19:49:23 GMT</pubDate>
-      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-grinder-cleaning-hacks",
+    "title": "Grinder Cleaning Hacks for Better Flavors",
+    "dek": "Get more from your beans with a clean grinder",
+    "takeaway": "Regular cleaning of your coffee grinder is crucial for optimal flavor extraction",
+    "whatHappened": "We've all been there - a beautifully crafted espresso shot ruined by stale, old coffee oils lingering in the grinder. It's an easy mistake to make, but one that can be avoided with simple, regular maintenance. By incorporating a quick cleaning routine into your daily coffee ritual, you can ensure your grinder always performs at its best.",
+    "whyItMatters": "A clean grinder is essential for preserving the delicate flavors and aromas of your coffee beans. Old, residual coffee oils can impart stale, bitter notes into your freshly ground coffee, ruining an otherwise perfect shot. Furthermore, a clean grinder reduces the risk of clogs and jams, saving you time and frustration in the long run.",
+    "howToThink": "To keep your grinder in top condition, think about cleaning it every 1-2 weeks, or more often if you use it daily. A simple brush or cloth can be used to wipe away any loose coffee particles, while a deeper clean with a grinder-specific cleaning solution can be done every month or so. By staying on top of grinder maintenance, you'll be rewarded with consistently better-tasting coffee.",
+    "pros": [
+      "Improved flavor",
+      "Reduced clogs",
+      "Easier maintenance"
+    ],
+    "cons": [
+      "Extra time required",
+      "Cleaning solutions can be costly",
+      "May void warranty if not done correctly"
+    ],
+    "watchOut": "Be careful not to use water or harsh chemicals when cleaning your grinder, as this can damage the blades or other components",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Every 1-2 weeks, or more often if used daily"
+      },
+      {
+        "q": "What's the best way to clean my grinder?",
+        "a": "Use a brush or cloth to wipe away loose particles, and a grinder-specific cleaning solution for deeper cleans"
+      },
+      {
+        "q": "Can I use water to clean my grinder?",
+        "a": "No, water can damage the blades or other components - use a dry brush or cleaning solution instead"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "coffee grinder",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-29T19:59:15.099Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "scaling-your-roast",
     "title": "Roast Level Hacking: The Overlooked Variable in Your Espresso",
     "dek": "Unlock new flavors by tweaking roast levels",
