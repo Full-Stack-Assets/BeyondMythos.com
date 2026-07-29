@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rebooting-retro-peripherals",
+    "title": "Reviving Retro Peripherals for Modern Speedruns",
+    "dek": "Upgrade your retro game with new peripherals",
+    "takeaway": "Upgrading retro peripherals can significantly improve speedrun performance",
+    "whatHappened": "The rise of retro gaming has led to a shortage of original peripherals, forcing collectors and speedrunners to rely on third-party alternatives. However, these alternatives often lack the quality and consistency of the originals. Recently, a new wave of manufacturers has emerged, offering high-quality retro peripherals that cater to the needs of speedrunners.",
+    "whyItMatters": "For speedrunners, having the right peripherals can make all the difference between a good run and a great one. High-quality peripherals can provide faster input times, more precise controls, and a more comfortable gaming experience. Additionally, the use of original or high-quality retro peripherals can also help to preserve the authenticity of the gaming experience.",
+    "howToThink": "When shopping for retro peripherals, consider the type of games you play, the level of precision you need, and the durability of the product. Look for peripherals that are designed specifically for retro consoles and are compatible with your system. It's also essential to read reviews and do your research to ensure that you're getting a high-quality product that meets your needs.",
+    "pros": [
+      "Improved performance",
+      "Enhanced gaming experience",
+      "Increased durability"
+    ],
+    "cons": [
+      "Higher cost",
+      "Limited availability",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be cautious of low-quality peripherals that can damage your console or hinder your speedrun performance",
+    "faq": [
+      {
+        "q": "What are the best retro peripherals for speedrunners?",
+        "a": "The best peripherals depend on the specific console and game, but popular options include high-quality controllers, USB adapters, and retro-style keyboards"
+      },
+      {
+        "q": "Can I use modern peripherals with my retro console?",
+        "a": "Yes, many modern peripherals are compatible with retro consoles, but may require adapters or converters"
+      },
+      {
+        "q": "How can I ensure the authenticity of my retro gaming experience?",
+        "a": "Use original or high-quality retro peripherals, and avoid modifying your console or games in any way that could compromise their authenticity"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-29T15:34:19.190Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-hardware-hacks",
     "title": "Retro Hardware Hacks to Supercharge Your Speedruns",
     "dek": "Upgrade your retro console for smoother speedruns",
