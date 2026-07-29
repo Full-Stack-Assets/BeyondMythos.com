@@ -8,6 +8,7 @@ const fs = require("fs");
 const { slugify } = require("../lib/slug");
 const { buildCheckoutLineItems } = require("../lib/checkout");
 const { getProductById, listProducts, offerTierForProduct } = require("../lib/products");
+const { purchasePayloadFromSession } = require("../lib/stripe-webhooks");
 const { parseModelJson, extractPostsArray } = require("../lib/content-prompts");
 const {
   resolveContentProvider,
@@ -16,6 +17,7 @@ const {
 } = require("../lib/content-provider");
 const { postTemplates, hourlyPostTemplate } = require("../lib/templates");
 const { themeKeyForNiche, THEMES } = require("../lib/themes");
+const { renderHome } = require("../lib/renderer");
 const { mapWithConcurrency } = require("../lib/concurrency");
 const { getBaseUrl } = require("../lib/config");
 const { pickNiche } = require("../lib/niches");
@@ -30,6 +32,11 @@ const {
   resolveDigitalAccess,
   revenueDashboard
 } = require("../lib/fulfillment");
+const {
+  NEWSLETTER_STATE_PATH,
+  saveNewsletterState,
+  recordNewsletterSignup
+} = require("../lib/newsletter");
 
 describe("slugify", () => {
   it("converts text to kebab-case", () => {
@@ -274,6 +281,109 @@ describe("config", () => {
         fs.writeFileSync(COMMERCE_STATE_PATH, original, "utf8");
       }
     });
+
+    it("avoids duplicate purchases for the same provider session id", () => {
+      const original = fs.readFileSync(COMMERCE_STATE_PATH, "utf8");
+      try {
+        saveCommerceState({ customers: [], purchases: [], events: [] });
+        const first = recordPurchase({
+          email: "idempotent@example.com",
+          site: "beyondmythos.com",
+          provider: "stripe",
+          providerSessionId: "cs_test_123",
+          items: [{ id: 201, quantity: 1 }]
+        });
+        const second = recordPurchase({
+          email: "idempotent@example.com",
+          site: "beyondmythos.com",
+          provider: "stripe",
+          providerSessionId: "cs_test_123",
+          items: [{ id: 201, quantity: 1 }]
+        });
+        const snapshot = JSON.parse(fs.readFileSync(COMMERCE_STATE_PATH, "utf8"));
+        assert.equal(snapshot.purchases.length, 1);
+        assert.equal(second.purchase.id, first.purchase.id);
+        assert.equal(second.existing, true);
+      } finally {
+        fs.writeFileSync(COMMERCE_STATE_PATH, original, "utf8");
+      }
+    });
+  });
+});
+
+describe("stripe webhook mapping", () => {
+  it("maps Stripe checkout session + line items to catalog purchase payload", () => {
+    const payload = purchasePayloadFromSession({
+      session: {
+        id: "cs_test_456",
+        customer_email: "buyer@example.com",
+        metadata: { site: "beyondmythos.com" }
+      },
+      lineItems: [
+        { quantity: 1, price: { product: { metadata: { product_id: "201" } } } },
+        { quantity: 2, price: { product: { metadata: { product_id: "205" } } } }
+      ]
+    });
+    assert.equal(payload.provider, "stripe");
+    assert.equal(payload.providerSessionId, "cs_test_456");
+    assert.equal(payload.email, "buyer@example.com");
+    assert.equal(payload.items.length, 2);
+    assert.deepEqual(payload.items[0], { id: 201, quantity: 1 });
+    assert.deepEqual(payload.items[1], { id: 205, quantity: 2 });
+  });
+});
+
+describe("newsletter persistence", () => {
+  it("records signups locally and deduplicates repeats", () => {
+    const hadFile = fs.existsSync(NEWSLETTER_STATE_PATH);
+    const original = hadFile ? fs.readFileSync(NEWSLETTER_STATE_PATH, "utf8") : null;
+    try {
+      saveNewsletterState({ signups: [] });
+      const first = recordNewsletterSignup({ email: "reader@example.com", site: "retro-pixel-press" });
+      const second = recordNewsletterSignup({ email: "reader@example.com", site: "retro-pixel-press" });
+      const state = JSON.parse(fs.readFileSync(NEWSLETTER_STATE_PATH, "utf8"));
+      assert.equal(first.existing, false);
+      assert.equal(second.existing, true);
+      assert.equal(state.signups.length, 1);
+    } finally {
+      if (!hadFile) fs.rmSync(NEWSLETTER_STATE_PATH, { force: true });
+      else fs.writeFileSync(NEWSLETTER_STATE_PATH, original, "utf8");
+    }
+  });
+});
+
+describe("site AI agent embed", () => {
+  it("renders ElevenLabs widget when ELEVENLABS_AGENT_ID is configured", () => {
+    const saved = process.env.ELEVENLABS_AGENT_ID;
+    try {
+      process.env.ELEVENLABS_AGENT_ID = "agent_test_123";
+      const html = renderHome(
+        {
+          slug: "test-site",
+          name: "Test Site",
+          tagline: "Tagline",
+          audience: "audience",
+          categories: ["Tools"],
+          createdAt: new Date().toISOString(),
+          streamUrl: "https://www.beyondmythos.com/"
+        },
+        [
+          {
+            slug: "hello",
+            title: "Hello",
+            category: "Tools",
+            dek: "Dek",
+            publishedAt: new Date().toISOString(),
+            readMinutes: 2
+          }
+        ],
+        THEMES[themeKeyForNiche("retro-gaming")]
+      );
+      assert.match(html, /elevenlabs-convai/);
+    } finally {
+      if (saved === undefined) delete process.env.ELEVENLABS_AGENT_ID;
+      else process.env.ELEVENLABS_AGENT_ID = saved;
+    }
   });
 });
 
