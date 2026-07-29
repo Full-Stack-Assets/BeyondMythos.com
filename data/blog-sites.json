@@ -1074,8 +1074,30 @@
       "streamUrl": "https://www.beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-07-29T16:57:10.872Z"
+    },
+    {
+      "id": "seam-allowance-daily-1785346720549",
+      "slug": "seam-allowance-daily",
+      "name": "Seam Allowance Daily",
+      "tagline": "Fresh takes for home sewists and pattern hackers.",
+      "nicheId": "sewing-patterns",
+      "audience": "home sewists and pattern hackers",
+      "categories": [
+        "Patterns",
+        "Fabric",
+        "Fitting",
+        "Machines"
+      ],
+      "url": "https://www.beyondmythos.com/sites/seam-allowance-daily/",
+      "localUrl": "https://www.beyondmythos.com/sites/seam-allowance-daily/",
+      "vercel": null,
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-07-29T17:38:40.277Z",
+      "streamUrl": "https://www.beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-07-29T15:19:05.174Z",
+  "lastGeneratedAt": "2026-07-29T17:38:40.277Z",
   "lastPostRunAt": "2026-07-29T16:57:11.188Z"
 }
