@@ -89,6 +89,20 @@ Filter the catalog: `GET /api/store/products?type=digital` or `?category=merch`.
 
 Digital products are limited to one per order. Stripe line items include fulfillment metadata for post-purchase automation.
 
+## Monetization surfaces
+
+StoreForge now exposes revenue primitives on the live dashboard and every generated site:
+
+- Affiliate disclosure and per-niche affiliate search links (`AMAZON_ASSOCIATE_TAG` or `AFFILIATE_SEARCH_URL`)
+- Sponsor slot (`SPONSOR_NAME`, `SPONSOR_URL`, `SPONSOR_TAGLINE`, `SPONSOR_LABEL`)
+- Newsletter capture (`POST /api/newsletter/subscribe`, forwarded to `NEWSLETTER_WEBHOOK_URL` when configured)
+- Per-niche product recommendations from the server-side product catalog
+- External digital download storefront links: Etsy, Gumroad, Shopify, Payhip, Lemon Squeezy, and Ko-fi
+
+Useful storefront env vars: `ETSY_SHOP_URL`, `GUMROAD_PROFILE_URL`, `SHOPIFY_STORE_URL`, `PAYHIP_STORE_URL`, `LEMONSQUEEZY_STORE_URL`, `KOFI_SHOP_URL`.
+
+See `docs/REVENUE-STREAMS.md` for the cross-project revenue map and patent-prep notes.
+
 ## AI content providers
 
 No API key is required — template mode generates full posts automatically. To enable AI-written content, set **one** of these keys (checked in order when `CONTENT_PROVIDER=auto`):
@@ -182,8 +196,11 @@ curl https://YOUR-PROJECT.vercel.app/api/status
 | `GET` | `/api/blog-sites` | All deployed blog sites |
 | `POST` | `/api/blog-sites/generate` | Generate + register a new site (auth required) |
 | `GET` | `/sites/{slug}/` | Generated blog site |
+| `GET` | `/store` | Public digital product storefront |
 | `GET` | `/api/store/config` | Store branding, categories, and product types |
 | `GET` | `/api/store/products` | Product list (`?type=digital`, `?category=merch`, `?fulfillment=dropship`) |
+| `GET` | `/api/monetization/config` | Public monetization status, marketplace links, and disclosure |
+| `POST` | `/api/newsletter/subscribe` | Newsletter capture endpoint; forwards to `NEWSLETTER_WEBHOOK_URL` when configured |
 | `POST` | `/api/create-checkout` | Stripe Checkout session (catalog-validated; send `{ id, quantity }` per item) |
 
 ## Standalone deployments per site

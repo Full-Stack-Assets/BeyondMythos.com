@@ -18,6 +18,7 @@ const { themeKeyForNiche, THEMES } = require("../lib/themes");
 const { mapWithConcurrency } = require("../lib/concurrency");
 const { getBaseUrl } = require("../lib/config");
 const { pickNiche } = require("../lib/niches");
+const { getMarketplaceLinks, getSponsorSlot, recommendedProducts, affiliateSearchUrl } = require("../lib/monetization");
 
 describe("slugify", () => {
   it("converts text to kebab-case", () => {
@@ -42,7 +43,7 @@ describe("products and checkout", () => {
   it("filters products by type and category", () => {
     const digital = listProducts({ type: "digital" });
     const merch = listProducts({ category: "merch" });
-    assert.ok(digital.length >= 10);
+    assert.ok(digital.length >= 25);
     assert.ok(digital.every((product) => product.type === "digital"));
     assert.ok(merch.length >= 8);
     assert.ok(merch.every((product) => product.category === "merch"));
@@ -133,6 +134,36 @@ describe("niche selection", () => {
     const niche = pickNiche(allIds);
     assert.ok(niche);
     assert.ok(allIds.has(niche.id));
+  });
+});
+
+describe("monetization", () => {
+  it("builds marketplace links only from configured URLs", () => {
+    const saved = process.env.ETSY_SHOP_URL;
+    process.env.ETSY_SHOP_URL = "https://example.com/etsy";
+    const links = getMarketplaceLinks();
+    assert.ok(links.some((link) => link.key === "etsy" && link.url === "https://example.com/etsy"));
+    if (saved === undefined) delete process.env.ETSY_SHOP_URL;
+    else process.env.ETSY_SHOP_URL = saved;
+  });
+
+  it("builds sponsor slots and affiliate links from env", () => {
+    const savedSponsor = process.env.SPONSOR_URL;
+    const savedAffiliate = process.env.AFFILIATE_SEARCH_URL;
+    process.env.SPONSOR_URL = "https://example.com/sponsor";
+    process.env.AFFILIATE_SEARCH_URL = "https://example.com/search?q={query}";
+    assert.equal(getSponsorSlot({ audience: "testers" }).url, "https://example.com/sponsor");
+    assert.equal(affiliateSearchUrl("niche tools"), "https://example.com/search?q=niche%20tools");
+    if (savedSponsor === undefined) delete process.env.SPONSOR_URL;
+    else process.env.SPONSOR_URL = savedSponsor;
+    if (savedAffiliate === undefined) delete process.env.AFFILIATE_SEARCH_URL;
+    else process.env.AFFILIATE_SEARCH_URL = savedAffiliate;
+  });
+
+  it("recommends products for generated niche sites", () => {
+    const products = recommendedProducts({ name: "Retro Pixel Press", audience: "retro game collectors", categories: ["Hardware"] });
+    assert.ok(products.length > 0);
+    assert.ok(products.every((product) => product.id));
   });
 });
 
