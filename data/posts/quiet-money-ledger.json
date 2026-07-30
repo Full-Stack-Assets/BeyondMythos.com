@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "saving-for-emergencies",
+    "title": "Emergency Funds 101",
+    "category": "Budgeting",
+    "dek": "Don't get caught off guard",
+    "takeaway": "Save 3-6 months' expenses",
+    "whatHappened": "Many of us live paycheck to paycheck, without any cushion for unexpected expenses. A car breakdown or medical bill can quickly lead to debt. Having an emergency fund can provide peace of mind. It's essential to prioritize saving for emergencies to avoid going into debt.",
+    "whyItMatters": "Without an emergency fund, you may be forced to take on high-interest debt or dip into retirement savings. This can have long-term consequences for your financial health. Having a cushion can help you stay on track with your financial goals.",
+    "howToThink": "Start by setting aside a small amount each month, and gradually increase the amount over time. Consider setting up automatic transfers from your checking account to your savings or investment account.",
+    "pros": [
+      "Reduces stress",
+      "Provides peace of mind",
+      "Helps avoid debt"
+    ],
+    "cons": [
+      "Ties up cash",
+      "May earn low interest",
+      "Requires discipline"
+    ],
+    "watchOut": "Don't use your emergency fund for non-essential purchases",
+    "faq": [
+      {
+        "q": "How much should I save?",
+        "a": "Aim for 3-6 months' expenses"
+      },
+      {
+        "q": "Where should I keep my emergency fund?",
+        "a": "Consider a high-yield savings account or money market fund"
+      },
+      {
+        "q": "Can I use my emergency fund for anything?",
+        "a": "No, only use it for essential expenses, like rent/mortgage, utilities, and food"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "tags": [
+      "emergency fund",
+      "savings"
+    ],
+    "publishedAt": "2026-07-30T03:28:33.436Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "debt-consolidation-strategies",
+    "title": "Debt Consolidation 101",
+    "category": "Debt",
+    "dek": "Simplify your debt",
+    "takeaway": "Combine debts into one loan",
+    "whatHappened": "Debt can be overwhelming, especially when you have multiple loans with different interest rates and payment due dates. Debt consolidation can help simplify your finances and potentially save you money. By combining your debts into one loan, you can make a single monthly payment and potentially lower your interest rate.",
+    "whyItMatters": "Debt consolidation can help you get out of debt faster and save money on interest. It can also help reduce stress and make managing your finances easier.",
+    "howToThink": "Consider consolidating your debt into a single loan with a lower interest rate and a longer repayment period. Make sure to read the fine print and understand the terms of the new loan.",
+    "pros": [
+      "Simplifies finances",
+      "Can lower interest rate",
+      "Reduces stress"
+    ],
+    "cons": [
+      "May not address underlying issues",
+      "Can be expensive",
+      "Requires discipline"
+    ],
+    "watchOut": "Don't consolidate debt into a loan with a higher interest rate",
+    "faq": [
+      {
+        "q": "What is debt consolidation?",
+        "a": "Combining multiple debts into one loan"
+      },
+      {
+        "q": "How do I consolidate my debt?",
+        "a": "Consider a balance transfer credit card or a personal loan"
+      },
+      {
+        "q": "Will debt consolidation hurt my credit score?",
+        "a": "It may temporarily lower your credit score, but can help in the long run"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"emergency fund strategy\"",
+        "url": "https://duckduckgo.com/?q=emergency%20fund%20strategy"
+      }
+    ],
+    "tags": [
+      "debt consolidation",
+      "personal loan"
+    ],
+    "publishedAt": "2026-07-28T14:28:33.436Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "investing-for-beginners",
+    "title": "Investing 101",
+    "category": "Investing",
+    "dek": "Start investing today",
+    "takeaway": "Investing is a long-term game",
+    "whatHappened": "Investing can seem intimidating, especially for beginners. However, it's an important step in building wealth and securing your financial future. By starting to invest early, you can take advantage of compound interest and potentially earn higher returns over time.",
+    "whyItMatters": "Investing can help you achieve your long-term financial goals, such as retirement or buying a house. It can also provide a hedge against inflation and help you build wealth over time.",
+    "howToThink": "Consider starting with a low-cost index fund or ETF, and gradually increasing your investment amount over time. Make sure to educate yourself on the basics of investing and avoid getting caught up in get-rich-quick schemes.",
+    "pros": [
+      "Can provide higher returns",
+      "Helps build wealth",
+      "Diversifies portfolio"
+    ],
+    "cons": [
+      "Involves risk",
+      "Requires patience",
+      "Can be complex"
+    ],
+    "watchOut": "Don't invest more than you can afford to lose",
+    "faq": [
+      {
+        "q": "What is investing?",
+        "a": "Putting money into assets to earn returns"
+      },
+      {
+        "q": "How do I get started with investing?",
+        "a": "Consider a brokerage account or a robo-advisor"
+      },
+      {
+        "q": "What are the risks of investing?",
+        "a": "There is a risk of losing some or all of your investment"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Bogleheads community threads",
+        "url": "https://www.reddit.com/r/Bogleheads/"
+      },
+      {
+        "label": "Search interest: \"index fund investing basics\"",
+        "url": "https://duckduckgo.com/?q=index%20fund%20investing%20basics"
+      }
+    ],
+    "tags": [
+      "investing",
+      "beginner"
+    ],
+    "publishedAt": "2026-07-27T01:28:33.436Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "budgeting-apps",
+    "title": "Budgeting Apps",
+    "category": "Tools",
+    "dek": "Take control of your finances",
+    "takeaway": "Use a budgeting app to track expenses",
+    "whatHappened": "Budgeting can be a daunting task, especially when you have multiple income sources and expenses to track. Budgeting apps can help make the process easier and more efficient. By linking your accounts and tracking your expenses, you can get a clear picture of your financial situation and make informed decisions.",
+    "whyItMatters": "Budgeting apps can help you stay on top of your finances, avoid overspending, and achieve your financial goals. They can also provide valuable insights into your spending habits and help you identify areas for improvement.",
+    "howToThink": "Consider using a budgeting app that links to your bank accounts and credit cards, and provides personalized recommendations for improving your financial situation. Make sure to read reviews and compare features before choosing an app.",
+    "pros": [
+      "Easy to use",
+      "Provides valuable insights",
+      "Helps track expenses"
+    ],
+    "cons": [
+      "May have fees",
+      "Can be time-consuming",
+      "Requires discipline"
+    ],
+    "watchOut": "Don't choose an app with excessive fees",
+    "faq": [
+      {
+        "q": "What is a budgeting app?",
+        "a": "A tool to track and manage finances"
+      },
+      {
+        "q": "How do I choose a budgeting app?",
+        "a": "Consider features, fees, and reviews"
+      },
+      {
+        "q": "Are budgeting apps secure?",
+        "a": "Most apps use encryption and two-factor authentication"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "tags": [
+      "budgeting",
+      "app"
+    ],
+    "publishedAt": "2026-07-25T12:28:33.436Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "credit-score",
+    "title": "Credit Score 101",
+    "category": "Budgeting",
+    "dek": "Understand your credit score",
+    "takeaway": "Check your credit report regularly",
+    "whatHappened": "Your credit score is an important factor in determining your creditworthiness and can affect your ability to get loans or credit. By understanding how credit scores work and taking steps to improve your credit, you can potentially save money on interest rates and achieve your financial goals.",
+    "whyItMatters": "A good credit score can help you qualify for lower interest rates and better loan terms, while a poor credit score can limit your access to credit and increase your costs.",
+    "howToThink": "Consider checking your credit report regularly to ensure it's accurate and up-to-date. Make sure to pay your bills on time and keep your credit utilization ratio low to maintain a healthy credit score.",
+    "pros": [
+      "Helps qualify for loans",
+      "Can lower interest rates",
+      "Improves financial health"
+    ],
+    "cons": [
+      "Can be affected by errors",
+      "May not be entirely accurate",
+      "Requires maintenance"
+    ],
+    "watchOut": "Don't ignore errors on your credit report",
+    "faq": [
+      {
+        "q": "What is a credit score?",
+        "a": "A number representing creditworthiness"
+      },
+      {
+        "q": "How is my credit score calculated?",
+        "a": "Based on payment history, credit utilization, and other factors"
+      },
+      {
+        "q": "How can I improve my credit score?",
+        "a": "Pay bills on time, keep credit utilization low, and monitor your credit report"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"emergency fund strategy\"",
+        "url": "https://duckduckgo.com/?q=emergency%20fund%20strategy"
+      }
+    ],
+    "tags": [
+      "credit score",
+      "credit report"
+    ],
+    "publishedAt": "2026-07-23T23:28:33.436Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "retirement-planning",
+    "title": "Retirement Planning",
+    "category": "Investing",
+    "dek": "Start planning for retirement",
+    "takeaway": "Take advantage of compound interest",
+    "whatHappened": "Retirement planning is an important step in securing your financial future. By starting to save and invest early, you can take advantage of compound interest and potentially build a sizable nest egg. Consider contributing to a 401(k) or IRA, and take advantage of any employer matching contributions.",
+    "whyItMatters": "Retirement planning can help you achieve your long-term financial goals and ensure that you have enough money to live comfortably in retirement. It can also provide peace of mind and reduce stress.",
+    "howToThink": "Consider working with a financial advisor to create a personalized retirement plan. Make sure to educate yourself on the basics of investing and avoid getting caught up in get-rich-quick schemes.",
+    "pros": [
+      "Provides financial security",
+      "Can reduce stress",
+      "Helps achieve long-term goals"
+    ],
+    "cons": [
+      "Requires discipline",
+      "Involves risk",
+      "Can be complex"
+    ],
+    "watchOut": "Don't wait too long to start planning for retirement",
+    "faq": [
+      {
+        "q": "What is retirement planning?",
+        "a": "Preparing for financial security in retirement"
+      },
+      {
+        "q": "How do I get started with retirement planning?",
+        "a": "Consider contributing to a 401(k) or IRA"
+      },
+      {
+        "q": "What are the benefits of retirement planning?",
+        "a": "Financial security, reduced stress, and peace of mind"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Bogleheads community threads",
+        "url": "https://www.reddit.com/r/Bogleheads/"
+      },
+      {
+        "label": "Search interest: \"index fund investing basics\"",
+        "url": "https://duckduckgo.com/?q=index%20fund%20investing%20basics"
+      }
+    ],
+    "tags": [
+      "retirement",
+      "planning"
+    ],
+    "publishedAt": "2026-07-22T10:28:33.436Z",
+    "readMinutes": 2
+  }
+]
