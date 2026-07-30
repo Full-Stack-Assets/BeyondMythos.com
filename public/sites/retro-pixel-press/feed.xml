@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: hidden snes gems</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-4.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-4.html</guid>
+      <pubDate>Thu, 30 Jul 2026 01:01:26 GMT</pubDate>
+      <description>The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-8.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-3.html</guid>
       <pubDate>Sun, 19 Jul 2026 04:54:35 GMT</pubDate>
       <description>We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Retro Console Repair 101: DIY Tips and Tricks</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101.html</guid>
-      <pubDate>Sun, 19 Jul 2026 01:09:43 GMT</pubDate>
-      <description>Fix your retro console like a pro</description>
     </item>
   </channel>
 </rss>

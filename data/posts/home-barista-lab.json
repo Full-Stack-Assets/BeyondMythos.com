@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-101",
+    "title": "Descale or Die: The Hidden Dangers of Limescale in Espresso Machines",
+    "dek": "Limescale buildup can ruin your espresso",
+    "takeaway": "Regular descaling is crucial for maintaining espresso machine performance and longevity",
+    "whatHappened": "Limescale buildup is a common issue in espresso machines, caused by mineral deposits in water. If left unchecked, it can lead to reduced machine performance, increased energy consumption, and even machine failure. Many home baristas overlook this crucial maintenance task, putting their machines at risk.",
+    "whyItMatters": "Limescale buildup can lead to bitter-tasting espresso, increased maintenance costs, and even machine replacement. Regular descaling can prevent these issues, ensuring optimal machine performance and flavor. By prioritizing descaling, home baristas can extend the lifespan of their machines and enjoy better-tasting espresso",
+    "howToThink": "To keep your espresso machine in top condition, descale it every 3-6 months, depending on usage. Use a descaling solution specifically designed for espresso machines, and follow the manufacturer's instructions. Regularly cleaning and maintaining your machine can also help prevent limescale buildup",
+    "pros": [
+      "Improved machine performance",
+      "Increased longevity",
+      "Better-tasting espresso"
+    ],
+    "cons": [
+      "Descaling can be time-consuming",
+      "Requires regular maintenance",
+      "May require additional costs"
+    ],
+    "watchOut": "Using the wrong descaling solution can damage your espresso machine, so always follow the manufacturer's recommendations",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What type of descaling solution should I use?",
+        "a": "A solution specifically designed for espresso machines"
+      },
+      {
+        "q": "Can I use vinegar to descale my espresso machine?",
+        "a": "No, vinegar is not recommended, as it can damage the machine's components"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso maintenance",
+      "limescale prevention"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-30T01:01:28.185Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-7",
     "title": "Brewing Up Savings: The Case for Regular Espresso Machine Maintenance",
     "dek": "Keep your espresso machine in top shape",
