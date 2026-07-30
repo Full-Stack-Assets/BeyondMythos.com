@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optical-drive-upgrades-for-retro-consoles",
+    "title": "Burning Questions: Optical Drive Upgrades for Retro Consoles",
+    "dek": "Upgrade your retro console's optical drive",
+    "takeaway": "Optical drive upgrades can significantly improve load times and disc compatibility for retro consoles",
+    "whatHappened": "Retro console owners have long been plagued by slow load times and disc compatibility issues. Recently, aftermarket optical drive upgrades have become increasingly popular, offering a potential solution to these problems. However, the process of upgrading can be daunting for those without technical expertise.",
+    "whyItMatters": "Upgrading the optical drive can breathe new life into older consoles, making them more enjoyable to play and extending their lifespan. This is particularly important for speedrunners, who require precise control and quick loading to achieve fast times. Additionally, upgraded optical drives can help preserve retro games by reducing the wear and tear on original discs.",
+    "howToThink": "When considering an optical drive upgrade, it's essential to research compatible models and installation instructions. Look for tutorials and reviews from reputable sources to ensure a smooth upgrade process. Additionally, consider the cost and potential benefits of the upgrade, weighing the expense against the improved performance and compatibility.",
+    "pros": [
+      "Improved load times",
+      "Increased disc compatibility",
+      "Extended console lifespan"
+    ],
+    "cons": [
+      "Technical expertise required",
+      "Cost of upgrade",
+      "Potential for installation errors"
+    ],
+    "watchOut": "Be cautious when handling internal console components to avoid causing damage or voiding the warranty",
+    "faq": [
+      {
+        "q": "What is the most compatible optical drive for the PlayStation?",
+        "a": "The Sony KHS-400A is a popular replacement drive"
+      },
+      {
+        "q": "Can I upgrade the optical drive on my Nintendo GameCube?",
+        "a": "Yes, but it requires advanced technical expertise and specialized tools"
+      },
+      {
+        "q": "Will an optical drive upgrade void my console's warranty?",
+        "a": "It depends on the manufacturer's policies and the type of upgrade performed"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "OpticalDrives"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-30T22:45:38.986Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-crt-setup-guide-6",
     "title": "Myth vs. reality: crt setup guide",
     "dek": "The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.",
