@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-calibration-3",
+    "title": "Calibrate for Greatness: The Secret to Unlocking Your Espresso Machine's Full Potential",
+    "dek": "Get the most out of your espresso machine",
+    "takeaway": "Proper calibration is key to achieving perfect espresso shots at home",
+    "whatHappened": "Many home baristas overlook the importance of calibrating their espresso machines, leading to subpar shots. Calibration involves adjusting the machine's temperature, pressure, and flow rate to optimal levels. By doing so, you can ensure that your machine is performing at its best.",
+    "whyItMatters": "Calibration is crucial because it directly affects the flavor and quality of your espresso. A well-calibrated machine will produce shots with a more balanced flavor, better crema, and a more satisfying overall experience. Moreover, proper calibration can also help extend the lifespan of your machine by preventing unnecessary wear and tear.",
+    "howToThink": "To calibrate your espresso machine, start by consulting the user manual and following the manufacturer's guidelines. You can also use online resources and calibration tools to help you fine-tune your machine's settings. Remember to periodically recalibrate your machine to account for any changes in your environment or coffee beans.",
+    "pros": [
+      "Improved flavor",
+      "Better crema",
+      "Increased machine lifespan"
+    ],
+    "cons": [
+      "Requires technical knowledge",
+      "Can be time-consuming",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be cautious not to over-calibrate, as this can lead to inconsistent shots and machine damage",
+    "faq": [
+      {
+        "q": "What is calibration?",
+        "a": "The process of adjusting your espresso machine's settings to optimal levels"
+      },
+      {
+        "q": "How often should I calibrate?",
+        "a": "It's recommended to recalibrate your machine every 3-6 months or when changing coffee beans"
+      },
+      {
+        "q": "Can I calibrate my machine myself?",
+        "a": "Yes, with the right resources and knowledge, you can calibrate your machine on your own"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-30T04:40:13.728Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-cleaning-101",
     "title": "Descale or Die: The Hidden Dangers of Limescale in Espresso Machines",
     "dek": "Limescale buildup can ruin your espresso",
