@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-temperature-control-2",
+    "title": "Temperature Tango: Mastering the Art of Espresso Machine Thermoregulation",
+    "dek": "Get the perfect shot with precise temperature control.",
+    "takeaway": "Investing in a temperature control device can significantly improve your espresso machine's performance and consistency.",
+    "whatHappened": "Many home baristas struggle with inconsistent espresso shots due to temperature fluctuations in their machines. Even a slight deviation from the ideal temperature range can affect the flavor and quality of the espresso. Recent advancements in temperature control technology have made it easier for home enthusiasts to achieve professional-grade results.",
+    "whyItMatters": "Temperature control is crucial in espresso preparation as it affects the extraction process and ultimately the taste of the coffee. A stable temperature ensures that the coffee is extracted evenly, resulting in a balanced and full-bodied flavor. Without proper temperature control, the espresso may taste sour, bitter, or unbalanced.",
+    "howToThink": "To improve your espresso game, consider investing in a temperature control device that can regulate the machine's temperature with precision. Look for devices with a high level of accuracy and stability, and calibrate them according to the manufacturer's instructions. Regular maintenance and monitoring of the machine's temperature can also help prevent any issues and ensure optimal performance.",
+    "pros": [
+      "Improved flavor consistency",
+      "Enhanced machine performance",
+      "Increased control over brewing process"
+    ],
+    "cons": [
+      "Additional cost",
+      "Requires calibration and maintenance",
+      "May not be compatible with all machines"
+    ],
+    "watchOut": "Be cautious when selecting a temperature control device, as some may not be compatible with your machine or may require additional calibration and maintenance.",
+    "faq": [
+      {
+        "q": "What is the ideal temperature range for espresso machines?",
+        "a": "The ideal temperature range for espresso machines is between 195°F and 205°F."
+      },
+      {
+        "q": "Can I use a thermometer to monitor the temperature of my machine?",
+        "a": "Yes, using a thermometer can help you monitor the temperature of your machine, but it may not provide the same level of precision as a dedicated temperature control device."
+      },
+      {
+        "q": "How often should I calibrate my temperature control device?",
+        "a": "It's recommended to calibrate your temperature control device every 1-3 months, or according to the manufacturer's instructions."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature control"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-30T18:59:36.303Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-11",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

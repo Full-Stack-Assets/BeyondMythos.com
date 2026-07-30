@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Temperature Tango: Mastering the Art of Espresso Machine Thermoregulation</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-temperature-control-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-temperature-control-2.html</guid>
+      <pubDate>Thu, 30 Jul 2026 18:59:36 GMT</pubDate>
+      <description>Get the perfect shot with precise temperature control.</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-11.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-2.html</guid>
       <pubDate>Sun, 19 Jul 2026 16:34:01 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
-    </item>
-    <item>
-      <title>Descale, Backflush, Repeat: The Espresso Machine Cleaning Guide</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-3.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-3.html</guid>
-      <pubDate>Sun, 19 Jul 2026 15:36:16 GMT</pubDate>
-      <description>Clean machine, perfect shot</description>
     </item>
   </channel>
 </rss>

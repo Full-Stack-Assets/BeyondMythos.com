@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-upgrade-paths",
+    "title": "Beyond the Base Model: Upgrade Paths for Retro Consoles",
+    "dek": "Unlock new potential from old consoles.",
+    "takeaway": "Upgrading your retro console can significantly enhance gameplay and preservation capabilities.",
+    "whatHappened": "Recent advancements in DIY retro console upgrades have made it easier for collectors and speedrunners to enhance their gaming experience. With the rise of community-driven projects, enthusiasts can now access a wide range of modification options. From improved controllers to enhanced video output, the possibilities are vast.",
+    "whyItMatters": "For collectors, upgrades can mean better preservation of games and consoles, extending their lifespan. For speedrunners, these modifications can provide a competitive edge by reducing input lag and improving overall system performance. Moreover, upgrading consoles can revitalize interest in classic games, fostering a sense of community among enthusiasts.",
+    "howToThink": "When considering an upgrade, it's crucial to assess your needs and the potential impact on your gaming experience. Start by identifying the limitations of your current setup and researching the most beneficial upgrades. Joining online forums and discussions can provide valuable insights and guidance from experienced modders.",
+    "pros": [
+      "Improved Performance",
+      "Enhanced Preservation",
+      "Customization Options"
+    ],
+    "cons": [
+      "Cost",
+      "Technical Difficulty",
+      "Compatibility Issues"
+    ],
+    "watchOut": "Be cautious of modifications that could potentially damage your console or violate its warranty.",
+    "faq": [
+      {
+        "q": "What is the most common upgrade for retro consoles?",
+        "a": "Upgrading the controller to reduce input lag."
+      },
+      {
+        "q": "Can upgrades void my console's warranty?",
+        "a": "Yes, certain modifications can void the warranty, so it's essential to check before proceeding."
+      },
+      {
+        "q": "Where can I find community-driven upgrade projects?",
+        "a": "Online forums and social media groups dedicated to retro gaming and console modification."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Console Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-07-30T18:59:36.841Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-snes-3",
     "title": "Community pulse: what r/snes is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",
