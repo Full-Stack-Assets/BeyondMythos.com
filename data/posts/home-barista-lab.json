@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-water-quality",
+    "title": "The Hidden Ingredient: How Water Quality Impacts Your Espresso",
+    "dek": "Water quality affects espresso taste",
+    "takeaway": "Using filtered water can significantly improve the taste of your espresso shots",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end espresso machines, only to be disappointed by the flavor of their shots. Upon further investigation, it becomes clear that the culprit is often not the machine itself, but the water used to brew. Water quality can greatly impact the taste of espresso, with impurities and minerals affecting the extraction process.",
+    "whyItMatters": "The quality of water used in espresso machines is crucial because it directly influences the flavor profile of the final product. Impurities in the water can lead to an unbalanced taste, while the right water quality can elevate the nuances of the coffee. Moreover, using poor-quality water can also damage the espresso machine over time, leading to costly repairs.",
+    "howToThink": "To optimize your espresso's flavor, consider investing in a water filter specifically designed for coffee brewing. These filters can remove impurities and minerals that affect taste, ensuring a cleaner and more balanced extraction. Regularly checking and maintaining your water quality is also essential to prevent any adverse effects on your machine and the overall quality of your espresso.",
+    "pros": [
+      "Improved flavor",
+      "Reduced machine damage",
+      "Easier maintenance"
+    ],
+    "cons": [
+      "Additional cost",
+      "Requires regular filter changes",
+      "May not completely remove all impurities"
+    ],
+    "watchOut": "Be cautious of using water that is too pure, as it can lead to an unbalanced flavor profile",
+    "faq": [
+      {
+        "q": "What type of water filter is best for espresso machines?",
+        "a": "A filter specifically designed for coffee brewing, which can remove impurities and minerals that affect taste"
+      },
+      {
+        "q": "How often should I change my water filter?",
+        "a": "Regularly, depending on usage and the manufacturer's recommendations"
+      },
+      {
+        "q": "Can I use tap water for my espresso machine?",
+        "a": "It's not recommended, as tap water can contain impurities and minerals that can affect the flavor and damage the machine"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "water quality"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-30T20:45:42.112Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-temperature-control-2",
     "title": "Temperature Tango: Mastering the Art of Espresso Machine Thermoregulation",
     "dek": "Get the perfect shot with precise temperature control.",

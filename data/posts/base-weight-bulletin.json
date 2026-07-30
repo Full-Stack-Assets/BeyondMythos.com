@@ -1,5 +1,56 @@
 [
   {
+    "slug": "lighter-load-strategies",
+    "title": "Ditch the Weight: Expert Load Management for Thru-Hikers",
+    "dek": "Cut your pack weight in half",
+    "takeaway": "A well-organized pack is key to a successful thru-hike",
+    "whatHappened": "Ultralight backpackers often struggle with load management, leading to fatigue and decreased morale. Recent studies have shown that a lighter load can increase hiking speed and overall enjoyment. By implementing a few simple strategies, hikers can significantly reduce their pack weight.",
+    "whyItMatters": "Excess weight can lead to injury and burnout, making load management a critical aspect of thru-hiking. A lighter load allows hikers to cover more miles and enjoy the scenery, rather than struggling under the weight of their pack. By prioritizing load management, hikers can set themselves up for success and increase their chances of completing their thru-hike.",
+    "howToThink": "To optimize your load, focus on the 'big three': shelter, sleeping bag, and backpack. Consider upgrading to lighter options and prioritize multi-use items. Additionally, practice packing and repacking your bag to ensure everything has its place and you're not carrying unnecessary items.",
+    "pros": [
+      "Increased hiking speed",
+      "Reduced fatigue",
+      "Improved morale"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Steeper learning curve",
+      "Potential for oversimplification"
+    ],
+    "watchOut": "Be cautious not to sacrifice essential items for the sake of a lighter load",
+    "faq": [
+      {
+        "q": "What is the ideal pack weight for a thru-hike?",
+        "a": "Aim for a base weight of 20 pounds or less"
+      },
+      {
+        "q": "How can I reduce my pack weight without breaking the bank?",
+        "a": "Consider buying second-hand gear or shopping during sales"
+      },
+      {
+        "q": "What are some essential items that I should never cut from my pack?",
+        "a": "Always prioritize a first aid kit, navigation tools, and emergency shelter"
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "ultralight backpacking",
+      "thru-hiking"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultralight community threads",
+        "url": "https://www.reddit.com/r/Ultralight/"
+      },
+      {
+        "label": "Search interest: \"lower base weight cheap\"",
+        "url": "https://duckduckgo.com/?q=lower%20base%20weight%20cheap"
+      }
+    ],
+    "publishedAt": "2026-07-30T20:45:46.866Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-shelters-mistakes-12",
     "title": "Five mistakes everyone makes in their first month of shelters",
     "dek": "The most common early stumbles in shelters, and the cheap corrections that fix them for ultralight backpackers and thru-hike dreamers.",

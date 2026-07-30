@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-van-storage",
+    "title": "Van Storage Hacks to Maximize Your Space",
+    "dek": "Optimize your van's interior for a clutter-free life",
+    "takeaway": "Maximizing van storage requires a combination of clever design and disciplined habits",
+    "whatHappened": "As van dwellers, we've all struggled with cluttered interiors and disorganized storage. A well-designed storage system can make all the difference in creating a comfortable and functional living space. Recently, we've seen a surge in creative storage solutions that cater to the unique needs of van lifers.",
+    "whyItMatters": "A clutter-free van is not only more aesthetically pleasing, but it also improves safety and reduces stress while on the move. With the right storage solutions, you can keep your gear organized, access it easily, and enjoy a more streamlined travel experience. This, in turn, allows you to focus on the things that matter most – exploring new routes and enjoying the great outdoors.",
+    "howToThink": "When designing your van's storage system, consider the 80/20 rule: 80% of the time, you likely only use 20% of your gear. Keep your most frequently used items in easy-to-reach locations, and store less frequently used items in harder-to-reach areas. Also, make sure to label and categorize your storage containers to maintain a system that's easy to navigate.",
+    "pros": [
+      "Increased storage capacity",
+      "Improved organization",
+      "Enhanced safety"
+    ],
+    "cons": [
+      "Initial investment in storage solutions",
+      "Potential for over-engineering",
+      "Space constraints"
+    ],
+    "watchOut": "Be cautious not to over-accessorize, as this can lead to a cluttered and cumbersome storage system",
+    "faq": [
+      {
+        "q": "What are some essential storage items for van dwellers?",
+        "a": "Must-haves include a bed platform with storage, a closet organizer system, and a kitchen utensil organizer"
+      },
+      {
+        "q": "How can I maximize my van's vertical storage space?",
+        "a": "Use wall-mounted shelves, hooks, and nets to keep items off the floor and out of the way"
+      },
+      {
+        "q": "What are some creative ways to repurpose everyday items for van storage?",
+        "a": "Think outside the box – use items like crates, baskets, and bins to create unique storage solutions"
+      }
+    ],
+    "category": "Builds",
+    "tags": [
+      "van life",
+      "storage solutions"
+    ],
+    "sources": [
+      {
+        "label": "r/vandwellers community threads",
+        "url": "https://www.reddit.com/r/vandwellers/"
+      },
+      {
+        "label": "Search interest: \"van conversion on a budget\"",
+        "url": "https://duckduckgo.com/?q=van%20conversion%20on%20a%20budget"
+      }
+    ],
+    "publishedAt": "2026-07-30T20:45:46.354Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-builds-14",
     "title": "A weekend project: level up your builds in two hours",
     "dek": "One contained, satisfying builds project for van dwellers — start Saturday morning, done by lunch.",
