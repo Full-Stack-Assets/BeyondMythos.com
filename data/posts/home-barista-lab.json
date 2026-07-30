@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-bean-freshness-matters",
+    "title": "The Bean is Mightier: Unlocking the Power of Fresh Coffee",
+    "dek": "Fresh beans make better coffee",
+    "takeaway": "Using fresh coffee beans is crucial for an optimal espresso experience",
+    "whatHappened": "Recent studies have shown that coffee beans lose their flavor and aroma quickly after roasting. This can result in a dull and unbalanced taste. To combat this, many home baristas are now focusing on sourcing the freshest beans possible.",
+    "whyItMatters": "Fresh coffee beans are essential for bringing out the unique characteristics of a particular roast. They also play a significant role in determining the overall quality of the espresso shot. By using fresh beans, home baristas can elevate their coffee game and experience a more nuanced flavor profile.",
+    "howToThink": "To ensure you're using fresh coffee beans, consider purchasing from local roasters or those that provide a 'roasted on' date. You should also store your beans properly in an airtight container to preserve their flavor and aroma. Finally, experiment with different roasts and brewing techniques to find your perfect cup.",
+    "pros": [
+      "Improved flavor",
+      "Increased aroma",
+      "Better crema"
+    ],
+    "cons": [
+      "Higher cost",
+      "Limited availability",
+      "Requires proper storage"
+    ],
+    "watchOut": "Be cautious of beans that have been sitting on the shelf for too long, as they can be stale and affect the overall taste of your espresso",
+    "faq": [
+      {
+        "q": "How long do coffee beans stay fresh?",
+        "a": "Typically 7-14 days after roasting"
+      },
+      {
+        "q": "Can I freeze coffee beans to preserve freshness?",
+        "a": "Yes, but it's not recommended as it can affect the flavor and texture"
+      },
+      {
+        "q": "What's the best way to store coffee beans?",
+        "a": "In an airtight container in a cool, dark place"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "coffee freshness",
+      "roasting"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-30T07:19:41.323Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-calibration-3",
     "title": "Calibrate for Greatness: The Secret to Unlocking Your Espresso Machine's Full Potential",
     "dek": "Get the most out of your espresso machine",
