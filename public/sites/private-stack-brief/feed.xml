@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
     <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
     <item>
+      <title>Community pulse: what r/opsec is debating this week</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-opsec-2.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-opsec-2.html</guid>
+      <pubDate>Fri, 31 Jul 2026 18:09:09 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the threats community this week.</description>
+    </item>
+    <item>
       <title>The devices checklist: run this before you spend</title>
       <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/devices-pre-spend-checklist-3.html</link>
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/devices-pre-spend-checklist-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/budget-threats.html</guid>
       <pubDate>Thu, 23 Jul 2026 08:20:27 GMT</pubDate>
       <description>Where money changes outcomes in threats — and the line items that are pure vanity.</description>
-    </item>
-    <item>
-      <title>What to watch next in Passwords: five quiet shifts</title>
-      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/what-to-watch-passwords.html</link>
-      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/what-to-watch-passwords.html</guid>
-      <pubDate>Tue, 21 Jul 2026 19:20:27 GMT</pubDate>
-      <description>Ignore the headlines — these are the slower currents reshaping passwords for privacy-conscious consumers and security hobbyists.</description>
     </item>
   </channel>
 </rss>
