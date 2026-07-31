@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Cartridge Revival: Restoring Fading Games to Former Glory</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-fading-cartridges.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-fading-cartridges.html</guid>
+      <pubDate>Fri, 31 Jul 2026 01:11:57 GMT</pubDate>
+      <description>Breathe new life into old carts.</description>
+    </item>
+    <item>
       <title>Burning Questions: Optical Drive Upgrades for Retro Consoles</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optical-drive-upgrades-for-retro-consoles.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optical-drive-upgrades-for-retro-consoles.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-8.html</guid>
       <pubDate>Sun, 19 Jul 2026 19:50:56 GMT</pubDate>
       <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-5.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-5.html</guid>
-      <pubDate>Sun, 19 Jul 2026 18:36:50 GMT</pubDate>
-      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>

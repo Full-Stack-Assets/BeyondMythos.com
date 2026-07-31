@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Pack Like You Mean It: The Art of Low-Impact Luggage</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/low-impact-luggage.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/low-impact-luggage.html</guid>
+      <pubDate>Fri, 31 Jul 2026 01:11:57 GMT</pubDate>
+      <description>Travel light, travel right</description>
+    </item>
+    <item>
       <title>Streamlining Your Rail Travel</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-packing.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-packing.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-travel-rail-hacks.html</guid>
       <pubDate>Sun, 19 Jul 2026 19:50:58 GMT</pubDate>
       <description>Maximize rail travel efficiency with minimal fuss</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: slow travel itinerary</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/myth-vs-reality-slow-travel-itinerary-2.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/myth-vs-reality-slow-travel-itinerary-2.html</guid>
-      <pubDate>Sun, 19 Jul 2026 18:36:51 GMT</pubDate>
-      <description>The persistent myths around slow travel itinerary, stress-tested against what slow-travel and low-impact explorers actually report.</description>
     </item>
   </channel>
 </rss>

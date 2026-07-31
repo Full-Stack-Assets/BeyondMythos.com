@@ -1,5 +1,56 @@
 [
   {
+    "slug": "low-impact-luggage",
+    "title": "Pack Like You Mean It: The Art of Low-Impact Luggage",
+    "dek": "Travel light, travel right",
+    "takeaway": "A well-curated luggage set is key to low-impact travel",
+    "whatHappened": "As a slow-travel enthusiast, I've experimented with various luggage options, from backpacks to suitcases, to find the perfect balance between comfort and sustainability. My journey took me from cluttered packing to a more mindful approach, focusing on multi-use items and eco-friendly materials. The result was a significant reduction in waste and a more enjoyable travel experience",
+    "whyItMatters": "The way we pack has a direct impact on our carbon footprint and the overall sustainability of our travels. By choosing the right luggage and packing strategically, we can reduce waste, conserve energy, and promote a more environmentally friendly approach to travel. This, in turn, enhances our connection with local communities and the environment",
+    "howToThink": "When packing, consider the 3Rs: reduce, reuse, recycle. Start by reducing the amount of luggage you bring, then focus on reusing items like packing cubes and bags, and finally, opt for recyclable materials whenever possible. This mindset will help you develop a more sustainable packing routine",
+    "pros": [
+      "Lighter load",
+      "Eco-friendly",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Initial investment",
+      "Limited storage",
+      "Weather concerns"
+    ],
+    "watchOut": "Be cautious of greenwashing when selecting eco-friendly luggage options, as some products may not be as sustainable as they claim",
+    "faq": [
+      {
+        "q": "What is the best material for eco-friendly luggage?",
+        "a": "Look for luggage made from recycled, biodegradable, or sustainably sourced materials"
+      },
+      {
+        "q": "How can I reduce my luggage weight?",
+        "a": "Pack multi-use items, wear heavy or bulky items, and use packing cubes to optimize space"
+      },
+      {
+        "q": "Are there any luggage brands that specialize in low-impact travel?",
+        "a": "Yes, several brands focus on sustainable luggage, such as Patagonia, Reprise, and Fjallraven"
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "slow travel",
+      "sustainable packing"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-31T01:11:57.063Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rethinking-rail-packing",
     "title": "Streamlining Your Rail Travel",
     "dek": "Simplify rail travel with less.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "small-space-composting-2",
+    "title": "Composting in Tight Spaces: A Game Changer for Apartment Gardeners",
+    "dek": "Turn kitchen scraps into gold",
+    "takeaway": "Small-space composting can significantly reduce waste and yield a nutrient-rich soil amendment for urban gardens",
+    "whatHappened": "As urban gardening continues to grow in popularity, many apartment dwellers are finding creative ways to compost in small spaces. From balcony bins to indoor vermicomposting, the options are plentiful. However, many are still unsure where to start or how to maintain a healthy compost pile in a limited area.",
+    "whyItMatters": "Composting is a crucial step in reducing food waste and creating a sustainable gardening practice. By composting in small spaces, apartment gardeners can divert organic materials from landfills, reduce their environmental footprint, and produce a natural, chemical-free fertilizer for their plants. This, in turn, can lead to healthier plants, improved soil structure, and a more resilient urban ecosystem.",
+    "howToThink": "When approaching small-space composting, it's essential to consider the type of composting method that best fits your lifestyle and available space. Balcony gardeners may opt for a compact tumbling composter, while indoor gardeners might prefer a vermicomposting system or a bokashi bin. Regardless of the method, maintaining a balanced mix of 'green' and 'brown' materials, adequate moisture, and regular aeration is key to successful composting.",
+    "pros": [
+      "Reduces waste",
+      "Creates nutrient-rich soil",
+      "Compact systems available"
+    ],
+    "cons": [
+      "Space constraints",
+      "Odor management",
+      "Pest attraction"
+    ],
+    "watchOut": "Be mindful of local regulations and potential pest issues when composting in small spaces",
+    "faq": [
+      {
+        "q": "What can I compost in a small space?",
+        "a": "Fruit and vegetable scraps, tea bags, coffee grounds, and eggshells are all suitable for small-space composting"
+      },
+      {
+        "q": "How often should I turn my compost pile?",
+        "a": "Aim to turn your compost pile every 7-10 days to maintain aeration and speed up the decomposition process"
+      },
+      {
+        "q": "Can I compost in my apartment without attracting pests?",
+        "a": "Yes, by using a pest-proof composting system, such as a bokashi bin or a vermicomposting setup, you can minimize the risk of attracting pests"
+      }
+    ],
+    "category": "Composting",
+    "tags": [
+      "Urban Composting",
+      "Small Space Gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-31T01:11:57.295Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-13",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",
