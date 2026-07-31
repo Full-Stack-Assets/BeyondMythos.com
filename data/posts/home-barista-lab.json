@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-your-grinder-2",
+    "title": "The Grinder Factor: Unlocking Consistent Flavor",
+    "dek": "Get the most from your beans",
+    "takeaway": "Proper grinder adjustment is key to unlocking consistent flavor in your home brew",
+    "whatHappened": "Recently, we've seen a surge in home baristas experimenting with different roasts and brewing techniques, only to find their results hindered by inconsistent grinding. A well-maintained and properly adjusted grinder is essential for bringing out the full potential of your coffee. By dialing in the perfect grind, you can significantly enhance the flavor and aroma of your daily brew.",
+    "whyItMatters": "The right grind size and distribution can make or break the quality of your espresso or pour-over. Incorrect grind settings can lead to channeling, uneven extraction, and a less than optimal flavor profile. By understanding how to adjust and maintain your grinder, you can avoid these common pitfalls and elevate your home brewing game.",
+    "howToThink": "To get the most out of your grinder, start by calibrating it according to the manufacturer's instructions. Then, experiment with different grind settings to find the sweet spot for your specific brewing method. Keep in mind that the ideal grind size may vary depending on the coffee beans you're using and the desired flavor profile.",
+    "pros": [
+      "Improved flavor consistency",
+      "Enhanced aroma",
+      "Better control over brew parameters"
+    ],
+    "cons": [
+      "Requires regular maintenance",
+      "Can be tricky to calibrate",
+      "May need frequent adjustments"
+    ],
+    "watchOut": "Be cautious not to over-adjust your grinder, as this can lead to uneven grind sizes and negatively impact your brew quality",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "It's recommended to clean your grinder every 1-2 weeks, depending on usage, to prevent old coffee oils and dust from building up"
+      },
+      {
+        "q": "What's the best way to store my grinder?",
+        "a": "Keep your grinder in a dry, cool place, away from direct sunlight and moisture to prevent damage and maintain performance"
+      },
+      {
+        "q": "Can I use any type of coffee bean in my grinder?",
+        "a": "While most grinders can handle a variety of coffee beans, it's best to use high-quality, freshly roasted beans to get the optimal flavor and aroma"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Grinder Tips",
+      "Brewing Basics"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-31T20:07:28.679Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-9",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",
