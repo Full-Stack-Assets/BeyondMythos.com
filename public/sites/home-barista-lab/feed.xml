@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-8.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-8.html</guid>
+      <pubDate>Fri, 31 Jul 2026 11:11:25 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
+    </item>
+    <item>
       <title>Brewing Brilliance: The Unseen Benefits of Regular Espresso Machine Cleaning</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-8.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-steam-wand.html</guid>
       <pubDate>Sun, 19 Jul 2026 23:38:38 GMT</pubDate>
       <description>Perfecting steam wand technique</description>
-    </item>
-    <item>
-      <title>&quot;budget grinder upgrade&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-5.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-5.html</guid>
-      <pubDate>Sun, 19 Jul 2026 22:33:17 GMT</pubDate>
-      <description>We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
