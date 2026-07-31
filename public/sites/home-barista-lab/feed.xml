@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>&quot;pour over technique&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-4.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-4.html</guid>
+      <pubDate>Fri, 31 Jul 2026 15:48:07 GMT</pubDate>
+      <description>We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-12.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-12.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks-2.html</guid>
       <pubDate>Tue, 28 Jul 2026 23:38:03 GMT</pubDate>
       <description>Keep your espresso machine in top shape</description>
-    </item>
-    <item>
-      <title>The roasting checklist: run this before you spend</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-8.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-8.html</guid>
-      <pubDate>Mon, 20 Jul 2026 01:12:39 GMT</pubDate>
-      <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

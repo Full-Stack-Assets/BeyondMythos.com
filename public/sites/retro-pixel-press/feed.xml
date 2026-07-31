@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>A weekend project: level up your hardware in two hours</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-9.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-9.html</guid>
+      <pubDate>Fri, 31 Jul 2026 15:48:07 GMT</pubDate>
+      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/Gameboy is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding.html</guid>
       <pubDate>Tue, 28 Jul 2026 23:38:03 GMT</pubDate>
       <description>Transform your retro console with modding</description>
-    </item>
-    <item>
-      <title>From Dust to Dynamite: DIY Retro Console Repair</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-2.html</guid>
-      <pubDate>Mon, 20 Jul 2026 01:12:41 GMT</pubDate>
-      <description>Fix old consoles at home</description>
     </item>
   </channel>
 </rss>
