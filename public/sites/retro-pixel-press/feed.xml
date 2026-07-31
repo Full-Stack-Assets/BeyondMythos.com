@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-7.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-7.html</guid>
+      <pubDate>Fri, 31 Jul 2026 21:45:25 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-10.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-10.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-controller-mods.html</guid>
       <pubDate>Wed, 29 Jul 2026 05:12:19 GMT</pubDate>
       <description>Take your retro gaming to the next level</description>
-    </item>
-    <item>
-      <title>SD Card Speed Demystified: A Guide for Retro Console Owners</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-sd-card-setups.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-sd-card-setups.html</guid>
-      <pubDate>Wed, 29 Jul 2026 04:52:10 GMT</pubDate>
-      <description>SD card speed matters for retro consoles</description>
     </item>
   </channel>
 </rss>

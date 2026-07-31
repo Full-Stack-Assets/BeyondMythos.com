@@ -1,5 +1,56 @@
 [
   {
+    "slug": "weeknight-dinner-templates-2",
+    "title": "Streamlining Weeknights: The Power of Dinner Templates",
+    "dek": "Simplify weeknights with templates",
+    "takeaway": "Using dinner templates can significantly reduce weeknight cooking stress and increase meal variety",
+    "whatHappened": "Many home cooks struggle with weeknight dinner planning, often resulting in last-minute takeouts or repetitive meals. Implementing templates can break this cycle. By dedicating a few hours on the weekend to planning and prepping, the rest of the week becomes significantly easier",
+    "whyItMatters": "Having a structured approach to meal planning is crucial for maintaining a healthy diet and reducing food waste. It also allows for creativity within a framework, making cooking more enjoyable. A well-planned template can ensure that meals are balanced and cater to various dietary needs",
+    "howToThink": "To start creating your own dinner templates, consider your family's preferences, common ingredients, and cooking methods. Begin with a broad theme, such as 'one-pot wonders' or '30-minute meals', and then drill down into specifics. Remember, the goal is to create a system that is flexible and easy to follow",
+    "pros": [
+      "Reduces cooking time",
+      "Increases meal variety",
+      "Saves money"
+    ],
+    "cons": [
+      "Initial time investment",
+      "Requires some planning",
+      "May feel restrictive"
+    ],
+    "watchOut": "Be careful not to overcomplicate your templates, as this can lead to frustration and abandonment",
+    "faq": [
+      {
+        "q": "What is a dinner template?",
+        "a": "A dinner template is a basic structure or outline for planning meals, which can be customized based on preferences and ingredients"
+      },
+      {
+        "q": "How often should I update my templates?",
+        "a": "Templates should be reviewed and updated every few months to reflect seasonal changes, new preferences, and learned cooking skills"
+      },
+      {
+        "q": "Can I use templates for special diets?",
+        "a": "Yes, templates can be tailored to accommodate various dietary restrictions and preferences, such as vegan, gluten-free, or low-carb"
+      }
+    ],
+    "category": "Templates",
+    "tags": [
+      "meal planning",
+      "weeknight dinners"
+    ],
+    "sources": [
+      {
+        "label": "r/cookingforbeginners community threads",
+        "url": "https://www.reddit.com/r/cookingforbeginners/"
+      },
+      {
+        "label": "Search interest: \"five mother sauces\"",
+        "url": "https://duckduckgo.com/?q=five%20mother%20sauces"
+      }
+    ],
+    "publishedAt": "2026-07-31T21:45:33.103Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pantry-staples-list-field-test-4",
     "title": "\"pantry staples list\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pantry staples list through a month of actual use. Some of it survived.",

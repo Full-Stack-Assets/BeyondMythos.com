@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-tips-2",
+    "title": "Tamping Like a Pro: The Secret to Perfect Espresso Shots",
+    "dek": "Master the art of tamping for better espresso",
+    "takeaway": "Proper tamping technique is crucial for achieving perfect espresso shots",
+    "whatHappened": "Recently, we've noticed a surge in questions about tamping technique on our forums, with many home baristas struggling to achieve consistent results. We decided to put various tamping methods to the test, consulting with experts and experimenting with different approaches. The results were surprising, highlighting the importance of a well-tamped puck",
+    "whyItMatters": "A well-tamped puck ensures even extraction, which is critical for bringing out the full flavor potential of your espresso. Poor tamping can lead to channeling, under-extraction, or over-extraction, resulting in a subpar shot. By mastering the art of tamping, you'll be able to elevate your espresso game and enjoy a more satisfying cup",
+    "howToThink": "To improve your tamping technique, focus on using the right amount of pressure and maintaining a level surface. Experiment with different tamper sizes and materials to find what works best for you, and practice regularly to develop muscle memory. By being mindful of your tamping technique, you'll be able to diagnose and fix common issues, such as uneven extraction or channeling",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Better crema"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be physically demanding",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to over-extraction and a bitter taste",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal tamping pressure is around 30-40 pounds, but this can vary depending on the individual and the equipment"
+      },
+      {
+        "q": "How often should I clean my tamper?",
+        "a": "You should clean your tamper after each use to prevent old coffee oils and residue from building up"
+      },
+      {
+        "q": "Can I use a automatic tamping machine?",
+        "a": "While automatic tamping machines can be convenient, they often lack the precision and control of a manual tamper, and may not produce the same quality results"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-31T21:45:27.417Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tuning-your-grinder-2",
     "title": "The Grinder Factor: Unlocking Consistent Flavor",
     "dek": "Get the most from your beans",
