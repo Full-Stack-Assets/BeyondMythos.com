@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Ask the forge: your seasonal questions, answered</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-11.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-11.html</guid>
+      <pubDate>Fri, 31 Jul 2026 13:18:37 GMT</pubDate>
+      <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in composting with outsized returns</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-9.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-9.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/summer-container-maintenance.html</guid>
       <pubDate>Mon, 20 Jul 2026 01:12:41 GMT</pubDate>
       <description>Keep your containers thriving this summer.</description>
-    </item>
-    <item>
-      <title>Spring Containers: A Fresh Start</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/seasonal-container-revamp.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/seasonal-container-revamp.html</guid>
-      <pubDate>Sun, 19 Jul 2026 23:38:38 GMT</pubDate>
-      <description>Revamp your containers for spring</description>
     </item>
   </channel>
 </rss>
