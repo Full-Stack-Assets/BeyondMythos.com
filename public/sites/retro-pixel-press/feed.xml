@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-5.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-5.html</guid>
+      <pubDate>Fri, 31 Jul 2026 05:06:00 GMT</pubDate>
+      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Cartridge Revival: Restoring Fading Games to Former Glory</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-fading-cartridges.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-fading-cartridges.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-8.html</guid>
       <pubDate>Sun, 19 Jul 2026 21:32:53 GMT</pubDate>
       <description>Revive your retro consoles with these DIY tips.</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-8.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-8.html</guid>
-      <pubDate>Sun, 19 Jul 2026 19:50:56 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
