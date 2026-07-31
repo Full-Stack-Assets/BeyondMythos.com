@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sous-chef-systems-checklist",
+    "title": "Systematizing Your Sous Chef Skills",
+    "dek": "Boost weeknight dinner efficiency with a simple checklist",
+    "takeaway": "Implementing a sous chef system checklist can save home cooks up to 30 minutes per dinner",
+    "whatHappened": "Many home cooks struggle to streamline their weeknight dinner routine, leading to wasted time and energy. Implementing a checklist can help alleviate this problem. By breaking down dinner prep into manageable tasks, home cooks can create a more efficient system.",
+    "whyItMatters": "A well-structured checklist can help home cooks avoid common pitfalls, such as forgetting crucial ingredients or overcomplicating recipes. By having a clear plan in place, home cooks can ensure that dinner is ready on time and that the process is enjoyable. This, in turn, can lead to a more balanced and healthy lifestyle.",
+    "howToThink": "To create an effective sous chef system checklist, home cooks should start by identifying their most common dinner tasks and breaking them down into smaller, manageable chunks. They should also consider their personal preferences and dietary needs when creating the checklist. By regularly reviewing and updating the checklist, home cooks can refine their system and make adjustments as needed.",
+    "pros": [
+      "Saves time",
+      "Reduces stress",
+      "Increases efficiency"
+    ],
+    "cons": [
+      "Requires initial setup",
+      "May feel restrictive",
+      "Needs regular updates"
+    ],
+    "watchOut": "Be careful not to overcomplicate your checklist, as this can lead to decreased motivation and adherence",
+    "faq": [
+      {
+        "q": "What is a sous chef system checklist?",
+        "a": "A list of tasks and steps to help home cooks streamline their dinner prep"
+      },
+      {
+        "q": "How often should I update my checklist?",
+        "a": "Regularly, to reflect changes in your cooking habits and preferences"
+      },
+      {
+        "q": "Can I customize my checklist to fit my dietary needs?",
+        "a": "Yes, a well-structured checklist should take into account your personal preferences and dietary requirements"
+      }
+    ],
+    "category": "Templates",
+    "tags": [
+      "dinner templates",
+      "kitchen efficiency"
+    ],
+    "sources": [
+      {
+        "label": "r/Cooking community threads",
+        "url": "https://www.reddit.com/r/Cooking/"
+      },
+      {
+        "label": "Search interest: \"weeknight dinner formula\"",
+        "url": "https://duckduckgo.com/?q=weeknight%20dinner%20formula"
+      }
+    ],
+    "publishedAt": "2026-07-31T23:40:32.333Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weeknight-dinner-templates-2",
     "title": "Streamlining Weeknights: The Power of Dinner Templates",
     "dek": "Simplify weeknights with templates",

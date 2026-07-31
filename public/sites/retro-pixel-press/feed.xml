@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-5.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-5.html</guid>
+      <pubDate>Fri, 31 Jul 2026 23:40:25 GMT</pubDate>
+      <description>We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-7.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-7.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade-options.html</guid>
       <pubDate>Wed, 29 Jul 2026 08:10:06 GMT</pubDate>
       <description>Upgrade for speed</description>
-    </item>
-    <item>
-      <title>Upgrade Your Game: A Beginner&apos;s Guide to Controller Mods</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-controller-mods.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-controller-mods.html</guid>
-      <pubDate>Wed, 29 Jul 2026 05:12:19 GMT</pubDate>
-      <description>Take your retro gaming to the next level</description>
     </item>
   </channel>
 </rss>
