@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sauce-template-hacks",
+    "title": "Pantry Sauces on Speed Dial",
+    "dek": "Simplify weeknight dinners with versatile sauces.",
+    "takeaway": "Mastering a few core sauces can elevate your entire weeknight dinner game.",
+    "whatHappened": "Home cooks often find themselves stuck in a recipe rut, relying on the same old flavors. Sauces can be a game-changer, but making them from scratch can be daunting. By creating a sauce template, you can mix and match ingredients to create a variety of flavors. This approach simplifies the cooking process and adds depth to your dishes.",
+    "whyItMatters": "Having a set of go-to sauces can save time and reduce stress during weeknight cooking. It also allows for creativity and experimentation, keeping meals interesting and exciting. With a solid sauce foundation, you can easily adapt recipes and make substitutions based on what's available in your pantry.",
+    "howToThink": "To start building your sauce template, identify the core components of your favorite sauces, such as acidity, sweetness, and umami. Then, experiment with different combinations of ingredients to create unique flavor profiles. Consider the types of dishes you cook most often and develop sauces that complement those flavors.",
+    "pros": [
+      "Time-saving",
+      "Increased creativity",
+      "Reduced food waste"
+    ],
+    "cons": [
+      "Initial investment of time",
+      "Space required for storage",
+      "Potential for flavor fatigue"
+    ],
+    "watchOut": "Be mindful of sauce acidity when storing or reheating to avoid unwanted flavor changes.",
+    "faq": [
+      {
+        "q": "What are the essential ingredients for a basic sauce template?",
+        "a": "Onions, garlic, and a neutral oil provide a solid foundation."
+      },
+      {
+        "q": "Can I freeze sauces for later use?",
+        "a": "Yes, most sauces can be frozen for up to 3 months, making them perfect for meal prep."
+      },
+      {
+        "q": "How do I prevent sauces from becoming too salty?",
+        "a": "Taste as you go and adjust seasoning accordingly, using salt-free alternatives when possible."
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "sauce hacks",
+      "weeknight dinners"
+    ],
+    "sources": [
+      {
+        "label": "r/Cooking community threads",
+        "url": "https://www.reddit.com/r/Cooking/"
+      },
+      {
+        "label": "Search interest: \"weeknight dinner formula\"",
+        "url": "https://duckduckgo.com/?q=weeknight%20dinner%20formula"
+      }
+    ],
+    "publishedAt": "2026-08-01T21:35:42.849Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "streamlining-sauces",
     "title": "Sauce Hacks for Weeknight Speed",
     "dek": "Elevate meals with minimal sauce prep",

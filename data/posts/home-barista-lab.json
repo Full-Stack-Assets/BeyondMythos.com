@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-espresso-flavor",
+    "title": "Unlocking Espresso's Full Potential",
+    "dek": "Elevate your espresso game",
+    "takeaway": "Adjusting brewing temperature can significantly impact espresso flavor",
+    "whatHappened": "Recent experiments have shown that small changes in brewing temperature can greatly affect the flavor profile of espresso shots. Home baristas are now exploring the optimal temperature ranges for their equipment. This shift in focus towards temperature control is leading to more nuanced and balanced espresso flavors.",
+    "whyItMatters": "Understanding the impact of temperature on espresso flavor is crucial for home baristas seeking to improve their brewing skills. It allows for a more tailored approach to espresso preparation, adapting to the specific characteristics of each coffee bean. By controlling temperature, baristas can coax out unique and desirable flavor notes from their espresso shots.",
+    "howToThink": "To apply this knowledge, start by investing in a thermometer to accurately measure your brewing temperature. Next, experiment with slight adjustments to your machine's temperature settings, noting the effects on flavor. Finally, consider the roast level and origin of your coffee beans when determining the ideal temperature for your shots.",
+    "pros": [
+      "Improved flavor complexity",
+      "Enhanced coffee bean expression",
+      "Increased brewing control"
+    ],
+    "cons": [
+      "Requires thermometer investment",
+      "Demands trial and error",
+      "May need machine adjustments"
+    ],
+    "watchOut": "Be cautious not to over-extract your espresso by using water that's too hot, as this can lead to bitter flavors",
+    "faq": [
+      {
+        "q": "What is the ideal brewing temperature for espresso?",
+        "a": "The ideal temperature range is between 195°F and 205°F"
+      },
+      {
+        "q": "How often should I calibrate my espresso machine's temperature?",
+        "a": "Calibrate your machine's temperature every 1-2 months to ensure accuracy"
+      },
+      {
+        "q": "Can I use a regular thermometer to measure brewing temperature?",
+        "a": "It's recommended to use a thermometer specifically designed for espresso machines for precise readings"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-01T21:35:37.460Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-13",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

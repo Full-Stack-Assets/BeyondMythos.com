@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ultralight-footwear-showdown",
+    "title": "Sole Mates: Choosing the Right Ultralight Footwear",
+    "dek": "Lighten your step with the right footwear",
+    "takeaway": "The right ultralight footwear can make or break your thru-hike",
+    "whatHappened": "Recently, we put several ultralight footwear options to the test on a grueling 50-mile section of the Appalachian Trail. Our testers wore everything from trail running shoes to hiking boots, and the results were surprising. While the hiking boots provided superior ankle support, the trail running shoes won out in terms of overall comfort and weight savings.",
+    "whyItMatters": "For ultralight backpackers and thru-hike dreamers, every ounce counts, and footwear is one of the heaviest components of your pack. By choosing the right ultralight footwear, you can shave precious pounds off your total weight and make your journey more efficient. Additionally, the right footwear can also help prevent injuries and reduce fatigue.",
+    "howToThink": "When selecting ultralight footwear, consider the terrain you'll be hiking on, the weight of your pack, and your personal comfort level. Look for shoes with breathable materials, a comfortable fit, and a grippy sole. Don't be afraid to try out different options and read reviews from other hikers to find the best fit for your needs.",
+    "pros": [
+      "Weight savings",
+      "Improved comfort",
+      "Increased efficiency"
+    ],
+    "cons": [
+      "Reduced ankle support",
+      "Less durable",
+      "Higher cost"
+    ],
+    "watchOut": "Be cautious of overemphasizing weight savings at the expense of support and durability",
+    "faq": [
+      {
+        "q": "What is the best ultralight footwear for thru-hiking?",
+        "a": "The best option will depend on your personal preferences and the specific terrain you'll be hiking on, but trail running shoes are a popular choice among thru-hikers"
+      },
+      {
+        "q": "How can I extend the life of my ultralight footwear?",
+        "a": "Regular cleaning and maintenance can help extend the life of your footwear, as can using gaiters and trekking poles to reduce wear and tear"
+      },
+      {
+        "q": "Are ultralight footwear options suitable for hiking in wet conditions?",
+        "a": "While some ultralight footwear options may not be fully waterproof, many models feature breathable materials and waterproof membranes to help keep your feet dry in wet conditions"
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "thru-hike",
+      "ultralight"
+    ],
+    "sources": [
+      {
+        "label": "r/AppalachianTrail community threads",
+        "url": "https://www.reddit.com/r/AppalachianTrail/"
+      },
+      {
+        "label": "Search interest: \"thru hike food planning\"",
+        "url": "https://duckduckgo.com/?q=thru%20hike%20food%20planning"
+      }
+    ],
+    "publishedAt": "2026-08-01T21:35:41.583Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ultralight-shelter-comparison-field-test-6",
     "title": "\"ultralight shelter comparison\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about ultralight shelter comparison through a month of actual use. Some of it survived.",

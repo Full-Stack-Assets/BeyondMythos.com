@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Unlocking Espresso&apos;s Full Potential</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/boosting-espresso-flavor.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/boosting-espresso-flavor.html</guid>
+      <pubDate>Sat, 01 Aug 2026 21:35:37 GMT</pubDate>
+      <description>Elevate your espresso game</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-13.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-13.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-bean-freshness-matters.html</guid>
       <pubDate>Thu, 30 Jul 2026 07:19:41 GMT</pubDate>
       <description>Fresh beans make better coffee</description>
-    </item>
-    <item>
-      <title>Calibrate for Greatness: The Secret to Unlocking Your Espresso Machine&apos;s Full Potential</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-3.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-3.html</guid>
-      <pubDate>Thu, 30 Jul 2026 04:40:13 GMT</pubDate>
-      <description>Get the most out of your espresso machine</description>
     </item>
   </channel>
 </rss>
