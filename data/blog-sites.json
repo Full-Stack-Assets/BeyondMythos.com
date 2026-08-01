@@ -1626,8 +1626,30 @@
       "streamUrl": "https://www.beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-08-01T01:13:12.856Z"
+    },
+    {
+      "id": "indie-frame-notes-3-1785556204794",
+      "slug": "indie-frame-notes-3",
+      "name": "Indie Frame Notes",
+      "tagline": "Fresh takes for indie filmmakers and short-film creators.",
+      "nicheId": "indie-film",
+      "audience": "indie filmmakers and short-film creators",
+      "categories": [
+        "Production",
+        "Sound",
+        "Distribution",
+        "Gear"
+      ],
+      "url": "https://www.beyondmythos.com/sites/indie-frame-notes-3/",
+      "localUrl": "https://www.beyondmythos.com/sites/indie-frame-notes-3/",
+      "vercel": null,
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-08-01T03:49:57.058Z",
+      "streamUrl": "https://www.beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-07-31T23:15:23.822Z",
+  "lastGeneratedAt": "2026-08-01T03:49:57.058Z",
   "lastPostRunAt": "2026-08-01T01:13:12.943Z"
 }
