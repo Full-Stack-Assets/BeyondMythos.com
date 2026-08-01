@@ -1,5 +1,56 @@
 [
   {
+    "slug": "local-rail-secrets-unlocked",
+    "title": "Discovering Hidden Gems on Local Rails",
+    "dek": "Unlock local rail secrets for a unique travel experience",
+    "takeaway": "Exploring local rails can lead to unforgettable experiences and a deeper connection with the community",
+    "whatHappened": "Recently, I had the opportunity to explore a local rail line that wound its way through a picturesque countryside, offering breathtaking views and a glimpse into the region's rich history. The journey was a testament to the power of slow travel, allowing me to absorb the surroundings and engage with the locals. By taking the road less traveled, I stumbled upon hidden gems that would have been impossible to discover on a larger, more touristy route",
+    "whyItMatters": "For slow-travel and low-impact explorers, discovering local rail secrets is a game-changer, providing a unique perspective on the destination and a chance to support local economies. By opting for local rails, travelers can reduce their carbon footprint and experience the authentic culture of the region. Moreover, local rails often offer a more relaxed and scenic journey, allowing travelers to unwind and recharge",
+    "howToThink": "To make the most of local rails, consider purchasing a local rail pass, which can provide flexibility and savings. Research the route in advance, looking for unique attractions and experiences along the way. Additionally, be sure to respect local customs and traditions, and take the time to engage with the community, whether through conversations with fellow passengers or visits to local landmarks",
+    "pros": [
+      "Scenic routes",
+      "Local culture",
+      "Relaxed pace"
+    ],
+    "cons": [
+      "Limited schedules",
+      "Less comfortable",
+      "Language barriers"
+    ],
+    "watchOut": "Be mindful of local rail schedules and plan accordingly to avoid missing connections or getting stranded",
+    "faq": [
+      {
+        "q": "What is the best way to find local rail routes?",
+        "a": "Research online or consult with local tourism boards to discover hidden gems"
+      },
+      {
+        "q": "Can I use my regular rail pass on local rails?",
+        "a": "It depends on the pass and the local rail line, so be sure to check in advance"
+      },
+      {
+        "q": "Are local rails safe for solo travelers?",
+        "a": "Generally, yes, but take normal precautions to ensure your safety, such as researching the route and trusting your instincts"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Local Rails",
+      "Slow Travel"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-01T17:41:25.869Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-12",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",
