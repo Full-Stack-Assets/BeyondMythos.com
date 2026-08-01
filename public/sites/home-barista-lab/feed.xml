@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Daily Grind: Expert Tips to Extend Your Espresso Machine&apos;s Life</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks-3.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks-3.html</guid>
+      <pubDate>Sat, 01 Aug 2026 01:13:08 GMT</pubDate>
+      <description>Tips to keep your espresso machine in top shape</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-9.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-9.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-with-distribution-tools.html</guid>
       <pubDate>Wed, 29 Jul 2026 11:08:03 GMT</pubDate>
       <description>Unlock perfect espresso shots with the right distribution tools.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your gear questions, answered</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-9.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-9.html</guid>
-      <pubDate>Wed, 29 Jul 2026 08:10:04 GMT</pubDate>
-      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

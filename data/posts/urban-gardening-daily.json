@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-vertical-space-5",
+    "title": "Sky's the limit: vertical gardening for beginners",
+    "dek": "Grow more with less space",
+    "takeaway": "Vertical gardening is a game-changer for small-space gardeners",
+    "whatHappened": "Apartment dwellers are turning to vertical gardening to maximize their limited outdoor space. With the rise of space-saving gardening solutions, it's now possible to grow a wide variety of plants in even the smallest of areas. From trellises to wall-mounted planters, the options are endless.",
+    "whyItMatters": "Vertical gardening not only increases yields but also adds a decorative element to balconies and patios. It's also a great way to make the most of natural light, which can be limited in urban areas. By utilizing vertical space, gardeners can create a lush oasis in even the most compact environments.",
+    "howToThink": "When starting a vertical garden, consider the amount of sunlight and wind your plants will receive. Choose a sturdy trellis or planter that can support the weight of your plants and soil. Don't be afraid to experiment with different layouts and plant combinations to find what works best for you.",
+    "pros": [
+      "Increased yields",
+      "Space-saving",
+      "Aesthetic appeal"
+    ],
+    "cons": [
+      "Higher initial cost",
+      "Requires regular maintenance",
+      "Limited plant selection"
+    ],
+    "watchOut": "Be mindful of weight limits when choosing a vertical gardening system to avoid damaging your balcony or patio",
+    "faq": [
+      {
+        "q": "What type of plants are best suited for vertical gardening?",
+        "a": "Trailing plants like ivy, succulents, and herbs thrive in vertical gardens"
+      },
+      {
+        "q": "How often should I water my vertical garden?",
+        "a": "Watering frequency depends on the type of plants and climate, but a general rule of thumb is to water when the top inch of soil feels dry"
+      },
+      {
+        "q": "Can I use a trellis for vertical gardening?",
+        "a": "Yes, trellises are a great option for vertical gardening, especially for climbing plants like peas, beans, and tomatoes"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "vertical gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-01T01:13:07.966Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-12",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",

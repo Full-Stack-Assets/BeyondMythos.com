@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fresh-approaches-to-speedrun-routing",
+    "title": "Streamlining Your Speedrun: Expert Routing Strategies",
+    "dek": "Optimize your speedrun with expert route planning",
+    "takeaway": "Efficient routing is key to shaving seconds off your speedrun times",
+    "whatHappened": "Recent speedrunning competitions have highlighted the importance of optimized routes in achieving record times. Top speedrunners are now sharing their strategies for finding the fastest paths through levels. By adopting these approaches, runners can significantly improve their performance.",
+    "whyItMatters": "With the speedrunning community continuing to grow, the need for precise and efficient routing has never been more pressing. By mastering route planning, speedrunners can stay ahead of the competition and push the boundaries of what is possible. This expertise also translates to other areas of gaming, enhancing overall player skill",
+    "howToThink": "To improve your routing skills, focus on meticulous level analysis, identifying hidden patterns and exploiting game mechanics. Practice consistently and stay up-to-date with the latest discoveries in the speedrunning community. Consider collaborating with fellow runners to share knowledge and refine your techniques",
+    "pros": [
+      "Improved speedrun times",
+      "Enhanced game knowledge",
+      "Community recognition"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Time-consuming analysis",
+      "Requires dedication"
+    ],
+    "watchOut": "Be cautious of outdated routing strategies that may no longer be applicable to current speedrunning standards",
+    "faq": [
+      {
+        "q": "What is speedrun routing?",
+        "a": "Speedrun routing refers to the process of planning the most efficient path through a game to achieve the fastest completion time"
+      },
+      {
+        "q": "How do I get started with route planning?",
+        "a": "Start by analyzing level layouts, observing speedrunner streams, and practicing with your own games"
+      },
+      {
+        "q": "Can route planning be applied to other areas of gaming?",
+        "a": "Yes, the skills and strategies developed through speedrun routing can enhance overall gaming performance and problem-solving abilities"
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "Speedrunning",
+      "Game Optimization"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-01T01:13:08.372Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-game-restoration-field-test-5",
     "title": "\"retro game restoration\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.",

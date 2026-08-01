@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-hacks-3",
+    "title": "The Daily Grind: Expert Tips to Extend Your Espresso Machine's Life",
+    "dek": "Tips to keep your espresso machine in top shape",
+    "takeaway": "Regular maintenance can significantly extend the life of your espresso machine and improve its performance",
+    "whatHappened": "Many home baristas overlook the importance of regular maintenance for their espresso machines, leading to decreased performance and a shorter lifespan. A well-maintained machine can produce better-tasting espresso and reduce the need for costly repairs. By incorporating simple maintenance habits into your daily routine, you can keep your machine in top working order.",
+    "whyItMatters": "A poorly maintained espresso machine can lead to a range of issues, from clogged brew heads to faulty pumps. Regular maintenance not only extends the life of your machine but also ensures that it continues to produce high-quality espresso. By prioritizing maintenance, you can enjoy better-tasting coffee and reduce the risk of expensive repairs.",
+    "howToThink": "To keep your espresso machine in good working order, start by descaling it every 3-6 months to prevent mineral buildup. Regularly cleaning the brew head and grinds container can also help to prevent clogs and maintain optimal performance. Additionally, consider investing in a water filter to reduce the risk of limescale damage.",
+    "pros": [
+      "Improved espresso taste",
+      "Reduced repair costs",
+      "Extended machine lifespan"
+    ],
+    "cons": [
+      "Requires regular effort",
+      "Can be time-consuming",
+      "May require additional expenses"
+    ],
+    "watchOut": "Be careful not to use abrasive cleaning products, as they can damage your machine's components",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What type of cleaning products are safe to use on my machine?",
+        "a": "Mild detergents and specialized coffee machine cleaning solutions"
+      },
+      {
+        "q": "Can I perform maintenance tasks myself, or do I need a professional?",
+        "a": "Most maintenance tasks can be performed by yourself, but complex issues may require professional assistance"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso maintenance",
+      "coffee machine care"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-01T01:13:08.142Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-9",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

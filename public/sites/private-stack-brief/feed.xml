@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
     <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
     <item>
+      <title>Ask the forge: your threats questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-4.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-4.html</guid>
+      <pubDate>Sat, 01 Aug 2026 01:13:11 GMT</pubDate>
+      <description>Straight answers to the threats questions privacy-conscious consumers and security hobbyists keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in devices with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/quiet-upgrade-devices-4.html</link>
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/quiet-upgrade-devices-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/state-of-browsers.html</guid>
       <pubDate>Wed, 29 Jul 2026 12:20:27 GMT</pubDate>
       <description>A field report on browsers: where things stand, and what privacy-conscious consumers and security hobbyists should do next.</description>
-    </item>
-    <item>
-      <title>Starter guide: Passwords without the overwhelm</title>
-      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/starter-guide-passwords.html</link>
-      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/starter-guide-passwords.html</guid>
-      <pubDate>Mon, 27 Jul 2026 23:20:27 GMT</pubDate>
-      <description>A practical on-ramp to passwords for privacy-conscious consumers and security hobbyists — one repeatable workflow, no gear debt.</description>
     </item>
   </channel>
 </rss>
