@@ -1695,8 +1695,30 @@
       "streamUrl": "https://www.beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-08-01T10:21:09.919Z"
+    },
+    {
+      "id": "prep-plate-weekly-2-1785584101940",
+      "slug": "prep-plate-weekly-2",
+      "name": "Prep Plate Weekly",
+      "tagline": "Fresh takes for busy professionals who meal prep.",
+      "nicheId": "meal-prep",
+      "audience": "busy professionals who meal prep",
+      "categories": [
+        "Recipes",
+        "Freezer",
+        "Macros",
+        "Tools"
+      ],
+      "url": "https://www.beyondmythos.com/sites/prep-plate-weekly-2/",
+      "localUrl": "https://www.beyondmythos.com/sites/prep-plate-weekly-2/",
+      "vercel": null,
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-08-01T11:35:01.703Z",
+      "streamUrl": "https://www.beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-08-01T09:20:45.017Z",
+  "lastGeneratedAt": "2026-08-01T11:35:01.703Z",
   "lastPostRunAt": "2026-08-01T10:21:09.988Z"
 }
