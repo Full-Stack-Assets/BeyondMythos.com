@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "layer-line-removal",
+    "title": "Say Goodbye to Layer Lines",
+    "category": "Calibration",
+    "dek": "Get smooth prints with these tips",
+    "takeaway": "Proper calibration can eliminate layer lines",
+    "whatHappened": "Layer lines are a common issue in 3D printing, caused by misaligned layers or incorrect extruder settings. They can be frustrating to deal with, especially for beginners. However, with the right techniques, you can minimize or even eliminate them.",
+    "whyItMatters": "Layer lines can affect the overall appearance and quality of your prints, making them look rough and unprofessional. By removing them, you can achieve a smoother finish and a more polished look. This is especially important for prints that will be used for display or presentation purposes.",
+    "howToThink": "To remove layer lines, start by checking your printer's calibration and adjusting the extruder settings as needed. You can also try using a different type of filament or adjusting the print speed. Additionally, make sure your print bed is level and clean, as any debris or unevenness can cause layer lines.",
+    "pros": [
+      "Smooth finish",
+      "Improved quality",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Requires calibration",
+      "May require new filament",
+      "Can be time-consuming"
+    ],
+    "watchOut": "Be careful not to over-calibrate, as this can cause other issues with your prints",
+    "faq": [
+      {
+        "q": "What causes layer lines?",
+        "a": "Misaligned layers or incorrect extruder settings"
+      },
+      {
+        "q": "Can I remove layer lines with software?",
+        "a": "Yes, some slicing software can help reduce layer lines"
+      },
+      {
+        "q": "Will removing layer lines affect print strength?",
+        "a": "No, removing layer lines should not affect the strength of your prints"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/3Dprinting community threads",
+        "url": "https://www.reddit.com/r/3Dprinting/"
+      },
+      {
+        "label": "Search interest: \"3d print stringing fix\"",
+        "url": "https://duckduckgo.com/?q=3d%20print%20stringing%20fix"
+      }
+    ],
+    "tags": [
+      "3D printing",
+      "calibration"
+    ],
+    "publishedAt": "2026-08-01T13:55:05.000Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "filament-choice",
+    "title": "The Right Filament for Smooth Prints",
+    "category": "Filament",
+    "dek": "Choose the right filament for your needs",
+    "takeaway": "The right filament can make a big difference in print quality",
+    "whatHappened": "When it comes to 3D printing, the type of filament you use can greatly affect the quality of your prints. Different filaments have different properties, such as melting point, flexibility, and layer adhesion. Choosing the right filament for your project can help you achieve the desired results.",
+    "whyItMatters": "Using the right filament can help you avoid issues like layer lines, warping, and poor adhesion. It can also help you achieve the desired texture, color, and finish. Additionally, some filaments are more suitable for specific applications, such as outdoor use or food contact.",
+    "howToThink": "When choosing a filament, consider the specific requirements of your project. Think about the desired strength, flexibility, and appearance of your print. Research different types of filaments and their properties, and read reviews from other users to find the best one for your needs.",
+    "pros": [
+      "Wide range of options",
+      "Can improve print quality",
+      "Suitable for different applications"
+    ],
+    "cons": [
+      "Can be expensive",
+      "May require special handling",
+      "Limited availability"
+    ],
+    "watchOut": "Be careful when handling filament, as it can be fragile and prone to tangling",
+    "faq": [
+      {
+        "q": "What is the most common type of filament?",
+        "a": "PLA"
+      },
+      {
+        "q": "Can I use any filament with my printer?",
+        "a": "No, check your printer's compatibility before using a new filament"
+      },
+      {
+        "q": "How do I store filament?",
+        "a": "In a cool, dry place, away from direct sunlight"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/FixMyPrint community threads",
+        "url": "https://www.reddit.com/r/FixMyPrint/"
+      },
+      {
+        "label": "Search interest: \"best filament for beginners\"",
+        "url": "https://duckduckgo.com/?q=best%20filament%20for%20beginners"
+      }
+    ],
+    "tags": [
+      "filament",
+      "3D printing"
+    ],
+    "publishedAt": "2026-07-31T00:55:05.000Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "design-for-printing",
+    "title": "Designing for 3D Printing Success",
+    "category": "Design",
+    "dek": "Get the most out of your prints with good design",
+    "takeaway": "Good design can make a big difference in print quality and success",
+    "whatHappened": "When designing for 3D printing, it's essential to consider the limitations and capabilities of the technology. This includes thinking about the size, shape, and complexity of your design, as well as the type of filament you'll be using. A well-designed print can make a big difference in the quality and success of your project.",
+    "whyItMatters": "A good design can help you avoid issues like layer lines, warping, and poor adhesion. It can also help you achieve the desired texture, color, and finish. Additionally, a well-designed print can be more efficient to produce, reducing material waste and print time.",
+    "howToThink": "When designing for 3D printing, think about the functional and aesthetic requirements of your project. Consider the size, shape, and complexity of your design, and how it will be used. Use software tools to simulate and optimize your design, and test and iterate until you achieve the desired results.",
+    "pros": [
+      "Improved print quality",
+      "Increased efficiency",
+      "Better functionality"
+    ],
+    "cons": [
+      "Requires expertise",
+      "Can be time-consuming",
+      "Limited by printer capabilities"
+    ],
+    "watchOut": "Be careful not to over-design, as this can lead to increased complexity and print time",
+    "faq": [
+      {
+        "q": "What software is best for 3D design?",
+        "a": "Depends on your needs and experience level"
+      },
+      {
+        "q": "Can I design for 3D printing without experience?",
+        "a": "Yes, but it may require more trial and error"
+      },
+      {
+        "q": "How do I optimize my design for printing?",
+        "a": "Use software tools to simulate and optimize your design"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/functionalprint community threads",
+        "url": "https://www.reddit.com/r/functionalprint/"
+      },
+      {
+        "label": "Search interest: \"printer upgrade guide\"",
+        "url": "https://duckduckgo.com/?q=printer%20upgrade%20guide"
+      }
+    ],
+    "tags": [
+      "3D design",
+      "printing"
+    ],
+    "publishedAt": "2026-07-29T11:55:05.000Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "upgrading-your-printer",
+    "title": "Upgrading Your 3D Printer for Better Results",
+    "category": "Upgrades",
+    "dek": "Take your printing to the next level with upgrades",
+    "takeaway": "Upgrades can greatly improve print quality and functionality",
+    "whatHappened": "As 3D printing technology continues to evolve, there are many upgrades available to improve the performance and capabilities of your printer. These can range from simple modifications to more complex upgrades, such as new extruders or print beds. By upgrading your printer, you can achieve better print quality, increased efficiency, and new functionality.",
+    "whyItMatters": "Upgrades can help you overcome limitations and issues with your current printer, such as poor print quality or slow print speeds. They can also enable you to print with new materials, such as metal or carbon fiber, or achieve more complex geometries and designs.",
+    "howToThink": "When considering upgrades, think about your specific needs and goals. Research different options and read reviews from other users to find the best upgrades for your printer and budget. Start with simple modifications and work your way up to more complex upgrades as needed.",
+    "pros": [
+      "Improved print quality",
+      "Increased efficiency",
+      "New functionality"
+    ],
+    "cons": [
+      "Can be expensive",
+      "May require technical expertise",
+      "Limited compatibility"
+    ],
+    "watchOut": "Be careful when installing upgrades, as they can be complex and require technical expertise",
+    "faq": [
+      {
+        "q": "What are the most common upgrades?",
+        "a": "New extruders, print beds, and hotends"
+      },
+      {
+        "q": "Can I upgrade my printer myself?",
+        "a": "Yes, but it may require technical expertise"
+      },
+      {
+        "q": "How do I choose the right upgrades for my printer?",
+        "a": "Research and read reviews from other users"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/3Dprinting community threads",
+        "url": "https://www.reddit.com/r/3Dprinting/"
+      },
+      {
+        "label": "Search interest: \"3d print stringing fix\"",
+        "url": "https://duckduckgo.com/?q=3d%20print%20stringing%20fix"
+      }
+    ],
+    "tags": [
+      "upgrades",
+      "3D printing"
+    ],
+    "publishedAt": "2026-07-27T22:55:05.000Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "calibration-techniques",
+    "title": "Calibration Techniques for Smooth Prints",
+    "category": "Calibration",
+    "dek": "Get the most out of your printer with proper calibration",
+    "takeaway": "Proper calibration is essential for smooth prints",
+    "whatHappened": "Calibration is a critical step in 3D printing, as it ensures that your printer is properly aligned and configured for optimal performance. This includes adjusting the print bed, extruder, and other components to achieve the best possible print quality. By using the right calibration techniques, you can achieve smooth, accurate prints with minimal layer lines and other issues.",
+    "whyItMatters": "Proper calibration can make a big difference in the quality and success of your prints. It can help you avoid issues like layer lines, warping, and poor adhesion, and achieve the desired texture, color, and finish. Additionally, calibration can help you optimize your printer's performance, reducing material waste and print time.",
+    "howToThink": "When calibrating your printer, start by checking the print bed and extruder alignment. Use software tools to simulate and optimize your calibration, and test and iterate until you achieve the desired results. Consider using calibration kits or accessories to help you achieve accurate and consistent results.",
+    "pros": [
+      "Improved print quality",
+      "Increased efficiency",
+      "Optimized performance"
+    ],
+    "cons": [
+      "Can be time-consuming",
+      "Requires technical expertise",
+      "May require additional hardware"
+    ],
+    "watchOut": "Be careful not to over-calibrate, as this can cause other issues with your prints",
+    "faq": [
+      {
+        "q": "What is the most important calibration step?",
+        "a": "Print bed alignment"
+      },
+      {
+        "q": "Can I calibrate my printer without software?",
+        "a": "Yes, but it may be more difficult and time-consuming"
+      },
+      {
+        "q": "How often should I calibrate my printer?",
+        "a": "Depends on usage and printer type"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/FixMyPrint community threads",
+        "url": "https://www.reddit.com/r/FixMyPrint/"
+      },
+      {
+        "label": "Search interest: \"best filament for beginners\"",
+        "url": "https://duckduckgo.com/?q=best%20filament%20for%20beginners"
+      }
+    ],
+    "tags": [
+      "calibration",
+      "3D printing"
+    ],
+    "publishedAt": "2026-07-26T09:55:05.000Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "filament-quality",
+    "title": "The Importance of Filament Quality",
+    "category": "Filament",
+    "dek": "Get the best prints with high-quality filament",
+    "takeaway": "High-quality filament is essential for smooth prints",
+    "whatHappened": "The quality of your filament can greatly affect the quality of your prints. Poor-quality filament can cause issues like layer lines, warping, and poor adhesion, while high-quality filament can help you achieve smooth, accurate prints. By choosing the right filament for your needs, you can optimize your print quality and success.",
+    "whyItMatters": "High-quality filament can make a big difference in the quality and success of your prints. It can help you avoid issues like layer lines, warping, and poor adhesion, and achieve the desired texture, color, and finish. Additionally, high-quality filament can be more efficient to use, reducing material waste and print time.",
+    "howToThink": "When choosing filament, consider the specific requirements of your project. Research different types of filament and their properties, and read reviews from other users to find the best one for your needs. Look for filament with consistent diameter, moisture-controlled packaging, and a reputation for quality.",
+    "pros": [
+      "Improved print quality",
+      "Increased efficiency",
+      "Better functionality"
+    ],
+    "cons": [
+      "Can be expensive",
+      "May require special handling",
+      "Limited availability"
+    ],
+    "watchOut": "Be careful when handling filament, as it can be fragile and prone to tangling",
+    "faq": [
+      {
+        "q": "What is the most important factor in filament quality?",
+        "a": "Consistent diameter"
+      },
+      {
+        "q": "Can I use any filament with my printer?",
+        "a": "No, check your printer's compatibility before using a new filament"
+      },
+      {
+        "q": "How do I store filament?",
+        "a": "In a cool, dry place, away from direct sunlight"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/functionalprint community threads",
+        "url": "https://www.reddit.com/r/functionalprint/"
+      },
+      {
+        "label": "Search interest: \"printer upgrade guide\"",
+        "url": "https://duckduckgo.com/?q=printer%20upgrade%20guide"
+      }
+    ],
+    "tags": [
+      "filament",
+      "quality"
+    ],
+    "publishedAt": "2026-07-24T20:55:05.000Z",
+    "readMinutes": 2
+  }
+]
