@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The preservation checklist: run this before you spend</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-12.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-12.html</guid>
+      <pubDate>Sat, 01 Aug 2026 04:59:36 GMT</pubDate>
+      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Streamlining Your Speedrun: Expert Routing Strategies</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/fresh-approaches-to-speedrun-routing.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/fresh-approaches-to-speedrun-routing.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks.html</guid>
       <pubDate>Wed, 29 Jul 2026 13:22:32 GMT</pubDate>
       <description>Upgrade your retro console for smoother speedruns</description>
-    </item>
-    <item>
-      <title>Retro Reborn: Upgrading to HDMI for Smoother Speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-hdmi-upgrade.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-hdmi-upgrade.html</guid>
-      <pubDate>Wed, 29 Jul 2026 11:08:03 GMT</pubDate>
-      <description>Upgrade your retro console to HDMI</description>
     </item>
   </channel>
 </rss>
