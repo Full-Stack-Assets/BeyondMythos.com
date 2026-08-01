@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>A weekend project: level up your espresso in two hours</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-10.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-10.html</guid>
+      <pubDate>Sat, 01 Aug 2026 16:37:54 GMT</pubDate>
+      <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/espresso is debating this week</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-3.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-10.html</guid>
       <pubDate>Wed, 29 Jul 2026 22:37:15 GMT</pubDate>
       <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>Dialing In: The Secret to Perfect Espresso Shots</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-2.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-2.html</guid>
-      <pubDate>Wed, 29 Jul 2026 21:35:04 GMT</pubDate>
-      <description>Get the most out of your espresso machine</description>
     </item>
   </channel>
 </rss>
