@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Mind the Gap: Etiquette for the Modern Rail Traveller</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/rebooting-rail-etiquette.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/rebooting-rail-etiquette.html</guid>
+      <pubDate>Sat, 01 Aug 2026 10:21:03 GMT</pubDate>
+      <description>Rail travel dos and don&apos;ts</description>
+    </item>
+    <item>
       <title>Ask the forge: your local questions, answered</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-11.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-travel-hacks.html</guid>
       <pubDate>Wed, 29 Jul 2026 16:57:05 GMT</pubDate>
       <description>Maximize your travel time with these simple hacks</description>
-    </item>
-    <item>
-      <title>Unlocking Hidden Rail Gems for the Discerning Traveler</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/slow-travel-rail-secrets-2.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-travel-rail-secrets-2.html</guid>
-      <pubDate>Wed, 29 Jul 2026 15:34:19 GMT</pubDate>
-      <description>Discover local favorites on the rails</description>
     </item>
   </channel>
 </rss>

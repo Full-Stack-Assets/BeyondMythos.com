@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-10",
+    "title": "Breathing Room: How to Make the Most of Your Balcony",
+    "dek": "Tips to boost your balcony garden",
+    "takeaway": "Optimizing your balcony space can significantly increase plant yields and enjoyment",
+    "whatHappened": "Many apartment dwellers and balcony gardeners face the challenge of limited space, which can hinder the growth and diversity of their gardens. However, with the right strategies, even the smallest balconies can be transformed into thriving gardens. By utilizing vertical space and selecting the right containers, gardeners can create a lush oasis in the midst of the city.",
+    "whyItMatters": "Maximizing balcony space is crucial for urban gardeners as it allows for a greater variety of plants, increased yields, and a more enjoyable gardening experience. Moreover, a well-designed balcony garden can also provide a peaceful retreat from the hustle and bustle of city life. By making the most of their space, gardeners can reap the many benefits of gardening, including reduced stress and improved air quality.",
+    "howToThink": "To maximize your balcony space, consider using wall-mounted planters, tiered containers, and hanging baskets. It's also essential to select plants that are compact, disease-resistant, and suitable for container gardening. Additionally, don't forget to leave enough space between plants for proper air circulation and maintenance.",
+    "pros": [
+      "Increased yields",
+      "Improved aesthetics",
+      "Enhanced biodiversity"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires careful planning",
+      "May require more frequent watering"
+    ],
+    "watchOut": "Be mindful of weight limits when using heavy containers or planters on your balcony to avoid damage or safety hazards",
+    "faq": [
+      {
+        "q": "What are the best plants for small balconies?",
+        "a": "Compact herbs, succulents, and leafy greens are excellent choices for small balconies"
+      },
+      {
+        "q": "How can I improve air circulation on my balcony?",
+        "a": "Use a fan, add a trellis, or leave space between plants to promote air circulation"
+      },
+      {
+        "q": "What is the best material for balcony containers?",
+        "a": "Choose durable, weather-resistant materials like ceramic, wood, or recycled plastic"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "urban gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-01T10:21:02.999Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "microgreens-in-winter",
     "title": "Winter Greens: How to Grow Microgreens on Your Balcony",
     "dek": "Grow fresh greens year-round",

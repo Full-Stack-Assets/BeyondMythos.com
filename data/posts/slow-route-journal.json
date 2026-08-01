@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rebooting-rail-etiquette",
+    "title": "Mind the Gap: Etiquette for the Modern Rail Traveller",
+    "dek": "Rail travel dos and don'ts",
+    "takeaway": "Practicing good rail etiquette enhances your travel experience and that of fellow passengers",
+    "whatHappened": "As rail travel continues to gain popularity among environmentally conscious travelers, the need for a refresh on rail etiquette has become increasingly important. From loud conversations to luggage placement, there are unwritten rules that when followed, can significantly improve the travel experience. Observations from recent trips highlight a mix of considerate and inconsiderate behavior among passengers.",
+    "whyItMatters": "Good rail etiquette is not just about personal comfort but also contributes to a more harmonious and respectful travel environment. It influences how we perceive our journey, interact with locals, and impact the communities we visit. By embracing these guidelines, travelers can be part of creating a positive, low-impact experience for themselves and others.",
+    "howToThink": "To navigate rail travel with grace, consider the space and comfort of those around you. Be mindful of noise levels, keep walkways clear, and respect quiet cars. Simple actions such as offering seats to those who may need them more and keeping electronic devices on silent mode can go a long way in fostering a considerate travel community.",
+    "pros": [
+      "Enhanced travel experience",
+      "Respectful environment",
+      "Positive interactions"
+    ],
+    "cons": [
+      "Difficulty in enforcing etiquette",
+      "Cultural differences in norms",
+      "Potential conflicts"
+    ],
+    "watchOut": "Be cautious of cultural or personal differences that may lead to unintentional offense, and always prioritize open communication and respect",
+    "faq": [
+      {
+        "q": "What is considered polite in a quiet rail car?",
+        "a": "Keeping your voice down and electronic devices on silent mode"
+      },
+      {
+        "q": "How should I handle my luggage on a crowded train?",
+        "a": "Keep it compact and avoid blocking aisles or seats"
+      },
+      {
+        "q": "Is it okay to eat on the train?",
+        "a": "Yes, but avoid strong-smelling foods and dispose of trash properly"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "RailTravel",
+      "LowImpact"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-01T10:21:03.360Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-11",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",

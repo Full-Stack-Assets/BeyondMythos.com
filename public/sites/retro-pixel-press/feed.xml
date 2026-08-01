@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>A weekend project: level up your hardware in two hours</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-10.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-10.html</guid>
+      <pubDate>Sat, 01 Aug 2026 10:21:01 GMT</pubDate>
+      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/retrogaming is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-6.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-pixel-perfection.html</guid>
       <pubDate>Wed, 29 Jul 2026 16:57:05 GMT</pubDate>
       <description>Upgrade your retro gear for speedrun success</description>
-    </item>
-    <item>
-      <title>Reviving Retro Peripherals for Modern Speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/rebooting-retro-peripherals.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/rebooting-retro-peripherals.html</guid>
-      <pubDate>Wed, 29 Jul 2026 15:34:19 GMT</pubDate>
-      <description>Upgrade your retro game with new peripherals</description>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Hidden Drip: Why Water Quality Matters for Your Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-water-quality-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-water-quality-2.html</guid>
+      <pubDate>Sat, 01 Aug 2026 10:21:03 GMT</pubDate>
+      <description>Water quality impacts espresso flavor</description>
+    </item>
+    <item>
       <title>Precision Pour-Overs: How Temperature Control Can Elevate Your Brew</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/elevating-pour-over-with-temperature-control.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-pour-over-with-temperature-control.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-made-easy.html</guid>
       <pubDate>Wed, 29 Jul 2026 16:57:05 GMT</pubDate>
       <description>Expert tamping in 5 minutes</description>
-    </item>
-    <item>
-      <title>The roasting checklist: run this before you spend</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-9.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-9.html</guid>
-      <pubDate>Wed, 29 Jul 2026 15:34:19 GMT</pubDate>
-      <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

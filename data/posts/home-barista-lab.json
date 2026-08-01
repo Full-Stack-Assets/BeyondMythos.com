@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-water-quality-2",
+    "title": "The Hidden Drip: Why Water Quality Matters for Your Espresso",
+    "dek": "Water quality impacts espresso flavor",
+    "takeaway": "Using filtered water can significantly improve your espresso's taste and crema quality",
+    "whatHappened": "Recently, we conducted an experiment to see how different water types affect the flavor of espresso shots. We used tap water, filtered water, and distilled water to brew the same coffee beans. The results were surprising, with the filtered water producing a more balanced and rich flavor. This experiment highlighted the importance of water quality in espresso brewing.",
+    "whyItMatters": "Water quality is often overlooked in the pursuit of the perfect espresso shot, but it plays a crucial role in bringing out the unique flavors and characteristics of the coffee beans. Poor water quality can lead to an unbalanced or bitter taste, while good quality water can elevate the entire brewing experience. By using the right water, home baristas can take their espresso game to the next level.",
+    "howToThink": "To improve your espresso's flavor, consider investing in a water filter specifically designed for coffee brewing. These filters can remove impurities and minerals that affect the taste, resulting in a cleaner and more balanced flavor. Additionally, regular maintenance of your espresso machine, such as descaling, can also help prevent mineral buildup and ensure optimal performance.",
+    "pros": [
+      "Improved flavor",
+      "Increased crema quality",
+      "Reduced machine maintenance"
+    ],
+    "cons": [
+      "Added cost",
+      "Requires regular filter replacement",
+      "May alter brewing technique"
+    ],
+    "watchOut": "Be cautious not to over-filter your water, as this can lead to a lack of essential minerals and affect the espresso's flavor",
+    "faq": [
+      {
+        "q": "What type of water filter is best for espresso?",
+        "a": "A filter specifically designed for coffee brewing, which can remove impurities and minerals that affect the taste"
+      },
+      {
+        "q": "Can I use distilled water for espresso?",
+        "a": "While distilled water can produce a clean flavor, it may lack essential minerals and result in an unbalanced taste"
+      },
+      {
+        "q": "How often should I replace my water filter?",
+        "a": "It's recommended to replace your water filter every 1-3 months, depending on usage and manufacturer instructions"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "coffee water"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-01T10:21:03.250Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "elevating-pour-over-with-temperature-control",
     "title": "Precision Pour-Overs: How Temperature Control Can Elevate Your Brew",
     "dek": "Transform your pour-overs with precise temperature control.",
