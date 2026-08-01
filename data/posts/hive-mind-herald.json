@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-hive-maintenance-2",
+    "title": "Beat the Heat: Summer Hive Maintenance Essentials",
+    "dek": "Keep your bees cool and thriving this summer",
+    "takeaway": "Regular summer hive maintenance is crucial for a healthy and productive bee colony",
+    "whatHappened": "As temperatures rise, bee colonies can become more susceptible to disease and pests. A well-maintained hive can help mitigate these risks. Proper ventilation and adequate food supply are essential for a healthy colony during the summer months.",
+    "whyItMatters": "A healthy and productive bee colony is essential for a successful harvest. Neglecting summer hive maintenance can lead to colony loss, reduced honey production, and decreased pollination rates. By prioritizing hive maintenance, backyard beekeepers can ensure a strong and resilient colony.",
+    "howToThink": "When approaching summer hive maintenance, consider the unique needs of your colony. Ensure proper ventilation by adding extra boxes or screens, and provide a constant source of water and food. Regular inspections can help identify potential issues before they become major problems.",
+    "pros": [
+      "Improved colony health",
+      "Increased honey production",
+      "Reduced pest risk"
+    ],
+    "cons": [
+      "Increased time commitment",
+      "Higher equipment costs",
+      "Potential for heat stress"
+    ],
+    "watchOut": "Be cautious of overheating, as high temperatures can be detrimental to your bee colony's health",
+    "faq": [
+      {
+        "q": "How often should I inspect my hive during the summer?",
+        "a": "Inspect your hive every 7-10 days to ensure the colony is healthy and thriving"
+      },
+      {
+        "q": "What are the signs of heat stress in a bee colony?",
+        "a": "Signs of heat stress include aggressive behavior, disorientation, and excessive water consumption"
+      },
+      {
+        "q": "Can I use fans to cool my hive?",
+        "a": "While fans can provide some relief, they are not a substitute for proper ventilation and hive maintenance"
+      }
+    ],
+    "category": "Hives",
+    "tags": [
+      "bee health",
+      "hive maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/homestead community threads",
+        "url": "https://www.reddit.com/r/homestead/"
+      },
+      {
+        "label": "Search interest: \"first honey harvest\"",
+        "url": "https://duckduckgo.com/?q=first%20honey%20harvest"
+      }
+    ],
+    "publishedAt": "2026-08-01T15:42:42.510Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-varroa-treatment-options-6",
     "title": "Myth vs. reality: varroa treatment options",
     "dek": "The persistent myths around varroa treatment options, stress-tested against what backyard beekeepers actually report.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Community pulse: what r/espresso is debating this week</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-3.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-3.html</guid>
+      <pubDate>Sat, 01 Aug 2026 15:42:37 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-11.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-2.html</guid>
       <pubDate>Wed, 29 Jul 2026 21:35:04 GMT</pubDate>
       <description>Get the most out of your espresso machine</description>
-    </item>
-    <item>
-      <title>Grinder Cleaning Hacks for Better Flavors</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-cleaning-hacks.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-cleaning-hacks.html</guid>
-      <pubDate>Wed, 29 Jul 2026 19:59:15 GMT</pubDate>
-      <description>Get more from your beans with a clean grinder</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-the-art-of-panning",
+    "title": "Panning Like a Pro: Tips for Smoother Shots",
+    "dek": "Capture life in motion with these tips",
+    "takeaway": "Mastering panning technique can elevate your street photography",
+    "whatHappened": "Panning is a fundamental technique in photography that involves tracking a moving subject with your camera, creating a sense of motion and blur in the background. It's a skill that requires practice to get right, but when done well, it can add a new level of dynamism to your shots. From sports to street photography, panning is an essential tool in any photographer's arsenal.",
+    "whyItMatters": "In the world of film photography, panning is particularly important because it allows you to convey a sense of movement and energy in a still image. By mastering this technique, you can add an extra layer of depth and emotion to your photographs, drawing the viewer's eye into the frame. Whether you're shooting with a point-and-shoot or a high-end SLR, panning is a skill that can take your photography to the next level.",
+    "howToThink": "To get started with panning, it's essential to understand the basics of camera movement and subject tracking. Start by practicing with slow-moving subjects, such as pedestrians or bicycles, and gradually work your way up to faster subjects like cars or athletes. Remember to keep your camera steady and follow your subject smoothly, using a consistent pace to create a sense of fluid motion.",
+    "pros": [
+      "Captures motion and energy",
+      "Adds depth to images",
+      "Creates unique effects"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be tricky with fast subjects",
+      "May not work with all cameras"
+    ],
+    "watchOut": "Be careful not to over-pan, as this can create an overly blurred image that loses its impact",
+    "faq": [
+      {
+        "q": "What's the best camera for panning?",
+        "a": "Any camera with manual focus and a decent shutter speed can be used for panning"
+      },
+      {
+        "q": "How do I avoid camera shake?",
+        "a": "Use a tripod or a stabilizing rig to keep your camera steady"
+      },
+      {
+        "q": "What's the ideal shutter speed for panning?",
+        "a": "A shutter speed of around 1/30s to 1/60s is usually ideal for panning"
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "street photography",
+      "camera techniques"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-01T15:42:43.020Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-developing-guide-6",
     "title": "Myth vs. reality: home developing guide",
     "dek": "The persistent myths around home developing guide, stress-tested against what film photographers shooting analog actually report.",
