@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-motion-sensors",
+    "title": "Maximizing Motion Sensor Efficiency in Your Smart Home",
+    "dek": "Get the most out of your motion sensors",
+    "takeaway": "Optimizing motion sensors can significantly enhance your smart home's automation and security",
+    "whatHappened": "Recent advancements in motion sensor technology have made them more affordable and accessible for smart home enthusiasts. However, inefficient placement and configuration can lead to false triggers and wasted energy. By understanding how motion sensors work and how to optimize their placement, smart home owners can create more effective automation routines",
+    "whyItMatters": "Effective motion sensor deployment is crucial for creating a seamless and automated smart home experience. It can help reduce energy consumption, improve security, and enhance the overall convenience of your smart home. Moreover, optimizing motion sensors can also help minimize false triggers, which can be annoying and disrupt the overall user experience",
+    "howToThink": "To optimize your motion sensors, consider the layout of your space, the types of activities that occur in each area, and the potential sources of interference. Think about the ideal placement of sensors to capture movement while minimizing false triggers. It's also essential to adjust sensitivity settings and explore advanced features like motion masking and timer settings to fine-tune your sensor's performance",
+    "pros": [
+      "Improved automation",
+      "Enhanced security",
+      "Energy efficiency"
+    ],
+    "cons": [
+      "False triggers",
+      "Interference issues",
+      "Configuration complexity"
+    ],
+    "watchOut": "Be cautious of sensor overlap, as it can lead to conflicting triggers and decreased overall system performance",
+    "faq": [
+      {
+        "q": "What is the ideal placement for motion sensors?",
+        "a": "Ideally, motion sensors should be placed in areas where they can capture movement without being triggered by unnecessary sources, such as pets or passing vehicles"
+      },
+      {
+        "q": "How can I minimize false triggers?",
+        "a": "Adjusting sensitivity settings, using motion masking, and exploring timer settings can help minimize false triggers"
+      },
+      {
+        "q": "Can I use motion sensors outdoors?",
+        "a": "Yes, but it's essential to choose weather-resistant sensors and consider factors like sunlight, temperature, and humidity when placing them"
+      }
+    ],
+    "category": "Sensors",
+    "tags": [
+      "smart sensors",
+      "home automation"
+    ],
+    "sources": [
+      {
+        "label": "r/homeautomation community threads",
+        "url": "https://www.reddit.com/r/homeautomation/"
+      },
+      {
+        "label": "Search interest: \"smart lighting setup\"",
+        "url": "https://duckduckgo.com/?q=smart%20lighting%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-01T19:52:30.532Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-sensors-15",
     "title": "A weekend project: level up your sensors in two hours",
     "dek": "One contained, satisfying sensors project for smart-home tinkerers — start Saturday morning, done by lunch.",

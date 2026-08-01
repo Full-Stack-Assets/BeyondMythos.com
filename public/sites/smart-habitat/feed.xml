@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Maximizing Motion Sensor Efficiency in Your Smart Home</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/optimizing-motion-sensors.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/optimizing-motion-sensors.html</guid>
+      <pubDate>Sat, 01 Aug 2026 19:52:30 GMT</pubDate>
+      <description>Get the most out of your motion sensors</description>
+    </item>
+    <item>
       <title>A weekend project: level up your sensors in two hours</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/weekend-project-sensors-15.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/weekend-project-sensors-15.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/home-assistant-beginner-guide-field-test-4.html</guid>
       <pubDate>Thu, 30 Jul 2026 04:40:16 GMT</pubDate>
       <description>We put the most-repeated advice about home assistant beginner guide through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your lighting questions, answered</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-11.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-11.html</guid>
-      <pubDate>Thu, 30 Jul 2026 01:01:30 GMT</pubDate>
-      <description>Straight answers to the lighting questions smart-home tinkerers and privacy-minded automators keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

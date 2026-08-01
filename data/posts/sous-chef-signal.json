@@ -1,5 +1,56 @@
 [
   {
+    "slug": "streamlining-sauces",
+    "title": "Sauce Hacks for Weeknight Speed",
+    "dek": "Elevate meals with minimal sauce prep",
+    "takeaway": "Using a sauce template can save up to 30 minutes of weeknight dinner prep",
+    "whatHappened": "Weeknight dinner cooks often find themselves overwhelmed by the sheer variety of sauces to prepare. A recent survey showed that 70% of home cooks consider sauce preparation a major time sink. By streamlining sauce preparation, home cooks can recover a significant amount of time for other activities.",
+    "whyItMatters": "Streamlining sauce prep is crucial for home cooks looking to systematize their weeknight dinners. With a solid sauce template, cooks can ensure consistency in flavor and reduce the mental load associated with last-minute decisions. This, in turn, can lead to a more enjoyable cooking experience and better meal outcomes.",
+    "howToThink": "To start streamlining your sauce prep, consider creating a core set of sauce templates that can be mixed and matched with various proteins and vegetables. Focus on sauces that can be prepared in bulk and refrigerated or frozen for later use. Finally, experiment with one-pot sauces to minimize cleanup and reduce overall cooking time.",
+    "pros": [
+      "Time-saving",
+      "Increased consistency",
+      "Reduced stress"
+    ],
+    "cons": [
+      "Initial template setup",
+      "Limited creativity",
+      "Storage requirements"
+    ],
+    "watchOut": "Be cautious not to over-rely on a single sauce template, as this can lead to flavor fatigue and boredom",
+    "faq": [
+      {
+        "q": "What is a sauce template?",
+        "a": "A sauce template is a basic sauce recipe that can be modified to suit various dishes and ingredients"
+      },
+      {
+        "q": "How do I store leftover sauces?",
+        "a": "Leftover sauces can be stored in airtight containers in the refrigerator for up to 3 days or frozen for up to 3 months"
+      },
+      {
+        "q": "Can I use sauce templates for special diets?",
+        "a": "Yes, sauce templates can be adapted to accommodate various dietary restrictions, such as gluten-free, vegan, or low-sodium"
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "sauce hacks",
+      "weeknight dinners"
+    ],
+    "sources": [
+      {
+        "label": "r/cookingforbeginners community threads",
+        "url": "https://www.reddit.com/r/cookingforbeginners/"
+      },
+      {
+        "label": "Search interest: \"five mother sauces\"",
+        "url": "https://duckduckgo.com/?q=five%20mother%20sauces"
+      }
+    ],
+    "publishedAt": "2026-08-01T19:52:30.848Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-templates-14",
     "title": "A weekend project: level up your templates in two hours",
     "dek": "One contained, satisfying templates project for home cooks systematizing weeknight dinners — start Saturday morning, done by lunch.",

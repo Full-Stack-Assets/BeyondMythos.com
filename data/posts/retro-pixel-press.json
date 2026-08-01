@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-famicom-perfection-2",
+    "title": "Famicom Restoration Done Right",
+    "dek": "Restoring Famicom to perfection.",
+    "takeaway": "Proper Famicom restoration requires attention to detail and the right techniques.",
+    "whatHappened": "The Famicom, Japan's version of the NES, has become a highly sought-after collector's item. Many collectors are now turning to restoration to bring their consoles back to life. However, restoration can be a delicate process, and improper techniques can damage the console beyond repair. Recently, several high-profile restoration projects have highlighted the importance of using the right methods and materials.",
+    "whyItMatters": "A well-restored Famicom not only looks great, but it also ensures that the console continues to function properly. This is especially important for collectors who want to play their games on the original hardware. Moreover, a restored Famicom can increase its value, making it a worthwhile investment for serious collectors. By using the right techniques and materials, collectors can help preserve their Famicom consoles for years to come.",
+    "howToThink": "When approaching Famicom restoration, it's essential to think about the small details. This includes using the correct cleaning solutions, replacing worn-out components, and handling the console with care. Additionally, collectors should research and understand the different types of damage that can occur, such as yellowing or water damage, and know how to address them. By taking a meticulous approach, collectors can achieve professional-looking results.",
+    "pros": [
+      "Improved functionality",
+      "Increased value",
+      "Aesthetically pleasing"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires specialized knowledge",
+      "Expensive materials"
+    ],
+    "watchOut": "Be cautious of using harsh chemicals or abrasive materials, as they can damage the console's internal components.",
+    "faq": [
+      {
+        "q": "What is the best way to clean a Famicom console?",
+        "a": "Use a soft-bristled brush and a gentle cleaning solution, such as 99% isopropyl alcohol."
+      },
+      {
+        "q": "Can I replace the Famicom's capacitors myself?",
+        "a": "Yes, but it requires soldering experience and the right replacement capacitors."
+      },
+      {
+        "q": "How much does a professional Famicom restoration cost?",
+        "a": "The cost can vary depending on the service and the extent of the restoration, but expect to pay between $100 to $500."
+      }
+    ],
+    "category": "Preservation",
+    "tags": [
+      "Famicom restoration",
+      "Retro console repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-01T19:52:25.410Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-13",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",
