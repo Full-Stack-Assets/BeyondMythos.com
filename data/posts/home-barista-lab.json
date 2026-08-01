@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevating-pour-over-with-temperature-control",
+    "title": "Precision Pour-Overs: How Temperature Control Can Elevate Your Brew",
+    "dek": "Transform your pour-overs with precise temperature control.",
+    "takeaway": "Investing in a temperature control device can significantly improve the consistency and quality of your pour-over coffee.",
+    "whatHappened": "Recently, home baristas have been experimenting with temperature control devices to optimize their pour-over brewing. This trend has led to a noticeable improvement in the quality and consistency of pour-overs. By regulating water temperature, enthusiasts can now extract the perfect amount of flavor and oils from their coffee beans.",
+    "whyItMatters": "Temperature plays a crucial role in the brewing process, as it affects the extraction rate and balance of flavors in the coffee. With temperature control, home baristas can ensure that their pour-overs are brewed within the ideal temperature range, resulting in a more refined and satisfying cup. This level of precision can elevate the overall coffee experience and encourage experimentation with different roasts and brewing techniques.",
+    "howToThink": "When considering temperature control for your pour-over setup, think about the type of device that suits your needs, whether it's a thermometer, a temperature-controlled kettle, or a pour-over dripper with built-in temperature regulation. Consider the level of precision you require and the ease of use for each option. By weighing these factors, you can make an informed decision and start brewing pour-overs with greater consistency and quality.",
+    "pros": [
+      "Improved flavor consistency",
+      "Enhanced control over brewing process",
+      "Increased precision"
+    ],
+    "cons": [
+      "Additional cost",
+      "Potential for over-complication",
+      "Learning curve"
+    ],
+    "watchOut": "Be cautious not to over-rely on temperature control, as it's just one aspect of the brewing process, and don't forget to monitor other key factors like water quality and coffee-to-water ratio.",
+    "faq": [
+      {
+        "q": "What is the ideal temperature range for pour-over brewing?",
+        "a": "Between 195°F and 205°F"
+      },
+      {
+        "q": "Can I use a regular kettle with a thermometer for temperature control?",
+        "a": "Yes, but it may require more manual effort to achieve precise temperature control"
+      },
+      {
+        "q": "Are temperature-controlled pour-over drippers worth the investment?",
+        "a": "It depends on your budget and brewing goals, but they can offer significant improvements in consistency and quality"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "pour-over",
+      "temperature control"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-01T07:51:11.527Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-9",
     "title": "Mastering the Art of Espresso Machine Maintenance",
     "dek": "Keep your espresso machine in top shape",

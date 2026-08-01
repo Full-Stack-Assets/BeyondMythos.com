@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Precision Pour-Overs: How Temperature Control Can Elevate Your Brew</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/elevating-pour-over-with-temperature-control.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-pour-over-with-temperature-control.html</guid>
+      <pubDate>Sat, 01 Aug 2026 07:51:11 GMT</pubDate>
+      <description>Transform your pour-overs with precise temperature control.</description>
+    </item>
+    <item>
       <title>Mastering the Art of Espresso Machine Maintenance</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-9.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-9.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-9.html</guid>
       <pubDate>Wed, 29 Jul 2026 15:34:19 GMT</pubDate>
       <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Grinder Alignment: The Unsung Hero of Home Espresso</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-grinder.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-grinder.html</guid>
-      <pubDate>Wed, 29 Jul 2026 13:22:32 GMT</pubDate>
-      <description>Get the most from your beans with proper grinder setup</description>
     </item>
   </channel>
 </rss>

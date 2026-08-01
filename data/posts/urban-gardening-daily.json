@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microgreens-in-winter",
+    "title": "Winter Greens: How to Grow Microgreens on Your Balcony",
+    "dek": "Grow fresh greens year-round",
+    "takeaway": "Microgreens can thrive on balconies even in cold weather with proper care",
+    "whatHappened": "As winter sets in, many apartment gardeners assume their outdoor growing season is over. However, with a little creativity and the right techniques, it's possible to continue growing fresh herbs and greens throughout the year. Microgreens, in particular, are well-suited for cold weather and can be grown on even the smallest of balconies.",
+    "whyItMatters": "Having access to fresh, homegrown produce can greatly improve the quality of meals during the winter months when options may be limited. Additionally, growing microgreens can be a fun and rewarding hobby, providing a much-needed connection to nature during a time when many people are spending more time indoors. This can also help reduce reliance on supermarkets and support a more sustainable lifestyle.",
+    "howToThink": "To get started with growing microgreens on your balcony, consider investing in a few basic supplies such as seeds, soil, and a container that can provide adequate drainage. Choose a variety of microgreen that is known to do well in cooler temperatures, such as kale or spinach. Ensure your balcony receives sufficient indirect sunlight, and maintain a consistent watering schedule to promote healthy growth.",
+    "pros": [
+      "Year-round freshness",
+      "Space-efficient",
+      "Nutrient-rich"
+    ],
+    "cons": [
+      "Requires consistent care",
+      "May need supplemental lighting",
+      "Can be expensive"
+    ],
+    "watchOut": "Be cautious of overwatering, which can lead to mold and poor growth",
+    "faq": [
+      {
+        "q": "What are microgreens?",
+        "a": "Young, nutrient-dense versions of herbs and greens"
+      },
+      {
+        "q": "Do microgreens need direct sunlight?",
+        "a": "No, they can thrive in indirect sunlight or with supplemental lighting"
+      },
+      {
+        "q": "How often should I harvest microgreens?",
+        "a": "Typically within 1-3 weeks of sowing, when they are 1-3 inches tall"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "balcony gardening",
+      "winter herbs"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-01T07:51:11.674Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-composting-10",
     "title": "The quiet upgrade: small tweaks in composting with outsized returns",
     "dek": "No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.",
