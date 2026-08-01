@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-juicers",
+    "title": "Squeezing more from your citrus: a closer look at manual vs electric juicers",
+    "dek": "Manual or electric: which juicer is right for you?",
+    "takeaway": "The right juicer can elevate your cocktails and streamline your workflow",
+    "whatHappened": "As home bartenders, we're always on the lookout for tools that can help us create better drinks with less hassle. Recently, there's been a surge of interest in manual and electric juicers designed specifically for citrus. But with so many options on the market, it can be tough to know which one to choose. Whether you're a seasoned pro or just starting out, a good juicer is an essential tool for any home bar.",
+    "whyItMatters": "A good juicer can make all the difference in the flavor and quality of your cocktails. Freshly squeezed citrus is a key component in many classic drinks, and using a subpar juicer can result in bitter or unbalanced flavors. By investing in a high-quality juicer, you can take your cocktails to the next level and impress your friends and family.",
+    "howToThink": "When choosing a juicer, consider the types of citrus you use most often and the amount of juice you need to extract. Manual juicers are great for small batches and delicate fruits, while electric juicers are better suited for high-volume use and tougher citrus like oranges and grapefruits. Don't be afraid to experiment and find the tool that works best for you and your home bar.",
+    "pros": [
+      "Easy to use",
+      "Space-saving",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Limited capacity",
+      "Manual effort required",
+      "Cleanup can be tedious"
+    ],
+    "watchOut": "Be sure to choose a juicer that's designed specifically for citrus to avoid damaging the tool or extracting bitter flavors",
+    "faq": [
+      {
+        "q": "What's the best type of juicer for a small home bar?",
+        "a": "A manual juicer is often the best choice for small home bars, as it's compact and easy to use"
+      },
+      {
+        "q": "Can I use a juicer for other types of fruit?",
+        "a": "While some juicers can handle other types of fruit, it's generally best to stick with citrus to avoid damaging the tool or extracting unwanted flavors"
+      },
+      {
+        "q": "How do I clean and maintain my juicer?",
+        "a": "Regularly wash your juicer with soap and water, and dry it thoroughly to prevent rust or corrosion"
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "juicers",
+      "citrus"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-08-01T22:37:17.316Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-cocktail-tools-essentials",
     "title": "Myth vs. reality: cocktail tools essentials",
     "dek": "The persistent myths around cocktail tools essentials, stress-tested against what home bartenders and cocktail hobbyists actually report.",

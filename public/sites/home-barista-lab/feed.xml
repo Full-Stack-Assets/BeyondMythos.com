@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of pour-over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-11.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-11.html</guid>
+      <pubDate>Sat, 01 Aug 2026 22:37:07 GMT</pubDate>
+      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
+    </item>
+    <item>
       <title>Unlocking Espresso&apos;s Full Potential</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/boosting-espresso-flavor.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/boosting-espresso-flavor.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-7.html</guid>
       <pubDate>Thu, 30 Jul 2026 10:03:14 GMT</pubDate>
       <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>The Bean is Mightier: Unlocking the Power of Fresh Coffee</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-bean-freshness-matters.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-bean-freshness-matters.html</guid>
-      <pubDate>Thu, 30 Jul 2026 07:19:41 GMT</pubDate>
-      <description>Fresh beans make better coffee</description>
     </item>
   </channel>
 </rss>
