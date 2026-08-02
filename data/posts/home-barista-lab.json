@@ -1,5 +1,56 @@
 [
   {
+    "slug": "taming-the-grinder",
+    "title": "The Daily Grind: Mastering Consistency",
+    "dek": "Get the most out of your beans with a well-tuned grinder",
+    "takeaway": "A properly calibrated grinder is key to unlocking your coffee's full potential",
+    "whatHappened": "For years, home baristas have been held back by subpar grinding equipment, leading to inconsistent flavors and a lack of control over the brewing process. Recently, advancements in grinder technology have made high-quality, user-friendly options more accessible. However, mastering the grinder remains a hurdle for many.",
+    "whyItMatters": "The grinder is a critical component in the coffee brewing process, as it directly affects the flavor and aroma of the final product. Inconsistent grind sizes can lead to channeling, under-extraction, or over-extraction, resulting in a subpar cup. By investing time in understanding and calibrating their grinder, home baristas can significantly elevate their coffee game.",
+    "howToThink": "To get the most out of your grinder, start by understanding the relationship between grind size and brewing method. Experiment with different settings to find the optimal grind for your favorite pour-over or espresso recipe. Regularly cleaning and maintaining your grinder will also help prevent old coffee oils and debris from affecting the flavor of your brew.",
+    "pros": [
+      "Improved flavor control",
+      "Increased consistency",
+      "Enhanced aroma"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Regular maintenance required",
+      "Higher upfront cost"
+    ],
+    "watchOut": "Be cautious not to over-tighten the grinder's burrs, as this can lead to damage and a negative impact on flavor",
+    "faq": [
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "The ideal grind size for espresso is fine to ultra-fine, depending on the machine and roast level"
+      },
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Clean your grinder every 1-2 weeks, or as needed, to prevent old coffee oils and debris from building up"
+      },
+      {
+        "q": "Can I use a blade grinder for pour-over?",
+        "a": "While possible, blade grinders are not recommended for pour-over, as they can generate heat and create inconsistent grind sizes"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Coffee Gear",
+      "Grinding Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-02T11:45:21.392Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-10",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

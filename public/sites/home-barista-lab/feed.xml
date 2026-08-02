@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Daily Grind: Mastering Consistency</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-grinder.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-grinder.html</guid>
+      <pubDate>Sun, 02 Aug 2026 11:45:21 GMT</pubDate>
+      <description>Get the most out of your beans with a well-tuned grinder</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-10.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-10.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-10.html</guid>
       <pubDate>Thu, 30 Jul 2026 22:45:37 GMT</pubDate>
       <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>The Hidden Ingredient: How Water Quality Impacts Your Espresso</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-water-quality.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-water-quality.html</guid>
-      <pubDate>Thu, 30 Jul 2026 20:45:42 GMT</pubDate>
-      <description>Water quality affects espresso taste</description>
     </item>
   </channel>
 </rss>
