@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>NT Mini: Is This $500 Clone Worth It for Retro Enthusiasts?</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/super-nt-mini-review.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/super-nt-mini-review.html</guid>
+      <pubDate>Sun, 02 Aug 2026 15:43:59 GMT</pubDate>
+      <description>We review the Super NT Mini for retro gaming.</description>
+    </item>
+    <item>
       <title>Myth vs. reality: retro game restoration</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-6.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-8.html</guid>
       <pubDate>Fri, 31 Jul 2026 08:20:31 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-5.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-5.html</guid>
-      <pubDate>Fri, 31 Jul 2026 05:06:00 GMT</pubDate>
-      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

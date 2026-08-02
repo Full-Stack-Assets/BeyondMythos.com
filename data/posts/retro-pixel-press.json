@@ -1,5 +1,56 @@
 [
   {
+    "slug": "super-nt-mini-review",
+    "title": "NT Mini: Is This $500 Clone Worth It for Retro Enthusiasts?",
+    "dek": "We review the Super NT Mini for retro gaming.",
+    "takeaway": "The Super NT Mini is a powerful, yet pricey, clone for retro gaming enthusiasts.",
+    "whatHappened": "The Super NT Mini has been making waves in the retro gaming community with its promise of high-definition gaming on original cartridges. This miniature console is designed to play Super Nintendo games with enhanced graphics and minimal input lag. However, its $500 price tag has raised eyebrows among collectors and speedrunners.",
+    "whyItMatters": "For serious retro gamers, the Super NT Mini offers a unique opportunity to experience classic games with modern amenities. The console's ability to upscale games to 1080p and its impressive compatibility with original accessories make it a compelling option. However, its cost may be prohibitive for casual collectors, making it a niche product within the retro gaming community.",
+    "howToThink": "When considering the Super NT Mini, think about your specific retro gaming needs and whether the console's features justify its cost. If you're a collector looking to showcase your games in the best possible light or a speedrunner seeking a competitive edge, the Super NT Mini might be worth the investment. However, for casual players, other options may offer better value.",
+    "pros": [
+      "High-definition gaming",
+      "Low input lag",
+      "Compatibility with original accessories"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited game library",
+      "No support for homebrew games"
+    ],
+    "watchOut": "Be cautious of the Super NT Mini's limited availability and potential for resale price gouging.",
+    "faq": [
+      {
+        "q": "Is the Super NT Mini compatible with all Super Nintendo games?",
+        "a": "Most games are compatible, but some may have minor issues or require specific settings."
+      },
+      {
+        "q": "Can I use my original Super Nintendo controllers with the Super NT Mini?",
+        "a": "Yes, the console supports original accessories, including controllers and memory cards."
+      },
+      {
+        "q": "Is the Super NT Mini worth the investment for casual retro gamers?",
+        "a": "Probably not, as other options like the Retron or Raspberry Pi may offer better value for casual players."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Consoles",
+      "Gaming Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-02T15:43:59.085Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-retro-game-restoration-6",
     "title": "Myth vs. reality: retro game restoration",
     "dek": "The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.",
