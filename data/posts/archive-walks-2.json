@@ -1,5 +1,56 @@
 [
   {
+    "slug": "archiving-local-photographs",
+    "title": "Capturing the Past: Archiving Local Photographs",
+    "dek": "Unlocking local history through photographs",
+    "takeaway": "Archiving local photographs is crucial for preserving community heritage",
+    "whatHappened": "Local photographers have been documenting community life for decades, creating a treasure trove of historical images. These photographs often end up in attics, basements, or thrift stores, where they can be lost or damaged. By archiving these photographs, we can ensure their preservation for future generations.",
+    "whyItMatters": "Archived photographs provide a unique window into the past, offering insights into local customs, traditions, and events. They also serve as a valuable resource for researchers, historians, and community members seeking to understand their heritage. By preserving these photographs, we can promote a sense of community pride and identity.",
+    "howToThink": "When archiving local photographs, consider the context in which they were taken, including the time period, location, and events depicted. It's also essential to handle the photographs with care, using archival-quality materials and storage methods to ensure their longevity. Finally, consider digitizing the photographs to make them more accessible to a wider audience.",
+    "pros": [
+      "preserves community heritage",
+      "provides historical context",
+      "promotes community engagement"
+    ],
+    "cons": [
+      "requires specialized storage",
+      "can be time-consuming",
+      "may be costly"
+    ],
+    "watchOut": "Be cautious when handling fragile or rare photographs to avoid causing damage or deterioration",
+    "faq": [
+      {
+        "q": "What types of photographs should be archived?",
+        "a": "Any photograph that provides historical significance or context to the local community"
+      },
+      {
+        "q": "How should photographs be stored?",
+        "a": "In a cool, dry place, using archival-quality materials and storage methods"
+      },
+      {
+        "q": "Can archived photographs be digitized?",
+        "a": "Yes, digitization can make photographs more accessible, but it's essential to ensure that the digital copies are of high quality and preserved for the long-term"
+      }
+    ],
+    "category": "Archives",
+    "tags": [
+      "local history",
+      "photography"
+    ],
+    "sources": [
+      {
+        "label": "r/urbanexploration community threads",
+        "url": "https://www.reddit.com/r/urbanexploration/"
+      },
+      {
+        "label": "Search interest: \"community archive project\"",
+        "url": "https://duckduckgo.com/?q=community%20archive%20project"
+      }
+    ],
+    "publishedAt": "2026-08-02T04:59:39.723Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "archive-walks-101",
     "title": "Introduction to Archive Walks",
     "category": "Archives",
