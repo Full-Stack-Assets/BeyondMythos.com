@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-herb-container-care-3",
+    "title": "Heat Wave Hacks: Summer Herb Container Survival",
+    "dek": "Tips for keeping herbs fresh in summer containers",
+    "takeaway": "With proper care, your summer herb containers can thrive even in intense heat",
+    "whatHappened": "As summer temperatures rise, many urban gardeners struggle to keep their herb containers healthy. Heat stress can cause herbs to wilt, lose flavor, and even die. By understanding how to mitigate these effects, gardeners can enjoy a bountiful harvest all season long.",
+    "whyItMatters": "Fresh herbs can elevate any dish, and having a steady supply on hand can make all the difference in home cooking. Moreover, a thriving herb container can add beauty and freshness to even the smallest balcony or patio. By learning to care for these containers in extreme heat, gardeners can maximize their outdoor space and enjoy the full benefits of their labor.",
+    "howToThink": "To keep your herb containers happy in the summer, think about providing them with partial shade, especially during the hottest part of the day. Regular watering and fertilization are also crucial, as herbs in containers can quickly dry out and lose nutrients. Consider using self-watering containers or a drip irrigation system to make care easier and more efficient.",
+    "pros": [
+      "Increased yields",
+      "Improved flavor",
+      "Enhanced aesthetic"
+    ],
+    "cons": [
+      "Requires daily monitoring",
+      "May need additional shading",
+      "Can be water-intensive"
+    ],
+    "watchOut": "Be cautious not to overwater, as this can lead to root rot and other issues that can quickly kill your herb plants",
+    "faq": [
+      {
+        "q": "How often should I water my herb containers in summer?",
+        "a": "Water your herb containers when the top inch of soil feels dry to the touch, usually daily in extreme heat"
+      },
+      {
+        "q": "Can I use any type of fertilizer on my herbs?",
+        "a": "Use a balanced, water-soluble fertilizer specifically designed for herbs to avoid burning the roots or promoting too much leaf growth"
+      },
+      {
+        "q": "How can I protect my herbs from pests in the summer?",
+        "a": "Use neem oil or insecticidal soap to control pests, and consider covering your containers with fine mesh to prevent infestations"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "herb care",
+      "summer gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-02T10:19:54.457Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-small-space-vegetables-5",
     "title": "Myth vs. reality: small space vegetables",
     "dek": "The persistent myths around small space vegetables, stress-tested against what apartment dwellers and balcony gardeners actually report.",

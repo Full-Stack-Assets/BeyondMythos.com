@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-10.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-10.html</guid>
+      <pubDate>Sun, 02 Aug 2026 10:19:52 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
+    </item>
+    <item>
       <title>Myth vs. reality: pour over technique</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-pour-over-technique-5.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-pour-over-technique-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-water-quality.html</guid>
       <pubDate>Thu, 30 Jul 2026 20:45:42 GMT</pubDate>
       <description>Water quality affects espresso taste</description>
-    </item>
-    <item>
-      <title>Temperature Tango: Mastering the Art of Espresso Machine Thermoregulation</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-temperature-control-2.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-temperature-control-2.html</guid>
-      <pubDate>Thu, 30 Jul 2026 18:59:36 GMT</pubDate>
-      <description>Get the perfect shot with precise temperature control.</description>
     </item>
   </channel>
 </rss>
