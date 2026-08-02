@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-hacks-4",
+    "title": "Espresso Machine Cleaning Hacks For Better Flavour",
+    "dek": "Get the best flavour from your espresso machine",
+    "takeaway": "Regular cleaning of your espresso machine is crucial for optimal flavour and longevity",
+    "whatHappened": "A recent study found that scale buildup and old coffee oils can significantly affect the taste of your espresso shots. Many home baristas tend to overlook the importance of regular cleaning, leading to subpar flavour. By implementing a simple cleaning routine, you can prevent these issues and enjoy better-tasting espresso.",
+    "whyItMatters": "A well-maintained espresso machine not only ensures better flavour but also extends the machine's lifespan. Neglecting cleaning can lead to costly repairs and replacements. Moreover, a clean machine helps prevent the growth of bacteria and mould, making it a healthier choice for home baristas.",
+    "howToThink": "To keep your espresso machine in top condition, think of cleaning as a regular process, not a one-time task. Set aside a few minutes each week to descale, clean the brew group, and wipe down the machine. This proactive approach will pay off in the long run, resulting in consistently great-tasting espresso and a longer machine lifespan.",
+    "pros": [
+      "Improved flavour",
+      "Increased machine lifespan",
+      "Easier maintenance"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires additional equipment",
+      "Can be costly"
+    ],
+    "watchOut": "Be cautious not to use abrasive materials that can damage your espresso machine's surfaces",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Clean your espresso machine at least once a week, and descale every 3-6 months"
+      },
+      {
+        "q": "What is the best way to clean my espresso machine's brew group?",
+        "a": "Use a mixture of equal parts water and white vinegar to soak and clean the brew group"
+      },
+      {
+        "q": "Can I use a commercial cleaning solution to clean my espresso machine?",
+        "a": "Yes, but always follow the manufacturer's instructions and take necessary precautions to avoid damaging the machine"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "EspressoMachineMaintenance",
+      "CoffeeGear"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-02T23:40:15.563Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-espresso-dial-in-field-test-4",
     "title": "\"home espresso dial in\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-101-3",
+    "title": "Retro Console Modding for Beginners",
+    "dek": "Upgrade your retro console with ease",
+    "takeaway": "Modding your retro console can breathe new life into classic games",
+    "whatHappened": "The world of retro console modding has exploded in recent years, with new kits and tutorials emerging every month. From upscaling graphics to improving controller latency, the possibilities are endless. However, for newcomers, the process can seem daunting.",
+    "whyItMatters": "Modding your retro console can not only improve performance but also enhance the overall gaming experience. With the right tweaks, classic games can feel fresh and exciting again. Moreover, the modding community is known for its creativity and ingenuity, pushing the boundaries of what's possible with retro hardware.",
+    "howToThink": "When considering a mod, research the specific requirements and potential risks. Start with small, low-risk modifications and gradually work your way up to more complex projects. It's also essential to join online forums and communities to learn from experienced modders and stay up-to-date with the latest developments.",
+    "pros": [
+      "Improved performance",
+      "Enhanced graphics",
+      "Customization options"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Cost of components",
+      "Complexity of installation"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics to avoid damaging your console",
+    "faq": [
+      {
+        "q": "What's the best way to get started with modding?",
+        "a": "Start by researching popular mods and joining online forums to learn from experienced modders"
+      },
+      {
+        "q": "Can I mod any retro console?",
+        "a": "Most retro consoles can be modded, but some are more challenging than others, so be sure to research the specific requirements for your console"
+      },
+      {
+        "q": "How much does modding cost?",
+        "a": "The cost of modding varies widely, from under $20 for simple tweaks to over $200 for complex upgrades"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-02T23:40:15.701Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-13",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",
