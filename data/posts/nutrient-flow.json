@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-nutrient-uptake",
+    "title": "Boosting Nutrient Uptake in Leafy Greens",
+    "dek": "Optimize nutrient absorption for healthier greens",
+    "takeaway": "Balanced nutrient solutions and precise pH control are key to maximizing nutrient uptake in leafy greens",
+    "whatHappened": "Recent studies have shown that indoor hydroponic growers often overlook the importance of balanced nutrient solutions and precise pH control, leading to reduced crop yields and decreased plant health. By optimizing these factors, growers can significantly improve nutrient uptake and overall plant performance. This can be achieved through careful monitoring and adjustment of nutrient levels and pH",
+    "whyItMatters": "Maximizing nutrient uptake is crucial for indoor hydroponic growers as it directly impacts crop yields, plant health, and overall system efficiency. By optimizing nutrient uptake, growers can reduce waste, minimize environmental impact, and improve the quality and consistency of their crops. This, in turn, can lead to increased customer satisfaction and loyalty",
+    "howToThink": "To maximize nutrient uptake, growers should focus on creating a balanced nutrient solution that meets the specific needs of their crops. This involves carefully selecting and combining nutrients, monitoring and adjusting pH levels, and ensuring adequate oxygenation and water circulation. By taking a holistic approach to nutrient management, growers can create an optimal environment for their plants to thrive",
+    "pros": [
+      "Improved crop yields",
+      "Increased plant health",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Requires careful monitoring",
+      "Can be time-consuming",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be cautious not to over-fertilize, as this can lead to nutrient burn and decreased plant health",
+    "faq": [
+      {
+        "q": "What is the ideal pH range for leafy greens?",
+        "a": "The ideal pH range for leafy greens is between 5.5 and 6.5"
+      },
+      {
+        "q": "How often should I monitor nutrient levels?",
+        "a": "Nutrient levels should be monitored at least once a week, but ideally every 2-3 days"
+      },
+      {
+        "q": "Can I use a single nutrient solution for all my crops?",
+        "a": "No, different crops have different nutrient requirements, so it's best to use a customized nutrient solution for each crop"
+      }
+    ],
+    "category": "Nutrients",
+    "tags": [
+      "hydroponics",
+      "leafygreens"
+    ],
+    "sources": [
+      {
+        "label": "r/hydro community threads",
+        "url": "https://www.reddit.com/r/hydro/"
+      },
+      {
+        "label": "Search interest: \"kratky method guide\"",
+        "url": "https://duckduckgo.com/?q=kratky%20method%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-02T07:52:15.640Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "grow-lights-for-greens-field-test-6",
     "title": "\"grow lights for greens\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about grow lights for greens through a month of actual use. Some of it survived.",

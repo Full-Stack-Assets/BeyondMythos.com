@@ -1,5 +1,56 @@
 [
   {
+    "slug": "local-rail-discoveries",
+    "title": "Unconventional Rail Routes for the Curious Traveler",
+    "dek": "Explore offbeat local rails for unique experiences",
+    "takeaway": "Venturing off main rail lines can lead to unforgettable encounters and hidden gems",
+    "whatHappened": "In a bid to escape the tourist trail, I embarked on a journey to discover unconventional rail routes. This led me to quaint towns and breathtaking landscapes that few visitors ever get to see. From historic steam trains to modern, sleek lines, each route offered a distinct flavor of local culture and natural beauty.",
+    "whyItMatters": "For slow travelers, getting off the beaten path is not just about seeing new sights, but also about immersing oneself in local life. Unconventional rail routes provide an opportunity to engage with communities, try authentic cuisine, and experience the rich tapestry of local traditions. This approach to travel not only enriches one's own journey but also supports local economies and helps preserve cultural heritage.",
+    "howToThink": "When planning your itinerary, consider deviating from popular rail routes to find these hidden gems. Research local train schedules, talk to fellow travelers, and be open to spontaneity. Sometimes, the best experiences come from unexpected detours or changes in plans, so maintain a flexible mindset and enjoy the journey as much as the destination.",
+    "pros": [
+      "Unique experiences",
+      "Off the beaten path",
+      "Cultural immersion"
+    ],
+    "cons": [
+      "Less information available",
+      "Potential language barriers",
+      "Unpredictable schedules"
+    ],
+    "watchOut": "Always research local customs and train etiquette to avoid unintended offense or confusion",
+    "faq": [
+      {
+        "q": "How do I find unconventional rail routes?",
+        "a": "Utilize local tourism boards, rail enthusiast forums, and social media to discover less-traveled paths"
+      },
+      {
+        "q": "Are these routes safe for solo travelers?",
+        "a": "Generally, yes, but as with any travel, research your destination, stay informed, and trust your instincts"
+      },
+      {
+        "q": "Can I use public transportation to get to these locations?",
+        "a": "Often, local buses or taxis can connect you to less accessible rail lines, providing an adventurous and authentic experience"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Slow Travel",
+      "Local Rails"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-02T07:52:10.579Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-13",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-revival-10",
+    "title": "Retro Console Upcycling for Modern Speedrunners",
+    "dek": "Breathe new life into old consoles",
+    "takeaway": "Upcycling retro hardware can improve speedrun performance and longevity",
+    "whatHappened": "The retro gaming community has seen a resurgence in console upcycling, with speedrunners and collectors alike seeking to improve performance and longevity. This involves replacing outdated components with modern alternatives, resulting in faster load times and reduced lag. As a result, speedrunners can achieve better times and more consistent results.",
+    "whyItMatters": "Upcycling retro hardware matters because it allows speedrunners to push the boundaries of what is possible on classic consoles. By reducing lag and improving performance, speedrunners can focus on perfecting their techniques and executing complex maneuvers with precision. This, in turn, drives innovation and competition within the speedrunning community.",
+    "howToThink": "When considering upcycling your retro hardware, think about the specific components that are limiting your console's performance. Identify areas where modern replacements can make a significant impact, such as upgraded RAM or improved cooling systems. By taking a thoughtful and targeted approach to upcycling, you can maximize the benefits while minimizing the risks and costs.",
+    "pros": [
+      "Improved performance",
+      "Increased longevity",
+      "Customization options"
+    ],
+    "cons": [
+      "Technical complexity",
+      "Cost of upgrades",
+      "Potential for damage"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronic components to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What is the most important component to upgrade in a retro console?",
+        "a": "The CPU or processor is often the most critical component to upgrade for improved performance"
+      },
+      {
+        "q": "Can I upcycle my retro console myself, or do I need to hire a professional?",
+        "a": "While it is possible to upcycle your retro console yourself, it is recommended to hire a professional if you are not experienced with electronics"
+      },
+      {
+        "q": "Will upcycling my retro console void the warranty or affect its value?",
+        "a": "Upcycling your retro console may void the warranty, and its impact on value depends on the specific upgrades and the console's condition"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-02T07:52:10.328Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "crt-setup-guide-field-test-6",
     "title": "\"crt setup guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.",
