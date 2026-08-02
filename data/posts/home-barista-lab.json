@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-10",
+    "title": "Brewing Up Savings: DIY Espresso Machine Maintenance",
+    "dek": "Save money by maintaining your machine",
+    "takeaway": "Regular maintenance can extend the life of your espresso machine and improve brew quality",
+    "whatHappened": "A well-maintained espresso machine is essential for optimal performance, but many home baristas neglect regular cleaning and upkeep. This can lead to decreased brew quality, machine breakdowns, and costly repairs. By implementing a simple maintenance routine, you can avoid these issues and ensure your machine continues to produce great espresso",
+    "whyItMatters": "Proper maintenance is crucial for preventing scale buildup, corrosion, and worn-out parts, all of which can negatively impact the taste of your espresso and the lifespan of your machine. Additionally, regular cleaning can help prevent bacterial growth and contamination, making your brewing process more sanitary",
+    "howToThink": "To maintain your espresso machine, start by descaling it every 3-6 months, and clean the brew group and portafilter daily. Also, regularly check and replace worn-out gaskets and seals to prevent leaks and ensure optimal performance. By following these simple steps, you can keep your machine in top condition and enjoy better-tasting espresso",
+    "pros": [
+      "Cost-effective",
+      "Improved brew quality",
+      "Extended machine lifespan"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical knowledge",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be cautious when using harsh chemicals or abrasive materials, as they can damage your machine's components",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage and water quality"
+      },
+      {
+        "q": "Can I use a dishwasher to clean my espresso machine's parts?",
+        "a": "No, as the high heat and harsh detergents can damage the materials"
+      },
+      {
+        "q": "What is the most important part of espresso machine maintenance?",
+        "a": "Regular cleaning and descaling to prevent scale buildup and corrosion"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-02T21:35:16.144Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-technique-matters-4",
     "title": "The Tamping Truth: How Pressure Affects Your Espresso",
     "dek": "Get the most out of your espresso machine",
