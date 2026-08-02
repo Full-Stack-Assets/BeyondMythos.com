@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-hacks-2",
+    "title": "Retro Revival: Breathing New Life into Classic Consoles",
+    "dek": "Revive old consoles with ease",
+    "takeaway": "Simple hardware hacks can greatly improve retro gaming performance",
+    "whatHappened": "Retro game enthusiasts have been searching for ways to improve their classic console experience without breaking the bank. A growing community of DIY hackers has emerged, sharing their knowledge and expertise on how to breathe new life into old hardware. From replacing capacitors to installing new fans, these modifications can make a significant difference in performance and longevity.",
+    "whyItMatters": "As retro gaming continues to grow in popularity, the demand for functional and efficient classic consoles is on the rise. By learning how to hack and modify their own hardware, enthusiasts can save money, reduce waste, and enjoy a more authentic gaming experience. Additionally, these modifications can also help to preserve the history of gaming and keep classic consoles alive for future generations.",
+    "howToThink": "When approaching retro hardware hacks, it's essential to consider the specific needs and limitations of each console. Researching and understanding the inner workings of the hardware is crucial, as well as being mindful of potential risks and safety precautions. By taking a thoughtful and methodical approach, enthusiasts can successfully modify their consoles and enjoy a more enhanced gaming experience.",
+    "pros": [
+      "Improved performance",
+      "Increased longevity",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Limited compatibility",
+      "Technical expertise required"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics and avoid overloading your console with too many modifications",
+    "faq": [
+      {
+        "q": "What is the most common hardware hack for retro consoles?",
+        "a": "Replacing capacitors is a common and effective modification"
+      },
+      {
+        "q": "Can I use modern hardware components in my retro console?",
+        "a": "It depends on the console and component, but generally, it's not recommended"
+      },
+      {
+        "q": "How do I find reliable resources and tutorials for retro hardware hacks?",
+        "a": "Online forums, social media groups, and specialized retro gaming communities are great resources"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "DIY Hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-02T17:43:03.336Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-indie-8",
     "title": "Ask the forge: your indie questions, answered",
     "dek": "Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.",

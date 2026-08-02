@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddle-ergonomics-matter",
+    "title": "Paddling in Sync: How Ergonomics Boost Your Kayak Experience",
+    "dek": "Optimize your kayak for comfort and performance.",
+    "takeaway": "Ergonomic adjustments can significantly enhance your paddling experience and reduce fatigue.",
+    "whatHappened": "Recreational kayakers often overlook the importance of ergonomics in their boats, leading to discomfort and decreased efficiency. Adjusting the seat, footrests, and paddle can make a substantial difference. Recently, a study highlighted the benefits of ergonomic kayak design on paddler performance and satisfaction.",
+    "whyItMatters": "Proper ergonomics can prevent injuries, improve paddling technique, and increase overall enjoyment of kayaking. It also allows paddlers to maintain a consistent pace over longer distances without excessive strain. Moreover, ergonomics play a crucial role in safety, as a well-fitted kayak reduces the risk of accidents caused by poor control or fatigue.",
+    "howToThink": "When considering ergonomics, think about your paddling style, the type of kayaking you do, and your personal comfort preferences. Adjustments should be made with these factors in mind to create a harmonious paddling experience. Regularly assessing and tweaking your kayak's setup can help you find the optimal configuration for your needs.",
+    "pros": [
+      "Enhanced comfort",
+      "Improved efficiency",
+      "Reduced fatigue"
+    ],
+    "cons": [
+      "Initial adjustment time",
+      "Potential cost for custom fittings",
+      "Space for error in adjustments"
+    ],
+    "watchOut": "Be cautious not to over-adjust, as this can lead to discomfort and decreased performance.",
+    "faq": [
+      {
+        "q": "What are the key areas to focus on for kayak ergonomics?",
+        "a": "Seat height, footrest position, and paddle length are crucial."
+      },
+      {
+        "q": "Can ergonomics improve my paddling speed?",
+        "a": "Yes, by reducing fatigue and improving technique."
+      },
+      {
+        "q": "How often should I assess my kayak's ergonomics?",
+        "a": "Regularly, especially after significant changes in paddling frequency or style."
+      }
+    ],
+    "category": "Boats",
+    "tags": [
+      "kayak setup",
+      "paddling tips"
+    ],
+    "sources": [
+      {
+        "label": "r/canoeing community threads",
+        "url": "https://www.reddit.com/r/canoeing/"
+      },
+      {
+        "label": "Search interest: \"best day paddle trips\"",
+        "url": "https://duckduckgo.com/?q=best%20day%20paddle%20trips"
+      }
+    ],
+    "publishedAt": "2026-08-02T17:43:08.272Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-paddling-6",
     "title": "Community pulse: what r/paddling is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the storage community this week.",

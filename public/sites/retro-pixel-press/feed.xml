@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Revival: Breathing New Life into Classic Consoles</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-2.html</guid>
+      <pubDate>Sun, 02 Aug 2026 17:43:03 GMT</pubDate>
+      <description>Revive old consoles with ease</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-8.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-4.html</guid>
       <pubDate>Fri, 31 Jul 2026 13:18:37 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-11.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-11.html</guid>
-      <pubDate>Fri, 31 Jul 2026 11:11:25 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

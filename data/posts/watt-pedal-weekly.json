@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-commute-hacks",
+    "title": "Beat the Heat: Summer Commute Hacks for E-Bike Riders",
+    "dek": "Stay cool on your e-bike commute",
+    "takeaway": "Simple hacks can make your e-bike commute more comfortable and safe during the summer months",
+    "whatHappened": "As the summer months approach, e-bike commuters face unique challenges such as heat exhaustion and sun exposure. Recent reports have shown an increase in heat-related illnesses among cyclists. E-bike riders need to take extra precautions to stay safe and healthy during their commutes.",
+    "whyItMatters": "Staying safe and healthy is crucial for e-bike commuters, especially during the summer months. Heat exhaustion and sun exposure can lead to serious health issues if not addressed properly. By taking simple precautions, e-bike riders can minimize their risk and enjoy a comfortable commute.",
+    "howToThink": "To beat the heat, e-bike commuters should consider wearing lightweight and breathable clothing, staying hydrated, and planning their routes to avoid peak sun hours. Additionally, riders can use accessories such as sun shades and cooling packs to stay comfortable. By thinking ahead and taking simple precautions, e-bike riders can stay safe and healthy during their summer commutes.",
+    "pros": [
+      "Increased comfort",
+      "Improved safety",
+      "Enhanced performance"
+    ],
+    "cons": [
+      "Additional costs",
+      "Limited accessibility",
+      "Extra planning required"
+    ],
+    "watchOut": "Be cautious of heat-related illnesses and take regular breaks to stay safe",
+    "faq": [
+      {
+        "q": "What should I wear to stay cool?",
+        "a": "Wear lightweight and breathable clothing"
+      },
+      {
+        "q": "How can I stay hydrated?",
+        "a": "Bring a water bottle and take regular sips"
+      },
+      {
+        "q": "What are some good route-planning tips?",
+        "a": "Avoid peak sun hours and plan your route to include shaded areas"
+      }
+    ],
+    "category": "Commuting",
+    "tags": [
+      "summer commute",
+      "e-bike safety"
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike to ebike conversion\"",
+        "url": "https://duckduckgo.com/?q=bike%20to%20ebike%20conversion"
+      }
+    ],
+    "publishedAt": "2026-08-02T17:43:08.953Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-conversion-15",
     "title": "Ask the forge: your conversion questions, answered",
     "dek": "Straight answers to the conversion questions e-bike commuters and converts keep asking, minus the hedging.",

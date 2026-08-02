@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sauces-on-weeknights",
+    "title": "Saucy Shortcuts for Weeknight Wins",
+    "dek": "Elevate weeknights with 5-minute sauces",
+    "takeaway": "Mastering simple sauces can transform your weeknight dinners",
+    "whatHappened": "Home cooks often struggle to balance flavor and speed on weeknights, leading to a rotation of bland, uninspired meals. Recently, we've seen a surge in interest in sauces as a solution. By leveraging a few key sauce techniques, cooks can add depth and variety to their weeknight repertoire.",
+    "whyItMatters": "Sauces offer a high-impact way to elevate weeknight meals, allowing home cooks to add flavor and interest without sacrificing speed. With the right sauces, a simple grilled chicken or sautéed vegetable can become a satisfying, restaurant-quality meal. This is especially crucial for weeknights, when time is limited and meals need to be both quick and nourishing.",
+    "howToThink": "To integrate sauces into your weeknight cooking, start by identifying a few versatile sauce bases that can be customized with different ingredients. Consider keeping a 'sauce station' in your pantry with staples like olive oil, garlic, and canned tomatoes. When planning meals, think about how a sauce can enhance the dish, rather than just seasoning with salt and pepper.",
+    "pros": [
+      "Easy to learn",
+      "High impact",
+      "Customizable"
+    ],
+    "cons": [
+      "Can be messy",
+      "Requires some planning",
+      "May add calories"
+    ],
+    "watchOut": "Be mindful of sodium content when using store-bought sauce ingredients",
+    "faq": [
+      {
+        "q": "What's the best sauce for beginners?",
+        "a": "Start with a simple tomato sauce or pesto"
+      },
+      {
+        "q": "Can I make sauces ahead of time?",
+        "a": "Yes, many sauces can be refrigerated or frozen for later use"
+      },
+      {
+        "q": "How do I prevent sauces from separating?",
+        "a": "Whisk constantly and use room-temperature ingredients"
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "weeknight cooking",
+      "sauce recipes"
+    ],
+    "sources": [
+      {
+        "label": "r/Cooking community threads",
+        "url": "https://www.reddit.com/r/Cooking/"
+      },
+      {
+        "label": "Search interest: \"weeknight dinner formula\"",
+        "url": "https://duckduckgo.com/?q=weeknight%20dinner%20formula"
+      }
+    ],
+    "publishedAt": "2026-08-02T17:43:08.504Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pantry-mistakes-15",
     "title": "Five mistakes everyone makes in their first month of pantry",
     "dek": "The most common early stumbles in pantry, and the cheap corrections that fix them for home cooks systematizing weeknight dinners.",
