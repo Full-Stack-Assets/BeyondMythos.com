@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-matters-4",
+    "title": "The Tamping Truth: How Pressure Affects Your Espresso",
+    "dek": "Get the most out of your espresso machine",
+    "takeaway": "Proper tamping technique is crucial for a perfect espresso shot",
+    "whatHappened": "Recent experiments have shown that tamping technique can significantly impact espresso flavor and quality. Even small changes in pressure can affect the taste and crema of the shot. This has led to a renewed focus on the importance of proper tamping in the home barista community.",
+    "whyItMatters": "The right tamping technique ensures even extraction, preventing channeling and under-extraction. This results in a more balanced and full-bodied espresso shot. Additionally, proper tamping can help extend the life of your espresso machine by reducing wear and tear on the group head.",
+    "howToThink": "To improve your tamping technique, focus on using a consistent pressure and polishing the puck to prevent channeling. Invest in a high-quality tamper and practice regularly to develop muscle memory. It's also essential to monitor the espresso machine's pressure gauge to ensure optimal brewing conditions.",
+    "pros": [
+      "Improved flavor",
+      "Increased crema",
+      "Better machine longevity"
+    ],
+    "cons": [
+      "Requires practice",
+      "Additional equipment cost",
+      "Time-consuming"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to over-extraction and a bitter taste",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal pressure is around 30-40 pounds, but this may vary depending on the machine and coffee beans"
+      },
+      {
+        "q": "Can I use a manual tamper or do I need an automatic one?",
+        "a": "Both manual and automatic tampers can produce high-quality results, but automatic tampers can be more consistent and efficient"
+      },
+      {
+        "q": "How often should I clean and maintain my tamper?",
+        "a": "Clean and maintain your tamper regularly to prevent old coffee oils and residue from affecting the taste of your espresso"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Tamping Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-02T19:53:05.377Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-espresso-dial-in-4",
     "title": "Myth vs. reality: home espresso dial in",
     "dek": "The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.",

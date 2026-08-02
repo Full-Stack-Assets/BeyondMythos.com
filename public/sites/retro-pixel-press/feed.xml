@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Bringing Back the Colors: RGB for Retro Consoles</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-rgb-revival.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-rgb-revival.html</guid>
+      <pubDate>Sun, 02 Aug 2026 19:53:05 GMT</pubDate>
+      <description>Upgrade your retro console with RGB</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of speedruns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-10.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-10.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-5.html</guid>
       <pubDate>Fri, 31 Jul 2026 18:09:04 GMT</pubDate>
       <description>The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your hardware in two hours</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-9.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-9.html</guid>
-      <pubDate>Fri, 31 Jul 2026 15:48:07 GMT</pubDate>
-      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

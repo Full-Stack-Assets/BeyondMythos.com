@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-rgb-revival",
+    "title": "Bringing Back the Colors: RGB for Retro Consoles",
+    "dek": "Upgrade your retro console with RGB",
+    "takeaway": "RGB upgrades can vastly improve your retro gaming experience",
+    "whatHappened": "The resurgence of retro gaming has led to a renewed interest in high-quality video output, with RGB being the gold standard. Many retro consoles are capable of producing RGB signals, but often require modification to do so. This has led to a thriving community of modders and enthusiasts.",
+    "whyItMatters": "RGB output provides a significant improvement in image quality, with more vivid colors and better clarity. This is especially important for speedrunners, who require crisp and clear visuals to navigate complex levels and optimizations. Additionally, RGB output can help to reduce eye strain and improve overall gaming comfort.",
+    "howToThink": "When considering an RGB upgrade, it's essential to research the specific modification required for your console. Look for guides and tutorials from trusted sources, and ensure you have the necessary skills and equipment before attempting the upgrade. It's also crucial to consider the cost and potential risks involved, such as damaging your console.",
+    "pros": [
+      "Improved image quality",
+      "Increased gaming comfort",
+      "Enhanced speedrunning performance"
+    ],
+    "cons": [
+      "Modification required",
+      "Potential risks",
+      "Higher cost"
+    ],
+    "watchOut": "Be cautious when attempting RGB modifications, as incorrect installation can damage your console",
+    "faq": [
+      {
+        "q": "What is RGB?",
+        "a": "RGB stands for Red, Green, and Blue, and refers to the color signals used to produce images on a screen"
+      },
+      {
+        "q": "Do all retro consoles support RGB?",
+        "a": "No, not all retro consoles support RGB, but many can be modified to do so"
+      },
+      {
+        "q": "Is RGB modification difficult?",
+        "a": "RGB modification can be challenging, and requires careful research and attention to detail"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Consoles",
+      "RGB Upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-02T19:53:05.509Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-speedruns-mistakes-10",
     "title": "Five mistakes everyone makes in their first month of speedruns",
     "dek": "The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.",
