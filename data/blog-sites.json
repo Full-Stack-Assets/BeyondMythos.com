@@ -2017,8 +2017,30 @@
       "streamUrl": "https://www.beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-08-02T12:43:00.331Z"
+    },
+    {
+      "id": "watt-pedal-weekly-2-1785678866010",
+      "slug": "watt-pedal-weekly-2",
+      "name": "Watt Pedal Weekly",
+      "tagline": "Fresh takes for e-bike commuters and converts.",
+      "nicheId": "e-bikes",
+      "audience": "e-bike commuters and converts",
+      "categories": [
+        "Commuting",
+        "Maintenance",
+        "Batteries",
+        "Conversion"
+      ],
+      "url": "https://www.beyondmythos.com/sites/watt-pedal-weekly-2/",
+      "localUrl": "https://www.beyondmythos.com/sites/watt-pedal-weekly-2/",
+      "vercel": null,
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-08-02T13:54:18.259Z",
+      "streamUrl": "https://www.beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-08-02T11:34:15.622Z",
+  "lastGeneratedAt": "2026-08-02T13:54:18.259Z",
   "lastPostRunAt": "2026-08-02T12:43:00.390Z"
 }
