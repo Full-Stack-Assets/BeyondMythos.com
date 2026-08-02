@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Even Extraction: The Key to Perfect Espresso Shots</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution.html</guid>
+      <pubDate>Sun, 02 Aug 2026 01:14:09 GMT</pubDate>
+      <description>Achieve consistent espresso flavor</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-12.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-12.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-7.html</guid>
       <pubDate>Thu, 30 Jul 2026 14:54:28 GMT</pubDate>
       <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: budget grinder upgrade</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade-4.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade-4.html</guid>
-      <pubDate>Thu, 30 Jul 2026 12:15:10 GMT</pubDate>
-      <description>The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.</description>
     </item>
   </channel>
 </rss>

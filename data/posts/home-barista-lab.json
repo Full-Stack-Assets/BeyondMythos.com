@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-espresso-distribution",
+    "title": "Even Extraction: The Key to Perfect Espresso Shots",
+    "dek": "Achieve consistent espresso flavor",
+    "takeaway": "Proper espresso distribution is crucial for even extraction and perfect shots",
+    "whatHappened": "Recently, home baristas have been experimenting with different espresso distribution techniques to improve their shots. This involves adjusting the tamp, grind, and pouring technique to ensure even extraction. By doing so, they've noticed a significant improvement in flavor and quality.",
+    "whyItMatters": "Even extraction is essential for bringing out the full flavor potential of espresso. Uneven extraction can result in channeling, under-extraction, or over-extraction, leading to bitter or sour flavors. By mastering espresso distribution, home baristas can elevate their espresso game and enjoy better-tasting shots.",
+    "howToThink": "To achieve even extraction, consider investing in a high-quality espresso machine and grinder. Experiment with different tamp techniques, such as the 'piston' or 'rotary' method, and adjust your grind settings to find the optimal balance. Additionally, pay attention to the pouring technique, aiming for a smooth, even flow.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Enhanced crema"
+    ],
+    "cons": [
+      "Requires practice",
+      "May require equipment upgrades",
+      "Can be time-consuming"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to channeling and uneven extraction",
+    "faq": [
+      {
+        "q": "What is espresso distribution?",
+        "a": "The process of evenly distributing coffee grounds in the portafilter to ensure consistent extraction"
+      },
+      {
+        "q": "How do I achieve even extraction?",
+        "a": "Adjust your tamp, grind, and pouring technique to find the optimal balance"
+      },
+      {
+        "q": "What equipment do I need to master espresso distribution?",
+        "a": "A high-quality espresso machine and grinder are essential for achieving even extraction"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "coffee techniques"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-02T01:14:09.184Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-12",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

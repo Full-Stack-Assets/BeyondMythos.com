@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-container-care",
+    "title": "Shielding Your Plants from Frost",
+    "dek": "Protect your balcony garden from winter",
+    "takeaway": "Insulate your containers to keep plants thriving during winter",
+    "whatHappened": "As winter approaches, balcony gardeners face the challenge of protecting their plants from frost. Many are caught off guard, resulting in damaged or dead plants. A simple solution can make all the difference. ",
+    "whyItMatters": "Frost can damage or kill plants, undoing months of careful cultivation. By taking preventive measures, gardeners can ensure their plants survive the winter and thrive come spring. This is especially crucial for apartment dwellers with limited space, where every plant counts.",
+    "howToThink": "To shield your plants from frost, consider using insulation materials like bubble wrap or straw to keep your containers warm. Bring plants indoors if possible, or use a cold frame to extend the growing season. Monitor weather forecasts to anticipate and prepare for frost.",
+    "pros": [
+      "Easy to implement",
+      "Cost-effective",
+      "Plant protection"
+    ],
+    "cons": [
+      "Aesthetically displeasing",
+      "Space-consuming",
+      "Limited protection"
+    ],
+    "watchOut": "Be cautious not to over-insulate, which can lead to moisture buildup and root rot",
+    "faq": [
+      {
+        "q": "What is the best insulation material for containers?",
+        "a": "Bubble wrap or straw are good options"
+      },
+      {
+        "q": "Can I leave my plants outdoors during winter?",
+        "a": "Only if they are frost-hardy or properly protected"
+      },
+      {
+        "q": "How often should I check my plants during winter?",
+        "a": "Regularly, to ensure they are not damaged by frost or moisture"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "winter gardening",
+      "container care"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-02T01:14:08.975Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-16",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

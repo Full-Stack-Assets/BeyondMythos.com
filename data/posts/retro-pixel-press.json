@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-nes-boards",
+    "title": "NES board revival: DIY or die trying",
+    "dek": "Breathe new life into old NES boards",
+    "takeaway": "Restoring NES boards can be a cost-effective way to revive classic consoles",
+    "whatHappened": "The demand for restored NES boards has increased as retro gaming continues to grow in popularity. Many enthusiasts are now turning to DIY restoration to save money and learn new skills. However, this approach requires caution and attention to detail to avoid damaging the board.",
+    "whyItMatters": "Restoring NES boards is crucial for preserving the history of video games and ensuring that classic consoles remain playable for years to come. It also allows collectors to enjoy their favorite childhood games on original hardware, providing a unique gaming experience. Furthermore, restoration helps to reduce electronic waste by giving old boards a new lease on life.",
+    "howToThink": "When considering NES board restoration, it's essential to weigh the costs and benefits of DIY versus professional services. Enthusiasts should research and understand the process, including the required tools and materials, before starting a project. Additionally, they should be prepared to troubleshoot common issues and have a plan in place for potential setbacks.",
+    "pros": [
+      "Cost-effective",
+      "Learning experience",
+      "Preserves original hardware"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Time-consuming",
+      "Requires technical expertise"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What are the most common issues with old NES boards?",
+        "a": "Corrosion, capacitor failure, and chip degradation are common issues with old NES boards"
+      },
+      {
+        "q": "Can I restore an NES board without soldering experience?",
+        "a": "While possible, it's not recommended to restore an NES board without soldering experience, as it can lead to further damage"
+      },
+      {
+        "q": "Where can I find resources and guides for NES board restoration?",
+        "a": "Online forums, YouTube tutorials, and specialized retro gaming communities are excellent resources for NES board restoration guides and tips"
+      }
+    ],
+    "category": "Preservation",
+    "tags": [
+      "NES restoration",
+      "Retro gaming DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-02T01:14:09.454Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-12",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",
