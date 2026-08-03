@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microgreen-mastery-2",
+    "title": "Growing Microgreens in Small Spaces",
+    "dek": "Unlock year-round harvests",
+    "takeaway": "Microgreens can be grown indoors with minimal equipment and care",
+    "whatHappened": "Microgreens have gained popularity in recent years due to their high nutritional value and ease of growth. They can be harvested in as little as 1-3 weeks and can be grown on a windowsill or under LED lights. This makes them an ideal crop for apartment dwellers and balcony gardeners with limited space.",
+    "whyItMatters": "Microgreens provide a continuous supply of fresh greens, even in the dead of winter, and can add a burst of flavor to a variety of dishes. They also require minimal space and care, making them a great option for those new to gardening. By growing microgreens, urban gardeners can enjoy a constant harvest and experiment with new flavors and recipes.",
+    "howToThink": "When growing microgreens, it's essential to use a good quality growing medium and to keep the soil consistently moist. Provide adequate light, and harvest the greens when they are 1-3 inches tall. With a little practice, you can master the art of growing microgreens and enjoy a year-round supply of fresh, delicious greens.",
+    "pros": [
+      "Year-round harvest",
+      "Minimal space required",
+      "High nutritional value"
+    ],
+    "cons": [
+      "Requires consistent moisture",
+      "Can be sensitive to light",
+      "Limited crop selection"
+    ],
+    "watchOut": "Be cautious not to overwater, as this can lead to mold and poor germination",
+    "faq": [
+      {
+        "q": "What are microgreens?",
+        "a": "Young, nutrient-dense versions of herbs and greens"
+      },
+      {
+        "q": "How much light do microgreens need?",
+        "a": "Most microgreens require 12-16 hours of light per day"
+      },
+      {
+        "q": "Can microgreens be grown outdoors?",
+        "a": "Yes, but they prefer partial shade and consistent moisture"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "indoor gardening",
+      "urban agriculture"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-03T23:46:53.891Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-18",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",
