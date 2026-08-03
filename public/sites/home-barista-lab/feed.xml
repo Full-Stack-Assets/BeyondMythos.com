@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>A weekend project: level up your espresso in two hours</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-13.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-13.html</guid>
+      <pubDate>Mon, 03 Aug 2026 08:50:31 GMT</pubDate>
+      <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Espresso Machine Face-Off: Which One Reigns Supreme?</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-comparison.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-comparison.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-pour-over-with-temperature-control.html</guid>
       <pubDate>Sat, 01 Aug 2026 07:51:11 GMT</pubDate>
       <description>Transform your pour-overs with precise temperature control.</description>
-    </item>
-    <item>
-      <title>Mastering the Art of Espresso Machine Maintenance</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-9.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-9.html</guid>
-      <pubDate>Sat, 01 Aug 2026 04:59:37 GMT</pubDate>
-      <description>Keep your espresso machine in top shape</description>
     </item>
   </channel>
 </rss>
