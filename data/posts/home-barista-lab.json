@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-espresso-grind",
+    "title": "The Grind Control: Unlocking Espresso's Full Potential",
+    "dek": "Get the perfect grind for better espresso",
+    "takeaway": "Optimizing your espresso grind can significantly improve the flavor and quality of your shots",
+    "whatHappened": "Recent experiments in our Home Barista Lab highlighted the impact of grind size on espresso extraction. We found that even slight adjustments could lead to notable differences in taste. By refining the grind, enthusiasts can experience a more balanced and richer flavor profile.",
+    "whyItMatters": "The right grind size is crucial for achieving the perfect balance of flavors in an espresso shot. Incorrect grind sizes can lead to over or under extraction, resulting in bitter or sour tastes. Understanding and mastering grind control enables home baristas to tailor their espresso to their personal taste preferences.",
+    "howToThink": "To optimize your espresso grind, consider the type of coffee bean, the roast level, and your espresso machine's specifications. Start with small adjustments and taste the differences. It's also essential to invest in a quality grinder that allows for precise control over the grind size.",
+    "pros": [
+      "Improved flavor",
+      "Increased control",
+      "Better extraction"
+    ],
+    "cons": [
+      "Requires trial and error",
+      "Needs specific equipment",
+      "Can be time-consuming"
+    ],
+    "watchOut": "Be cautious not to over-complicate the grind adjustment process, as it can lead to unnecessary experimentation and inconsistent results",
+    "faq": [
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "The ideal grind size depends on the espresso machine and personal taste, but generally, it should be fine to medium-fine"
+      },
+      {
+        "q": "Can I use a blade grinder for espresso?",
+        "a": "It's not recommended, as blade grinders generate heat and can damage the beans, leading to inconsistent grind sizes"
+      },
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Regular cleaning is essential to prevent old coffee oils and debris from affecting the taste of your espresso; clean your grinder at least once a week"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso grind",
+      "coffee equipment"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-03T17:28:09.057Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-11",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

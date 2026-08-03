@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Grind Control: Unlocking Espresso&apos;s Full Potential</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/optimizing-espresso-grind.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/optimizing-espresso-grind.html</guid>
+      <pubDate>Mon, 03 Aug 2026 17:28:09 GMT</pubDate>
+      <description>Get the perfect grind for better espresso</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-11.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-11.html</guid>
       <pubDate>Sat, 01 Aug 2026 14:11:35 GMT</pubDate>
       <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of pour-over</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-10.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-10.html</guid>
-      <pubDate>Sat, 01 Aug 2026 11:46:14 GMT</pubDate>
-      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
     </item>
   </channel>
 </rss>

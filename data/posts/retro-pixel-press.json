@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-upgrade-2",
+    "title": "Retro Console Upgrades for a Competitive Edge",
+    "dek": "Boost your speedrun capabilities",
+    "takeaway": "Upgrading your retro console can significantly improve your speedrun performance",
+    "whatHappened": "Recent advancements in retro console hardware have led to the development of affordable and easy-to-install upgrades. These upgrades can enhance the overall performance of classic consoles, allowing for smoother gameplay and faster load times. As a result, speedrunners can now achieve better results and push the limits of what is possible.",
+    "whyItMatters": "For retro game collectors and speedrunners, having a competitive edge is crucial. Upgrading your console can give you the edge you need to Set new records and stay ahead of the competition. Moreover, these upgrades can also improve the overall gaming experience, making it more enjoyable for casual players.",
+    "howToThink": "When considering a retro console upgrade, it's essential to research and choose the right components for your specific needs. Look for upgrades that are compatible with your console and provide the desired performance boost. Additionally, consider the cost and complexity of the upgrade, as well as any potential risks or limitations.",
+    "pros": [
+      "Improved performance",
+      "Enhanced gaming experience",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Cost",
+      "Complexity",
+      "Potential risks"
+    ],
+    "watchOut": "Be cautious when installing upgrades to avoid damaging your console or voiding its warranty",
+    "faq": [
+      {
+        "q": "What are the most popular retro console upgrades?",
+        "a": "The most popular upgrades include processor overclocking, RAM expansions, and custom firmware installations"
+      },
+      {
+        "q": "How do I choose the right upgrade for my console?",
+        "a": "Research and consider factors such as compatibility, performance boost, and cost"
+      },
+      {
+        "q": "Can I install upgrades myself or do I need a professional?",
+        "a": "While some upgrades can be installed DIY, others may require professional expertise to avoid damaging the console"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-03T17:28:08.723Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-14",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",
