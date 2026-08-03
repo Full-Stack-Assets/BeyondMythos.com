@@ -1,5 +1,56 @@
 [
   {
+    "slug": "water-purification-101",
+    "title": "Streamline Your Hydration: Mastering Water Purification",
+    "dek": "Stay safe, drink free.",
+    "takeaway": "Effective water purification is crucial for a safe and enjoyable thru-hike experience.",
+    "whatHappened": "Waterborne illnesses can quickly ruin a thru-hike. Many backpackers struggle with finding a reliable water purification method. Recently, there has been a surge in demand for lightweight and effective solutions.",
+    "whyItMatters": "Access to safe drinking water is vital for maintaining energy levels and overall health. Inadequate water purification can lead to serious health issues, ranging from mild stomach discomfort to life-threatening diseases. Thru-hikers must be equipped with the knowledge and tools to handle water purification efficiently.",
+    "howToThink": "When considering a water purification system, think about the specific needs of your route and the contaminants you're likely to encounter. Look for systems that are lightweight, easy to use, and capable of removing a wide range of bacteria, viruses, and parasites. Practice using your chosen method before embarking on your hike to ensure you're comfortable with the process.",
+    "pros": [
+      "Lightweight",
+      "Easy to use",
+      "Effective against multiple contaminants"
+    ],
+    "cons": [
+      "Initial cost",
+      "Maintenance requirements",
+      "Limited lifespan"
+    ],
+    "watchOut": "Be cautious of water sources near agricultural or urban areas, as they may contain harmful chemicals or pollutants that your purification system can't remove.",
+    "faq": [
+      {
+        "q": "What is the most effective water purification method for backpacking?",
+        "a": "Currently, filter-straw hybrids and UV light purifiers are popular among backpackers for their effectiveness and convenience."
+      },
+      {
+        "q": "How often should I replace my water filter?",
+        "a": "Replacement schedules vary depending on the manufacturer and usage, but as a general rule, filters should be replaced every 1,000 to 2,000 liters or as recommended by the manufacturer."
+      },
+      {
+        "q": "Can I use water purification tablets as a backup?",
+        "a": "Yes, water purification tablets can serve as a reliable backup in case your primary system fails, but be sure to follow the instructions carefully and consider any taste or chemical concerns."
+      }
+    ],
+    "category": "Skills",
+    "tags": [
+      "thru-hike",
+      "ultralight"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-03T22:39:15.071Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "food-pre-spend-checklist-18",
     "title": "The food checklist: run this before you spend",
     "dek": "Seven questions that separate a justified food purchase from an expensive mood.",

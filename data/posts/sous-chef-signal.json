@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sauce-staples",
+    "title": "Building a Core Sauce Repertoire",
+    "dek": "Simplify weeknight dinners with versatile sauces.",
+    "takeaway": "A well-stocked sauce arsenal can instantly elevate your weeknight meals.",
+    "whatHappened": "Home cooks often find themselves in a dinner rut, relying on the same few recipes. However, with a solid foundation in sauce preparation, the possibilities for variety and flavor explosion increase exponentially. This is because sauces can completely transform the nature of a dish, turning the mundane into the extraordinary.",
+    "whyItMatters": "Understanding and mastering a variety of sauces is crucial for home cooks looking to systematize their weeknight dinners. Sauces add flavor, texture, and visual appeal to meals, making them more satisfying and enjoyable. Moreover, having a repertoire of sauces can reduce meal planning stress and increase creativity in the kitchen.",
+    "howToThink": "To build a core sauce repertoire, home cooks should start by focusing on foundational sauces like marinara, alfredo, and pesto. From there, they can experiment with variations and combinations to create new and exciting flavors. Practicing sauce preparation regularly will also help in developing a sense of how different ingredients interact and how to balance flavors.",
+    "pros": [
+      "Enhances flavor",
+      "Increases meal variety",
+      "Reduces cooking time"
+    ],
+    "cons": [
+      "Requires initial practice",
+      "Can be messy",
+      "Needs storage space"
+    ],
+    "watchOut": "Be cautious not to over-rely on store-bought sauces, as they often contain high amounts of salt and preservatives.",
+    "faq": [
+      {
+        "q": "What are the most essential sauces for a home cook to know?",
+        "a": "Marinara, alfredo, and pesto are fundamental and versatile."
+      },
+      {
+        "q": "How often should I practice making new sauces?",
+        "a": "Aim to try a new sauce at least once a week to build your skills and repertoire."
+      },
+      {
+        "q": "Can I store homemade sauces for later use?",
+        "a": "Yes, most sauces can be refrigerated or frozen for future meals, making them a great time-saving strategy."
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "sauce making",
+      "weeknight dinners"
+    ],
+    "sources": [
+      {
+        "label": "r/cookingforbeginners community threads",
+        "url": "https://www.reddit.com/r/cookingforbeginners/"
+      },
+      {
+        "label": "Search interest: \"five mother sauces\"",
+        "url": "https://duckduckgo.com/?q=five%20mother%20sauces"
+      }
+    ],
+    "publishedAt": "2026-08-03T22:39:16.790Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-sauces-18",
     "title": "Ask the forge: your sauces questions, answered",
     "dek": "Straight answers to the sauces questions home cooks systematizing weeknight dinners keep asking, minus the hedging.",

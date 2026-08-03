@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevating-old-fashioneds",
+    "title": "Rethinking the Old Fashioned: A New Spin on a Timeless Classic",
+    "dek": "Revamp your Old Fashioned game",
+    "takeaway": "A well-crafted Old Fashioned is all about balance and nuance, not just whiskey and bitters",
+    "whatHappened": "The Old Fashioned has been a staple in cocktail bars for centuries, but its popularity has led to a proliferation of subpar variations. Recently, a new wave of bartenders has been experimenting with innovative twists on the classic recipe. From smoked sugars to bespoke bitters, the possibilities are endless.",
+    "whyItMatters": "As home bartenders, we owe it to ourselves to elevate our Old Fashioned game and explore the vast possibilities this cocktail has to offer. By doing so, we can develop a deeper appreciation for the craft and create unique experiences for our guests. Moreover, a well-executed Old Fashioned is a great way to showcase our skills and creativity behind the bar.",
+    "howToThink": "When rethinking the Old Fashioned, consider the flavor profile you want to achieve and experiment with different combinations of ingredients. Don't be afraid to try new sugars, bitters, and even types of whiskey. Remember, the key to a great Old Fashioned is balance, so taste and adjust as you go. With practice and patience, you'll develop your own signature style and take your Old Fashioned game to the next level.",
+    "pros": [
+      "Endless possibilities",
+      "Easy to experiment",
+      "Impresses guests"
+    ],
+    "cons": [
+      "Can be overly sweet",
+      "Requires quality ingredients",
+      "Easy to over-complicate"
+    ],
+    "watchOut": "Be careful not to over-accessorize your Old Fashioned with too many garnishes or unnecessary ingredients, as this can detract from the overall experience",
+    "faq": [
+      {
+        "q": "What's the best type of whiskey for an Old Fashioned?",
+        "a": "It depends on personal preference, but bourbon and rye are popular choices"
+      },
+      {
+        "q": "Can I use simple syrup instead of sugar?",
+        "a": "Yes, but be mindful of the flavor profile and adjust accordingly"
+      },
+      {
+        "q": "How do I prevent my Old Fashioned from becoming watered down?",
+        "a": "Use large ice cubes and stir gently to avoid dilution"
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "cocktail classics",
+      "old fashioned"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-08-03T22:39:15.419Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-cocktail-tools-essentials-7",
     "title": "Myth vs. reality: cocktail tools essentials",
     "dek": "The persistent myths around cocktail tools essentials, stress-tested against what home bartenders and cocktail hobbyists actually report.",

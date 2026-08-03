@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-local-transport-hacks",
+    "title": "Cracking the Code on Local Transport",
+    "dek": "Unlock local secrets",
+    "takeaway": "Mastering local transport is key to a low-impact, authentic travel experience",
+    "whatHappened": "During a recent stint in rural Japan, I found myself lost in translation, struggling to navigate the complexities of local bus routes. However, after stumbling upon a local transport hack, I was able to seamlessly integrate into the community. This experience taught me the value of understanding local transport systems.",
+    "whyItMatters": "For slow-travel and low-impact explorers, understanding local transport is crucial for reducing carbon footprint and truly immersing oneself in the local culture. It allows travelers to venture off the beaten path, supporting local economies and fostering meaningful connections with the community. By doing so, travelers can have a more profound and lasting experience.",
+    "howToThink": "To crack the code on local transport, start by researching local routes and schedules before arriving at your destination. Look for online forums, blogger reviews, or social media groups where locals and travelers share their expertise. Upon arrival, don't hesitate to ask locals for guidance, and be open to learning the nuances of the transport system.",
+    "pros": [
+      "Increased mobility",
+      "Deeper cultural immersion",
+      "Reduced reliance on tourist services"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Potential language barriers",
+      "Unpredictable schedules"
+    ],
+    "watchOut": "Be cautious of peak travel times and plan accordingly to avoid overcrowding and frustration",
+    "faq": [
+      {
+        "q": "How do I find local transport information?",
+        "a": "Research online, consult with locals, or visit the local tourist information office"
+      },
+      {
+        "q": "What if I don't speak the local language?",
+        "a": "Use translation apps, carry a phrasebook, or ask a local for assistance"
+      },
+      {
+        "q": "Can I use public transport with large luggage?",
+        "a": "Check with the transport provider in advance, as some may have restrictions or offer special services for luggage"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "local transport",
+      "slow travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-03T22:39:10.052Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-17",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
