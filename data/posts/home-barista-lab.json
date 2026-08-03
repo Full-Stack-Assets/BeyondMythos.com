@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-roast-optimization",
+    "title": "Optimizing Roast for Espresso: A Home Barista's Guide",
+    "dek": "Get the most out of your espresso with expert roast advice",
+    "takeaway": "Optimizing roast levels can significantly improve the flavor of your home espresso",
+    "whatHappened": "Recently, we've seen a surge in home baristas experimenting with different roast levels to perfect their espresso. From light to dark, each roast brings unique characteristics to the table. By understanding how roast affects flavor, home baristas can take their espresso to the next level.",
+    "whyItMatters": "The right roast level can make all the difference in the flavor and quality of your espresso, with lighter roasts offering more acidity and darker roasts providing a bolder, richer taste. Optimizing roast levels can also help home baristas overcome common issues like over-extraction or under-extraction. By finding the perfect roast, home baristas can unlock a world of flavor possibilities",
+    "howToThink": "To optimize roast for espresso, home baristas should consider the type of coffee bean, the roasting method, and the desired flavor profile. Experimenting with different roast levels and tasting the results is key to finding the perfect balance. Home baristas should also pay attention to the roast date and try to use freshly roasted beans for the best flavor",
+    "pros": [
+      "Improved flavor",
+      "Increased acidity",
+      "Better balance"
+    ],
+    "cons": [
+      "Higher cost",
+      "Limited availability",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be careful not to over-roast, as this can lead to a bitter and unpleasant taste",
+    "faq": [
+      {
+        "q": "What is the ideal roast level for espresso?",
+        "a": "The ideal roast level for espresso is often considered to be between medium and medium-dark"
+      },
+      {
+        "q": "How often should I roast my coffee beans?",
+        "a": "It's recommended to roast your coffee beans every 1-2 weeks to ensure optimal flavor"
+      },
+      {
+        "q": "Can I use a home roaster to optimize my roast?",
+        "a": "Yes, home roasters can be a great way to experiment with different roast levels and optimize your roast for espresso"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "espresso roast",
+      "home barista"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-03T19:09:53.122Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-espresso-grind",
     "title": "The Grind Control: Unlocking Espresso's Full Potential",
     "dek": "Get the perfect grind for better espresso",
