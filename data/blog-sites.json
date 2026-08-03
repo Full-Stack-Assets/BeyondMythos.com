@@ -2270,8 +2270,30 @@
       "streamUrl": "https://www.beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-08-03T12:44:40.992Z"
+    },
+    {
+      "id": "quiet-money-ledger-2-1785770164973",
+      "slug": "quiet-money-ledger-2",
+      "name": "Quiet Money Ledger",
+      "tagline": "Fresh takes for budget-minded savers and first-time investors.",
+      "nicheId": "personal-finance",
+      "audience": "budget-minded savers and first-time investors",
+      "categories": [
+        "Budgeting",
+        "Debt",
+        "Investing",
+        "Tools"
+      ],
+      "url": "https://www.beyondmythos.com/sites/quiet-money-ledger-2/",
+      "localUrl": "https://www.beyondmythos.com/sites/quiet-money-ledger-2/",
+      "vercel": null,
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-08-03T15:15:57.315Z",
+      "streamUrl": "https://www.beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-08-03T11:44:06.516Z",
+  "lastGeneratedAt": "2026-08-03T15:15:57.315Z",
   "lastPostRunAt": "2026-08-03T12:44:41.804Z"
 }
