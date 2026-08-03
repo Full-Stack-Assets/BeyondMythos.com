@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>A weekend project: level up your sensors in two hours</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/weekend-project-sensors-18.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/weekend-project-sensors-18.html</guid>
+      <pubDate>Mon, 03 Aug 2026 15:31:48 GMT</pubDate>
+      <description>One contained, satisfying sensors project for smart-home tinkerers — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/homeassistant is debating this week</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeassistant-6.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeassistant-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-14.html</guid>
       <pubDate>Sat, 01 Aug 2026 11:46:18 GMT</pubDate>
       <description>Straight answers to the lighting questions smart-home tinkerers and privacy-minded automators keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in local control with outsized returns</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-14.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-14.html</guid>
-      <pubDate>Sat, 01 Aug 2026 10:21:07 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest local control adjustments that smart-home tinkerers and privacy-minded automators report mattering most.</description>
     </item>
   </channel>
 </rss>
