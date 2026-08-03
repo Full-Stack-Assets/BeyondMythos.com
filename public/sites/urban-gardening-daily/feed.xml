@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of herbs</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/five-herbs-mistakes-16.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/five-herbs-mistakes-16.html</guid>
+      <pubDate>Mon, 03 Aug 2026 20:46:45 GMT</pubDate>
+      <description>The most common early stumbles in herbs, and the cheap corrections that fix them for apartment dwellers and balcony gardeners.</description>
+    </item>
+    <item>
       <title>Sky&apos;s the Limit: How to Make the Most of Your Balcony&apos;s Vertical Space</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-vertical-space-7.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-vertical-space-7.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-13.html</guid>
       <pubDate>Sat, 01 Aug 2026 16:37:55 GMT</pubDate>
       <description>One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/UrbanGardening is debating this week</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/community-pulse-urbangardening.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/community-pulse-urbangardening.html</guid>
-      <pubDate>Sat, 01 Aug 2026 15:42:37 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.</description>
     </item>
   </channel>
 </rss>

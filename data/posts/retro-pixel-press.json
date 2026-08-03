@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-fps-on-retro-consoles",
+    "title": "Squeezing Extra Frames from Your Retro Rig",
+    "dek": "Boost your retro console's FPS with these tweaks.",
+    "takeaway": "Optimizing your retro console's hardware can significantly improve gameplay performance.",
+    "whatHappened": "Recent experiments with retro console hardware have shown that simple modifications can yield substantial frame rate improvements. By upgrading components and fine-tuning settings, enthusiasts have managed to squeeze extra frames from their classic consoles. This has major implications for speedrunners and collectors alike.",
+    "whyItMatters": "For speedrunners, every frame counts, and increased FPS can mean the difference between a world record and a missed opportunity. For collectors, optimized hardware ensures that games are played as intended, preserving the original experience. Moreover, these modifications can extend the life of vintage consoles, making them more viable for modern gaming setups.",
+    "howToThink": "When considering hardware upgrades for your retro console, think about the specific demands of the games you play most. Identify bottlenecks in the current setup and research compatible upgrades. It's also crucial to balance performance enhancements with the risk of damaging the console, so proceed with caution and follow established guides.",
+    "pros": [
+      "Improved FPS",
+      "Enhanced gameplay",
+      "Prolonged console life"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Cost of upgrades",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be cautious of overheating when pushing your retro console's hardware to its limits.",
+    "faq": [
+      {
+        "q": "What's the most impactful hardware upgrade for FPS?",
+        "a": "Upgrading the console's RAM or GPU, if possible, can significantly boost performance."
+      },
+      {
+        "q": "Are these modifications safe for my console?",
+        "a": "When done correctly and with the right components, modifications can be safe, but always research and follow reputable guides."
+      },
+      {
+        "q": "Can I apply these tweaks to any retro console?",
+        "a": "While the principles are similar, specific modifications vary greatly between consoles, so it's essential to find guides tailored to your console model."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "FPS"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-03T20:46:47.208Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-14",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",
