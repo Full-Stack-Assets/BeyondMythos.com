@@ -1,5 +1,56 @@
 [
   {
+    "slug": "low-impact-stays",
+    "title": "Sustainable Accommodations for the Conscious Traveler",
+    "dek": "Eco-friendly stays for slow travelers",
+    "takeaway": "Choose sustainable accommodations to minimize your travel footprint and support local communities",
+    "whatHappened": "Recently, I had the opportunity to stay in a range of eco-lodges and sustainable hotels while traveling through Europe. From solar-powered hostels to locally-owned B&Bs, I was impressed by the variety of options available. Many of these establishments not only reduced their environmental impact but also supported local economies and preserved cultural heritage.",
+    "whyItMatters": "As travelers, our choices have a significant impact on the places we visit. By opting for sustainable accommodations, we can reduce our carbon footprint, conserve resources, and contribute to the local economy. This, in turn, helps to preserve the natural beauty and cultural integrity of our destinations. Moreover, sustainable stays often provide a more authentic and immersive experience, allowing us to connect with local communities and forge meaningful connections.",
+    "howToThink": "When searching for sustainable accommodations, look for establishments that have implemented eco-friendly practices, such as renewable energy sources, rainwater harvesting, and waste reduction programs. Consider staying in locally-owned properties, which can help to preserve cultural heritage and support the local economy. Additionally, be mindful of your own consumption patterns and strive to minimize your impact on the environment.",
+    "pros": [
+      "Reduced environmental impact",
+      "Supports local economies",
+      "Authentic cultural experiences"
+    ],
+    "cons": [
+      "Higher costs",
+      "Limited availability",
+      "Variable standards"
+    ],
+    "watchOut": "Be wary of greenwashing and ensure that your chosen accommodation has genuinely implemented sustainable practices",
+    "faq": [
+      {
+        "q": "What is the definition of sustainable accommodation?",
+        "a": "Sustainable accommodation refers to lodgings that minimize their environmental impact and support local communities, often through eco-friendly practices and cultural preservation"
+      },
+      {
+        "q": "How can I find sustainable accommodations?",
+        "a": "Look for certifications like LEED or EarthCheck, and research establishments that have implemented eco-friendly practices and support local economies"
+      },
+      {
+        "q": "Are sustainable accommodations more expensive?",
+        "a": "Not always, but they can be; however, the benefits to the environment and local communities often outweigh the additional cost"
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "Eco-friendly",
+      "Slow travel"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-03T01:14:28.248Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-16",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",

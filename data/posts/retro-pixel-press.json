@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-hacks-3",
+    "title": "Retro Console Hardware Hacks to Supercharge Your Speedruns",
+    "dek": "Boost performance with these DIY mods",
+    "takeaway": "Custom hardware tweaks can significantly improve speedrun times",
+    "whatHappened": "The retro gaming community has seen a surge in creative hardware modifications, from overclocking to custom controller designs. Speedrunners are now leveraging these mods to shave precious seconds off their records. As a result, the scene is becoming increasingly competitive, with top players constantly seeking new ways to gain an edge.",
+    "whyItMatters": "These hardware hacks not only enhance gameplay but also demonstrate the ingenuity and dedication of the retro gaming community. By pushing the limits of what's possible with vintage consoles, enthusiasts are preserving the spirit of innovation that defined the early days of gaming. Moreover, these mods serve as a testament to the enduring popularity of classic games.",
+    "howToThink": "When considering a hardware modification, it's essential to research thoroughly and understand the potential risks and benefits. Start by identifying your specific needs and goals, whether it's improved performance or enhanced functionality. Then, explore the various modification options available, taking care to evaluate the credibility and expertise of the sources you consult.",
+    "pros": [
+      "Improved performance",
+      "Increased competitiveness",
+      "Customization options"
+    ],
+    "cons": [
+      "Voided warranties",
+      "Potential damage",
+      "Costly upgrades"
+    ],
+    "watchOut": "Be cautious of modifications that may compromise the stability or longevity of your console",
+    "faq": [
+      {
+        "q": "What is overclocking?",
+        "a": "Overclocking involves increasing the clock speed of your console's processor to improve performance"
+      },
+      {
+        "q": "Can I modify my console myself?",
+        "a": "While possible, modifying your console yourself can be risky and may void the warranty; consider seeking professional help"
+      },
+      {
+        "q": "Are hardware mods compatible with all games?",
+        "a": "Not all games are compatible with hardware modifications; research the specific requirements and limitations for your favorite titles"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-03T01:14:28.106Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-console-modding-101-3",
     "title": "Retro Console Modding for Beginners",
     "dek": "Upgrade your retro console with ease",
