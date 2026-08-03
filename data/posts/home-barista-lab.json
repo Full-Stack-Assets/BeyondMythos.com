@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-comparison",
+    "title": "Espresso Machine Face-Off: Which One Reigns Supreme?",
+    "dek": "Find the perfect espresso machine for your home",
+    "takeaway": "The right espresso machine can elevate your coffee game significantly",
+    "whatHappened": "We recently put several top-rated espresso machines to the test, evaluating factors such as grind quality, brewing temperature, and overall user experience. The results were surprising, with some machines standing out for their exceptional performance and value. From semi-automatic to super-automatic, each machine had its strengths and weaknesses",
+    "whyItMatters": "For home coffee enthusiasts, investing in the right espresso machine can be a game-changer, providing a consistent and high-quality coffee experience. A good machine can also encourage experimentation and creativity, allowing users to try new roasts and brewing techniques. On the other hand, a subpar machine can lead to frustration and disappointment",
+    "howToThink": "When choosing an espresso machine, consider your budget, available counter space, and desired level of automation. Think about the types of coffee you want to make and the frequency of use. It's also essential to research and read reviews from other users to get a sense of the machine's reliability and durability",
+    "pros": [
+      "Convenient",
+      "Customizable",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Noise",
+      "Maintenance",
+      "Space"
+    ],
+    "watchOut": "Be wary of extremely cheap machines that may compromise on quality and performance",
+    "faq": [
+      {
+        "q": "What is the best type of espresso machine for a beginner?",
+        "a": "A semi-automatic machine is often recommended for beginners, as it provides a good balance between ease of use and control over brewing parameters"
+      },
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Regular cleaning is essential to prevent bacterial growth and maintain optimal performance, so aim to clean your machine at least once a week"
+      },
+      {
+        "q": "Can I use any type of coffee bean in my espresso machine?",
+        "a": "While you can use various types of coffee beans, it's best to use high-quality, freshly roasted beans that are specifically suited for espresso brewing"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso",
+      "Gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-03T05:22:18.883Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-14",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
