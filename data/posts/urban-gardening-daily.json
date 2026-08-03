@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-vertical-space-6",
+    "title": "Double Your Harvest: Smart Ways to Use Trellises",
+    "dek": "Grow more with less floor space",
+    "takeaway": "Using trellises can increase your yield by up to 50% in small spaces",
+    "whatHappened": "As urban gardening continues to gain popularity, innovators are finding new ways to make the most of limited space. Trellises are an old technique that's being rediscovered for its potential to double or even triple the output of a small garden. By providing a vertical structure for plants to climb, gardeners can significantly increase their harvest without needing morefloor space.",
+    "whyItMatters": "For apartment dwellers and balcony gardeners, maximizing space is crucial. With the use of trellises, gardeners can grow vining plants like peas, beans, and tomatoes in a fraction of the space required for traditional gardening methods. This not only increases the yield but also adds a decorative element to the garden.",
+    "howToThink": "To start using trellises effectively, consider the type of plants you want to grow and choose a trellis design that suits their climbing style. For example, peas and beans work well with simple wooden or metal trellises, while heavier plants like tomatoes may require more sturdy supports. Regular pruning and training of the plants are also essential to make the most out of your trellis.",
+    "pros": [
+      "Increases yield",
+      "Saves space",
+      "Aesthetically pleasing"
+    ],
+    "cons": [
+      "Requires pruning",
+      "Initial setup cost",
+      "May need regular adjustments"
+    ],
+    "watchOut": "Be cautious not to overtrain your plants, as this can lead to reduced fruiting and plant stress",
+    "faq": [
+      {
+        "q": "What plants are best for trellises?",
+        "a": "Vining plants like peas, beans, and tomatoes work well"
+      },
+      {
+        "q": "How tall can I make my trellis?",
+        "a": "The height depends on the space and the plant, but generally, 6-8 feet is a good maximum for balcony gardens"
+      },
+      {
+        "q": "Do I need a special kind of soil for trellised plants?",
+        "a": "While regular potting soil can work, a well-draining mix is recommended to prevent waterlogged soil"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "small space gardening",
+      "vertical gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-03T12:44:36.277Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-16",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",

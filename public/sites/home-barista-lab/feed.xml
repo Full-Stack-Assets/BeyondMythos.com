@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Grinder Game Strong: The Secret to Better Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-grinder-3.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-grinder-3.html</guid>
+      <pubDate>Mon, 03 Aug 2026 12:44:35 GMT</pubDate>
+      <description>Get the most from your beans</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-13.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-13.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-water-quality-2.html</guid>
       <pubDate>Sat, 01 Aug 2026 10:21:03 GMT</pubDate>
       <description>Water quality impacts espresso flavor</description>
-    </item>
-    <item>
-      <title>Precision Pour-Overs: How Temperature Control Can Elevate Your Brew</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/elevating-pour-over-with-temperature-control.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-pour-over-with-temperature-control.html</guid>
-      <pubDate>Sat, 01 Aug 2026 07:51:11 GMT</pubDate>
-      <description>Transform your pour-overs with precise temperature control.</description>
     </item>
   </channel>
 </rss>

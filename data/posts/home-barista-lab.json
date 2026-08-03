@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-your-grinder-3",
+    "title": "Grinder Game Strong: The Secret to Better Espresso",
+    "dek": "Get the most from your beans",
+    "takeaway": "A well-tuned grinder is key to perfect espresso",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end grinders, but many are still struggling to get the best out of them. The main issue lies in the initial tuning process, which can be daunting for newcomers. By understanding how to properly tune your grinder, you can unlock a world of flavors and crema.",
+    "whyItMatters": "The grind size and distribution have a significant impact on the flavor and quality of your espresso. Incorrect tuning can lead to channeling, over-extraction, or under-extraction, making your espresso unpalatable. By mastering the art of grinder tuning, you can ensure a perfect shot every time.",
+    "howToThink": "To tune your grinder, start by adjusting the grind size and observing the effects on your espresso. Pay attention to the flow rate and adjust the grind accordingly. It's also essential to clean and calibrate your grinder regularly to maintain optimal performance.",
+    "pros": [
+      "Improved flavor",
+      "Increased crema",
+      "Better flow rate"
+    ],
+    "cons": [
+      "Initial tuning can be tricky",
+      "Requires regular calibration",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be cautious not to over-tighten the grinder's burrs, as this can damage the machine and affect the flavor of your espresso",
+    "faq": [
+      {
+        "q": "How often should I tune my grinder?",
+        "a": "You should tune your grinder every 1-2 weeks, or whenever you change coffee beans"
+      },
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "The ideal grind size for espresso is usually around 200-250 microns"
+      },
+      {
+        "q": "Can I use a pre-ground coffee in my espresso machine?",
+        "a": "It's not recommended to use pre-ground coffee in your espresso machine, as the grind size may not be optimal"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Tips",
+      "Grinder Guide"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-03T12:44:35.968Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-13",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",
