@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "hydroponic-nutrient-delivery",
+    "title": "Optimizing Nutrient Flow in Hydroponics",
+    "category": "Systems",
+    "dek": "Maximize crop yields with efficient nutrient delivery.",
+    "takeaway": "A well-designed nutrient delivery system is crucial for indoor hydroponic growers.",
+    "whatHappened": "Traditional soil-based growing methods often lead to wasted nutrients. Hydroponics offers a solution by delivering nutrients directly to the roots. However, this requires a tailored approach to nutrient delivery.",
+    "whyItMatters": "Indoor hydroponic growers need to ensure their crops receive the right amount of nutrients at the right time. Inadequate nutrient delivery can result in stunted growth, reduced yields, and decreased crop quality.",
+    "howToThink": "To optimize nutrient flow, growers should consider factors such as water temperature, pH levels, and nutrient concentration. Regular monitoring and adjustments are necessary to ensure a balanced nutrient profile.",
+    "pros": [
+      "Increased crop yields",
+      "Improved nutrient efficiency",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Increased complexity",
+      "Risk of over-fertilization"
+    ],
+    "watchOut": "Be cautious of over-fertilization, which can damage crops and contaminate the system.",
+    "faq": [
+      {
+        "q": "What is the ideal nutrient concentration for hydroponics?",
+        "a": "The ideal concentration varies depending on the crop and growth stage, but a general range is between 100-200 ppm."
+      },
+      {
+        "q": "How often should I monitor my system's pH levels?",
+        "a": "pH levels should be checked daily, and adjusted as necessary to maintain a stable range between 5.5 and 6.5."
+      },
+      {
+        "q": "Can I use a single nutrient solution for all my crops?",
+        "a": "No, different crops have unique nutrient requirements, so it's best to use a tailored nutrient solution for each crop."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/hydro community threads",
+        "url": "https://www.reddit.com/r/hydro/"
+      },
+      {
+        "label": "Search interest: \"kratky method guide\"",
+        "url": "https://duckduckgo.com/?q=kratky%20method%20guide"
+      }
+    ],
+    "tags": [
+      "hydroponics",
+      "nutrients"
+    ],
+    "publishedAt": "2026-08-04T06:40:52.526Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "leafy-greens-nutrient-requirements",
+    "title": "Nutrient Requirements for Leafy Greens in Hydroponics",
+    "category": "Leafy Greens",
+    "dek": "Give your leafy greens the nutrients they need to thrive.",
+    "takeaway": "Leafy greens have specific nutrient requirements that must be met for optimal growth and flavor.",
+    "whatHappened": "Leafy greens such as lettuce, kale, and spinach are popular hydroponic crops, but they require a balanced nutrient profile to grow well. Nitrogen, phosphorus, and potassium are essential macronutrients for leafy greens.",
+    "whyItMatters": "Providing the right nutrients in the correct proportions is crucial for promoting healthy growth, preventing deficiencies, and optimizing flavor and texture in leafy greens.",
+    "howToThink": "When growing leafy greens in hydroponics, consider using a balanced nutrient solution that includes a mix of macronutrients and micronutrients. Regularly monitor and adjust the nutrient levels to ensure optimal growth.",
+    "pros": [
+      "Improved flavor and texture",
+      "Increased crop yields",
+      "Reduced risk of deficiencies"
+    ],
+    "cons": [
+      "Higher nutrient costs",
+      "Increased complexity",
+      "Risk of over-fertilization"
+    ],
+    "watchOut": "Be cautious of over-fertilization, which can lead to bolting or tip-burn in leafy greens.",
+    "faq": [
+      {
+        "q": "What is the ideal NPK ratio for leafy greens?",
+        "a": "A balanced NPK ratio of 20-20-20 is suitable for most leafy greens, but some crops may require adjustments."
+      },
+      {
+        "q": "Can I use a single nutrient solution for all my leafy greens?",
+        "a": "While some leafy greens have similar nutrient requirements, it's best to use a tailored nutrient solution for each crop to ensure optimal growth."
+      },
+      {
+        "q": "How often should I feed my leafy greens?",
+        "a": "Feed your leafy greens with a balanced nutrient solution 1-2 times per week, depending on the crop and growth stage."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Hydroponics community threads",
+        "url": "https://www.reddit.com/r/Hydroponics/"
+      },
+      {
+        "label": "Search interest: \"hydroponic nutrients explained\"",
+        "url": "https://duckduckgo.com/?q=hydroponic%20nutrients%20explained"
+      }
+    ],
+    "tags": [
+      "leafy-greens",
+      "hydroponics"
+    ],
+    "publishedAt": "2026-08-02T17:40:52.526Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "hydroponic-systems-for-nutrient-delivery",
+    "title": "Choosing the Right Hydroponic System for Nutrient Delivery",
+    "category": "Systems",
+    "dek": "Select a hydroponic system that meets your nutrient delivery needs.",
+    "takeaway": "The choice of hydroponic system can significantly impact nutrient delivery and crop yields.",
+    "whatHappened": "There are various hydroponic systems available, including NFT, DWC, and Ebb-and-Flow. Each system has its strengths and weaknesses when it comes to nutrient delivery.",
+    "whyItMatters": "A well-designed hydroponic system can ensure efficient nutrient delivery, reduce waste, and promote healthy crop growth.",
+    "howToThink": "When selecting a hydroponic system, consider factors such as crop type, growth stage, and nutrient requirements. Research and compare different systems to find the one that best meets your needs.",
+    "pros": [
+      "Increased efficiency",
+      "Improved crop yields",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Increased complexity",
+      "Limited crop selection"
+    ],
+    "watchOut": "Be cautious of systems that may not provide adequate oxygenation or root support, which can impact nutrient uptake and crop health.",
+    "faq": [
+      {
+        "q": "What is the most efficient hydroponic system for nutrient delivery?",
+        "a": "NFT systems are often considered the most efficient, as they deliver a continuous flow of nutrient-rich water to the roots."
+      },
+      {
+        "q": "Can I use a hydroponic system for multiple crops?",
+        "a": "Yes, many hydroponic systems can be used for multiple crops, but it's essential to research and understand the specific needs of each crop."
+      },
+      {
+        "q": "How do I maintain my hydroponic system?",
+        "a": "Regularly monitor and adjust the system's pH, temperature, and nutrient levels to ensure optimal performance and prevent issues."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/IndoorGarden community threads",
+        "url": "https://www.reddit.com/r/IndoorGarden/"
+      },
+      {
+        "label": "Search interest: \"grow lights for greens\"",
+        "url": "https://duckduckgo.com/?q=grow%20lights%20for%20greens"
+      }
+    ],
+    "tags": [
+      "hydroponic-systems",
+      "nutrient-delivery"
+    ],
+    "publishedAt": "2026-08-01T04:40:52.526Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "nutrient-deficiencies-in-hydroponics",
+    "title": "Identifying and Addressing Nutrient Deficiencies in Hydroponics",
+    "category": "Nutrients",
+    "dek": "Recognize and fix nutrient deficiencies for healthy crops.",
+    "takeaway": "Nutrient deficiencies can significantly impact crop growth and yields in hydroponics.",
+    "whatHappened": "Nutrient deficiencies can occur due to various factors, including inadequate nutrient solutions, pH imbalances, or insufficient monitoring. Common deficiencies include nitrogen, phosphorus, and potassium.",
+    "whyItMatters": "Addressing nutrient deficiencies promptly is crucial to prevent long-term damage to crops and ensure optimal growth.",
+    "howToThink": "Regularly monitor your crops for signs of nutrient deficiencies, such as yellowing leaves or stunted growth. Adjust the nutrient solution and pH levels as needed to address deficiencies.",
+    "pros": [
+      "Improved crop health",
+      "Increased yields",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Increased monitoring requirements",
+      "Higher nutrient costs",
+      "Risk of over-fertilization"
+    ],
+    "watchOut": "Be cautious of over-fertilization, which can exacerbate nutrient deficiencies and damage crops.",
+    "faq": [
+      {
+        "q": "What are the most common nutrient deficiencies in hydroponics?",
+        "a": "Nitrogen, phosphorus, and potassium deficiencies are common in hydroponics, but other micronutrient deficiencies can also occur."
+      },
+      {
+        "q": "How do I identify nutrient deficiencies in my crops?",
+        "a": "Monitor your crops for visual signs of deficiencies, such as yellowing leaves or stunted growth, and use diagnostic tools like pH and EC meters."
+      },
+      {
+        "q": "Can I use organic nutrients to address deficiencies?",
+        "a": "Yes, organic nutrients can be used to address deficiencies, but it's essential to research and understand their composition and application rates."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/hydro community threads",
+        "url": "https://www.reddit.com/r/hydro/"
+      },
+      {
+        "label": "Search interest: \"kratky method guide\"",
+        "url": "https://duckduckgo.com/?q=kratky%20method%20guide"
+      }
+    ],
+    "tags": [
+      "nutrient-deficiencies",
+      "hydroponics"
+    ],
+    "publishedAt": "2026-07-30T15:40:52.526Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "lighting-for-hydroponic-nutrient-uptake",
+    "title": "Optimizing Lighting for Hydroponic Nutrient Uptake",
+    "category": "Lighting",
+    "dek": "Maximize nutrient uptake with the right lighting.",
+    "takeaway": "Lighting plays a critical role in hydroponic nutrient uptake and crop growth.",
+    "whatHappened": "Lighting affects photosynthesis, which in turn impacts nutrient uptake and crop growth. Different lighting spectra and intensities can influence nutrient uptake and crop development.",
+    "whyItMatters": "Optimizing lighting for hydroponic crops can improve nutrient uptake, increase yields, and enhance crop quality.",
+    "howToThink": "Consider the specific lighting requirements of your crops, including spectrum, intensity, and duration. Adjust the lighting schedule and spectrum to promote optimal nutrient uptake and growth.",
+    "pros": [
+      "Improved nutrient uptake",
+      "Increased yields",
+      "Enhanced crop quality"
+    ],
+    "cons": [
+      "Higher energy costs",
+      "Increased heat output",
+      "Limited crop selection"
+    ],
+    "watchOut": "Be cautious of excessive heat output from lighting, which can impact nutrient uptake and crop health.",
+    "faq": [
+      {
+        "q": "What is the ideal lighting spectrum for hydroponic crops?",
+        "a": "The ideal spectrum varies depending on the crop, but a balanced spectrum with a mix of blue, red, and green light is often recommended."
+      },
+      {
+        "q": "How do I determine the optimal lighting intensity for my crops?",
+        "a": "Research the specific lighting requirements of your crops and use tools like PAR meters to measure and adjust the lighting intensity."
+      },
+      {
+        "q": "Can I use LED lighting for hydroponics?",
+        "a": "Yes, LED lighting is a popular choice for hydroponics, as it offers energy efficiency, flexibility, and a range of spectra."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Hydroponics community threads",
+        "url": "https://www.reddit.com/r/Hydroponics/"
+      },
+      {
+        "label": "Search interest: \"hydroponic nutrients explained\"",
+        "url": "https://duckduckgo.com/?q=hydroponic%20nutrients%20explained"
+      }
+    ],
+    "tags": [
+      "lighting",
+      "hydroponics"
+    ],
+    "publishedAt": "2026-07-29T02:40:52.526Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "hydroponic-nutrient-solutions",
+    "title": "Formulating Hydroponic Nutrient Solutions for Optimal Growth",
+    "category": "Nutrients",
+    "dek": "Create a balanced nutrient solution for your hydroponic crops.",
+    "takeaway": "A well-formulated nutrient solution is essential for optimal growth and yields in hydroponics.",
+    "whatHappened": "Hydroponic nutrient solutions typically consist of a mix of macronutrients and micronutrients. The ideal formulation varies depending on the crop, growth stage, and environment.",
+    "whyItMatters": "A balanced nutrient solution provides the necessary nutrients for healthy growth, prevents deficiencies, and optimizes yields.",
+    "howToThink": "Research and understand the specific nutrient requirements of your crops, and formulate a solution that meets those needs. Consider factors like pH, EC, and temperature when creating your nutrient solution.",
+    "pros": [
+      "Improved crop growth",
+      "Increased yields",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Higher nutrient costs",
+      "Increased complexity",
+      "Risk of over-fertilization"
+    ],
+    "watchOut": "Be cautious of over-fertilization, which can damage crops and contaminate the system.",
+    "faq": [
+      {
+        "q": "What is the ideal NPK ratio for hydroponic crops?",
+        "a": "The ideal NPK ratio varies depending on the crop, but a balanced ratio of 20-20-20 is often recommended."
+      },
+      {
+        "q": "Can I use a single nutrient solution for all my hydroponic crops?",
+        "a": "While some crops have similar nutrient requirements, it's best to use a tailored nutrient solution for each crop to ensure optimal growth."
+      },
+      {
+        "q": "How do I adjust the pH of my nutrient solution?",
+        "a": "Use pH adjusters like pH Up or pH Down to adjust the pH of your nutrient solution, and monitor the pH levels regularly to ensure a stable range."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/IndoorGarden community threads",
+        "url": "https://www.reddit.com/r/IndoorGarden/"
+      },
+      {
+        "label": "Search interest: \"grow lights for greens\"",
+        "url": "https://duckduckgo.com/?q=grow%20lights%20for%20greens"
+      }
+    ],
+    "tags": [
+      "hydroponic-nutrients",
+      "nutrient-solutions"
+    ],
+    "publishedAt": "2026-07-27T13:40:52.526Z",
+    "readMinutes": 2
+  }
+]
