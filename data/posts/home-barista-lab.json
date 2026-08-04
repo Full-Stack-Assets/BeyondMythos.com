@@ -1,5 +1,56 @@
 [
   {
+    "slug": "taming-the-tamp",
+    "title": "The Tamping Technique That Changed My Espresso Game",
+    "dek": "Get a perfect tamp every time",
+    "takeaway": "A consistent tamp is key to a great espresso shot",
+    "whatHappened": "I recently experimented with different tamping techniques and found that a well-executed tamp makes all the difference in the world. The flavor and crema of my espresso shots improved dramatically. It's surprising how such a small step can have a huge impact on the final result.",
+    "whyItMatters": "A good tamp ensures that the coffee grounds are evenly compressed, allowing for the perfect flow of water through the grounds. This results in a more balanced and full-bodied shot. Without it, channeling and under-extraction can occur, leading to a subpar espresso experience.",
+    "howToThink": "To achieve the perfect tamp, focus on using the right amount of pressure and ensuring the surface is level. It's also essential to use a tamper that fits your portafilter perfectly. Practice makes perfect, so don't be discouraged if it takes a few attempts to get it just right.",
+    "pros": [
+      "Improved flavor",
+      "Better crema",
+      "Increased consistency"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be tedious",
+      "Tamper cost"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to over-extraction and a bitter taste",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal pressure is around 30 pounds of force"
+      },
+      {
+        "q": "How often should I clean my tamper?",
+        "a": "Clean your tamper after every use to prevent old coffee oils from building up"
+      },
+      {
+        "q": "Can I use a tamp with a built-in level?",
+        "a": "Yes, a tamp with a built-in level can help ensure your surface is even and level"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Barista Skills"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-04T03:53:52.146Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-pourover-4",
     "title": "Community pulse: what r/pourover is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

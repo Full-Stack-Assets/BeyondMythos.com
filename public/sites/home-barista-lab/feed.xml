@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Tamping Technique That Changed My Espresso Game</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-tamp.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-tamp.html</guid>
+      <pubDate>Tue, 04 Aug 2026 03:53:52 GMT</pubDate>
+      <description>Get a perfect tamp every time</description>
+    </item>
+    <item>
       <title>Community pulse: what r/pourover is debating this week</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-4.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-13.html</guid>
       <pubDate>Sat, 01 Aug 2026 19:52:23 GMT</pubDate>
       <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-9.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-9.html</guid>
-      <pubDate>Sat, 01 Aug 2026 18:40:14 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>

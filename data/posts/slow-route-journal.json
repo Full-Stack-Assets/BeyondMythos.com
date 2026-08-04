@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-hostels",
+    "title": "Low-Impact Lodging: The Rise of Sustainable Hostels",
+    "dek": "Discover eco-friendly hostels for a guilt-free stay",
+    "takeaway": "Sustainable hostels offer a unique blend of community and low-impact travel",
+    "whatHappened": "In recent years, a new wave of hostels has emerged, prioritizing sustainability and eco-friendliness. From solar panels to community gardens, these hostels are redefining the way we think about accommodation. By incorporating environmentally-friendly practices, they're reducing their carbon footprint and creating a more conscious travel experience.",
+    "whyItMatters": "As travelers, our choices have a significant impact on the environment and local communities. By opting for sustainable hostels, we're supporting businesses that prioritize the planet and promoting a more responsible travel culture. This shift towards eco-friendly lodging is not only better for the environment, but also enriches our travel experiences.",
+    "howToThink": "When searching for sustainable hostels, look for certifications like Passive House or LEED, and consider factors like energy efficiency, waste reduction, and community engagement. You can also research local initiatives and partnerships that support environmental projects. By being mindful of our accommodation choices, we can make a positive impact on the destinations we visit.",
+    "pros": [
+      "Community-driven",
+      "Eco-friendly practices",
+      "Unique experiences"
+    ],
+    "cons": [
+      "Higher prices",
+      "Limited availability",
+      "Variable quality"
+    ],
+    "watchOut": "Be wary of greenwashing and ensure that the hostel's sustainable claims are backed by credible certifications or reviews",
+    "faq": [
+      {
+        "q": "What is a sustainable hostel?",
+        "a": "A hostel that prioritizes environmental sustainability and social responsibility"
+      },
+      {
+        "q": "How can I find sustainable hostels?",
+        "a": "Research online, look for certifications, and read reviews from other travelers"
+      },
+      {
+        "q": "Are sustainable hostels more expensive?",
+        "a": "Not always, but prices may vary depending on the location and amenities"
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "sustainable travel",
+      "eco-friendly accommodation"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-04T03:53:51.993Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-onebag-4",
     "title": "Community pulse: what r/onebag is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",
