@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-10.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-10.html</guid>
+      <pubDate>Tue, 04 Aug 2026 20:53:50 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-14.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-14.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-2.html</guid>
       <pubDate>Sun, 02 Aug 2026 10:19:54 GMT</pubDate>
       <description>Upgrade your retro console with ease</description>
-    </item>
-    <item>
-      <title>Retro Console Upcycling for Modern Speedrunners</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-10.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-10.html</guid>
-      <pubDate>Sun, 02 Aug 2026 07:52:10 GMT</pubDate>
-      <description>Breathe new life into old consoles</description>
     </item>
   </channel>
 </rss>

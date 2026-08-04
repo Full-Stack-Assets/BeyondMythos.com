@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-hacks-5",
+    "title": "Descale, Clean, Repeat: Espresso Machine Maintenance Hacks",
+    "dek": "Clean machine, perfect shot",
+    "takeaway": "Regular cleaning is key to optimal espresso machine performance",
+    "whatHappened": "Neglecting to clean your espresso machine can lead to scaling, clogging, and a general decline in the quality of your shots. A build-up of old coffee oils and residue can also introduce off-flavors and odors. Regular maintenance can prevent these issues and keep your machine running smoothly.",
+    "whyItMatters": "A well-maintained espresso machine is essential for producing high-quality shots, and can also extend the lifespan of your equipment. Clean machines are also less likely to harbor bacteria and other contaminants, making them safer to use. By prioritizing maintenance, you can enjoy better-tasting coffee and reduce the need for costly repairs.",
+    "howToThink": "To keep your espresso machine in top condition, focus on regular descaling, cleaning of the group head and portafilter, and backflushing to remove built-up coffee oils. Develop a routine that works for you, whether it's daily, weekly, or monthly, and stick to it. By doing so, you'll be able to ensure optimal performance and flavor from your machine.",
+    "pros": [
+      "Improved flavor",
+      "Increased machine lifespan",
+      "Reduced maintenance costs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires chemical descalers",
+      "May require professional assistance"
+    ],
+    "watchOut": "Be cautious when using chemical descalers, as they can damage your machine's components if not used properly",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "Can I use vinegar to clean my espresso machine?",
+        "a": "Yes, but be sure to rinse thoroughly to avoid any residual taste"
+      },
+      {
+        "q": "What are the most common signs of a dirty espresso machine?",
+        "a": "Poor-tasting shots, slow flow rates, and visible buildup on the machine's components"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Machine Maintenance",
+      "Coffee Gear"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-04T20:53:52.415Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-16",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
