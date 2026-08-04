@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "managing-kids-screens",
+    "title": "Screen Time Sanity",
+    "category": "Screen Time",
+    "dek": "Limit screen time effectively",
+    "takeaway": "Set screen-free zones to promote healthy habits",
+    "whatHappened": "Excessive screen time can lead to addiction and social isolation in children. Parents are struggling to set limits. New tools and techniques can help.",
+    "whyItMatters": "Screen time affects kids' physical and mental health, and setting limits is crucial for their development. Parents need to be proactive in managing screen time. By doing so, they can promote a healthier lifestyle for their kids.",
+    "howToThink": "Establish screen-free zones and times, set limits on screen time, and monitor usage. Encourage physical activities and socializing. Be a role model by limiting your own screen time.",
+    "pros": [
+      "Reduces addiction",
+      "Promotes physical activity",
+      "Improves mental health"
+    ],
+    "cons": [
+      "Can be challenging to enforce",
+      "May limit educational opportunities",
+      "Can be frustrating for kids"
+    ],
+    "watchOut": "Be cautious of screen time replacing physical activity and socializing",
+    "faq": [
+      {
+        "q": "How much screen time is too much?",
+        "a": "More than 2 hours a day for kids over 2 years old"
+      },
+      {
+        "q": "What are some screen-free activities for kids?",
+        "a": "Outdoor games, reading, and board games"
+      },
+      {
+        "q": "How can I monitor my kid's screen time?",
+        "a": "Use built-in parental controls or third-party apps"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "tags": [
+      "screen time",
+      "parenting"
+    ],
+    "publishedAt": "2026-08-04T03:36:56.419Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "keeping-kids-safe-online",
+    "title": "Online Safety 101",
+    "category": "Safety",
+    "dek": "Protect your kids from online threats",
+    "takeaway": "Use parental controls and educate your kids about online safety",
+    "whatHappened": "Online threats such as cyberbullying, phishing, and predators are on the rise. Parents need to take action to protect their kids. New technologies and resources are available to help.",
+    "whyItMatters": "Online safety is crucial for kids' physical and emotional well-being. Parents need to be proactive in protecting their kids from online threats. By doing so, they can promote a safer online environment.",
+    "howToThink": "Use parental controls to limit access to inappropriate content, educate your kids about online safety, and monitor their online activities. Encourage open communication and set clear rules.",
+    "pros": [
+      "Protects kids from online threats",
+      "Promotes online safety awareness",
+      "Gives parents peace of mind"
+    ],
+    "cons": [
+      "Can be time-consuming to set up and monitor",
+      "May limit kids' online freedom",
+      "Can be challenging to stay up-to-date with new threats"
+    ],
+    "watchOut": "Be cautious of kids accessing mature content or interacting with strangers online",
+    "faq": [
+      {
+        "q": "What are some common online threats to kids?",
+        "a": "Cyberbullying, phishing, and online predators"
+      },
+      {
+        "q": "How can I protect my kid's online identity?",
+        "a": "Use strong passwords, keep personal info private, and monitor online activities"
+      },
+      {
+        "q": "What are some resources for online safety education?",
+        "a": "Online safety websites, educational apps, and parenting guides"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/daddit community threads",
+        "url": "https://www.reddit.com/r/daddit/"
+      },
+      {
+        "label": "Search interest: \"kids screen time rules\"",
+        "url": "https://duckduckgo.com/?q=kids%20screen%20time%20rules"
+      }
+    ],
+    "tags": [
+      "online safety",
+      "parenting"
+    ],
+    "publishedAt": "2026-08-02T14:36:56.419Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "choosing-the-right-apps",
+    "title": "App-Smarter, Not Harder",
+    "category": "Apps",
+    "dek": "Find the best apps for your kids",
+    "takeaway": "Choose apps that promote learning and creativity",
+    "whatHappened": "The app market is flooded with options, making it difficult for parents to choose the right apps for their kids. New apps are emerging that promote learning and creativity.",
+    "whyItMatters": "The right apps can promote learning, creativity, and social skills in kids. Parents need to choose apps that align with their values and goals. By doing so, they can provide a fun and educational experience for their kids.",
+    "howToThink": "Look for apps that promote learning, creativity, and social skills. Read reviews and ratings from other parents. Set limits on app usage and monitor your kid's activities.",
+    "pros": [
+      "Promotes learning and creativity",
+      "Can be a fun and engaging way to learn",
+      "Can help develop social skills"
+    ],
+    "cons": [
+      "Can be addictive",
+      "May not be suitable for all ages",
+      "Can be expensive"
+    ],
+    "watchOut": "Be cautious of apps with in-app purchases or mature content",
+    "faq": [
+      {
+        "q": "What are some popular educational apps for kids?",
+        "a": "Duolingo, Khan Academy, and National Geographic Kids"
+      },
+      {
+        "q": "How can I limit my kid's app usage?",
+        "a": "Use built-in parental controls or third-party apps"
+      },
+      {
+        "q": "What are some red flags when choosing an app?",
+        "a": "In-app purchases, mature content, and lack of educational value"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "tags": [
+      "educational apps",
+      "kids"
+    ],
+    "publishedAt": "2026-08-01T01:36:56.419Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "smart-device-safety",
+    "title": "Smart Devices: Safe or Not?",
+    "category": "Devices",
+    "dek": "Keep your kids safe with smart devices",
+    "takeaway": "Use parental controls and set limits on device usage",
+    "whatHappened": "Smart devices are becoming increasingly popular, but they also pose risks to kids' safety and security. Parents need to take action to protect their kids.",
+    "whyItMatters": "Smart devices can be a valuable tool for kids, but they also require careful management. Parents need to set limits and monitor usage to ensure their kids' safety and security.",
+    "howToThink": "Use parental controls to limit access to mature content, set limits on device usage, and monitor online activities. Encourage open communication and set clear rules.",
+    "pros": [
+      "Can be a valuable tool for learning and communication",
+      "Can promote independence and self-expression",
+      "Can be a fun and engaging way to interact with technology"
+    ],
+    "cons": [
+      "Can be a distraction and decrease attention span",
+      "May pose risks to safety and security",
+      "Can be addictive"
+    ],
+    "watchOut": "Be cautious of devices with access to mature content or online interactions",
+    "faq": [
+      {
+        "q": "What are some safety features to look for in smart devices?",
+        "a": "Parental controls, GPS tracking, and secure browsing"
+      },
+      {
+        "q": "How can I set limits on device usage?",
+        "a": "Use built-in parental controls or third-party apps"
+      },
+      {
+        "q": "What are some tips for keeping devices secure?",
+        "a": "Use strong passwords, keep software up-to-date, and monitor online activities"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "tags": [
+      "smart devices",
+      "safety"
+    ],
+    "publishedAt": "2026-07-30T12:36:56.419Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "managing-kids-gaming",
+    "title": "Game On: Managing Kids' Gaming",
+    "category": "Screen Time",
+    "dek": "Set limits on gaming to promote healthy habits",
+    "takeaway": "Encourage physical activity and socializing",
+    "whatHappened": "Gaming can be a fun and engaging activity for kids, but excessive gaming can lead to addiction and social isolation. Parents need to set limits and promote healthy habits.",
+    "whyItMatters": "Gaming can affect kids' physical and mental health, and parents need to be proactive in managing gaming habits. By doing so, they can promote a healthier lifestyle for their kids.",
+    "howToThink": "Set limits on gaming time, encourage physical activity and socializing, and monitor gaming activities. Encourage open communication and set clear rules.",
+    "pros": [
+      "Can be a fun and engaging way to learn and socialize",
+      "Can improve cognitive skills and hand-eye coordination",
+      "Can be a valuable tool for stress relief"
+    ],
+    "cons": [
+      "Can be addictive",
+      "May limit physical activity and socializing",
+      "Can be a distraction and decrease attention span"
+    ],
+    "watchOut": "Be cautious of gaming addiction and social isolation",
+    "faq": [
+      {
+        "q": "How much gaming is too much for kids?",
+        "a": "More than 1 hour a day for kids under 12 years old"
+      },
+      {
+        "q": "What are some tips for managing kids' gaming?",
+        "a": "Set limits, encourage physical activity and socializing, and monitor gaming activities"
+      },
+      {
+        "q": "What are some benefits of gaming for kids?",
+        "a": "Improved cognitive skills, social skills, and stress relief"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/daddit community threads",
+        "url": "https://www.reddit.com/r/daddit/"
+      },
+      {
+        "label": "Search interest: \"kids screen time rules\"",
+        "url": "https://duckduckgo.com/?q=kids%20screen%20time%20rules"
+      }
+    ],
+    "tags": [
+      "gaming",
+      "kids"
+    ],
+    "publishedAt": "2026-07-28T23:36:56.419Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "parenting-in-the-digital-age",
+    "title": "Parenting in the Digital Age",
+    "category": "Safety",
+    "dek": "Stay ahead of the curve with digital parenting",
+    "takeaway": "Use technology to promote safety and well-being",
+    "whatHappened": "The digital age is presenting new challenges for parents, from online safety to screen time management. New technologies and resources are emerging to help parents stay ahead of the curve.",
+    "whyItMatters": "The digital age requires parents to be proactive in managing their kids' online activities and promoting safety and well-being. By doing so, they can provide a safer and healthier environment for their kids.",
+    "howToThink": "Use technology to promote online safety, set limits on screen time, and monitor online activities. Encourage open communication and set clear rules.",
+    "pros": [
+      "Can be a valuable tool for promoting safety and well-being",
+      "Can provide parents with peace of mind",
+      "Can help kids develop important skills and values"
+    ],
+    "cons": [
+      "Can be time-consuming and challenging to manage",
+      "May require significant investment in technology and resources",
+      "Can be difficult to stay up-to-date with new technologies and trends"
+    ],
+    "watchOut": "Be cautious of emerging online threats and stay informed about new technologies and resources",
+    "faq": [
+      {
+        "q": "What are some tips for digital parenting?",
+        "a": "Use technology to promote online safety, set limits on screen time, and monitor online activities"
+      },
+      {
+        "q": "How can I stay ahead of the curve with new technologies and trends?",
+        "a": "Follow reputable sources, attend workshops and seminars, and join online communities"
+      },
+      {
+        "q": "What are some benefits of digital parenting?",
+        "a": "Promotes online safety, improves communication, and provides peace of mind"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "tags": [
+      "digital parenting",
+      "safety"
+    ],
+    "publishedAt": "2026-07-27T10:36:56.419Z",
+    "readMinutes": 2
+  }
+]
