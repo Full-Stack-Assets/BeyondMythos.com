@@ -1,5 +1,56 @@
 [
   {
+    "slug": "indoor-cycling-platform-comparison",
+    "title": "Platform Showdown: Which Service Reigns Supreme",
+    "dek": "Compare top platforms for indoor cycling",
+    "takeaway": "The right platform can elevate your indoor cycling experience, but choose wisely",
+    "whatHappened": "Recent updates to major platforms have shifted the landscape for indoor cyclists. Zwift, TrainerRoad, and RGT Cycling have all made significant changes, from new features to improved realism. These updates aim to enhance the overall experience, but they also bring new considerations for riders.",
+    "whyItMatters": "With the indoor cycling community growing, the choice of platform can significantly impact a rider's progress, enjoyment, and overall experience. The right platform can provide the necessary tools for improvement, social interaction, and motivation, while the wrong choice might lead to stagnation or frustration. Understanding the strengths and weaknesses of each platform is crucial for making an informed decision.",
+    "howToThink": "When selecting a platform, consider your specific needs and goals. If you're a competitive rider, look for platforms with robust training plans and analytics. For social riders, platforms with strong community features might be more appealing. Additionally, consider the hardware requirements and compatibility to ensure seamless integration with your existing setup.",
+    "pros": [
+      "Variety of routes",
+      "Customizable training plans",
+      "Social features"
+    ],
+    "cons": [
+      "Cost",
+      "Hardware requirements",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be cautious of platforms that promise more than they can deliver, especially in terms of realism and community engagement",
+    "faq": [
+      {
+        "q": "What is the most popular indoor cycling platform?",
+        "a": "Zwift is currently the most popular, but popularity can vary by region and rider preference"
+      },
+      {
+        "q": "Do I need a smart trainer to use these platforms?",
+        "a": "While a smart trainer enhances the experience, many platforms offer compatibility with basic trainers or even rollers"
+      },
+      {
+        "q": "Can I use these platforms on my tablet or smartphone?",
+        "a": "Most platforms offer mobile apps, but the experience and functionality may vary compared to desktop versions"
+      }
+    ],
+    "category": "Platforms",
+    "tags": [
+      "indoor cycling",
+      "virtual racing"
+    ],
+    "sources": [
+      {
+        "label": "r/Velo community threads",
+        "url": "https://www.reddit.com/r/Velo/"
+      },
+      {
+        "label": "Search interest: \"pain cave setup\"",
+        "url": "https://duckduckgo.com/?q=pain%20cave%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-04T19:11:17.646Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "smart-trainer-buying-guide",
     "title": "Don't Get Spun: Smart Trainer Buying 101",
     "dek": "Get the right trainer for your needs",

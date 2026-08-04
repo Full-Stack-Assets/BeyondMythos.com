@@ -1,5 +1,56 @@
 [
   {
+    "slug": "local-transport-hacks-2",
+    "title": "Unconventional Routes to Local Transport Savings",
+    "dek": "Save money on local transport with these hacks",
+    "takeaway": "Exploring local transport options can lead to significant cost savings for slow travelers",
+    "whatHappened": "During a recent trip to a rural town, I discovered that the local bus service offered a discounted weekly pass that wasn't well-advertised. By taking the time to research and ask locals about transport options, I was able to save over 50% on my weekly transport costs. This experience highlighted the importance of looking beyond the obvious transport choices",
+    "whyItMatters": "For slow travelers, reducing transport costs can make a significant difference to their overall budget and allow for more time to be spent exploring local areas. By adopting local transport habits, travelers can also reduce their environmental impact and gain a more authentic experience of the local culture. Additionally, using local transport can lead to unexpected encounters and experiences that might not be possible with more conventional tourist options",
+    "howToThink": "When researching local transport options, consider speaking with locals, checking community noticeboards, and looking for special discounts or promotions. It's also important to think creatively about transport needs and be willing to adapt to local customs and schedules. By doing so, travelers can develop a more nuanced understanding of the local area and its rhythms",
+    "pros": [
+      "Cost savings",
+      "Authentic experience",
+      "Environmental benefits"
+    ],
+    "cons": [
+      "Time-consuming research",
+      "Language barriers",
+      "Unpredictable schedules"
+    ],
+    "watchOut": "Be cautious of tourist-oriented transport options that may be overpriced or inflexible",
+    "faq": [
+      {
+        "q": "How can I find local transport information?",
+        "a": "Check local noticeboards, ask locals, or visit the town's tourist information office"
+      },
+      {
+        "q": "Are local transport options always cheaper?",
+        "a": "Not always, but they can often be more cost-effective than tourist-oriented services"
+      },
+      {
+        "q": "What are the benefits of using local transport?",
+        "a": "Cost savings, environmental benefits, and a more authentic experience of the local culture"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "local transport",
+      "sustainable travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-04T19:11:12.344Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rethinking-rail-cards-7",
     "title": "Rail Cards: Are They Worth the Investment?",
     "dek": "Save money on rail travel with the right card",

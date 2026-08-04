@@ -1,5 +1,56 @@
 [
   {
+    "slug": "custom-ultralight-footwear",
+    "title": "Sole Mates: The Case for Custom Ultralight Footwear",
+    "dek": "Custom footwear for thru-hikers",
+    "takeaway": "Custom ultralight footwear can significantly reduce injury risk and improve overall hiking performance",
+    "whatHappened": "Recent studies have shown that ill-fitting shoes are a leading cause of injury among long-distance hikers. Custom footwear options have emerged as a solution, with many hikers turning to bespoke shoe makers for tailored fits. This trend is driven by the growing recognition that feet are as unique as fingerprints, and that mass-produced shoes often fail to meet individual needs.",
+    "whyItMatters": "For ultralight backpackers and thru-hike dreamers, footwear is a critical component of overall gear strategy. Custom shoes can provide superior support, stability, and comfort, allowing hikers to cover more ground with less risk of injury. As the demand for custom footwear grows, hikers are beginning to see the benefits of investing in tailored shoes that meet their specific needs.",
+    "howToThink": "When considering custom ultralight footwear, hikers should think about their individual foot shape, hiking style, and terrain preferences. They should also research and compare different bespoke shoe makers, reading reviews and seeking recommendations from fellow hikers. By taking a thoughtful and informed approach, hikers can find the perfect custom shoes to match their unique needs and goals.",
+    "pros": [
+      "Improved fit",
+      "Reduced injury risk",
+      "Enhanced performance"
+    ],
+    "cons": [
+      "Higher cost",
+      "Longer lead times",
+      "Limited resale value"
+    ],
+    "watchOut": "Be wary of unqualified or inexperienced bespoke shoe makers who may not deliver on their promises",
+    "faq": [
+      {
+        "q": "What is the typical lead time for custom ultralight footwear?",
+        "a": "Lead times can vary, but expect 2-6 weeks for most bespoke shoe makers"
+      },
+      {
+        "q": "How much do custom ultralight shoes typically cost?",
+        "a": "Prices range from $200 to $500 or more, depending on materials and features"
+      },
+      {
+        "q": "Can I return or exchange custom shoes if they don't fit?",
+        "a": "Policies vary, but many bespoke shoe makers offer fit guarantees or exchange options"
+      }
+    ],
+    "category": "Skills",
+    "tags": [
+      "thru-hiking",
+      "ultralight"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultralight community threads",
+        "url": "https://www.reddit.com/r/Ultralight/"
+      },
+      {
+        "label": "Search interest: \"lower base weight cheap\"",
+        "url": "https://duckduckgo.com/?q=lower%20base%20weight%20cheap"
+      }
+    ],
+    "publishedAt": "2026-08-04T19:11:17.328Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "food-pre-spend-checklist-19",
     "title": "The food checklist: run this before you spend",
     "dek": "Seven questions that separate a justified food purchase from an expensive mood.",

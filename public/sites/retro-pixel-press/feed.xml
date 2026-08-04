@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-14.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-14.html</guid>
+      <pubDate>Tue, 04 Aug 2026 19:11:10 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
+    </item>
+    <item>
       <title>Myth vs. reality: retro game restoration</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-7.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-7.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-10.html</guid>
       <pubDate>Sun, 02 Aug 2026 07:52:10 GMT</pubDate>
       <description>Breathe new life into old consoles</description>
-    </item>
-    <item>
-      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-6.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-6.html</guid>
-      <pubDate>Sun, 02 Aug 2026 04:59:29 GMT</pubDate>
-      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
