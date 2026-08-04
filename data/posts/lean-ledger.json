@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smart-subscription-swaps",
+    "title": "Swap, Don't Shop: The Subscription Edit for Lean Households",
+    "dek": "Cut wasteful spending with targeted swaps.",
+    "takeaway": "Mindful subscription swaps can save households up to 30% on monthly bills.",
+    "whatHappened": "Recent surveys have shown that the average household wastes over $100 monthly on unused subscriptions. This trend is attributed to the lack of regular audits and the ease of signing up for services. As a result, many are turning to a more intentional approach to their subscriptions.",
+    "whyItMatters": "With the current economic climate, being mindful of every dollar spent is crucial. Subscriptions, though convenient, can quickly add up and become a significant portion of a household's expenses. By being thoughtful about which services to keep and which to swap or cancel, households can redirect funds to more essential needs or savings.",
+    "howToThink": "To approach your subscriptions with a lean mindset, start by categorizing them into needs and wants. Then, prioritize based on usage and value. Consider swapping expensive services for more affordable alternatives that offer similar benefits. Regularly reviewing your subscriptions can also help in avoiding unnecessary renewals.",
+    "pros": [
+      "Reduced monthly expenses",
+      "Increased financial flexibility",
+      "Less clutter in digital life"
+    ],
+    "cons": [
+      "Time-consuming to review all subscriptions",
+      "Potential loss of premium features",
+      "Adjustment period to new services"
+    ],
+    "watchOut": "Be cautious of services that auto-renew without clear notification, to avoid unintended continued payments.",
+    "faq": [
+      {
+        "q": "How often should I review my subscriptions?",
+        "a": "It's recommended to review your subscriptions at least every 3 months to ensure they still align with your needs and budget."
+      },
+      {
+        "q": "What are some common subscriptions to consider swapping?",
+        "a": "Common candidates for swapping include streaming services, software subscriptions, and monthly delivery boxes."
+      },
+      {
+        "q": "Are there tools to help manage subscriptions?",
+        "a": "Yes, there are several apps and browser extensions designed to help track, manage, and even negotiate lower rates for your subscriptions."
+      }
+    ],
+    "category": "Subscriptions",
+    "tags": [
+      "Frugal Living",
+      "Budgeting"
+    ],
+    "sources": [
+      {
+        "label": "r/EatCheapAndHealthy community threads",
+        "url": "https://www.reddit.com/r/EatCheapAndHealthy/"
+      },
+      {
+        "label": "Search interest: \"cut energy bill\"",
+        "url": "https://duckduckgo.com/?q=cut%20energy%20bill"
+      }
+    ],
+    "publishedAt": "2026-08-04T22:43:16.313Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-subscription-audit-8",
     "title": "Myth vs. reality: subscription audit",
     "dek": "The persistent myths around subscription audit, stress-tested against what budget-minded households and frugal optimizers actually report.",

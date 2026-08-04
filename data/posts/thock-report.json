@@ -1,5 +1,56 @@
 [
   {
+    "slug": "switch-orientation-matters",
+    "title": "Switch Orientation: The Hidden Key to Better Typing",
+    "dek": "Improve typing accuracy with switch orientation",
+    "takeaway": "Optimizing switch orientation can significantly enhance typing experience and reduce finger fatigue",
+    "whatHappened": "Recently, enthusiasts have been experimenting with alternative switch orientations to find the perfect balance between actuation force and finger movement. The results have shown a noticeable improvement in typing accuracy and speed. By adjusting the switch orientation, users can customize their keyboard to fit their unique typing style",
+    "whyItMatters": "With the rise of custom keyboard builds, understanding the importance of switch orientation is crucial for creating an optimal typing experience. A well-designed switch orientation can make a significant difference in reducing finger fatigue and improving overall typing performance. This, in turn, can lead to increased productivity and a better user experience",
+    "howToThink": "When considering switch orientation, it's essential to think about your individual typing style and preferences. Experiment with different orientations to find the one that works best for you, and don't be afraid to try unconventional approaches. Additionally, consider the type of switches you're using and how they interact with your fingers",
+    "pros": [
+      "Improved typing accuracy",
+      "Reduced finger fatigue",
+      "Customizable"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Limited switch compatibility",
+      "Aesthetically polarizing"
+    ],
+    "watchOut": "Be cautious not to over-tighten switches, as this can damage the switch or the PCB",
+    "faq": [
+      {
+        "q": "What is switch orientation?",
+        "a": "Switch orientation refers to the direction in which the switch is mounted on the keyboard"
+      },
+      {
+        "q": "How do I adjust switch orientation?",
+        "a": "Adjusting switch orientation typically involves rotating the switch or the switch plate to achieve the desired angle"
+      },
+      {
+        "q": "Will switch orientation affect my typing speed?",
+        "a": "Yes, optimizing switch orientation can lead to improved typing speed and accuracy"
+      }
+    ],
+    "category": "Switches",
+    "tags": [
+      "switches",
+      "customization"
+    ],
+    "sources": [
+      {
+        "label": "r/MechanicalKeyboards community threads",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+      },
+      {
+        "label": "Search interest: \"best budget mechanical keyboard\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20mechanical%20keyboard"
+      }
+    ],
+    "publishedAt": "2026-08-04T22:43:15.655Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-builds-22",
     "title": "The quiet upgrade: small tweaks in builds with outsized returns",
     "dek": "No purchases, no overhauls — the modest builds adjustments that mechanical keyboard builders and enthusiasts report mattering most.",

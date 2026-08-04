@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Emulation Evolution: Running Retro Games on Modern Consoles</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-on-modern-consoles-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-on-modern-consoles-2.html</guid>
+      <pubDate>Tue, 04 Aug 2026 22:43:12 GMT</pubDate>
+      <description>Play classic games on new consoles with ease</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-10.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-10.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-5.html</guid>
       <pubDate>Sun, 02 Aug 2026 11:45:19 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
-    </item>
-    <item>
-      <title>Mod Your Way to Retro Gaming Bliss</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-2.html</guid>
-      <pubDate>Sun, 02 Aug 2026 10:19:54 GMT</pubDate>
-      <description>Upgrade your retro console with ease</description>
     </item>
   </channel>
 </rss>
