@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "linear-switches",
+    "title": "Linear Switches: The Unsung Heroes",
+    "category": "Switches",
+    "dek": "Linear switches are a game-changer.",
+    "takeaway": "Linear switches offer a smooth typing experience.",
+    "whatHappened": "Linear switches have gained popularity among keyboard enthusiasts due to their smooth and consistent keystrokes. They are designed to provide a linear feel, with no tactile bump or audible click. This makes them ideal for gamers and typists who prefer a quiet and seamless typing experience.",
+    "whyItMatters": "The rise of linear switches matters because it reflects a shift in user preferences towards a more subtle and refined typing experience. As a result, keyboard manufacturers are now offering a wider range of linear switch options, catering to the diverse needs of enthusiasts.",
+    "howToThink": "When considering linear switches, think about your typing style and preferences. If you prioritize a smooth and quiet experience, linear switches may be the way to go. However, if you prefer a more tactile or clicky feel, you may want to explore other options.",
+    "pros": [
+      "Smooth keystrokes",
+      "Quiet operation",
+      "Consistent feel"
+    ],
+    "cons": [
+      "Lack of tactile feedback",
+      "May not be suitable for all typing styles",
+      "Can be more expensive"
+    ],
+    "watchOut": "Be cautious of low-quality linear switches that may lack consistency and smoothness.",
+    "faq": [
+      {
+        "q": "What are linear switches?",
+        "a": "Linear switches are a type of switch that provides a smooth and consistent keystroke without a tactile bump or audible click."
+      },
+      {
+        "q": "Are linear switches suitable for gaming?",
+        "a": "Yes, linear switches are popular among gamers due to their smooth and quiet operation, which can improve gaming performance."
+      },
+      {
+        "q": "Can I use linear switches for typing?",
+        "a": "Yes, linear switches are suitable for typing, especially for those who prefer a quiet and subtle typing experience."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/MechanicalKeyboards community threads",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+      },
+      {
+        "label": "Search interest: \"best budget mechanical keyboard\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20mechanical%20keyboard"
+      }
+    ],
+    "tags": [
+      "switches",
+      "linear"
+    ],
+    "publishedAt": "2026-08-04T09:50:37.515Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "keycap-design",
+    "title": "The Art of Keycap Design",
+    "category": "Keycaps",
+    "dek": "Keycap design is an art form.",
+    "takeaway": "Well-designed keycaps can elevate the typing experience.",
+    "whatHappened": "Keycap design has evolved significantly over the years, with manufacturers now offering a wide range of designs, materials, and profiles. From sculpted keycaps to custom artisanal designs, the options are endless. Keycap design is no longer just about functionality, but also about aesthetics and self-expression.",
+    "whyItMatters": "The evolution of keycap design matters because it reflects the growing importance of user experience and customization in the keyboard community. As a result, keycap manufacturers are now pushing the boundaries of design, experimenting with new materials and techniques to create unique and functional keycaps.",
+    "howToThink": "When considering keycap design, think about your personal style and preferences. Do you prefer a minimalist or bold design? What material and profile do you prefer? By choosing the right keycaps, you can enhance your typing experience and make your keyboard truly unique.",
+    "pros": [
+      "Enhances typing experience",
+      "Customization options",
+      "Aesthetically pleasing"
+    ],
+    "cons": [
+      "Can be expensive",
+      "May not be compatible with all keyboards",
+      "Quality can vary"
+    ],
+    "watchOut": "Be cautious of low-quality keycaps that may not be durable or consistent.",
+    "faq": [
+      {
+        "q": "What are keycaps made of?",
+        "a": "Keycaps can be made from a variety of materials, including ABS, PBT, and resin."
+      },
+      {
+        "q": "Can I customize my keycaps?",
+        "a": "Yes, many keycap manufacturers offer customization options, including custom designs, colors, and profiles."
+      },
+      {
+        "q": "How do I choose the right keycaps?",
+        "a": "When choosing keycaps, consider your typing style, personal preferences, and keyboard compatibility."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/CustomKeyboards community threads",
+        "url": "https://www.reddit.com/r/CustomKeyboards/"
+      },
+      {
+        "label": "Search interest: \"keyboard switch guide\"",
+        "url": "https://duckduckgo.com/?q=keyboard%20switch%20guide"
+      }
+    ],
+    "tags": [
+      "keycaps",
+      "design"
+    ],
+    "publishedAt": "2026-08-02T20:50:37.515Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "keyboard-builds",
+    "title": "The Joy of Keyboard Building",
+    "category": "Builds",
+    "dek": "Building a keyboard is a rewarding experience.",
+    "takeaway": "Building a custom keyboard can be a fun and rewarding experience.",
+    "whatHappened": "Keyboard building has become increasingly popular among enthusiasts, with many online communities and resources dedicated to the craft. From choosing the right switches and keycaps to assembling the keyboard, the process can be both challenging and rewarding. With the rise of DIY keyboard kits and custom parts, building a keyboard has never been more accessible.",
+    "whyItMatters": "The popularity of keyboard building matters because it reflects the growing desire for customization and self-expression in the keyboard community. By building a custom keyboard, enthusiasts can create a unique and personalized typing experience that meets their specific needs and preferences.",
+    "howToThink": "When considering building a keyboard, think about your goals and priorities. What type of typing experience do you want to create? What features and components are essential to you? By planning and executing your build carefully, you can create a truly unique and functional keyboard.",
+    "pros": [
+      "Customization options",
+      "Cost-effective",
+      "Fun and rewarding"
+    ],
+    "cons": [
+      "Can be time-consuming",
+      "May require technical expertise",
+      "Quality can vary"
+    ],
+    "watchOut": "Be cautious of low-quality components and inadequate assembly techniques.",
+    "faq": [
+      {
+        "q": "What do I need to build a keyboard?",
+        "a": "To build a keyboard, you will need a PCB, switches, keycaps, and other components, as well as basic tools and assembly skills."
+      },
+      {
+        "q": "How difficult is it to build a keyboard?",
+        "a": "Building a keyboard can be challenging, but with the right resources and guidance, it can also be a fun and rewarding experience."
+      },
+      {
+        "q": "Can I customize my keyboard build?",
+        "a": "Yes, keyboard building allows for a high degree of customization, from choosing the right switches and keycaps to adding custom features and components."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/BudgetKeebs community threads",
+        "url": "https://www.reddit.com/r/BudgetKeebs/"
+      },
+      {
+        "label": "Search interest: \"first custom keyboard build\"",
+        "url": "https://duckduckgo.com/?q=first%20custom%20keyboard%20build"
+      }
+    ],
+    "tags": [
+      "builds",
+      "keyboard"
+    ],
+    "publishedAt": "2026-08-01T07:50:37.515Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "group-buys",
+    "title": "The Power of Group Buys",
+    "category": "Group Buys",
+    "dek": "Group buys are a great way to get rare keyboards.",
+    "takeaway": "Group buys can provide access to rare and unique keyboards.",
+    "whatHappened": "Group buys have become a popular way for enthusiasts to acquire rare and unique keyboards, often in collaboration with manufacturers and designers. By pooling resources and coordinating purchases, group buys can provide access to limited-edition keyboards, custom designs, and exclusive features. This model has also enabled smaller manufacturers and designers to produce unique and innovative keyboards that might not be viable through traditional retail channels.",
+    "whyItMatters": "The rise of group buys matters because it reflects the growing demand for unique and exclusive keyboards, as well as the desire for community-driven initiatives. By participating in group buys, enthusiasts can not only acquire rare keyboards but also connect with like-minded individuals and contribute to the development of new and innovative products.",
+    "howToThink": "When considering participating in a group buy, think about your goals and priorities. What type of keyboard are you looking for? What features and components are essential to you? By carefully evaluating the group buy and its terms, you can make an informed decision and potentially acquire a unique and exclusive keyboard.",
+    "pros": [
+      "Access to rare keyboards",
+      "Community-driven",
+      "Innovative products"
+    ],
+    "cons": [
+      "Can be risky",
+      "May have uncertain timelines",
+      "Quality can vary"
+    ],
+    "watchOut": "Be cautious of unreliable group buy organizers and uncertain product quality.",
+    "faq": [
+      {
+        "q": "What is a group buy?",
+        "a": "A group buy is a collaborative purchase of a product, often a limited-edition keyboard, by a group of enthusiasts."
+      },
+      {
+        "q": "How do I participate in a group buy?",
+        "a": "To participate in a group buy, you typically need to join a online community or forum, and follow the instructions and guidelines provided by the group buy organizer."
+      },
+      {
+        "q": "What are the risks of participating in a group buy?",
+        "a": "Participating in a group buy can be risky, as the product may not be delivered on time, or the quality may not meet expectations. It is essential to carefully evaluate the group buy and its terms before participating."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/MechanicalKeyboards community threads",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+      },
+      {
+        "label": "Search interest: \"best budget mechanical keyboard\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20mechanical%20keyboard"
+      }
+    ],
+    "tags": [
+      "group",
+      "buys"
+    ],
+    "publishedAt": "2026-07-30T18:50:37.515Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "switch-lubrication",
+    "title": "The Importance of Switch Lubrication",
+    "category": "Switches",
+    "dek": "Lubricating switches is essential.",
+    "takeaway": "Proper switch lubrication can improve switch feel and durability.",
+    "whatHappened": "Switch lubrication has become a crucial aspect of keyboard maintenance, as it can significantly improve the feel and durability of switches. By applying the right type and amount of lubricant, enthusiasts can reduce switch noise, improve smoothness, and prevent wear and tear. With the rise of switch lubrication, manufacturers are now offering a range of lubrication products and techniques, making it easier for enthusiasts to maintain their switches.",
+    "whyItMatters": "The importance of switch lubrication matters because it reflects the growing attention to detail and desire for optimal performance in the keyboard community. By properly lubricating switches, enthusiasts can extend the lifespan of their keyboards, improve typing experience, and reduce the need for frequent repairs or replacements.",
+    "howToThink": "When considering switch lubrication, think about the type of switches you have and the level of wear and tear. Choose the right lubricant and application method, and follow proper maintenance guidelines to ensure optimal results.",
+    "pros": [
+      "Improves switch feel",
+      "Reduces noise",
+      "Extends switch lifespan"
+    ],
+    "cons": [
+      "Can be messy",
+      "May require frequent reapplication",
+      "Not all lubricants are created equal"
+    ],
+    "watchOut": "Be cautious of using the wrong type of lubricant or applying too much, as this can damage the switches.",
+    "faq": [
+      {
+        "q": "What is switch lubrication?",
+        "a": "Switch lubrication is the process of applying a lubricant to the switches to reduce friction and improve feel."
+      },
+      {
+        "q": "Why is switch lubrication important?",
+        "a": "Switch lubrication is important because it can improve switch feel, reduce noise, and extend the lifespan of the switches."
+      },
+      {
+        "q": "How often should I lubricate my switches?",
+        "a": "The frequency of switch lubrication depends on the type of switches and usage. As a general rule, switches should be lubricated every 6-12 months, or as needed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/CustomKeyboards community threads",
+        "url": "https://www.reddit.com/r/CustomKeyboards/"
+      },
+      {
+        "label": "Search interest: \"keyboard switch guide\"",
+        "url": "https://duckduckgo.com/?q=keyboard%20switch%20guide"
+      }
+    ],
+    "tags": [
+      "switches",
+      "lubrication"
+    ],
+    "publishedAt": "2026-07-29T05:50:37.515Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "keycap-materials",
+    "title": "The World of Keycap Materials",
+    "category": "Keycaps",
+    "dek": "Keycap materials matter.",
+    "takeaway": "Different keycap materials offer unique characteristics and benefits.",
+    "whatHappened": "Keycap materials have evolved significantly over the years, with manufacturers now offering a wide range of options, from traditional ABS and PBT to more exotic materials like polycarbonate and resin. Each material has its own unique characteristics, such as durability, texture, and sound, making the choice of keycap material a critical decision for enthusiasts. The rise of custom keycap manufacturers has also led to the development of new and innovative materials, further expanding the options available to enthusiasts.",
+    "whyItMatters": "The variety of keycap materials matters because it reflects the growing demand for customization and personalization in the keyboard community. By choosing the right keycap material, enthusiasts can create a unique and tailored typing experience that meets their specific needs and preferences.",
+    "howToThink": "When considering keycap materials, think about your typing style, personal preferences, and keyboard usage. Evaluate the characteristics of each material, such as durability, sound, and feel, to make an informed decision.",
+    "pros": [
+      "Unique characteristics",
+      "Customization options",
+      "Innovative materials"
+    ],
+    "cons": [
+      "Can be expensive",
+      "Quality can vary",
+      "May require special care"
+    ],
+    "watchOut": "Be cautious of low-quality keycap materials that may not meet your expectations.",
+    "faq": [
+      {
+        "q": "What are the most common keycap materials?",
+        "a": "The most common keycap materials are ABS, PBT, and polycarbonate."
+      },
+      {
+        "q": "What are the benefits of PBT keycaps?",
+        "a": "PBT keycaps are known for their durability, resistance to wear and tear, and high-quality sound."
+      },
+      {
+        "q": "Can I customize my keycap material?",
+        "a": "Yes, many custom keycap manufacturers offer a range of materials and customization options, allowing you to create unique and personalized keycaps."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/BudgetKeebs community threads",
+        "url": "https://www.reddit.com/r/BudgetKeebs/"
+      },
+      {
+        "label": "Search interest: \"first custom keyboard build\"",
+        "url": "https://duckduckgo.com/?q=first%20custom%20keyboard%20build"
+      }
+    ],
+    "tags": [
+      "keycaps",
+      "materials"
+    ],
+    "publishedAt": "2026-07-27T16:50:37.515Z",
+    "readMinutes": 2
+  }
+]
