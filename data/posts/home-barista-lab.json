@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevate-your-espresso-game",
+    "title": "Expert Tips for Perfecting Espresso",
+    "dek": "Elevate your espresso skills now",
+    "takeaway": "Mastering the art of espresso requires practice, patience, and the right techniques",
+    "whatHappened": "Recently, we've seen a surge in home baristas seeking to improve their espresso skills, with many investing in high-end equipment and attending workshops. However, many are still struggling to achieve the perfect shot. To address this, we spoke to seasoned baristas and gathered their top tips for elevating your espresso game. From adjusting grind sizes to optimizing brewing temperatures, we've got you covered",
+    "whyItMatters": "Perfecting your espresso technique is crucial for any home barista, as it can make or break the flavor and quality of your coffee. By mastering the fundamentals, you'll be able to experiment with different roasts, brewing methods, and flavor profiles, taking your coffee game to the next level. Moreover, a well-crafted espresso is the foundation of many popular coffee drinks, so getting it right is essential",
+    "howToThink": "To improve your espresso skills, focus on developing a consistent routine, experimenting with different variables, and paying attention to the subtle details that can make a big difference. Start by adjusting your grind size, then move on to tweaking your brewing temperature and pressure. Don't be afraid to try new roasts and flavor profiles, and always keep a keen eye on the clock to ensure the perfect shot every time",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Enhanced crema"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Equipment costs",
+      "Time-consuming"
+    ],
+    "watchOut": "Be careful not to over-extract your espresso, as this can lead to a bitter taste and an unbalanced flavor profile",
+    "faq": [
+      {
+        "q": "What's the ideal grind size for espresso?",
+        "a": "The ideal grind size for espresso is fine to medium-fine, depending on the roast level and brewing method"
+      },
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "You should clean your espresso machine daily, and perform a deep clean every 1-2 weeks to prevent buildup and maintain optimal performance"
+      },
+      {
+        "q": "Can I use any type of coffee bean for espresso?",
+        "a": "While you can use any type of coffee bean for espresso, it's recommended to use high-quality, freshly roasted beans that are specifically designed for espresso production"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "coffee"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-04T23:43:23.615Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-14",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

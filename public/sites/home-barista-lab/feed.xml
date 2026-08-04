@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Expert Tips for Perfecting Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/elevate-your-espresso-game.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevate-your-espresso-game.html</guid>
+      <pubDate>Tue, 04 Aug 2026 23:43:23 GMT</pubDate>
+      <description>Elevate your espresso skills now</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-14.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-14.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-5.html</guid>
       <pubDate>Sun, 02 Aug 2026 12:42:51 GMT</pubDate>
       <description>We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>The Daily Grind: Mastering Consistency</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-grinder.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-grinder.html</guid>
-      <pubDate>Sun, 02 Aug 2026 11:45:21 GMT</pubDate>
-      <description>Get the most out of your beans with a well-tuned grinder</description>
     </item>
   </channel>
 </rss>
