@@ -5,6 +5,13 @@
     <link>https://storeforge-good-dog-field-notes.vercel.app/</link>
     <description>Fresh takes for first-time dog owners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of behavior</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/five-behavior-mistakes-23.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/five-behavior-mistakes-23.html</guid>
+      <pubDate>Tue, 04 Aug 2026 15:09:35 GMT</pubDate>
+      <description>The most common early stumbles in behavior, and the cheap corrections that fix them for first-time dog owners.</description>
+    </item>
+    <item>
       <title>&quot;crate training schedule&quot; in practice: a real-world field test</title>
       <link>https://storeforge-good-dog-field-notes.vercel.app/posts/crate-training-schedule-field-test-8.html</link>
       <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/crate-training-schedule-field-test-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/weekend-project-puppies-19.html</guid>
       <pubDate>Sun, 02 Aug 2026 01:14:10 GMT</pubDate>
       <description>One contained, satisfying puppies project for first-time dog owners — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/dogs is debating this week</title>
-      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/community-pulse-dogs-7.html</link>
-      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/community-pulse-dogs-7.html</guid>
-      <pubDate>Sat, 01 Aug 2026 23:39:24 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the health community this week.</description>
     </item>
   </channel>
 </rss>

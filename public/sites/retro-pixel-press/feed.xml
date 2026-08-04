@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>A weekend project: level up your hardware in two hours</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-15.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-15.html</guid>
+      <pubDate>Tue, 04 Aug 2026 15:09:33 GMT</pubDate>
+      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/Gameboy is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-6.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-boards.html</guid>
       <pubDate>Sun, 02 Aug 2026 01:14:09 GMT</pubDate>
       <description>Breathe new life into old NES boards</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-12.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-12.html</guid>
-      <pubDate>Sat, 01 Aug 2026 23:39:23 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>

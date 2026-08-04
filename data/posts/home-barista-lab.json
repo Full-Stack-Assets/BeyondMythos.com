@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-11",
+    "title": "Brewing Success: The Espresso Machine Maintenance Guide",
+    "dek": "Keep your espresso machine in top shape",
+    "takeaway": "Regular maintenance is key to perfect espresso shots",
+    "whatHappened": "A well-maintained espresso machine can make all the difference in the quality of your espresso shots. Neglecting maintenance can lead to subpar flavor and even machine failure. By following a simple maintenance routine, you can ensure your machine continues to perform at its best.",
+    "whyItMatters": "A clean and well-maintained espresso machine is essential for producing high-quality espresso. Scale buildup, old coffee oils, and worn-out parts can all negatively impact the taste of your espresso. By staying on top of maintenance, you can prevent these issues and enjoy perfect shots every time.",
+    "howToThink": "To keep your espresso machine in top condition, think about maintenance as a regular process, not a one-time task. Set aside time each week to descale, clean, and inspect your machine. This will help you catch any potential issues before they become major problems and ensure your machine continues to perform at its best.",
+    "pros": [
+      "Improved flavor",
+      "Increased machine lifespan",
+      "Reduced repair costs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires regular effort",
+      "Can be messy"
+    ],
+    "watchOut": "Be careful not to use abrasive cleaning products, as they can damage your machine's surfaces",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What is the best way to clean my espresso machine's group head?",
+        "a": "Use a soft brush and a mixture of water and white vinegar"
+      },
+      {
+        "q": "Can I use a dishwasher to clean my espresso machine's parts?",
+        "a": "No, as the high heat and harsh detergents can damage the materials"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Machine",
+      "Maintenance Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-04T15:09:35.291Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-14",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

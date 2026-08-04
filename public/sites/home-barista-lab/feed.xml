@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Brewing Success: The Espresso Machine Maintenance Guide</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-11.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-11.html</guid>
+      <pubDate>Tue, 04 Aug 2026 15:09:35 GMT</pubDate>
+      <description>Keep your espresso machine in top shape</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-14.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-14.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution.html</guid>
       <pubDate>Sun, 02 Aug 2026 01:14:09 GMT</pubDate>
       <description>Achieve consistent espresso flavor</description>
-    </item>
-    <item>
-      <title>The roasting checklist: run this before you spend</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-12.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-12.html</guid>
-      <pubDate>Sat, 01 Aug 2026 23:39:23 GMT</pubDate>
-      <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
