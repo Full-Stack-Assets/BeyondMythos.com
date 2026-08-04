@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smarter-footwork",
+    "title": "Step Up Your Foot Game",
+    "dek": "Improve your climbing with better footwork",
+    "takeaway": "Proper footwork is key to efficient and effective climbing",
+    "whatHappened": "Many new climbers focus on their hands and upper body when starting out, neglecting the importance of proper footwork. However, having a solid foundation and understanding of how to use your feet can greatly improve your overall climbing ability. By adjusting your footwork, you can conserve energy and make more efficient movements",
+    "whyItMatters": "Good footwork allows you to maintain balance and generate power, reducing the strain on your upper body and making climbing less physically demanding. This, in turn, enables you to climb for longer periods and tackle more challenging routes. Moreover, proper footwork helps prevent injuries and reduces wear and tear on your body",
+    "howToThink": "To improve your footwork, practice edging, smearing, and hooking techniques. Focus on keeping your weight centered over your feet and using your legs to drive movements. Additionally, pay attention to the placement and orientation of your feet, ensuring that you're using the most efficient and secure positions possible",
+    "pros": [
+      "Improved balance",
+      "Increased efficiency",
+      "Reduced fatigue"
+    ],
+    "cons": [
+      "Takes practice",
+      "Requires patience",
+      "Can be uncomfortable"
+    ],
+    "watchOut": "Don't overthink your footwork, as this can lead to hesitation and decreased performance",
+    "faq": [
+      {
+        "q": "What is edging?",
+        "a": "Edging refers to the technique of supporting your body weight on the edge of your climbing shoe"
+      },
+      {
+        "q": "How can I practice smearing?",
+        "a": "Practice smearing by climbing on volumes or large holds, focusing on using the sole of your shoe to support your weight"
+      },
+      {
+        "q": "Why is hooking important?",
+        "a": "Hooking is essential for generating power and maintaining balance, particularly when climbing overhanging or steep terrain"
+      }
+    ],
+    "category": "Technique",
+    "tags": [
+      "climbing technique",
+      "footwork"
+    ],
+    "sources": [
+      {
+        "label": "r/climbharder community threads",
+        "url": "https://www.reddit.com/r/climbharder/"
+      },
+      {
+        "label": "Search interest: \"hangboard routine\"",
+        "url": "https://duckduckgo.com/?q=hangboard%20routine"
+      }
+    ],
+    "publishedAt": "2026-08-04T17:18:38.186Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "gear-pre-spend-checklist-19",
     "title": "The gear checklist: run this before you spend",
     "dek": "Seven questions that separate a justified gear purchase from an expensive mood.",

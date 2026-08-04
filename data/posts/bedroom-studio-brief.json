@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mixing-desk-essentials",
+    "title": "The Mixing Desk Revival: Unleashing Creative Potential",
+    "dek": "Transform your sound with these desk essentials.",
+    "takeaway": "A well-curated mixing desk is key to unlocking your full creative potential.",
+    "whatHappened": "The rise of digital audio workstations has led many to overlook the importance of a physical mixing desk. However, a thoughtfully designed desk can greatly enhance workflow and creativity. By incorporating a few essential components, producers can optimize their setup for maximum efficiency.",
+    "whyItMatters": "A well-organized mixing desk allows producers to focus on the creative aspects of music production, rather than getting bogged down in technical details. This, in turn, can lead to better sounding tracks and a more enjoyable production experience. Furthermore, a physical desk can provide a much-needed break from screen time.",
+    "howToThink": "When setting up your mixing desk, consider the tools you use most frequently and position them for easy access. Invest in a high-quality monitor controller and a robust audio interface. Don't forget to leave space for notes, inspiration, and other creative ephemera.",
+    "pros": [
+      "Improved workflow",
+      "Enhanced creativity",
+      "Better sound quality"
+    ],
+    "cons": [
+      "Added expense",
+      "Desk space required",
+      "Setup time"
+    ],
+    "watchOut": "Be mindful of cable management to avoid a cluttered and frustrating workspace.",
+    "faq": [
+      {
+        "q": "What is the most important component of a mixing desk?",
+        "a": "A high-quality audio interface"
+      },
+      {
+        "q": "How much space do I need for a mixing desk?",
+        "a": "This depends on your setup, but a minimum of 4-6 feet is recommended"
+      },
+      {
+        "q": "Can I use a mixing desk with a digital audio workstation?",
+        "a": "Yes, many modern mixing desks are designed to integrate seamlessly with DAWs"
+      }
+    ],
+    "category": "Mixing",
+    "tags": [
+      "mixing desk",
+      "music production"
+    ],
+    "sources": [
+      {
+        "label": "r/WeAreTheMusicMakers community threads",
+        "url": "https://www.reddit.com/r/WeAreTheMusicMakers/"
+      },
+      {
+        "label": "Search interest: \"audio interface guide\"",
+        "url": "https://duckduckgo.com/?q=audio%20interface%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-04T17:18:35.955Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-studio-treatment-budget-field-test-7",
     "title": "\"home studio treatment budget\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home studio treatment budget through a month of actual use. Some of it survived.",

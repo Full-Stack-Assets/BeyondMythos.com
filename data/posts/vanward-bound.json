@@ -1,5 +1,56 @@
 [
   {
+    "slug": "opting-for-off-grid-fridges",
+    "title": "Ditch the icebox: why off-grid fridges are a game-changer",
+    "dek": "Off-grid fridges for van life",
+    "takeaway": "Off-grid fridges offer a reliable and efficient way to keep your food fresh on the go",
+    "whatHappened": "Recent advances in technology have made off-grid fridges a viable option for van dwellers. These fridges use solar power or batteries to keep your food cool, eliminating the need for ice. As a result, many van lifers are making the switch to off-grid fridges",
+    "whyItMatters": "Off-grid fridges provide a convenient and reliable way to store food, reducing the need for frequent grocery trips and allowing for more remote adventures. They also offer a significant reduction in noise pollution compared to traditional generators. This makes them an attractive option for those looking to live off the grid",
+    "howToThink": "When considering an off-grid fridge, think about your power supply and energy needs. Assess your budget and determine which type of off-grid fridge is best for you, taking into account factors such as size, power consumption, and durability. It's also essential to research and compare different models to find the one that suits your van life needs",
+    "pros": [
+      "Increased freedom",
+      "Reduced noise pollution",
+      "Improved efficiency"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Dependence on solar power",
+      "Limited capacity"
+    ],
+    "watchOut": "Be cautious of off-grid fridges with low energy efficiency ratings, as they may not perform well in extreme temperatures",
+    "faq": [
+      {
+        "q": "How much do off-grid fridges cost?",
+        "a": "Off-grid fridges can range from $500 to $2,000, depending on the model and features"
+      },
+      {
+        "q": "Can I run an off-grid fridge on a battery?",
+        "a": "Yes, many off-grid fridges can be powered by a battery, making them a great option for van life"
+      },
+      {
+        "q": "How long do off-grid fridges last?",
+        "a": "Off-grid fridges can last for 10 to 15 years or more with proper maintenance and care"
+      }
+    ],
+    "category": "Power",
+    "tags": [
+      "off-grid living",
+      "van life essentials"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-08-04T17:18:36.148Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-builds-21",
     "title": "A weekend project: level up your builds in two hours",
     "dek": "One contained, satisfying builds project for van dwellers — start Saturday morning, done by lunch.",
