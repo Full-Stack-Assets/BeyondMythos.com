@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ultralight-backpack-revival",
+    "title": "Reviving the lost art of ultralight backpacking",
+    "dek": "Lighten your load, amplify your journey",
+    "takeaway": "Adopting an ultralight approach to backpacking can significantly enhance overall hiking experience and reduce fatigue",
+    "whatHappened": "The rise of fast and light backpacking has led to a surge in demand for high-performance, ultralight gear. Manufacturers have responded by developing innovative materials and designs that cater to this niche. As a result, backpackers can now choose from a wide range of ultralight options, from frameless packs to silnylon shelters.",
+    "whyItMatters": "Embracing ultralight backpacking principles allows hikers to cover more ground with less effort, increasing the overall enjoyment of their journey. By reducing pack weight, backpackers can also minimize the risk of injury and improve their mental well-being. Moreover, ultralight gear often features eco-friendly and sustainable materials, aligning with the values of environmentally conscious hikers.",
+    "howToThink": "When transitioning to an ultralight setup, it's essential to reassess your gear and prioritize only the essentials. Consider adopting a 'systems approach' to optimize your pack's overall weight and efficiency. Start by evaluating your shelter, sleeping bag, and clothing, then work your way down to smaller items like utensils and accessories.",
+    "pros": [
+      "Increased mobility",
+      "Reduced fatigue",
+      "Enhanced overall experience"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Steeper learning curve",
+      "Limited durability"
+    ],
+    "watchOut": "Be cautious of over-optimizing your gear, as this can lead to compromising on essential safety features and comfort",
+    "faq": [
+      {
+        "q": "What is the ideal base weight for an ultralight backpack?",
+        "a": "Aim for a base weight of around 10-12 pounds for a comfortable and efficient hiking experience"
+      },
+      {
+        "q": "How can I reduce my pack weight without breaking the bank?",
+        "a": "Consider buying second-hand gear, repurposing existing items, or investing in multi-use products"
+      },
+      {
+        "q": "What are the key factors to consider when choosing an ultralight backpack?",
+        "a": "Look for a pack with a sturdy frame, weather-resistant materials, and ample ventilation to ensure comfort and durability"
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "ultralight",
+      "backpacking"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultralight community threads",
+        "url": "https://www.reddit.com/r/Ultralight/"
+      },
+      {
+        "label": "Search interest: \"lower base weight cheap\"",
+        "url": "https://duckduckgo.com/?q=lower%20base%20weight%20cheap"
+      }
+    ],
+    "publishedAt": "2026-08-05T21:54:52.322Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-food-22",
     "title": "The quiet upgrade: small tweaks in food with outsized returns",
     "dek": "No purchases, no overhauls — the modest food adjustments that ultralight backpackers and thru-hike dreamers report mattering most.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pushing-film-limits",
+    "title": "Beyond Box Speed: Experimenting with Film Stocks",
+    "dek": "New life from old film stocks",
+    "takeaway": "Experimenting with film stocks beyond their box speed can yield unique and surprising results",
+    "whatHappened": "Film photographers often stick to the recommended ISO for their film stocks, but what happens when you push these limits? Experimenting with different development times and techniques can breathe new life into familiar films. From gaining more contrast to reducing grain, the possibilities are endless.",
+    "whyItMatters": "Understanding how to manipulate film stocks can elevate your photography, making each shot more personalized and expressive. It's not just about capturing an image, but about creating a specific mood or aesthetic. By mastering the art of film manipulation, you gain more control over the final product.",
+    "howToThink": "When experimenting with film stocks, consider the subject matter and the desired outcome. Ask yourself if you want more contrast, less grain, or a specific color palette. Keep a journal of your experiments, noting the development times, chemicals used, and the resulting images. This will help you refine your technique and achieve consistent results.",
+    "pros": [
+      "Unique aesthetic",
+      "Increased control",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Unpredictable results",
+      "Requires patience",
+      "May not always work"
+    ],
+    "watchOut": "Be cautious not to overdo it, as pushing film limits can sometimes result in unusable images",
+    "faq": [
+      {
+        "q": "What film stocks are best for experimenting?",
+        "a": "Black and white films tend to be more forgiving than color films"
+      },
+      {
+        "q": "How do I know what development time to use?",
+        "a": "Start with the recommended time and adjust based on your desired outcome"
+      },
+      {
+        "q": "Can I push the limits of any film stock?",
+        "a": "While most films can be pushed, some are more resistant to experimentation than others"
+      }
+    ],
+    "category": "Film Stocks",
+    "tags": [
+      "film experimentation",
+      "analog photography"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-05T21:54:51.015Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-developing-guide-field-test-8",
     "title": "\"home developing guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home developing guide through a month of actual use. Some of it survived.",
