@@ -1,5 +1,56 @@
 [
   {
+    "slug": "syrup-swaps",
+    "title": "Syrup Hacks to Elevate Your Cocktails",
+    "dek": "Swap boring syrups for flavor",
+    "takeaway": "Custom syrups can elevate your cocktails with unique flavors and textures",
+    "whatHappened": "Recently, we've seen a surge in home bartenders experimenting with bespoke syrups to add depth to their cocktails. From spicy ginger to floral honey, the possibilities are endless. This shift towards customization has led to a more nuanced understanding of how syrups can make or break a drink.",
+    "whyItMatters": "Using unique syrups can differentiate your cocktails and impress your guests. It also allows you to tailor your drinks to specific flavor profiles and dietary needs. By making your own syrups, you can ensure quality and consistency in every pour.",
+    "howToThink": "When creating custom syrups, consider the flavor profile you want to achieve and the ingredients you have on hand. Experiment with different combinations of spices, herbs, and sweeteners to find your perfect blend. Don't be afraid to think outside the box and try unusual ingredients like turmeric or rose petals.",
+    "pros": [
+      "Unique flavors",
+      "Customizable",
+      "Easy to make"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Expensive ingredients",
+      "Limited shelf life"
+    ],
+    "watchOut": "Be cautious not to over-sweeten your syrups, as this can throw off the balance of your cocktails",
+    "faq": [
+      {
+        "q": "What's the best way to store homemade syrups?",
+        "a": "In the fridge, with a tight-fitting lid and a label with the date and ingredients"
+      },
+      {
+        "q": "Can I use artificial sweeteners in my syrups?",
+        "a": "While possible, artificial sweeteners can affect the flavor and texture of your syrups, so it's best to use natural alternatives"
+      },
+      {
+        "q": "How long do homemade syrups last?",
+        "a": "Typically 2-4 weeks, depending on the ingredients and storage conditions"
+      }
+    ],
+    "category": "Ingredients",
+    "tags": [
+      "mixology",
+      "cocktailhacks"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-08-05T11:05:06.295Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-classics-21",
     "title": "A weekend project: level up your classics in two hours",
     "dek": "One contained, satisfying classics project for home bartenders — start Saturday morning, done by lunch.",

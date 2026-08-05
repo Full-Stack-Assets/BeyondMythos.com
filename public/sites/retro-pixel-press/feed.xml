@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: hidden snes gems</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-6.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-6.html</guid>
+      <pubDate>Wed, 05 Aug 2026 11:04:58 GMT</pubDate>
+      <description>The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-16.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-16.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-2.html</guid>
       <pubDate>Sun, 02 Aug 2026 17:43:03 GMT</pubDate>
       <description>Revive old consoles with ease</description>
-    </item>
-    <item>
-      <title>Ask the forge: your indie questions, answered</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-8.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-8.html</guid>
-      <pubDate>Sun, 02 Aug 2026 16:37:45 GMT</pubDate>
-      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

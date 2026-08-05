@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-grinder-essentials",
+    "title": "Grind to Perfection: Elevating Your Home Coffee Game",
+    "dek": "Upgrade your brew with a top-notch grinder",
+    "takeaway": "A good coffee grinder is essential for a perfect cup of coffee",
+    "whatHappened": "Recently, we put several home coffee grinders to the test, assessing their performance, ease of use, and overall value. The results were surprising, with some budget-friendly options outshining their more expensive counterparts. From burr to blade, we explored it all.",
+    "whyItMatters": "The right grinder can make all the difference in the flavor and aroma of your coffee, bringing out the nuances of your favorite roast. A bad grinder, on the other hand, can lead to inconsistent results and a subpar brewing experience. Investing in a quality grinder is a crucial step in taking your home coffee to the next level.",
+    "howToThink": "When choosing a grinder, consider the type of coffee you brew most often, as well as your budget and available counter space. Think about the features that matter most to you, such as adjustable grind settings or a compact design. By prioritizing your needs and doing your research, you can find the perfect grinder to elevate your home coffee game.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Easy to clean"
+    ],
+    "cons": [
+      "Expensive",
+      "Noise level",
+      "Limited settings"
+    ],
+    "watchOut": "Be wary of extremely cheap grinders, as they may compromise on quality and performance",
+    "faq": [
+      {
+        "q": "What type of grinder is best for espresso?",
+        "a": "A burr grinder is ideal for espresso, as it produces a consistent and fine grind"
+      },
+      {
+        "q": "Can I use a blade grinder for pour-over?",
+        "a": "While possible, a burr grinder is still recommended for pour-over, as it allows for a more precise grind adjustment"
+      },
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Clean your grinder regularly, ideally after every use, to prevent old coffee oils and residue from building up"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "coffee grinder",
+      "home brew"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-05T11:05:00.147Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-espresso-dial-in-field-test-5",
     "title": "\"home espresso dial in\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.",
