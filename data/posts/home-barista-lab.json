@@ -1,5 +1,56 @@
 [
   {
+    "slug": "taming-the-temperature",
+    "title": "Thermal Control: The Hidden Variable in Espresso",
+    "dek": "Precision temperature for better shots",
+    "takeaway": "Temperature control is crucial for optimal espresso extraction",
+    "whatHappened": "Recent advancements in espresso machine technology have highlighted the importance of thermal control. Home baristas can now access machines with precise temperature management, leading to more consistent and flavorful shots. However, mastering temperature control requires understanding its impact on extraction.",
+    "whyItMatters": "Temperature affects the solubility of coffee's volatile compounds, impacting the flavor and aroma of the final product. Incorrect temperatures can result in under or over-extraction, leading to a subpar espresso experience. By adjusting temperature, home baristas can tailor their espresso to suit their taste preferences.",
+    "howToThink": "To leverage temperature control effectively, home baristas should experiment with small temperature adjustments to find the optimal range for their favorite coffee beans. It's also essential to consider the thermal mass of the machine and the temperature of the brewing water. By doing so, enthusiasts can unlock new dimensions of flavor and improve their overall espresso quality.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Better aroma"
+    ],
+    "cons": [
+      "Higher machine cost",
+      "Steeper learning curve",
+      "More maintenance"
+    ],
+    "watchOut": "Be cautious of machines with inadequate thermal stability, as they can produce inconsistent results",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for espresso?",
+        "a": "The ideal temperature for espresso is between 195°F and 205°F"
+      },
+      {
+        "q": "How often should I calibrate my espresso machine's temperature?",
+        "a": "Calibrate your machine's temperature daily or whenever you notice a significant change in shot quality"
+      },
+      {
+        "q": "Can I adjust the temperature on my existing espresso machine?",
+        "a": "Check your machine's manual to see if it allows for temperature adjustments, and consider upgrading if it doesn't"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Machines",
+      "Temperature Control"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-05T23:37:12.707Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-14",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

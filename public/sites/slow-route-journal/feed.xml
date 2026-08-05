@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Ask the forge: your local questions, answered</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-15.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-15.html</guid>
+      <pubDate>Wed, 05 Aug 2026 23:37:11 GMT</pubDate>
+      <description>Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>Beyond Eurail: The New Wave of Affordable Rail Options</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-passes.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-passes.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/low-impact-stays.html</guid>
       <pubDate>Mon, 03 Aug 2026 01:14:28 GMT</pubDate>
       <description>Eco-friendly stays for slow travelers</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of stays</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/five-stays-mistakes-16.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/five-stays-mistakes-16.html</guid>
-      <pubDate>Sun, 02 Aug 2026 23:40:14 GMT</pubDate>
-      <description>The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.</description>
     </item>
   </channel>
 </rss>

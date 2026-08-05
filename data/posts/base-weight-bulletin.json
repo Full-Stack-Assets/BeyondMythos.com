@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-pack-weight",
+    "title": "The 3-ounce rule: can you really go lower?",
+    "dek": "Sub-2lb packs are here, but at what cost?",
+    "takeaway": "The pursuit of ultralight pack perfection requires a nuanced understanding of weight, durability, and functionality.",
+    "whatHappened": "The latest crop of ultralight packs has sparked a heated debate among thru-hikers and backpackers, with some swearing by sub-2lb models and others warning of compromised durability. Manufacturers are responding with innovative materials and designs. However, the real question remains: how low can you go before sacrificing too much?",
+    "whyItMatters": "For those chasing the holy grail of ultralight backpacking, every ounce counts, and the pack is a critical component. The right pack can make or break a long-distance hike, affecting not just overall weight but also comfort, organization, and protection from the elements. As the technology advances, backpackers must carefully consider their priorities.",
+    "howToThink": "When evaluating an ultralight pack, consider your specific needs, including the length of your hikes, the terrain, and your personal comfort level with minimalism. It's also crucial to weigh the pros and cons, including durability and features, against the potential weight savings. Practical testing and reviews from seasoned backpackers can provide invaluable insights.",
+    "pros": [
+      "Significant weight reduction",
+      "Increased mobility",
+      "Improved backpacking experience"
+    ],
+    "cons": [
+      "Compromised durability",
+      "Reduced feature set",
+      "Higher cost"
+    ],
+    "watchOut": "Don't sacrifice too much durability and functionality in the pursuit of an ultra-low pack weight, as this can ultimately compromise your safety and comfort on the trail.",
+    "faq": [
+      {
+        "q": "What is the average weight of an ultralight backpack?",
+        "a": "The average weight can range from 1.5 to 3 pounds, depending on the brand, model, and features."
+      },
+      {
+        "q": "How do I choose the right ultralight pack for my needs?",
+        "a": "Consider your hiking style, the length of your trips, and the specific features that matter most to you, such as hip belt pockets or trekking pole holders."
+      },
+      {
+        "q": "Are ultralight packs suitable for long-distance thru-hikes?",
+        "a": "Yes, many ultralight packs are designed with thru-hiking in mind, offering the perfect balance of weight, durability, and functionality for extended trips."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "ultralight backpacking",
+      "thru-hike gear"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-05T23:37:19.300Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ultralight-backpack-revival",
     "title": "Reviving the lost art of ultralight backpacking",
     "dek": "Lighten your load, amplify your journey",
