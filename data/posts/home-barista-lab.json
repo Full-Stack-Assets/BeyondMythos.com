@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-coffee-flavor",
+    "title": "Unlocking Hidden Flavors in Your Daily Grind",
+    "dek": "Elevate your brew with expert roasting tips",
+    "takeaway": "Small roasting adjustments can significantly impact flavor profiles",
+    "whatHappened": "Recent experiments in roasting techniques have shed light on the importance of precision in achieving desired flavors. By manipulating roast levels and times, home baristas can uncover unique and complex flavors in their coffee. This revelation has sparked a new wave of creativity among enthusiasts",
+    "whyItMatters": "Understanding how to manipulate roast levels can help home baristas tailor their coffee to their taste preferences, ensuring a more satisfying brewing experience. Moreover, this knowledge can also enhance the appreciation of different coffee beans and their potential. As a result, the community is abuzz with new roasting recipes and techniques",
+    "howToThink": "To start exploring the world of roasting, consider investing in a small-batch roaster and experimenting with different roast times and temperatures. Keep a roasting journal to track your progress and note the flavors you encounter. By adopting a systematic approach, you'll be better equipped to identify the roasting techniques that work best for you",
+    "pros": [
+      "Increased flavor control",
+      "Improved coffee quality",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Equipment investment",
+      "Trial and error"
+    ],
+    "watchOut": "Be cautious not to over-roast, as this can lead to bitter flavors and a disappointing brew",
+    "faq": [
+      {
+        "q": "What is the ideal roast level for a beginner?",
+        "a": "Medium roast is a good starting point, as it offers a balanced flavor profile"
+      },
+      {
+        "q": "How often should I roast my coffee beans?",
+        "a": "Roast your beans in small batches every 1-2 weeks to ensure optimal freshness"
+      },
+      {
+        "q": "Can I roast coffee beans at home without special equipment?",
+        "a": "Yes, you can use a skillet or oven to roast small batches of coffee beans, but be cautious of temperature control"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "roasting tips",
+      "coffee flavor"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-05T04:48:02.367Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-13",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",
