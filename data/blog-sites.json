@@ -2776,8 +2776,30 @@
       "streamUrl": "https://www.beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-08-05T21:54:58.641Z"
+    },
+    {
+      "id": "budget-build-bench-2-1785971869559",
+      "slug": "budget-build-bench-2",
+      "name": "Budget Build Bench",
+      "tagline": "Fresh takes for PC builders on a budget.",
+      "nicheId": "budget-pc-builds",
+      "audience": "PC builders on a budget",
+      "categories": [
+        "GPUs",
+        "Used Parts",
+        "Upgrades",
+        "Benchmarks"
+      ],
+      "url": "https://www.beyondmythos.com/sites/budget-build-bench-2/",
+      "localUrl": "https://www.beyondmythos.com/sites/budget-build-bench-2/",
+      "vercel": null,
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-08-05T23:17:49.295Z",
+      "streamUrl": "https://www.beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-08-05T21:32:10.318Z",
+  "lastGeneratedAt": "2026-08-05T23:17:49.295Z",
   "lastPostRunAt": "2026-08-05T21:54:58.778Z"
 }
