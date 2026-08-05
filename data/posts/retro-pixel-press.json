@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-controller-upgrades",
+    "title": "Breathe New Life into Your Retro Controllers",
+    "dek": "Upgrade your retro gaming experience",
+    "takeaway": "Simple DIY upgrades can greatly enhance your retro gaming experience",
+    "whatHappened": "Retro gaming has seen a resurgence in recent years, with many enthusiasts seeking to improve their gaming experience. One often overlooked area is the controller, with many original controllers showing their age. By upgrading these controllers, gamers can enhance their overall experience. Recent developments in DIY controller mods have made it easier than ever to give new life to old favorites.",
+    "whyItMatters": "Using upgraded controllers can greatly reduce latency and improve overall gameplay, making it a must for serious speedrunners and collectors. Furthermore, upgraded controllers can also help to preserve the original gaming experience, allowing for a more authentic playthrough of classic titles. This is especially important for speedrunners, where every frame counts.",
+    "howToThink": "When considering a controller upgrade, think about the specific games you play and the improvements that would have the greatest impact. For example, adding a USB connection can make it easier to play on modern consoles, while upgrading the directional pad can improve accuracy. By tailoring your upgrades to your specific needs, you can get the most out of your retro gaming experience.",
+    "pros": [
+      "Improved gameplay",
+      "Increased durability",
+      "Easy to install"
+    ],
+    "cons": [
+      "Cost",
+      "Potential for error",
+      "Limited compatibility"
+    ],
+    "watchOut": "Be careful not to damage your original controller during the upgrade process",
+    "faq": [
+      {
+        "q": "What tools do I need to upgrade my controller?",
+        "a": "Basic electronics tools, such as a soldering iron and wire cutters"
+      },
+      {
+        "q": "Can I upgrade any retro controller?",
+        "a": "Most retro controllers can be upgraded, but some may require more complex modifications"
+      },
+      {
+        "q": "Will upgrading my controller void the warranty?",
+        "a": "If your controller is still under warranty, upgrading it may void the warranty, so be sure to check before proceeding"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-05T01:06:14.306Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-speedruns-mistakes-13",
     "title": "Five mistakes everyone makes in their first month of speedruns",
     "dek": "The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.",
