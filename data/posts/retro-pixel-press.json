@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-3",
+    "title": "Retro Console Modding 101",
+    "dek": "Upgrade your retro console with ease",
+    "takeaway": "A well-modded retro console can breathe new life into classic games",
+    "whatHappened": "The retro gaming community has seen a surge in console modding, with enthusiasts adding new features and improvements to their classic consoles. From upscaling graphics to adding wireless controllers, the possibilities are endless. With the right tools and knowledge, anyone can mod their retro console",
+    "whyItMatters": "Modding a retro console can not only improve the gaming experience but also increase the console's value and longevity. It's a great way to show off your collection and make your retro games stand out. Moreover, modding can also help to preserve the console's original hardware and prevent damage",
+    "howToThink": "When considering a retro console mod, think about what features are most important to you and your gaming experience. Research the different types of mods available and choose a reputable and experienced modder. Always follow proper safety precautions and guidelines to avoid damaging your console",
+    "pros": [
+      "Improved performance",
+      "Increased value",
+      "Customization options"
+    ],
+    "cons": [
+      "Voiding warranty",
+      "Potential damage",
+      "Cost"
+    ],
+    "watchOut": "Be cautious of cheap or low-quality mods that can damage your console or void its warranty",
+    "faq": [
+      {
+        "q": "What is retro console modding?",
+        "a": "Retro console modding is the process of modifying or upgrading a retro gaming console to improve its performance, add new features, or enhance the gaming experience"
+      },
+      {
+        "q": "Is retro console modding safe?",
+        "a": "Retro console modding can be safe if done properly and with the right precautions, but it can also potentially damage your console or void its warranty"
+      },
+      {
+        "q": "How much does retro console modding cost?",
+        "a": "The cost of retro console modding can vary widely, depending on the type of mod, the console, and the modder"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-05T13:20:54.262Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-hidden-snes-gems-6",
     "title": "Myth vs. reality: hidden snes gems",
     "dek": "The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.",

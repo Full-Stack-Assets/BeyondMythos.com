@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Console Modding 101</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-3.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-3.html</guid>
+      <pubDate>Wed, 05 Aug 2026 13:20:54 GMT</pubDate>
+      <description>Upgrade your retro console with ease</description>
+    </item>
+    <item>
       <title>Myth vs. reality: hidden snes gems</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-6.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-10.html</guid>
       <pubDate>Sun, 02 Aug 2026 18:41:47 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>Retro Revival: Breathing New Life into Classic Consoles</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-2.html</guid>
-      <pubDate>Sun, 02 Aug 2026 17:43:03 GMT</pubDate>
-      <description>Revive old consoles with ease</description>
     </item>
   </channel>
 </rss>

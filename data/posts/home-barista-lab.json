@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-matters-5",
+    "title": "Tamping like a pro: the overlooked key to better espresso",
+    "dek": "Improve your espresso with better tamping",
+    "takeaway": "Proper tamping technique can significantly enhance the flavor and quality of your home espresso",
+    "whatHappened": "Recently, we've seen a surge in home espresso enthusiasts focusing on high-end machines and exotic coffee beans, but often overlooking a crucial step in the brewing process: tamping. Tamping, when done correctly, ensures an even extraction of flavors from the coffee grounds. However, improper tamping can lead to channeling, under-extraction, or over-extraction, resulting in a subpar shot of espresso.",
+    "whyItMatters": "The importance of tamping lies in its ability to evenly distribute the water through the coffee grounds, allowing for a balanced extraction of the desired flavors and oils. Without proper tamping, the best Machines and beans can't produce a great espresso. By focusing on tamping, home baristas can significantly improve the quality of their espresso without needing to invest in new equipment or coffee beans.",
+    "howToThink": "To improve your tamping technique, consider investing in a high-quality tamper that fits your hand comfortably. Practice applying even pressure to the coffee grounds, aiming for about 30 pounds of pressure. Additionally, experiment with different tamping patterns, such as the 'polishing' method, to find what works best for you and your equipment.",
+    "pros": [
+      "Improved flavor",
+      "Better extraction",
+      "Enhanced crema"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be tiring",
+      "May need new equipment"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to over-extraction and a bitter taste",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "About 30 pounds of pressure is recommended for most espresso machines"
+      },
+      {
+        "q": "Can I use any tamper?",
+        "a": "No, it's best to use a tamper specifically designed for your espresso machine's portafilter"
+      },
+      {
+        "q": "How often should I practice tamping?",
+        "a": "It's a good idea to practice tamping regularly to develop muscle memory and consistency"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Tamping"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-05T13:20:54.575Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "coffee-grinder-essentials",
     "title": "Grind to Perfection: Elevating Your Home Coffee Game",
     "dek": "Upgrade your brew with a top-notch grinder",

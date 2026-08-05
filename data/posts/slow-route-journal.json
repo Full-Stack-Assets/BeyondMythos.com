@@ -1,5 +1,56 @@
 [
   {
+    "slug": "off-peak-exploration-2",
+    "title": "The Unseen Benefits of Off-Peak Rail Travel",
+    "dek": "Discover the joys of quieter trains",
+    "takeaway": "Off-peak rail travel offers a more serene and budget-friendly experience for slow travelers",
+    "whatHappened": "Off-peak travel, typically during weekdays or outside holiday seasons, has proven to be a hidden gem for those seeking a more peaceful journey. Trains are less crowded, allowing for a more comfortable ride. Additionally, many rail operators offer discounted fares for off-peak travel, making it an attractive option for budget-conscious explorers.",
+    "whyItMatters": "By opting for off-peak travel, slow travelers can enjoy a more relaxed atmosphere, have easier access to seats and amenities, and potentially save money on fares. This, in turn, contributes to a more enjoyable and low-impact travel experience, aligning with the principles of slow travel.",
+    "howToThink": "To make the most of off-peak rail travel, consider planning your trips during the week or during the shoulder season. Be flexible with your travel dates and look for rail operators that offer off-peak discounts or promotions. Furthermore, research your route in advance to ensure you're taking the most efficient and scenic paths.",
+    "pros": [
+      "Less crowded trains",
+      "Lower fares",
+      "Easier reservations"
+    ],
+    "cons": [
+      "Limited schedule options",
+      "Potential for delays",
+      "Fewer onboard amenities"
+    ],
+    "watchOut": "Be mindful of possible engineering works or planned maintenance on your route, which might affect your travel plans",
+    "faq": [
+      {
+        "q": "What are the benefits of off-peak rail travel?",
+        "a": "Off-peak travel offers quieter trains, potential savings, and easier access to seats and amenities"
+      },
+      {
+        "q": "How can I find off-peak travel deals?",
+        "a": "Check with rail operators for discounted fares and promotions, and consider using journey planners that highlight off-peak options"
+      },
+      {
+        "q": "Are off-peak trains less frequent?",
+        "a": "Yes, off-peak trains might have less frequent departures, so it's essential to plan your itinerary accordingly"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "slow travel",
+      "off-peak"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-05T13:20:54.443Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-18",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
