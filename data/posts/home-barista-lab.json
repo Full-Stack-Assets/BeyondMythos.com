@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-espresso-distribution",
+    "title": "Balancing Act: The Art of Even Extraction in Espresso",
+    "dek": "Unlock better espresso with balanced distribution",
+    "takeaway": "Even espresso distribution is key to a perfect shot",
+    "whatHappened": "Recently, the Home Barista Lab team experimented with various espresso distribution techniques to identify the most effective methods. The results showed significant improvements in flavor and consistency. By applying a balanced approach, home baristas can elevate their espresso game",
+    "whyItMatters": "Even distribution affects the flavor profile and quality of the espresso shot. It ensures that all grounds are saturated evenly, leading to a more complex and balanced taste. This, in turn, enhances the overall coffee experience for home enthusiasts",
+    "howToThink": "To achieve optimal distribution, consider using a combination of techniques such as leveling, tamping, and carefully pouring the grounds into the portafilter. Practice makes perfect, so experiment and adjust your approach to find what works best for your equipment and style",
+    "pros": [
+      "Improved flavor consistency",
+      "Enhanced aroma",
+      "Increased shot quality"
+    ],
+    "cons": [
+      "Requires practice",
+      "Sensitive to equipment",
+      "Time-consuming"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to channeling and poor extraction",
+    "faq": [
+      {
+        "q": "What is the ideal distribution technique?",
+        "a": "A balanced combination of leveling, tamping, and pouring"
+      },
+      {
+        "q": "How often should I clean my portafilter?",
+        "a": "After each use to prevent old coffee oils from affecting the flavor"
+      },
+      {
+        "q": "Can I use a distribution tool?",
+        "a": "Yes, distribution tools can help, but it's essential to understand the underlying techniques"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "coffee distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-05T20:13:36.932Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-15",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-11",
+    "title": "Squeeze Every Inch: Expert Tips for Balcony Gardeners",
+    "dek": "Get the most out of your tiny balcony",
+    "takeaway": "With the right strategy, even the smallest balconies can become thriving gardens",
+    "whatHappened": "As urban gardening continues to grow in popularity, balcony gardeners are finding creative ways to maximize their limited space. From vertical gardens to space-saving containers, the options are endless. However, many gardeners struggle to get started, unsure of how to make the most of their tiny outdoor areas.",
+    "whyItMatters": "For apartment dwellers, a well-designed balcony garden can be a lifesaver, providing a peaceful oasis in the midst of the bustling city. By optimizing their space, gardeners can grow their own herbs, vegetables, and flowers, improving their mental and physical health. Moreover, a beautiful balcony garden can also increase the value of a property",
+    "howToThink": "To maximize your balcony space, start by assessing your sunlight, wind, and rain exposure. Choose containers that fit your specific conditions, and don't be afraid to think vertically. Consider using a trellis or a wall-mounted planter to add more plants without taking up precious floor space",
+    "pros": [
+      "Increased growing space",
+      "Improved air quality",
+      "Enhanced aesthetic appeal"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Requires regular maintenance",
+      "Limited flexibility"
+    ],
+    "watchOut": "Be mindful of weight limits when choosing containers and plants for your balcony to avoid any safety hazards",
+    "faq": [
+      {
+        "q": "What is the best type of container for a small balcony?",
+        "a": "Self-watering containers or those with built-in trellises are great options"
+      },
+      {
+        "q": "How often should I water my balcony garden?",
+        "a": "Watering frequency depends on the specific plants, climate, and container type, but a general rule of thumb is to water when the top inch of soil feels dry"
+      },
+      {
+        "q": "Can I grow vegetables on my balcony?",
+        "a": "Yes, many types of vegetables can thrive in containers on a balcony, such as cherry tomatoes, leafy greens, and herbs"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-05T20:13:37.407Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-19",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",
