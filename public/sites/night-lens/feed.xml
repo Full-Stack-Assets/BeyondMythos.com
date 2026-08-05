@@ -5,6 +5,13 @@
     <link>https://store-forge-roan.vercel.app/sites/night-lens/</link>
     <description>Fresh takes for backyard astrophotographers.</description>
     <item>
+      <title>Sharpen your focus: expert autofocus techniques for backyard astrophotography</title>
+      <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/autofocus-hacks.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/autofocus-hacks.html</guid>
+      <pubDate>Wed, 05 Aug 2026 08:07:37 GMT</pubDate>
+      <description>Unlock precise focus control</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of processing</title>
       <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/five-processing-mistakes-23.html</link>
       <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/five-processing-mistakes-23.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/myth-vs-reality-astrophotography-without-tracker-7.html</guid>
       <pubDate>Sun, 02 Aug 2026 16:37:48 GMT</pubDate>
       <description>The persistent myths around astrophotography without tracker, stress-tested against what backyard astrophotographers actually report.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your rigs in two hours</title>
-      <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/weekend-project-rigs-20.html</link>
-      <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/weekend-project-rigs-20.html</guid>
-      <pubDate>Sun, 02 Aug 2026 15:43:58 GMT</pubDate>
-      <description>One contained, satisfying rigs project for backyard astrophotographers — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

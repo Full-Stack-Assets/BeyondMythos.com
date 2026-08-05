@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>A weekend project: level up your hardware in two hours</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-16.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-16.html</guid>
+      <pubDate>Wed, 05 Aug 2026 08:08:04 GMT</pubDate>
+      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/retrogaming is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-8.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-8.html</guid>
       <pubDate>Sun, 02 Aug 2026 16:37:45 GMT</pubDate>
       <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>NT Mini: Is This $500 Clone Worth It for Retro Enthusiasts?</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/super-nt-mini-review.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/super-nt-mini-review.html</guid>
-      <pubDate>Sun, 02 Aug 2026 15:43:59 GMT</pubDate>
-      <description>We review the Super NT Mini for retro gaming.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "autofocus-hacks",
+    "title": "Sharpen your focus: expert autofocus techniques for backyard astrophotography",
+    "dek": "Unlock precise focus control",
+    "takeaway": "Advanced autofocus techniques can significantly improve image quality in backyard astrophotography",
+    "whatHappened": "Recent advances in autofocus technology have made it more accessible to backyard astrophotographers. However, many are not utilizing these features to their full potential. By understanding how to properly implement autofocus, photographers can achieve sharper, more detailed images.",
+    "whyItMatters": "Precise focus control is crucial in astrophotography, as even slight errors can result in blurred or unusable images. By mastering autofocus techniques, photographers can reduce the time spent on focus adjustments and increase their overall productivity. This, in turn, allows for more time to be spent on composition and creative experimentation.",
+    "howToThink": "To get the most out of autofocus, consider the specific needs of your shoot and adjust your settings accordingly. For example, using a focal length multiplier can help achieve more precise focus. It's also essential to regularly calibrate your autofocus system to ensure optimal performance.",
+    "pros": [
+      "Improved image sharpness",
+      "Increased productivity",
+      "Reduced focus adjustments"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires regular calibration",
+      "May not work with all equipment"
+    ],
+    "watchOut": "Be cautious not to over-rely on autofocus, as it can sometimes introduce errors or inconsistencies in your images",
+    "faq": [
+      {
+        "q": "What is the most important factor in achieving precise autofocus?",
+        "a": "Proper calibration of the autofocus system"
+      },
+      {
+        "q": "Can autofocus be used with manual focus lenses?",
+        "a": "Yes, but it may require additional adapters or equipment"
+      },
+      {
+        "q": "How often should I calibrate my autofocus system?",
+        "a": "Regularly, ideally before each shoot or when changing equipment"
+      }
+    ],
+    "category": "Rigs",
+    "tags": [
+      "astrophotography rigs",
+      "autofocus techniques"
+    ],
+    "sources": [
+      {
+        "label": "r/telescopes community threads",
+        "url": "https://www.reddit.com/r/telescopes/"
+      },
+      {
+        "label": "Search interest: \"stacking software guide\"",
+        "url": "https://duckduckgo.com/?q=stacking%20software%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-05T08:07:37.714Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-processing-mistakes-23",
     "title": "Five mistakes everyone makes in their first month of processing",
     "dek": "The most common early stumbles in processing, and the cheap corrections that fix them for backyard astrophotographers.",

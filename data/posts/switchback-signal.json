@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mid-run-refuel-strategies",
+    "title": "Fueling on the Fly: Mastering Mid-Run Nutrition",
+    "dek": "Optimize your mid-run fueling strategy",
+    "takeaway": "Proper mid-run nutrition can significantly boost endurance performance",
+    "whatHappened": "Trail runners often overlook the importance of mid-run nutrition, relying on water alone. However, this approach can lead to energy crashes and decreased performance. Recent studies have shown that tailored nutrition strategies can enhance endurance capabilities.",
+    "whyItMatters": "Mid-run nutrition plays a crucial role in maintaining energy levels and delaying fatigue. By incorporating the right foods and drinks, runners can optimize their performance and reduce the risk of bonking. Effective nutrition planning also supports post-run recovery, enabling runners to bounce back more quickly",
+    "howToThink": "When planning mid-run nutrition, consider your individual calorie needs, the duration and intensity of your run, and the terrain. Aim for easily digestible foods and practice your nutrition strategy during training to minimize stomach upset and ensure optimal absorption",
+    "pros": [
+      "Boosts energy",
+      "Enhances performance",
+      "Supports recovery"
+    ],
+    "cons": [
+      "Can be messy",
+      "Requires practice",
+      "May cause stomach issues"
+    ],
+    "watchOut": "Be cautious not to overfuel, as this can lead to digestive discomfort and decreased performance",
+    "faq": [
+      {
+        "q": "What types of food are best for mid-run fueling?",
+        "a": "Opt for easily digestible foods like energy gels, fruits, and nuts"
+      },
+      {
+        "q": "How often should I refuel during a run?",
+        "a": "Aim to refuel every 30-60 minutes, depending on your individual needs and the duration of your run"
+      },
+      {
+        "q": "Can I use sports drinks as a primary source of nutrition?",
+        "a": "While sports drinks can provide essential electrolytes, they should not replace solid food fueling entirely"
+      }
+    ],
+    "category": "Nutrition",
+    "tags": [
+      "trail running",
+      "ultrarunning"
+    ],
+    "sources": [
+      {
+        "label": "r/running community threads",
+        "url": "https://www.reddit.com/r/running/"
+      },
+      {
+        "label": "Search interest: \"trail shoe guide\"",
+        "url": "https://duckduckgo.com/?q=trail%20shoe%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-05T08:07:39.735Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-ultramarathon-8",
     "title": "Community pulse: what r/Ultramarathon is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the races community this week.",

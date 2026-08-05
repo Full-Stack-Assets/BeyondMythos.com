@@ -1,5 +1,56 @@
 [
   {
+    "slug": "starter-maintenance-tips",
+    "title": "Reviving a stagnant starter: tips and tricks",
+    "dek": "Breathe new life into a flagging starter",
+    "takeaway": "Regular feeding and patience can revive a stalled sourdough starter",
+    "whatHappened": "Many home sourdough bakers have experienced the frustration of a starter that's lost its mojo, refusing to bubble or rise. This can happen due to neglect, poor storage, or simply the natural cycle of a starter's life. By understanding the causes, bakers can take proactive steps to prevent stagnation and revive their starters when needed.",
+    "whyItMatters": "A healthy starter is the backbone of sourdough baking, responsible for the bread's signature flavor and texture. When a starter falters, the entire baking process is affected, leading to disappointing loaves. By mastering starter maintenance, bakers can ensure consistency and quality in their bread, even when faced with setbacks.",
+    "howToThink": "To revive a stagnant starter, bakers should first assess the environment and feeding schedule, making adjustments as necessary. Regular feeding, monitoring of temperature and humidity, and gentle handling can help coax a starter back to health. It's also crucial to be patient, as reviving a starter can take time and repeated efforts.",
+    "pros": [
+      "Improved bread flavor",
+      "Increased baking consistency",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires patience",
+      "May not always succeed"
+    ],
+    "watchOut": "Be cautious not to overfeed, as this can lead to an overactive starter that's difficult to manage",
+    "faq": [
+      {
+        "q": "How often should I feed my starter?",
+        "a": "Feed your starter once a day, or more frequently if it's very active"
+      },
+      {
+        "q": "Can I revive a starter that's been dormant for months?",
+        "a": "Yes, but it may require more time and effort to regain its health and activity"
+      },
+      {
+        "q": "What's the best way to store my starter when not in use?",
+        "a": "Store your starter in the fridge, feeding it once a week to maintain its health"
+      }
+    ],
+    "category": "Starters",
+    "tags": [
+      "sourdough",
+      "startercare"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-08-05T08:07:42.019Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-breadit-8",
     "title": "Community pulse: what r/Breadit is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the whole grain community this week.",
