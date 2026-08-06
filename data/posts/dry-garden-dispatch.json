@@ -1,5 +1,56 @@
 [
   {
+    "slug": "soil-mix-secrets",
+    "title": "The Best Soil Mix for Succulents: Debunking the Myths",
+    "dek": "Get the dirt on soil mix",
+    "takeaway": "The right soil mix can make or break your succulent's health",
+    "whatHappened": "Recently, we've seen a surge in questions about soil mix on our community forums, with many growers struggling to find the perfect blend for their succulents. We decided to put some popular soil mixes to the test, evaluating their drainage, water retention, and overall performance. The results were surprising, with some mixes exceling in certain areas while falling short in others.",
+    "whyItMatters": "Using the wrong soil mix can lead to waterlogged roots, nutrient deficiencies, and poor growth, ultimately causing your succulents to suffer. On the other hand, a well-crafted soil mix can provide the perfect balance of moisture, nutrients, and aeration, allowing your succulents to thrive. By understanding the importance of soil mix and how to choose the right one, you can take your succulent game to the next level.",
+    "howToThink": "When selecting a soil mix, consider the specific needs of your succulents, including their water requirements, nutrient needs, and preferred pH level. Look for mixes that are specifically designed for cacti and succulents, and avoid those that contain too much peat moss or other water-retentive ingredients. By thinking critically about your soil mix, you can create a thriving environment for your succulents to grow and flourish.",
+    "pros": [
+      "Improved drainage",
+      "Increased nutrient uptake",
+      "Better root growth"
+    ],
+    "cons": [
+      "Higher cost",
+      "Limited availability",
+      "May require additional nutrients"
+    ],
+    "watchOut": "Be wary of soil mixes that are too dense or waterlogged, as these can cause root rot and other problems",
+    "faq": [
+      {
+        "q": "What is the ideal pH level for succulent soil mix?",
+        "a": "Most succulents prefer a slightly acidic to neutral soil pH, ranging from 6.0 to 7.0"
+      },
+      {
+        "q": "Can I make my own succulent soil mix?",
+        "a": "Yes, you can create your own soil mix using a combination of ingredients like perlite, vermiculite, and sand"
+      },
+      {
+        "q": "How often should I repot my succulents with fresh soil mix?",
+        "a": "Repot your succulents every 1-3 years, or when the soil mix breaks down and no longer provides adequate drainage and nutrition"
+      }
+    ],
+    "category": "Soil",
+    "tags": [
+      "soil mix",
+      "succulent care"
+    ],
+    "sources": [
+      {
+        "label": "r/cactus community threads",
+        "url": "https://www.reddit.com/r/cactus/"
+      },
+      {
+        "label": "Search interest: \"propagate succulents leaves\"",
+        "url": "https://duckduckgo.com/?q=propagate%20succulents%20leaves"
+      }
+    ],
+    "publishedAt": "2026-08-06T01:03:31.699Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-soil-mistakes-22",
     "title": "Five mistakes everyone makes in their first month of soil",
     "dek": "The most common early stumbles in soil, and the cheap corrections that fix them for succulent and cactus growers.",

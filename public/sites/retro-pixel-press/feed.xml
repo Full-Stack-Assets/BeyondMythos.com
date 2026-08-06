@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Turbocharge Your SNES: Expert Modding Guide</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimal-snes-console-mods.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimal-snes-console-mods.html</guid>
+      <pubDate>Thu, 06 Aug 2026 01:03:26 GMT</pubDate>
+      <description>Unlock your SNES&apos;s full potential</description>
+    </item>
+    <item>
       <title>Community pulse: what r/snes is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-9.html</guid>
       <pubDate>Mon, 03 Aug 2026 05:22:17 GMT</pubDate>
       <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>Retro Console Hardware Hacks to Supercharge Your Speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-3.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-3.html</guid>
-      <pubDate>Mon, 03 Aug 2026 01:14:28 GMT</pubDate>
-      <description>Boost performance with these DIY mods</description>
     </item>
   </channel>
 </rss>
