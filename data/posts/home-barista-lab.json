@@ -1,5 +1,56 @@
 [
   {
+    "slug": "improving-coffee-with-water-filtration",
+    "title": "The Clear Advantage: How Water Filtration Impacts Home Brews",
+    "dek": "Better water, better coffee",
+    "takeaway": "Using a water filter can significantly enhance the taste of your home-brewed coffee",
+    "whatHappened": "Recently, there's been a growing interest in the role of water quality in brewing coffee. Water composition can dramatically affect the flavor profile of coffee, with impurities and minerals altering the extraction process. By using a water filter, home baristas can control and optimize the water quality used in their brewing",
+    "whyItMatters": "The quality of water used in brewing can either elevate or diminish the flavors present in coffee. Impurities in water can lead to an imbalanced extraction, resulting in tastes that are either too bitter or too sour. By filtering water, enthusiasts can ensure a cleaner, more nuanced flavor in every cup",
+    "howToThink": "When considering water filtration for coffee, think about the total dissolved solids (TDS) in your water and how they might impact the flavor. Look for filters that can remove impurities without stripping the water of beneficial minerals. Regularly changing the filter is also crucial to maintain water quality",
+    "pros": [
+      "Improves flavor",
+      "Reduces scale buildup",
+      "Easy to install"
+    ],
+    "cons": [
+      "Adds cost",
+      "Requires maintenance",
+      "Not all filters are created equal"
+    ],
+    "watchOut": "Be cautious of over-filtering, which can result in water that's too pure for optimal coffee extraction",
+    "faq": [
+      {
+        "q": "What TDS level is ideal for coffee?",
+        "a": "Between 100-200 ppm is considered optimal for brewing coffee"
+      },
+      {
+        "q": "Do all water filters work for coffee?",
+        "a": "No, not all filters are suitable for coffee, as some may remove beneficial minerals or not remove enough impurities"
+      },
+      {
+        "q": "How often should I change my water filter?",
+        "a": "It depends on usage, but typically every 3-6 months or as recommended by the manufacturer"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "coffee water",
+      "filtration"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-06T04:48:32.895Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "budget-grinder-upgrade-field-test-6",
     "title": "\"budget grinder upgrade\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.",
