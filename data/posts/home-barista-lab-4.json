@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "espresso-machine-buyers-guide",
+    "title": "Espresso Machine Smackdown",
+    "category": "Espresso",
+    "dek": "Top picks for home baristas.",
+    "takeaway": "The right machine can elevate your coffee game.",
+    "whatHappened": "We tested the latest crop of home espresso machines, from budget-friendly to high-end. The results were surprising, with some dark horses outperforming established brands. Key factors included grind quality and temperature control.",
+    "whyItMatters": "A good espresso machine is the cornerstone of any home coffee setup. With the right machine, you can produce high-quality shots that rival those from your local coffee shop. This not only saves you money but also gives you the flexibility to experiment with different roasts and brewing techniques.",
+    "howToThink": "When choosing an espresso machine, think about your budget, available counter space, and desired level of automation. Consider whether you want a manual, semi-automatic, or super-automatic machine. Don't forget to factor in the cost of any additional accessories, such as a grinder or scale.",
+    "pros": [
+      "High-quality shots",
+      "Customizable",
+      "Space-efficient"
+    ],
+    "cons": [
+      "Expensive",
+      "Complex",
+      "Noise"
+    ],
+    "watchOut": "Beware of cheap machines with poor temperature control.",
+    "faq": [
+      {
+        "q": "What's the best espresso machine for beginners?",
+        "a": "Look for a machine with a simple interface and automatic temperature control."
+      },
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily cleaning is essential to prevent bitterness and bacterial growth."
+      },
+      {
+        "q": "Can I use any coffee beans in my espresso machine?",
+        "a": "No, use high-quality, freshly roasted beans for optimal flavor."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "tags": [
+      "espresso",
+      "machine"
+    ],
+    "publishedAt": "2026-08-06T03:36:44.760Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pour-over-technique-mastery",
+    "title": "Pour-over Perfection",
+    "category": "Pour-over",
+    "dek": "Tips for a flawless cup.",
+    "takeaway": "Mastering pour-over technique can significantly improve your coffee's flavor.",
+    "whatHappened": "We explored the art of pour-over brewing, from equipment selection to water temperature. The key to a perfect cup lies in the nuances of technique, including pour rate and coffee-to-water ratio. Experimenting with different roasts and grind sizes also yielded interesting results.",
+    "whyItMatters": "Pour-over brewing allows for a high degree of control over the brewing process, making it an ideal method for coffee enthusiasts who want to tailor their cup to their taste preferences. By mastering pour-over technique, you can bring out the unique characteristics of your favorite coffee beans.",
+    "howToThink": "When approaching pour-over brewing, consider the importance of using fresh, high-quality coffee beans and filtered water. Invest in a good grinder and scale to ensure consistency. Practice makes perfect, so don't be discouraged if your first few attempts don't yield the desired results.",
+    "pros": [
+      "Flexible",
+      "Cost-effective",
+      "Flavorful"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Manual",
+      "Sensitive"
+    ],
+    "watchOut": "Be mindful of water temperature to avoid under or over extraction.",
+    "faq": [
+      {
+        "q": "What's the ideal water temperature for pour-over?",
+        "a": "Between 195°F and 205°F for optimal extraction."
+      },
+      {
+        "q": "How do I prevent channeling in pour-over?",
+        "a": "Use a consistent pour rate and ensure the coffee bed is evenly saturated."
+      },
+      {
+        "q": "Can I use a pour-over dripper with any coffee filter?",
+        "a": "No, use a filter specifically designed for pour-over to prevent paper taste and ensure clean extraction."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "tags": [
+      "pour-over",
+      "technique"
+    ],
+    "publishedAt": "2026-08-04T14:36:44.760Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "coffee-roasting-basics",
+    "title": "The Roasting Revolution",
+    "category": "Roasting",
+    "dek": "Unlock the secrets of coffee roasting.",
+    "takeaway": "Roasting your own coffee can transform your brewing experience.",
+    "whatHappened": "We delved into the world of coffee roasting, exploring the different stages of the roasting process and how they impact the final flavor. From light to dark roasts, each stage offers unique characteristics that can enhance or detract from the coffee's natural flavor profile. Home roasting equipment has become increasingly accessible, making it easier for enthusiasts to experiment with roasting their own beans.",
+    "whyItMatters": "Roasting your own coffee allows you to control the level of roast, which can significantly impact the flavor of your brewed coffee. By understanding the roasting process, you can tailor your roast to suit your taste preferences and explore the vast array of coffee flavors available.",
+    "howToThink": "When starting out with home coffee roasting, consider investing in a basic roasting setup, such as a popcorn popper or dedicated roasting machine. Start with small batches to experiment with different roast levels and techniques. Keep in mind that roasting is an art that requires patience and practice to master.",
+    "pros": [
+      "Customizable",
+      "Freshness",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Equipment cost",
+      "Trial and error",
+      "Space required"
+    ],
+    "watchOut": "Be cautious of over-roasting, which can lead to bitter flavors.",
+    "faq": [
+      {
+        "q": "What's the difference between light and dark roasts?",
+        "a": "Light roasts have more acidity and fruit notes, while dark roasts are richer and more bitter."
+      },
+      {
+        "q": "How do I store my home-roasted coffee?",
+        "a": "Keep it in an airtight container in a cool, dark place to preserve freshness."
+      },
+      {
+        "q": "Can I roast coffee in a skillet on the stovetop?",
+        "a": "Yes, but be cautious of temperature control and potential smoke."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "tags": [
+      "roasting",
+      "coffee"
+    ],
+    "publishedAt": "2026-08-03T01:36:44.760Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "gear-for-home-baristas",
+    "title": "Essential Gear for Home Baristas",
+    "category": "Gear",
+    "dek": "Must-haves for the serious home barista.",
+    "takeaway": "The right gear can elevate your home coffee experience.",
+    "whatHappened": "We rounded up the essential gear for home baristas, including grinders, scales, and brewers. The right equipment can make a significant difference in the quality of your coffee, from grind consistency to brewing temperature. We also explored accessories like coffee syrups and milk frothing pitchers.",
+    "whyItMatters": "Investing in quality gear can streamline your coffee-making process and improve the flavor of your brewed coffee. By having the right tools at your disposal, you can experiment with different brewing methods and techniques, expanding your coffee knowledge and enjoyment.",
+    "howToThink": "When selecting gear for your home coffee setup, consider your budget, available space, and desired level of automation. Prioritize the essentials, such as a good grinder and scale, before moving on to more specialized equipment like pour-over drippers or espresso machines. Don't forget to factor in maintenance and upkeep costs.",
+    "pros": [
+      "Improved flavor",
+      "Increased efficiency",
+      "Customization"
+    ],
+    "cons": [
+      "Expensive",
+      "Space-consuming",
+      "Complexity"
+    ],
+    "watchOut": "Beware of low-quality gear that can compromise flavor and durability.",
+    "faq": [
+      {
+        "q": "What's the best grinder for home use?",
+        "a": "Look for a burr grinder with adjustable grind settings and a compact design."
+      },
+      {
+        "q": "Do I need a scale for brewing coffee?",
+        "a": "Yes, a scale ensures accurate measurements and optimal extraction."
+      },
+      {
+        "q": "Can I use a regular kitchen kettle for brewing coffee?",
+        "a": "No, a gooseneck kettle is recommended for precise temperature control and pouring."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "tags": [
+      "gear",
+      "equipment"
+    ],
+    "publishedAt": "2026-08-01T12:36:44.760Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "espresso-brewing-techniques",
+    "title": "Espresso Brewing Techniques",
+    "category": "Espresso",
+    "dek": "Master the art of espresso brewing.",
+    "takeaway": "Proper technique is key to a perfect shot.",
+    "whatHappened": "We explored the techniques and best practices for brewing espresso, including machine calibration, grind adjustment, and tamping. The importance of using fresh, high-quality coffee beans and purified water cannot be overstated. Experimenting with different roast levels and brewing temperatures also yielded interesting results.",
+    "whyItMatters": "Espresso is a delicate and nuanced brewing method that requires attention to detail and practice to master. By understanding the principles of espresso brewing, you can optimize your machine's performance and extract the full potential from your coffee beans.",
+    "howToThink": "When brewing espresso, consider the importance of consistency and patience. Invest in a good grinder and scale to ensure precise measurements, and don't be afraid to experiment with different roasts and brewing techniques. Regular machine maintenance is also crucial to prevent issues like scale buildup and worn-out seals.",
+    "pros": [
+      "Rich flavor",
+      "Convenient",
+      "Customizable"
+    ],
+    "cons": [
+      "Expensive machines",
+      "Sensitive to technique",
+      "Noise"
+    ],
+    "watchOut": "Be mindful of over-extraction, which can lead to bitter flavors.",
+    "faq": [
+      {
+        "q": "What's the ideal brewing temperature for espresso?",
+        "a": "Between 195°F and 205°F for optimal extraction."
+      },
+      {
+        "q": "How do I prevent channeling in espresso brewing?",
+        "a": "Use a consistent tamping technique and ensure the machine is properly calibrated."
+      },
+      {
+        "q": "Can I use any coffee beans for espresso brewing?",
+        "a": "No, use high-quality, freshly roasted beans with a fine grind for optimal flavor."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "tags": [
+      "espresso",
+      "brewing"
+    ],
+    "publishedAt": "2026-07-30T23:36:44.760Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "coffee-and-milk-texture",
+    "title": "The Art of Coffee and Milk Texture",
+    "category": "Pour-over",
+    "dek": "Elevate your coffee with perfectly textured milk.",
+    "takeaway": "Mastering milk texture can transform your coffee experience.",
+    "whatHappened": "We explored the world of coffee and milk texture, from the basics of steaming and frothing to advanced techniques like latte art. The right milk texture can elevate the flavor and presentation of your coffee, making it a truly special experience. We also discussed the importance of using high-quality milk and the impact of temperature on texture.",
+    "whyItMatters": "Milk texture can make or break the flavor and aesthetic of your coffee. By understanding the principles of steaming and frothing, you can create beautiful, velvety textures that complement your coffee perfectly. This skill is especially important for pour-over and espresso-based drinks, where the ratio of coffee to milk is critical.",
+    "howToThink": "When working with milk texture, consider the importance of temperature, steam pressure, and pouring technique. Practice makes perfect, so don't be discouraged if your first attempts don't yield the desired results. Invest in a good steam wand and thermometer to ensure precise control over the steaming process.",
+    "pros": [
+      "Creamy texture",
+      "Customizable",
+      "Aesthetically pleasing"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires practice",
+      "Sensitive to temperature"
+    ],
+    "watchOut": "Be cautious of over-heating the milk, which can lead to a burnt flavor.",
+    "faq": [
+      {
+        "q": "What's the ideal temperature for steaming milk?",
+        "a": "Between 140°F and 160°F for optimal texture and flavor."
+      },
+      {
+        "q": "How do I create microfoam for latte art?",
+        "a": "Use a steam wand with a narrow tip and pour in a circular motion to create a smooth, velvety texture."
+      },
+      {
+        "q": "Can I use any type of milk for coffee drinks?",
+        "a": "No, use high-quality, fresh milk with a high fat content for optimal flavor and texture."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "tags": [
+      "milk",
+      "texture"
+    ],
+    "publishedAt": "2026-07-29T10:36:44.760Z",
+    "readMinutes": 2
+  }
+]
