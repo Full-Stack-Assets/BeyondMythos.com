@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reconditioning-classic-controllers",
+    "title": "Breathe New Life into Your Retro Gamepads",
+    "dek": "Revive your classic controllers",
+    "takeaway": "Proper maintenance can extend the life of your retro gamepads",
+    "whatHappened": "Many retro game collectors and speedrunners struggle with worn-out controllers, which can hinder their gaming experience. Over time, buttons and joysticks can become less responsive, affecting performance. A well-maintained controller, however, can significantly improve gameplay.",
+    "whyItMatters": "A properly functioning controller is essential for speedrunners, as it allows for precise and swift movements. For collectors, it ensures that their classic consoles remain enjoyable to play. Moreover, reconditioning controllers can also help preserve the overall gaming experience for future generations.",
+    "howToThink": "When reconditioning your classic controllers, consider replacing worn-out buttons and cleaning the circuit boards. Regularly inspecting and maintaining your controllers can also help prevent damage. By doing so, you'll be able to enjoy your retro games with improved performance and responsiveness.",
+    "pros": [
+      "Improved performance",
+      "Increased longevity",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires technical knowledge",
+      "Limited replacement parts"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronic components to avoid causing further damage to your controllers",
+    "faq": [
+      {
+        "q": "What cleaning products are safe for retro controllers?",
+        "a": "Mild soap and water or specialized electronic cleaning solutions"
+      },
+      {
+        "q": "Can I replace the batteries in my wireless retro controller?",
+        "a": "Yes, but ensure you use the correct replacement batteries to avoid damage"
+      },
+      {
+        "q": "How often should I recondition my retro controllers?",
+        "a": "It depends on usage, but a general rule of thumb is to inspect and maintain them every 6-12 months"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-06T13:18:18.214Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-speedrun-controller-mods",
     "title": "Optimize Your SNES Speedrun Setup",
     "dek": "Boost your speedrun performance",

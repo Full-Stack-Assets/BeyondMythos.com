@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-bean-freshness-matters-2",
+    "title": "The Freshness Factor: How Long Do Coffee Beans Last?",
+    "dek": "Fresh beans boost flavor",
+    "takeaway": "Using freshly roasted coffee beans is crucial for optimal flavor in your home brews",
+    "whatHappened": "Coffee beans start losing their flavor and aroma immediately after roasting, with a significant decline after just a week. This degradation affects the overall quality of your brew. To preserve freshness, it's essential to store beans properly and use them within a reasonable timeframe.",
+    "whyItMatters": "The freshness of coffee beans directly impacts the taste of your espresso or pour-over, with stale beans leading to a dull and unbalanced flavor. Fresh beans, on the other hand, provide a vibrant and nuanced taste experience. Understanding how to maintain bean freshness is a key skill for any home coffee enthusiast.",
+    "howToThink": "To maximize freshness, buy beans in small quantities, store them in airtight containers, and aim to use them within 7-10 days of roasting. Consider the roasting date when purchasing beans and opt for local roasters to minimize transportation time. Regularly tasting and adjusting your bean supply will also help you stay on top of freshness.",
+    "pros": [
+      "Improved flavor",
+      "Better aroma",
+      "Increased satisfaction"
+    ],
+    "cons": [
+      "Shorter shelf life",
+      "Higher cost",
+      "More frequent purchases"
+    ],
+    "watchOut": "Be wary of beans that have been sitting on store shelves for too long, as they may already be past their prime",
+    "faq": [
+      {
+        "q": "How often should I buy coffee beans?",
+        "a": "Buy beans in small quantities every 7-10 days to ensure maximum freshness"
+      },
+      {
+        "q": "Can I freeze coffee beans?",
+        "a": "Yes, freezing can help preserve freshness, but it's crucial to use airtight containers and freeze them immediately after roasting"
+      },
+      {
+        "q": "What's the best way to store coffee beans?",
+        "a": "Store beans in a cool, dark place in airtight containers to protect them from air, moisture, and light"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "coffee freshness",
+      "bean storage"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-06T13:18:18.055Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "coffee-scale-precision",
     "title": "Weighing the Odds: How a Coffee Scale Can Transform Your Brew",
     "dek": "Precision brewing made easy",
