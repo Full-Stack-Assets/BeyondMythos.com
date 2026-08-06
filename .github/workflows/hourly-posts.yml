@@ -1,40 +1,36 @@
-name: Validated content candidates
+name: Hourly posts for all sites
 
 on:
   schedule:
-    # Batch candidates once daily instead of mutating production every hour.
-    - cron: "30 12 * * *"
+    - cron: "45 * * * *"
   workflow_dispatch:
 
 concurrency:
-  group: validated-content-candidates
+  group: hourly-posts
   cancel-in-progress: false
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
-  generate-candidate:
+  add-posts:
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
     steps:
-      - name: Checkout production baseline
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "22"
           cache: npm
 
-      - name: Install dependencies
-        run: npm ci
+      - run: npm ci
+      - run: npm test
 
-      - name: Generate candidate posts without deployment credentials
+      - name: Add one new post to every site
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
@@ -45,47 +41,34 @@ jobs:
           STOREFORGE_URL: ${{ secrets.STOREFORGE_URL }}
         run: node scripts/add-posts.js
 
-      - name: Detect candidate changes
-        id: changes
-        shell: bash
-        run: |
-          if git diff --quiet -- data/ public/sites/; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No candidate content was generated."
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Run repository tests
-        if: steps.changes.outputs.changed == 'true'
+      - name: Validate generated candidate
         run: npm test
 
-      - name: Verify generated JSON and JavaScript syntax
-        if: steps.changes.outputs.changed == 'true'
-        shell: bash
-        run: |
-          set -euo pipefail
-          find data -type f -name '*.json' -print0 | xargs -0 -r -n1 node -e 'JSON.parse(require("fs").readFileSync(process.argv[1], "utf8"))'
-          find public/sites -type f -name '*.js' -print0 | xargs -0 -r -n1 node --check
-
-      - name: Open candidate pull request
-        if: steps.changes.outputs.changed == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Commit candidate changes to automation branch
         shell: bash
         run: |
           set -euo pipefail
 
-          branch="automation/content-${GITHUB_RUN_ID}"
-          git config user.name "beyondmythos-content-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git switch -c "$branch"
+          git config user.name "beyondmythos-bot"
+          git config user.email "bot@beyondmythos.dev"
+
+          candidate_branch="automation/content-candidates"
+          git fetch origin "${candidate_branch}" || true
+          if git show-ref --verify --quiet "refs/remotes/origin/${candidate_branch}"; then
+            git checkout -B "${candidate_branch}" "origin/${candidate_branch}"
+            git merge --no-edit "${GITHUB_SHA}"
+          else
+            git checkout -B "${candidate_branch}" "${GITHUB_SHA}"
+          fi
+
           git add data/ public/sites/
-          git commit -m "content: add validated daily candidates"
-          git push --set-upstream origin "$branch"
+          if git diff --cached --quiet; then
+            echo "No new posts to commit."
+            exit 0
+          fi
 
-          gh pr create \
-            --base main \
-            --head "$branch" \
-            --title "Validated content candidates $(date -u +%Y-%m-%d)" \
-            --body $'## Automated content candidates\n\nThe generator ran without deployment credentials. Repository tests and generated-data syntax validation passed before this pull request was opened.\n\nNo production deployment or production-branch mutation occurs until review and merge.'
+          git commit -m "content: candidate batch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push --force-with-lease origin "HEAD:${candidate_branch}"
+
+          echo "Candidate batch pushed to ${candidate_branch}."
+          echo "Production deployment requires a reviewed pull request into main."
