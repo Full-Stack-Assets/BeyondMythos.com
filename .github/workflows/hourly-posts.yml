@@ -1,33 +1,40 @@
-name: Hourly posts for all sites
+name: Validated content candidates
 
 on:
   schedule:
-    - cron: "45 * * * *"
+    # Batch candidates once daily instead of mutating production every hour.
+    - cron: "30 12 * * *"
   workflow_dispatch:
 
 concurrency:
-  group: hourly-posts
+  group: validated-content-candidates
   cancel-in-progress: false
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
-  add-posts:
+  generate-candidate:
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout production baseline
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: "22"
           cache: npm
 
-      - run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Add one new post to every site and redeploy standalone projects
+      - name: Generate candidate posts without deployment credentials
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
@@ -36,28 +43,49 @@ jobs:
           CONTENT_PROVIDER: ${{ vars.CONTENT_PROVIDER }}
           BEYONDMYTHOS_URL: ${{ secrets.BEYONDMYTHOS_URL || secrets.STOREFORGE_URL }}
           STOREFORGE_URL: ${{ secrets.STOREFORGE_URL }}
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
-          VERCEL_PROJECT_PREFIX: ${{ vars.VERCEL_PROJECT_PREFIX }}
         run: node scripts/add-posts.js
 
-      - name: Commit and push
-        env:
-          VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+      - name: Detect candidate changes
+        id: changes
+        shell: bash
         run: |
-          git config user.name "beyondmythos-bot"
-          git config user.email "bot@beyondmythos.dev"
+          if git diff --quiet -- data/ public/sites/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No candidate content was generated."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
 
-          git pull --rebase origin main || true
+      - name: Run repository tests
+        if: steps.changes.outputs.changed == 'true'
+        run: npm test
+
+      - name: Verify generated JSON and JavaScript syntax
+        if: steps.changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          find data -type f -name '*.json' -print0 | xargs -0 -r -n1 node -e 'JSON.parse(require("fs").readFileSync(process.argv[1], "utf8"))'
+          find public/sites -type f -name '*.js' -print0 | xargs -0 -r -n1 node --check
+
+      - name: Open candidate pull request
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          branch="automation/content-${GITHUB_RUN_ID}"
+          git config user.name "beyondmythos-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git switch -c "$branch"
           git add data/ public/sites/
-          if git diff --cached --quiet; then
-            echo "No new posts to commit."
-            exit 0
-          fi
+          git commit -m "content: add validated daily candidates"
+          git push --set-upstream origin "$branch"
 
-          git commit -m "blog: hourly posts $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
-
-          if [ -n "${VERCEL_DEPLOY_HOOK_URL}" ]; then
-            curl -fsS -m 30 --retry 3 -X POST "${VERCEL_DEPLOY_HOOK_URL}" || true
-          fi
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --title "Validated content candidates $(date -u +%Y-%m-%d)" \
+            --body $'## Automated content candidates\n\nThe generator ran without deployment credentials. Repository tests and generated-data syntax validation passed before this pull request was opened.\n\nNo production deployment or production-branch mutation occurs until review and merge.'
