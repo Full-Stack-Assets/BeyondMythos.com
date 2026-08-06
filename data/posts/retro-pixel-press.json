@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-speedrun-controller-mods",
+    "title": "Optimize Your SNES Speedrun Setup",
+    "dek": "Boost your speedrun performance",
+    "takeaway": "The right controller mods can significantly reduce speedrun times",
+    "whatHappened": "Recent speedruns have highlighted the importance of optimized controller setups, with many top runners using custom mods to gain a competitive edge. These mods can include button remapping, turbo functionality, and improved ergonomics. By leveraging these mods, runners can execute complex maneuvers with greater precision and speed.",
+    "whyItMatters": "For retro game collectors and speedrunners, having the right hardware can be the difference between a good run and a great one. Optimized controller mods can help runners improve their execution, reduce mistakes, and ultimately achieve faster times. As the speedrunning community continues to evolve, the importance of customized hardware will only continue to grow.",
+    "howToThink": "When considering controller mods for your SNES speedrun setup, think about the specific games you're running and the maneuvers you need to execute. Identify areas where custom mods can help you improve, such as button remapping for complex combos or turbo functionality for rapid-fire actions. By tailoring your mods to your specific needs, you can create a setup that helps you perform at your best.",
+    "pros": [
+      "Improved execution",
+      "Reduced mistakes",
+      "Faster times"
+    ],
+    "cons": [
+      "Custom mods can be expensive",
+      "May require technical expertise",
+      "Limited compatibility"
+    ],
+    "watchOut": "Be cautious when installing custom mods, as they can potentially damage your controller or void its warranty",
+    "faq": [
+      {
+        "q": "What are the most popular SNES speedrun mods?",
+        "a": "Button remapping, turbo functionality, and improved ergonomics are among the most popular mods"
+      },
+      {
+        "q": "How do I install custom mods on my SNES controller?",
+        "a": "Installation typically requires soldering and technical expertise, but many online guides and tutorials are available"
+      },
+      {
+        "q": "Are custom mods allowed in official speedrunning competitions?",
+        "a": "It depends on the specific competition and its rules, so be sure to check before participating"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "speedrun",
+      "snes"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-06T11:06:08.003Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-mini-hack",
     "title": "Unlocking the SNES Mini: A Hardware Hacker's Dream",
     "dek": "Supercharge your SNES Mini with custom hacks",

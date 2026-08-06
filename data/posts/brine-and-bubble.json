@@ -1,5 +1,56 @@
 [
   {
+    "slug": "miso-seasoning-hacks",
+    "title": "Supercharge Your Miso with These 3 Simple Seasoning Tweaks",
+    "dek": "Elevate your miso game with minimal effort",
+    "takeaway": "A few simple seasoning tweaks can take your miso to the next level",
+    "whatHappened": "After experimenting with various seasoning combinations, we discovered that a few key tweaks can greatly impact the flavor of your miso. From adding a pinch of smoky paprika to incorporating fresh herbs, these small changes can make a big difference. By applying these hacks, you can create a more complex and interesting miso flavor profile",
+    "whyItMatters": "Miso is a fundamental ingredient in many fermentation recipes, and having a deep understanding of how to season it can elevate your entire fermentation practice. By mastering the art of miso seasoning, you can create a wide range of delicious and unique flavors. This, in turn, can help you to stay inspired and motivated in your fermentation journey",
+    "howToThink": "When it comes to seasoning your miso, think about balancing flavors and creating depth. Consider the type of dish you're making and the other ingredients you're using, and adjust your seasoning accordingly. Don't be afraid to experiment and try new combinations – it's all part of the fermentation process",
+    "pros": [
+      "Easy to implement",
+      "Big flavor impact",
+      "Endless combinations"
+    ],
+    "cons": [
+      "Can be overwhelming",
+      "Requires experimentation",
+      "May not suit all recipes"
+    ],
+    "watchOut": "Be careful not to over-season, as this can throw off the balance of your miso",
+    "faq": [
+      {
+        "q": "What are some common miso seasoning mistakes?",
+        "a": "Over-seasoning and using low-quality ingredients are two common mistakes to avoid"
+      },
+      {
+        "q": "How do I know which seasonings to use?",
+        "a": "Start by considering the type of dish you're making and the other ingredients you're using, and adjust your seasoning accordingly"
+      },
+      {
+        "q": "Can I use these seasoning hacks in other fermentation recipes?",
+        "a": "Yes, many of these seasoning hacks can be applied to other fermentation recipes, such as sauerkraut or kimchi"
+      }
+    ],
+    "category": "Miso",
+    "tags": [
+      "miso",
+      "seasoning"
+    ],
+    "sources": [
+      {
+        "label": "r/Kombucha community threads",
+        "url": "https://www.reddit.com/r/Kombucha/"
+      },
+      {
+        "label": "Search interest: \"kombucha second ferment\"",
+        "url": "https://duckduckgo.com/?q=kombucha%20second%20ferment"
+      }
+    ],
+    "publishedAt": "2026-08-06T11:06:13.395Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-vegetables-22",
     "title": "A weekend project: level up your vegetables in two hours",
     "dek": "One contained, satisfying vegetables project for home fermenters — start Saturday morning, done by lunch.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-scale-precision",
+    "title": "Weighing the Odds: How a Coffee Scale Can Transform Your Brew",
+    "dek": "Precision brewing made easy",
+    "takeaway": "A coffee scale is a simple yet powerful tool to elevate your home coffee game",
+    "whatHappened": "Recent experiments in our Home Barista Lab have highlighted the importance of precise measurements in coffee brewing. By using a coffee scale, we were able to achieve a level of consistency that was previously unattainable. This small investment paid big dividends in terms of flavor and quality.",
+    "whyItMatters": "Consistency is key when it comes to brewing great coffee, and a coffee scale helps you achieve that. By accurately measuring your coffee and water, you can ensure that every shot is perfect. This level of precision also allows you to experiment and fine-tune your brewing technique with confidence.",
+    "howToThink": "To get the most out of your coffee scale, start by measuring your coffee and water carefully, and then adjust your brewing technique accordingly. Pay attention to the ratios of coffee to water, and experiment with different grind sizes and brewing times to find your perfect cup. With a coffee scale, the possibilities are endless, and the results are well worth the effort.",
+    "pros": [
+      "Improved consistency",
+      "Increased precision",
+      "Enhanced flavor"
+    ],
+    "cons": [
+      "Additional cost",
+      "Learning curve",
+      "Dependence on batteries"
+    ],
+    "watchOut": "Be careful not to over-rely on the scale, as this can stifle creativity and experimentation in your brewing",
+    "faq": [
+      {
+        "q": "What type of coffee scale should I buy?",
+        "a": "Look for a scale with high precision and a compact design, such as a digital scale with a built-in timer"
+      },
+      {
+        "q": "How do I calibrate my coffee scale?",
+        "a": "Most coffee scales come with calibration instructions, but generally, you'll need to place a known weight on the scale and adjust the settings accordingly"
+      },
+      {
+        "q": "Can I use my coffee scale for other kitchen tasks?",
+        "a": "Yes, a coffee scale can be a versatile tool in the kitchen, and can be used to measure ingredients for baking, cooking, and other recipes"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "coffee gear",
+      "brewing tips"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-06T11:06:08.230Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-17",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

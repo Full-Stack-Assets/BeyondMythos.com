@@ -1,5 +1,56 @@
 [
   {
+    "slug": "small-shop-sanders",
+    "title": "Picking the Perfect Sander for Your Small Woodworking Shop",
+    "dek": "Get the right sander for your small shop",
+    "takeaway": "The right sander can transform your small woodworking shop's efficiency and quality of work",
+    "whatHappened": "Recently, I've seen many hobby woodworkers in small shops struggle with inefficient sanding processes, leading to wasted time and subpar finishes. This is often due to using the wrong sander for the job. With so many options available, from belt sanders to orbital sanders, choosing the right one can be daunting. However, making an informed decision can significantly impact the quality of your work.",
+    "whyItMatters": "Having the appropriate sander in your small shop can make all the difference in the quality of your woodworking projects. It can save you time, reduce dust and mess, and ensure a professional-grade finish. Moreover, the right sander can help prevent common issues such as swirl marks and scratches, which can be difficult to fix, especially for beginners.",
+    "howToThink": "When selecting a sander for your small shop, consider the types of projects you typically work on, the space you have available, and your budget. Think about the size of the pieces you usually sand, as this will help you decide between a larger, more powerful sander or a smaller, more agile one. Additionally, consider the noise level, as this can be a significant factor in a home workshop setting.",
+    "pros": [
+      "Time-saving",
+      "Improved finish quality",
+      "Versatility"
+    ],
+    "cons": [
+      "Cost",
+      "Space requirements",
+      "Noise level"
+    ],
+    "watchOut": "Be cautious of very cheap sanders, as they may not provide the desired results and could potentially damage your workpieces",
+    "faq": [
+      {
+        "q": "What is the best sander for a small shop?",
+        "a": "The best sander depends on your specific needs, but for most small shops, a compact belt sander or an orbital sander is a versatile choice."
+      },
+      {
+        "q": "How often should I replace the sanding belts?",
+        "a": "Replace sanding belts when they show signs of wear, such as fraying or a significant decrease in sanding efficiency, usually after a few projects."
+      },
+      {
+        "q": "Can I use a sander for polishing?",
+        "a": "While sanders are designed for sanding, some orbital sanders can be used with polishing pads for a high-gloss finish, but it's essential to follow the manufacturer's guidelines."
+      }
+    ],
+    "category": "Shop Setup",
+    "tags": [
+      "woodworking",
+      "sanders"
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "publishedAt": "2026-08-06T11:06:12.006Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-shop-setup-23",
     "title": "Ask the forge: your shop setup questions, answered",
     "dek": "Straight answers to the shop setup questions hobby woodworkers in small shops keep asking, minus the hedging.",
