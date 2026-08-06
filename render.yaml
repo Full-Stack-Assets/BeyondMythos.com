@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: beyondmythos
+    runtime: node
+    plan: starter
+    region: ohio
+    buildCommand: npm ci
+    startCommand: npm start
+    autoDeployTrigger: checksPass
+    healthCheckPath: /
+    domains:
+      - beyondmythos.com
+      - www.beyondmythos.com
+    envVars:
+      - key: NODE_VERSION
+        value: 22.18.0
+      - key: NODE_ENV
+        value: production
+      - key: BASE_URL
+        value: https://beyondmythos.com
+      - key: FRONTEND_URL
+        value: https://beyondmythos.com
+      - key: CORS_ORIGIN
+        value: https://beyondmythos.com,https://www.beyondmythos.com
+      - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: STRIPE_WEBHOOK_SECRET
+        sync: false
