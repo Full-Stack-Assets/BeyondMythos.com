@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-mini-hack",
+    "title": "Unlocking the SNES Mini: A Hardware Hacker's Dream",
+    "dek": "Supercharge your SNES Mini with custom hacks",
+    "takeaway": "With the right hardware mods, you can breathe new life into your SNES Mini and unlock its full potential",
+    "whatHappened": "Recently, hackers have discovered ways to modify the SNES Mini to play custom games and improve performance. This has led to a surge in interest among retro gaming enthusiasts. As a result, the community is now exploring the possibilities of what can be achieved with these mods.",
+    "whyItMatters": "The ability to customize and modify the SNES Mini is a game-changer for retro gamers. It allows for a more personalized experience and can even improve the overall performance of the device. This can be especially important for speedrunners who require precise control and optimal performance.",
+    "howToThink": "When considering SNES Mini mods, it's essential to think about your goals and what you want to achieve. Are you looking to improve performance, add custom games, or simply customize the look and feel of your device? By understanding your objectives, you can choose the right mods and ensure a successful installation.",
+    "pros": [
+      "Improved performance",
+      "Custom game support",
+      "Personalized experience"
+    ],
+    "cons": [
+      "Voiding the warranty",
+      "Technical complexity",
+      "Cost of mods"
+    ],
+    "watchOut": "Be cautious when installing mods, as they can potentially damage your device if not done correctly",
+    "faq": [
+      {
+        "q": "What is the best way to install mods on my SNES Mini?",
+        "a": "It's recommended to follow established tutorials and guides from trusted sources to ensure a safe and successful installation"
+      },
+      {
+        "q": "Will mods void my warranty?",
+        "a": "Yes, installing mods can void your warranty, so it's essential to weigh the risks and benefits before proceeding"
+      },
+      {
+        "q": "Can I add custom games to my SNES Mini?",
+        "a": "Yes, with the right mods, you can add custom games to your SNES Mini, expanding your gaming library"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "SNES Mini"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-06T08:06:13.770Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-snes-controllers",
     "title": "Instant Response: Upgrading Your SNES Controller for Competitive Speedruns",
     "dek": "Boost your speedrun times with these simple upgrades.",

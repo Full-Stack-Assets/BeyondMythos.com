@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-belt-tension",
+    "title": "Tuning Your Printer's Belt Tension for Silky Smooth Prints",
+    "dek": "Get better prints by adjusting belt tension",
+    "takeaway": "Proper belt tension is crucial for reducing vibrations and improving print quality",
+    "whatHappened": "Loose or over-tightened belts can lead to prints with uneven layers, wavy patterns, or even failed prints. Recently, many hobbyists have reported issues with their prints due to improper belt tension. By adjusting the belt tension, you can significantly improve the overall print quality.",
+    "whyItMatters": "Belt tension affects the stability and precision of your printer's movements, directly impacting the quality of your prints. Incorrect tension can also lead to wear and tear on your printer's components, reducing its lifespan. Proper calibration is essential for optimal performance and longevity.",
+    "howToThink": "To optimize your belt tension, start by consulting your printer's manual for the recommended tension values. Then, use a belt tension gauge to measure and adjust the tension accordingly. It's also essential to regularly check and maintain the belt tension to ensure consistent print quality.",
+    "pros": [
+      "Improved print quality",
+      "Reduced vibrations",
+      "Increased precision"
+    ],
+    "cons": [
+      "Requires manual adjustment",
+      "Can be time-consuming",
+      "May need frequent checks"
+    ],
+    "watchOut": "Be cautious not to over-tighten the belts, as this can damage your printer's components",
+    "faq": [
+      {
+        "q": "What is the ideal belt tension for my printer?",
+        "a": "Consult your printer's manual for the recommended tension values"
+      },
+      {
+        "q": "How often should I check the belt tension?",
+        "a": "Regularly check and maintain the belt tension to ensure consistent print quality"
+      },
+      {
+        "q": "Can I use a different type of belt?",
+        "a": "It's recommended to use the manufacturer's recommended belt type for optimal performance"
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "3d printing",
+      "calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/FixMyPrint community threads",
+        "url": "https://www.reddit.com/r/FixMyPrint/"
+      },
+      {
+        "label": "Search interest: \"best filament for beginners\"",
+        "url": "https://duckduckgo.com/?q=best%20filament%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-06T08:06:22.197Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-3d-print-stringing-fix-7",
     "title": "Myth vs. reality: 3d print stringing fix",
     "dek": "The persistent myths around 3d print stringing fix, stress-tested against what home 3D-printing hobbyists actually report.",

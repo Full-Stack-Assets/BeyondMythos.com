@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-composting-hacks",
+    "title": "Beat the Heat: Summer Composting Strategies for Small Spaces",
+    "dek": "Boost your compost game this summer.",
+    "takeaway": "With the right techniques, you can keep your compost pile thriving even in the hottest months.",
+    "whatHappened": "As summer approaches, many urban gardeners struggle to maintain their compost piles due to high temperatures and dry conditions. However, with a few simple adjustments, you can ensure your compost continues to break down efficiently. This includes regular watering, adding a mix of 'green' and 'brown' materials, and providing adequate aeration.",
+    "whyItMatters": "Effective composting is crucial for urban gardeners, as it provides a natural, nutrient-rich fertilizer for plants. This not only promotes healthy plant growth but also helps reduce waste sent to landfills. Moreover, successful composting in small spaces like balconies or indoor areas can be particularly challenging, making summer strategies even more vital.",
+    "howToThink": "To approach summer composting, consider the carbon-to-nitrogen ratio of your compost pile, aiming for a balance that facilitates efficient decomposition. Also, think about incorporating materials that absorb excess moisture and help with aeration, such as coconut coir or straw. Regular monitoring of the pile's temperature and moisture levels is also key to preventing overheating and maintaining optimal conditions.",
+    "pros": [
+      "Nutrient-rich fertilizer",
+      "Reduces waste",
+      "Promotes healthy plant growth"
+    ],
+    "cons": [
+      "Requires regular maintenance",
+      "Can attract pests if not managed properly",
+      "Space constraints in small gardens"
+    ],
+    "watchOut": "Be cautious of overheating, which can kill beneficial microbes and create unpleasant odors.",
+    "faq": [
+      {
+        "q": "What materials should I add to my compost pile during summer?",
+        "a": "Focus on adding a balanced mix of 'green' materials like food scraps and 'brown' materials like dried leaves or straw to maintain the right carbon-to-nitrogen ratio."
+      },
+      {
+        "q": "How often should I water my compost pile in summer?",
+        "a": "Water your compost pile regularly to keep it moist, similar to a damp sponge, but avoid overwatering, which can lead to anaerobic conditions."
+      },
+      {
+        "q": "Can I compost in a small, indoor space during summer?",
+        "a": "Yes, you can compost indoors using compact composters or worm composting bins, which are ideal for small spaces and can thrive in indoor conditions with proper care."
+      }
+    ],
+    "category": "Composting",
+    "tags": [
+      "Composting Tips",
+      "Summer Gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-06T08:06:14.240Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-herbs-mistakes-18",
     "title": "Five mistakes everyone makes in their first month of herbs",
     "dek": "The most common early stumbles in herbs, and the cheap corrections that fix them for apartment dwellers and balcony gardeners.",

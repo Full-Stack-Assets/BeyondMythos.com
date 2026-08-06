@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Unlocking the SNES Mini: A Hardware Hacker&apos;s Dream</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-mini-hack.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-mini-hack.html</guid>
+      <pubDate>Thu, 06 Aug 2026 08:06:13 GMT</pubDate>
+      <description>Supercharge your SNES Mini with custom hacks</description>
+    </item>
+    <item>
       <title>Instant Response: Upgrading Your SNES Controller for Competitive Speedruns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controllers.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controllers.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-11.html</guid>
       <pubDate>Mon, 03 Aug 2026 12:44:32 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>&quot;hidden snes gems&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-5.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-5.html</guid>
-      <pubDate>Mon, 03 Aug 2026 08:50:31 GMT</pubDate>
-      <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

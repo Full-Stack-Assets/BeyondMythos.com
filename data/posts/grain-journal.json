@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pushing-film-bounds",
+    "title": "Breaking the Box: Mastering Push Processing for Enhanced Contrast",
+    "dek": "Unlock your film's hidden potential",
+    "takeaway": "Push processing can significantly enhance contrast and detail in your film photographs",
+    "whatHappened": "Film photographers often find themselves limited by the standard ISO ratings of their film stocks, leading to exploring techniques like push processing to achieve desired effects. This method involves developing film at a higher ISO than it was shot, which can reveal more detail in shadows and enhance overall contrast. However, it also introduces the risk of increased grain and potential loss of detail in highlights.",
+    "whyItMatters": "Understanding and mastering push processing can be a game-changer for film photographers looking to add an extra layer of creativity and control to their workflow. It allows for capturing images in low-light conditions that would otherwise be impossible and can add a unique aesthetic to photographs. Moreover, the ability to manipulate film in development can make the difference between a good photograph and a great one.",
+    "howToThink": "To approach push processing, start by understanding your film stock's limitations and how it will react to being pushed. Begin with small increments (e.g., pushing one stop) and observe the results before attempting more aggressive pushes. It's also crucial to have a consistent development process to ensure predictable outcomes and to keep detailed records of your experiments to refine your technique over time.",
+    "pros": [
+      "Increased contrast",
+      "Improved low-light performance",
+      "Unique aesthetic"
+    ],
+    "cons": [
+      "Increased grain",
+      "Risk of highlight blowout",
+      "Higher development costs"
+    ],
+    "watchOut": "Always test your film stock with small batches before committing to a larger push processing project to avoid costly mistakes.",
+    "faq": [
+      {
+        "q": "What film stocks are best for push processing?",
+        "a": "Black and white stocks tend to be more forgiving than color, with stocks like Ilford HP5 Plus and Kodak Tri-X being popular choices."
+      },
+      {
+        "q": "How far can I safely push my film?",
+        "a": "The safe limit varies by stock, but most can be pushed 1-2 stops without significant degradation. Some stocks, like Delta 3200, are designed for extreme pushes."
+      },
+      {
+        "q": "Will push processing work with any developer?",
+        "a": "No, the choice of developer can significantly impact the outcome of push processing. Developers like Rodinal and HC-110 are popular for push processing due to their ability to bring out detail and contrast."
+      }
+    ],
+    "category": "Developing",
+    "tags": [
+      "film development",
+      "analog photography"
+    ],
+    "sources": [
+      {
+        "label": "r/AnalogCommunity community threads",
+        "url": "https://www.reddit.com/r/AnalogCommunity/"
+      },
+      {
+        "label": "Search interest: \"best film stocks 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20film%20stocks%202026"
+      }
+    ],
+    "publishedAt": "2026-08-06T08:06:19.769Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-cameras-23",
     "title": "A weekend project: level up your cameras in two hours",
     "dek": "One contained, satisfying cameras project for film photographers shooting analog — start Saturday morning, done by lunch.",
