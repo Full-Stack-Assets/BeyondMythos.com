@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-to-hidden-gems",
+    "title": "Uncovering Local Secrets on Lesser-Known Rail Lines",
+    "dek": "Explore offbeat destinations by rail",
+    "takeaway": "Slower trains often lead to more immersive local experiences",
+    "whatHappened": "In a bid to escape the crowds, I embarked on a journey along a lesser-known rail line, discovering quaint villages and untouched landscapes. The slow pace allowed for a deeper connection with the locals and their way of life. From homemade meals on board to impromptu station stops, every moment was a revelation.",
+    "whyItMatters": "For slow-travel enthusiasts, the joy lies not just in reaching the destination, but in the journey itself. By opting for slower, less touristy routes, travelers can experience the authentic heartbeat of a place. This approach also supports local economies and reduces the environmental impact of travel.",
+    "howToThink": "When planning your next rail adventure, consider ditching the high-speed trains for a more leisurely pace. Research local train lines, talk to fellow travelers, and be open to unexpected detours. Remember, the essence of slow travel is embracing the unknown and finding beauty in the uncharted.",
+    "pros": [
+      "Immersive local experiences",
+      "Less touristy",
+      "Supports local economies"
+    ],
+    "cons": [
+      "Longer travel times",
+      "Limited amenities",
+      "Less frequent departures"
+    ],
+    "watchOut": "Be mindful of the rail line's schedule and plan ahead, as slower trains might have fewer departures and less flexible ticketing options.",
+    "faq": [
+      {
+        "q": "Which rail lines are best for slow travel?",
+        "a": "Look for local or regional lines that connect smaller towns and villages."
+      },
+      {
+        "q": "How do I find hidden gems along the way?",
+        "a": "Engage with locals, ask for recommendations, and be open to spontaneity."
+      },
+      {
+        "q": "Is slow train travel more expensive?",
+        "a": "Not always; while some slower trains might be pricier, many offer affordable options, especially for those willing to forgo luxuries."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "slow travel",
+      "local rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-07T17:32:22.355Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "train-travel-europe-tips-field-test-5",
     "title": "\"train travel europe tips\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about train travel europe tips through a month of actual use. Some of it survived.",

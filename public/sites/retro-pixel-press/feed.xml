@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Unlocking Hidden Potential: Retro Console Upgrade Essentials</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade-3.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade-3.html</guid>
+      <pubDate>Fri, 07 Aug 2026 17:32:22 GMT</pubDate>
+      <description>Upgrade your retro console</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-18.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-on-modern-consoles-2.html</guid>
       <pubDate>Tue, 04 Aug 2026 22:43:12 GMT</pubDate>
       <description>Play classic games on new consoles with ease</description>
-    </item>
-    <item>
-      <title>Ask the forge: your indie questions, answered</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-10.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-10.html</guid>
-      <pubDate>Tue, 04 Aug 2026 20:53:50 GMT</pubDate>
-      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>
