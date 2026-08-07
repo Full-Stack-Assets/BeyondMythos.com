@@ -1,5 +1,56 @@
 [
   {
+    "slug": "small-space-composting-hacks",
+    "title": "Compost Without the Chaos: Hacks for Tiny Spaces",
+    "dek": "Maximize your composting potential in tight spaces.",
+    "takeaway": "With the right strategies, anyone can compost effectively, even in small apartments or balconies.",
+    "whatHappened": "For apartment dwellers and balcony gardeners, finding space for composting can be a daunting task. Traditional composting methods often require large bins or areas, which are not feasible in small spaces. However, innovative solutions and hacks can make composting accessible to anyone, regardless of space constraints.",
+    "whyItMatters": "Composting is a crucial step in reducing waste and creating a sustainable gardening practice. By composting food scraps and other organic materials, gardeners can reduce their environmental footprint and create a nutrient-rich soil amendment for their plants. Effective composting in small spaces requires creativity and the right techniques.",
+    "howToThink": "To start composting in a small space, consider using compact bins or worm composting systems. These methods allow for efficient decomposition of organic materials without requiring large areas. Additionally, implementing a 'compost corner' in your balcony or apartment can help streamline the process and keep your space organized.",
+    "pros": [
+      "Reduces waste",
+      "Creates nutrient-rich soil",
+      "Space-efficient"
+    ],
+    "cons": [
+      "May attract pests",
+      "Requires regular maintenance",
+      "Initial investment"
+    ],
+    "watchOut": "Be cautious of overwatering, as this can lead to unpleasant odors and pest issues in your compost.",
+    "faq": [
+      {
+        "q": "What can I compost in a small space?",
+        "a": "Food scraps, tea bags, and coffee grounds are all great options for small-space composting."
+      },
+      {
+        "q": "How often should I turn my compost?",
+        "a": "Turn your compost every 1-2 weeks to ensure aeration and speed up the decomposition process."
+      },
+      {
+        "q": "Can I compost in a balcony garden?",
+        "a": "Yes, you can compost in a balcony garden using a compact bin or worm composting system, just be sure to follow local regulations and maintain good odor control."
+      }
+    ],
+    "category": "Composting",
+    "tags": [
+      "urban gardening",
+      "small space composting"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-07T05:22:41.293Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "maximizing-vertical-space-9",
     "title": "Sky's the Limit: Vertical Gardening for Small Spaces",
     "dek": "Grow more with less space",

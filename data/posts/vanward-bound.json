@@ -1,5 +1,56 @@
 [
   {
+    "slug": "solar-panel-maintenance",
+    "title": "Shine On: The Ultimate Guide to Solar Panel Maintenance",
+    "dek": "Keep your solar panels in top shape",
+    "takeaway": "Regular maintenance is key to maximizing your solar panel's efficiency and lifespan",
+    "whatHappened": "As a van dweller, you rely on your solar panels to keep your batteries charged and your devices running. However, dust, dirt, and debris can significantly reduce their performance. A recent study found that a dirty solar panel can lose up to 30% of its efficiency. To avoid this, it's essential to establish a regular maintenance routine. By doing so, you can ensure your solar panels are always working at their best.",
+    "whyItMatters": "Proper maintenance not only extends the lifespan of your solar panels but also saves you money in the long run. A well-maintained solar panel can last up to 25 years or more, while a neglected one may need to be replaced much sooner. Furthermore, a clean and efficient solar panel can provide you with a reliable source of power, giving you the freedom to venture off-grid without worrying about running out of juice.",
+    "howToThink": "To maintain your solar panels, start by inspecting them regularly for signs of wear and tear. Use a soft-bristled brush to gently sweep away any debris, and avoid using harsh chemicals or abrasive materials that can damage the panels. Additionally, consider investing in a solar panel cleaning kit, which usually includes a specialized cleaning solution and a microfiber cloth. By following these simple steps, you can keep your solar panels in top condition and ensure they continue to provide you with the power you need.",
+    "pros": [
+      "Increased efficiency",
+      "Extended lifespan",
+      "Cost savings"
+    ],
+    "cons": [
+      "Regular cleaning required",
+      "Risk of damage if not done properly",
+      "Initial investment in cleaning kit"
+    ],
+    "watchOut": "Be cautious not to scratch or damage the solar panels during the cleaning process, as this can significantly reduce their performance and lifespan",
+    "faq": [
+      {
+        "q": "How often should I clean my solar panels?",
+        "a": "It's recommended to clean your solar panels at least every 2-3 months, or more frequently if you're in a dusty or polluted area"
+      },
+      {
+        "q": "Can I use a regular glass cleaner on my solar panels?",
+        "a": "No, it's not recommended to use regular glass cleaners on solar panels, as they can leave residue and damage the panels over time"
+      },
+      {
+        "q": "Will cleaning my solar panels really make a difference?",
+        "a": "Yes, regular cleaning can significantly improve the performance and lifespan of your solar panels, making it well worth the effort"
+      }
+    ],
+    "category": "Power",
+    "tags": [
+      "solar power",
+      "van life"
+    ],
+    "sources": [
+      {
+        "label": "r/vandwellers community threads",
+        "url": "https://www.reddit.com/r/vandwellers/"
+      },
+      {
+        "label": "Search interest: \"van conversion on a budget\"",
+        "url": "https://duckduckgo.com/?q=van%20conversion%20on%20a%20budget"
+      }
+    ],
+    "publishedAt": "2026-08-07T05:22:45.164Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "routes-pre-spend-checklist-23",
     "title": "The routes checklist: run this before you spend",
     "dek": "Seven questions that separate a justified routes purchase from an expensive mood.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Ask the forge: your gear questions, answered</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-15.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-15.html</guid>
+      <pubDate>Fri, 07 Aug 2026 05:22:39 GMT</pubDate>
+      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>Dialing In: The Importance of Espresso Machine Calibration</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-4.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-15.html</guid>
       <pubDate>Mon, 03 Aug 2026 22:39:07 GMT</pubDate>
       <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of pour-over</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-13.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-13.html</guid>
-      <pubDate>Mon, 03 Aug 2026 20:46:45 GMT</pubDate>
-      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
     </item>
   </channel>
 </rss>
