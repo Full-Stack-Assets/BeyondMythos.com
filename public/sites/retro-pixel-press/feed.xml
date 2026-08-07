@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Reviving Retro: The Rise of DIY SNES Repair Kits</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-diy-repair-kits.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-diy-repair-kits.html</guid>
+      <pubDate>Fri, 07 Aug 2026 03:38:07 GMT</pubDate>
+      <description>Fix your SNES with ease</description>
+    </item>
+    <item>
       <title>Resurrecting the Classic: A Step-by-Step SNES Controller Repair Guide</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-repair.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-repair.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/maximizing-fps-on-retro-consoles.html</guid>
       <pubDate>Mon, 03 Aug 2026 20:46:47 GMT</pubDate>
       <description>Boost your retro console&apos;s FPS with these tweaks.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your hardware in two hours</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-14.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-14.html</guid>
-      <pubDate>Mon, 03 Aug 2026 19:09:51 GMT</pubDate>
-      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-diy-repair-kits",
+    "title": "Reviving Retro: The Rise of DIY SNES Repair Kits",
+    "dek": "Fix your SNES with ease",
+    "takeaway": "DIY SNES repair kits are a cost-effective solution for common hardware issues",
+    "whatHappened": "The SNES community has seen a surge in DIY repair kits, offering a cheaper alternative to replacement consoles. These kits usually include replacement parts and step-by-step guides. Enthusiasts can now breathe new life into their beloved consoles.",
+    "whyItMatters": "The rise of DIY repair kits is significant because it extends the lifespan of retro consoles, reducing electronic waste. It also empowers collectors and speedrunners to take matters into their own hands, saving money and preserving their gaming heritage. This trend promotes sustainability and self-sufficiency within the retro gaming community.",
+    "howToThink": "When considering a DIY repair kit, think about the specific issue you're trying to resolve and choose a kit that includes the necessary parts. Always follow the manufacturer's instructions and take precautions to avoid damaging your console. Researching reviews and tutorials can also help you make an informed decision.",
+    "pros": [
+      "Cost-effective",
+      "Easy to use",
+      "Environmentally friendly"
+    ],
+    "cons": [
+      "Limited expertise",
+      "Quality variability",
+      "Potential damage"
+    ],
+    "watchOut": "Be cautious of low-quality kits that may cause more harm than good to your console",
+    "faq": [
+      {
+        "q": "What is a DIY SNES repair kit?",
+        "a": "A set of replacement parts and instructions to fix common SNES hardware issues"
+      },
+      {
+        "q": "Are DIY repair kits suitable for beginners?",
+        "a": "Yes, many kits are designed for beginners, but some technical knowledge may be required"
+      },
+      {
+        "q": "Where can I find reliable DIY SNES repair kits?",
+        "a": "Check online marketplaces, retro gaming forums, and specialized electronics stores"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "SNES Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-07T03:38:07.362Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-controller-repair",
     "title": "Resurrecting the Classic: A Step-by-Step SNES Controller Repair Guide",
     "dek": "Breathe new life into old controllers",

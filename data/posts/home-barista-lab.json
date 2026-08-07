@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-calibration-4",
+    "title": "Dialing In: The Importance of Espresso Machine Calibration",
+    "dek": "Get the most out of your espresso machine",
+    "takeaway": "Proper calibration is key to optimal espresso flavor",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end espresso machines, but many are neglecting a crucial step: calibration. Without it, even the best machines can produce subpar shots. Calibration ensures that the machine's temperature, pressure, and flow rate are all within optimal ranges.",
+    "whyItMatters": "Calibration matters because it directly impacts the flavor and quality of your espresso. A well-calibrated machine can bring out the nuances of your favorite coffee beans, while a poorly calibrated one can result in bitter or sour shots. By calibrating your machine, you can unlock its full potential and take your home espresso game to the next level.",
+    "howToThink": "To calibrate your espresso machine, start by consulting the user manual and adjusting the temperature, pressure, and flow rate according to the manufacturer's instructions. You can also use calibration tools, such as a thermometer and a pressure gauge, to fine-tune your machine's settings. Regular calibration checks will help you maintain optimal performance and prevent issues down the line.",
+    "pros": [
+      "Optimal flavor",
+      "Improved consistency",
+      "Increased longevity"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires technical knowledge",
+      "May require additional tools"
+    ],
+    "watchOut": "Be careful not to over-calibrate, as this can lead to machine damage or inconsistent results",
+    "faq": [
+      {
+        "q": "How often should I calibrate my espresso machine?",
+        "a": "Calibrate your machine every 1-3 months, depending on usage"
+      },
+      {
+        "q": "Can I calibrate my machine myself, or do I need a professional?",
+        "a": "Most machines can be calibrated by the user, but if you're unsure, consult a professional"
+      },
+      {
+        "q": "Will calibration void my machine's warranty?",
+        "a": "Check with the manufacturer, but in most cases, calibration is a recommended maintenance procedure"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Machine Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-07T03:38:06.878Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-12",
     "title": "Brewing Up Savings: The Cost-Effective Case for Regular Espresso Machine Maintenance",
     "dek": "Stay on top of machine maintenance",
