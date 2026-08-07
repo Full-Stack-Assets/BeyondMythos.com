@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-controller-repair",
+    "title": "Resurrecting the Classic: A Step-by-Step SNES Controller Repair Guide",
+    "dek": "Breathe new life into old controllers",
+    "takeaway": "With basic tools and patience, you can restore your SNES controller to its former glory",
+    "whatHappened": "Many retro gamers and speedrunners face the issue of worn-out SNES controllers, which can hinder their gaming experience. Over time, the buttons and joysticks can become less responsive, and the overall condition of the controller can deteriorate. This can lead to a decrease in performance and accuracy during speedruns and gameplay.",
+    "whyItMatters": "Having a well-functioning controller is crucial for optimal gaming performance, especially in competitive speedrunning. A properly repaired SNES controller can improve response times, reduce errors, and enhance the overall gaming experience. Furthermore, repairing old controllers can also help preserve the original hardware and reduce electronic waste.",
+    "howToThink": "When repairing your SNES controller, it's essential to approach the process methodically. Start by disassembling the controller, identifying the problematic components, and then replacing or cleaning them as needed. Use basic tools such as screwdrivers and cleaning solutions to gently restore the controller's functionality.",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Improved performance"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical skills",
+      "Limited availability of replacement parts"
+    ],
+    "watchOut": "Be cautious when handling electrical components to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What tools do I need to repair my SNES controller?",
+        "a": "Basic tools such as screwdrivers, pliers, and cleaning solutions"
+      },
+      {
+        "q": "Can I use a third-party controller instead of repairing my old one?",
+        "a": "While possible, original controllers often provide better performance and authenticity"
+      },
+      {
+        "q": "How long does the repair process typically take?",
+        "a": "The repair process can take anywhere from 30 minutes to several hours, depending on the complexity of the issue"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Controller Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-07T00:30:13.124Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reconditioning-classic-controllers",
     "title": "Breathe New Life into Your Retro Gamepads",
     "dek": "Revive your classic controllers",

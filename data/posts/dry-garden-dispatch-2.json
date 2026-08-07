@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-propagation-hacks",
+    "title": "Beat the Heat: Summer Propagation Strategies",
+    "dek": "Boost succulent growth in summer",
+    "takeaway": "With the right approach, summer can be a great time to propagate succulents and cacti",
+    "whatHappened": "As temperatures rise, many succulent growers assume it's not the best time to propagate. However, with the right techniques and precautions, summer can be an ideal period for propagation. By understanding how to adapt propagation methods to the warmer months, growers can significantly increase their success rates.",
+    "whyItMatters": "Successful propagation during summer can lead to healthier, more robust plants come fall and winter. It also allows growers to expand their collections and share plants with fellow enthusiasts. Moreover, summer propagation can help offset the natural slowdown in succulent growth that occurs during the hottest months.",
+    "howToThink": "To propagate successfully in summer, focus on maintaining high humidity around your cuttings, ensuring they receive adequate but not excessive light, and keeping the soil consistently moist but not waterlogged. It's also crucial to monitor the temperature and protect your seedlings from extreme heat.",
+    "pros": [
+      "Increased plant survival",
+      "Faster rooting",
+      "Healthier plants"
+    ],
+    "cons": [
+      "Higher risk of rot",
+      "Increased pest attraction",
+      "More frequent watering"
+    ],
+    "watchOut": "Be cautious of overwatering, which can lead to root rot and other issues in the high temperatures of summer",
+    "faq": [
+      {
+        "q": "What is the best time of day to water succulent cuttings in summer?",
+        "a": "Early morning or late evening to avoid scorching the plants"
+      },
+      {
+        "q": "Can I propagate succulents outdoors in direct sunlight during summer?",
+        "a": "It's generally not recommended due to the high risk of burning the young plants"
+      },
+      {
+        "q": "How often should I mist my succulent cuttings during summer propagation?",
+        "a": "At least twice a day, or as needed to maintain a humid microclimate"
+      }
+    ],
+    "category": "Propagation",
+    "tags": [
+      "succulent care",
+      "summer gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/proplifting community threads",
+        "url": "https://www.reddit.com/r/proplifting/"
+      },
+      {
+        "label": "Search interest: \"grow lights succulents\"",
+        "url": "https://duckduckgo.com/?q=grow%20lights%20succulents"
+      }
+    ],
+    "publishedAt": "2026-08-07T00:30:25.370Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-cactus-2",
     "title": "Community pulse: what r/cactus is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the arrangements community this week.",

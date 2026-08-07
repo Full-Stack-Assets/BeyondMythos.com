@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-to-nowhere",
+    "title": "Finding Hidden Gems on Local Rail Lines",
+    "dek": "Discover offbeat destinations by local rail",
+    "takeaway": "Local trains can lead to unforgettable, low-impact travel experiences",
+    "whatHappened": "While exploring Europe, I stumbled upon a local rail line that took me to a quaint village, untouched by mass tourism. The scenic route and warm locals made for an unforgettable experience. By venturing off the main rail lines, I discovered a side of the region that few tourists get to see.",
+    "whyItMatters": "For slow-travel and low-impact explorers, local rail lines offer a unique opportunity to experience the authentic culture and natural beauty of a region. By avoiding major tourist routes, travelers can reduce their environmental impact and support local economies. This approach to travel also fosters deeper connections with the people and places encountered along the way.",
+    "howToThink": "When planning your next trip, consider researching local rail lines and opting for the slower, less direct route. This might involve more planning and flexibility, but the rewards can be substantial. Look for rail lines that pass through national parks, rural areas, or small towns to maximize your chances of discovering hidden gems.",
+    "pros": [
+      "Scenic routes",
+      "Local culture",
+      "Low-impact"
+    ],
+    "cons": [
+      "Slower travel",
+      "Less frequent trains",
+      "Limited amenities"
+    ],
+    "watchOut": "Be cautious of limited or seasonal rail services when planning your itinerary",
+    "faq": [
+      {
+        "q": "How do I find local rail lines?",
+        "a": "Research online or consult with local tourist information offices"
+      },
+      {
+        "q": "Are local trains always slower?",
+        "a": "Not always, but they often take more scenic routes or make more stops"
+      },
+      {
+        "q": "Can I use my Eurail pass on local trains?",
+        "a": "It depends on the pass and the specific train, so check the terms and conditions"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "local rail",
+      "slow travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-07T00:30:13.636Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-18",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Resurrecting the Classic: A Step-by-Step SNES Controller Repair Guide</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-repair.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-repair.html</guid>
+      <pubDate>Fri, 07 Aug 2026 00:30:13 GMT</pubDate>
+      <description>Breathe new life into old controllers</description>
+    </item>
+    <item>
       <title>Breathe New Life into Your Retro Gamepads</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/reconditioning-classic-controllers.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/reconditioning-classic-controllers.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-14.html</guid>
       <pubDate>Mon, 03 Aug 2026 19:09:51 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Retro Console Upgrades for a Competitive Edge</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade-2.html</guid>
-      <pubDate>Mon, 03 Aug 2026 17:28:08 GMT</pubDate>
-      <description>Boost your speedrun capabilities</description>
     </item>
   </channel>
 </rss>

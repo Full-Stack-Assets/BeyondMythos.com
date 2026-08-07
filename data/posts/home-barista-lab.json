@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-12",
+    "title": "Brewing Up Savings: The Cost-Effective Case for Regular Espresso Machine Maintenance",
+    "dek": "Stay on top of machine maintenance",
+    "takeaway": "Regular maintenance can extend the life of your espresso machine and improve brew quality",
+    "whatHappened": "Many home baristas overlook regular maintenance of their espresso machines, leading to decreased performance and a shortened lifespan. This can result in a range of issues, from poor-tasting espresso to complete machine failure. By neglecting maintenance, enthusiasts risk wasting money on premature replacements or repairs.",
+    "whyItMatters": "Proper maintenance is crucial for preserving the quality and longevity of your espresso machine. A well-maintained machine ensures optimal brewing conditions, resulting in better-tasting espresso and a more satisfying experience. Furthermore, regular upkeep can help prevent costly repairs and replacements, saving you money in the long run.",
+    "howToThink": "To keep your espresso machine in top condition, develop a routine of regular cleaning, descaling, and part replacement. This can be as simple as daily wipe-downs and weekly cleaning of the brew group and portafilter. By staying on top of maintenance, you can avoid common issues and ensure your machine continues to produce high-quality espresso for years to come.",
+    "pros": [
+      "Cost-effective",
+      "Improved brew quality",
+      "Extended machine lifespan"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical knowledge",
+      "Additional upfront costs"
+    ],
+    "watchOut": "Neglecting maintenance can lead to premature machine failure and decreased performance",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily wipe-downs and weekly deep cleaning are recommended"
+      },
+      {
+        "q": "What are the most critical parts to replace regularly?",
+        "a": "The brew group, portafilter, and seals should be replaced every 6-12 months"
+      },
+      {
+        "q": "Can I perform maintenance tasks myself or should I hire a professional?",
+        "a": "Most maintenance tasks can be performed by enthusiasts with basic technical knowledge, but complex issues may require professional assistance"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso maintenance",
+      "home barista"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-07T00:30:13.295Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "coffee-bean-freshness-matters-2",
     "title": "The Freshness Factor: How Long Do Coffee Beans Last?",
     "dek": "Fresh beans boost flavor",
