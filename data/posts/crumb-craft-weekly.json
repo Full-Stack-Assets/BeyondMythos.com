@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sourdough-starter-maintenance",
+    "title": "Sourdough Starter 101: Maintenance Hacks for Beginners",
+    "dek": "Master the art of sourdough starter care",
+    "takeaway": "Regular maintenance is key to a healthy sourdough starter",
+    "whatHappened": "Many home bakers struggle with maintaining their sourdough starters, often resulting in a stale or inactive starter. This can be due to various factors such as inconsistent feeding schedules, improper storage, or neglect. By understanding the needs of a sourdough starter, home bakers can take steps to create a thriving and reliable starter.",
+    "whyItMatters": "A well-maintained sourdough starter is essential for producing high-quality bread, as it provides the necessary yeast and bacteria for fermentation. A healthy starter also allows for more flexibility in baking, as it can be used to create a variety of bread types and recipes. By prioritizing starter maintenance, home bakers can elevate their bread-making skills and achieve consistent results.",
+    "howToThink": "To maintain a healthy sourdough starter, home bakers should focus on creating a consistent feeding schedule, storing the starter in a cool and draft-free environment, and monitoring its activity and texture. By doing so, they can develop a deeper understanding of their starter's needs and make adjustments as necessary. Regular maintenance also allows for experimentation with different flours and ingredients, further expanding the possibilities of sourdough baking.",
+    "pros": [
+      "Easy to implement",
+      "Cost-effective",
+      "Improved bread quality"
+    ],
+    "cons": [
+      "Requires regular attention",
+      "Can be messy",
+      "May not be suitable for all schedules"
+    ],
+    "watchOut": "Neglecting to feed your sourdough starter can lead to a stale or inactive starter, requiring a restart from scratch",
+    "faq": [
+      {
+        "q": "How often should I feed my sourdough starter?",
+        "a": "Feed your starter once a day, or as needed to maintain its activity and health."
+      },
+      {
+        "q": "What type of flour is best for sourdough starters?",
+        "a": "Use a high-protein flour, such as bread flour or all-purpose flour, to create a healthy and active sourdough starter."
+      },
+      {
+        "q": "Can I store my sourdough starter in the refrigerator?",
+        "a": "Yes, storing your starter in the refrigerator can slow down its activity, allowing for less frequent feeding and maintenance."
+      }
+    ],
+    "category": "Bread",
+    "tags": [
+      "sourdough",
+      "bread"
+    ],
+    "sources": [
+      {
+        "label": "r/Baking community threads",
+        "url": "https://www.reddit.com/r/Baking/"
+      },
+      {
+        "label": "Search interest: \"artisan bread at home\"",
+        "url": "https://duckduckgo.com/?q=artisan%20bread%20at%20home"
+      }
+    ],
+    "publishedAt": "2026-08-07T15:34:28.364Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tools-pre-spend-checklist-13",
     "title": "The tools checklist: run this before you spend",
     "dek": "Seven questions that separate a justified tools purchase from an expensive mood.",
