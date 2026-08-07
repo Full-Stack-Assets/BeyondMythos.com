@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-12",
+    "title": "Squeeze Every Inch: Balcony Gardening Hacks",
+    "dek": "Get the most out of your balcony",
+    "takeaway": "With the right strategies, even the smallest balcony can become a thriving garden",
+    "whatHappened": "For apartment dwellers, balconies often represent the only available space for gardening. However, these areas are frequently limited in size. To make the most of these compact spaces, gardeners must be creative. Utilizing vertical planters and carefully selecting plant species can significantly enhance space efficiency.",
+    "whyItMatters": "Efficient use of balcony space is crucial for urban gardeners, as it allows them to grow their own food and plants despite the constraints of city living. This not only provides access to fresh produce but also contributes to mental well-being and aesthetic appeal. By optimizing balcony space, gardeners can enjoy these benefits without requiring large areas of land.",
+    "howToThink": "To maximize balcony space, consider using wall-mounted planters, hanging baskets, and tiered containers. Assess the sunlight and wind exposure of your balcony to choose suitable plant species. Moreover, incorporate a mix of flowering plants, herbs, and vegetables to create a diverse and thriving garden ecosystem.",
+    "pros": [
+      "Increased plant variety",
+      "Improved space efficiency",
+      "Aesthetic enhancement"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires regular maintenance",
+      "Limited by structural constraints"
+    ],
+    "watchOut": "Be cautious not to overload your balcony with too many heavy planters, as this can compromise structural integrity",
+    "faq": [
+      {
+        "q": "What are the best plants for small balconies?",
+        "a": "Compact or dwarf varieties of herbs, vegetables, and flowers"
+      },
+      {
+        "q": "How often should I water my balcony garden?",
+        "a": "Watering frequency depends on plant species, climate, and container size, but generally, watering once or twice a day is sufficient"
+      },
+      {
+        "q": "Can I use regular garden soil in my balcony containers?",
+        "a": "No, it's recommended to use a well-draining potting mix specifically designed for containers to prevent waterlogging"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "small space gardening",
+      "urban gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-07T10:32:28.080Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-20",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

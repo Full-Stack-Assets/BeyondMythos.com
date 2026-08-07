@@ -1,5 +1,56 @@
 [
   {
+    "slug": "grinder-maintenance-matters",
+    "title": "The Daily Grind: Keeping Your Coffee Grinder in Top Shape",
+    "dek": "Stay sharp with these tips",
+    "takeaway": "Regular grinder maintenance is key to perfect espresso",
+    "whatHappened": "A dull grinder can lead to inconsistent coffee, causing frustration for home baristas. Recently, we've seen an uptick in complaints about subpar espresso shots. Upon investigation, the culprit is often a neglected grinder. By not cleaning and maintaining their grinders, enthusiasts are inadvertently sabotaging their brews.",
+    "whyItMatters": "A well-maintained grinder ensures consistent particle size, which is crucial for optimal extraction. This, in turn, directly impacts the flavor and quality of the espresso. Neglecting grinder maintenance can result in a decline in overall coffee quality, making it essential for home baristas to prioritize this often-overlooked task.",
+    "howToThink": "To keep your grinder in top shape, establish a regular cleaning schedule, and consider upgrading to a model with easy maintenance features. Additionally, invest in a brush specifically designed for grinder cleaning to make the process more efficient. By doing so, you'll be able to enjoy perfectly ground coffee every time, without the hassle of a clogged or dull grinder.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Extended lifespan"
+    ],
+    "cons": [
+      "Additional cost",
+      "Time-consuming",
+      "Requires effort"
+    ],
+    "watchOut": "Failure to maintain your grinder can lead to premature wear and tear, resulting in costly repairs or even replacement",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Daily, with a deep clean every week"
+      },
+      {
+        "q": "What is the best way to clean my grinder?",
+        "a": "Use a specialized brush and avoid using water"
+      },
+      {
+        "q": "Can I use any brush to clean my grinder?",
+        "a": "No, use a brush specifically designed for grinder cleaning to avoid damage"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "coffee gear",
+      "grinder maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-07T10:32:27.225Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-18",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
