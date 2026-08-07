@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Ask the forge: your gear questions, answered</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-17.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-17.html</guid>
+      <pubDate>Fri, 07 Aug 2026 23:16:34 GMT</pubDate>
+      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The Hidden Dangers of Neglecting Your Espresso Machine</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-13.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-13.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-matters-5.html</guid>
       <pubDate>Wed, 05 Aug 2026 13:20:54 GMT</pubDate>
       <description>Improve your espresso with better tamping</description>
-    </item>
-    <item>
-      <title>Grind to Perfection: Elevating Your Home Coffee Game</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-essentials.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-essentials.html</guid>
-      <pubDate>Wed, 05 Aug 2026 11:05:00 GMT</pubDate>
-      <description>Upgrade your brew with a top-notch grinder</description>
     </item>
   </channel>
 </rss>
