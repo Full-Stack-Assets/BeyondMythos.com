@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-potential",
+    "title": "Breakthroughs in Balcony Design: Transforming Tiny Spaces",
+    "dek": "Boost your balcony's potential",
+    "takeaway": "Optimizing balcony layout can significantly increase yields",
+    "whatHappened": "Recent studies have shown that even the smallest balconies can be highly productive with the right design. By implementing a few simple strategies, gardeners can maximize their space and grow a wide variety of plants. This approach has been successfully used by numerous urban gardeners, resulting in impressive harvests from minimal areas.",
+    "whyItMatters": "As urban living continues to grow, finding ways to garden in small spaces is becoming increasingly important. Maximizing balcony potential allows apartment dwellers to enjoy the benefits of gardening, including fresh produce and improved mental health, without needing a large yard. This can also help reduce the environmental impact of food transportation and support local sustainability efforts.",
+    "howToThink": "To maximize your balcony's potential, start by assessing the available space and light conditions. Then, choose the right containers and plants for your specific environment, and consider using vertical gardening techniques to increase your growing area. Finally, don't forget to leave some space for proper air circulation and maintenance access.",
+    "pros": [
+      "Increased yields",
+      "Improved air quality",
+      "Enhanced aesthetics"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Limited space for large plants",
+      "Potential for overwatering"
+    ],
+    "watchOut": "Be mindful of weight limits when selecting containers and soil to avoid damaging your balcony structure",
+    "faq": [
+      {
+        "q": "What is the best material for balcony containers?",
+        "a": "Durable, lightweight materials like plastic or wood are ideal for balcony containers."
+      },
+      {
+        "q": "How often should I water my balcony plants?",
+        "a": "Watering frequency depends on the specific plants, climate, and container size, but as a general rule, check the soil moisture daily and water only when necessary."
+      },
+      {
+        "q": "Can I grow vegetables on a shaded balcony?",
+        "a": "While some vegetables require full sun, others like leafy greens and herbs can thrive in partial shade, making them perfect for shaded balconies."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "small space design"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-07T08:38:37.636Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "small-space-vegetables-field-test-5",
     "title": "\"small space vegetables\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about small space vegetables through a month of actual use. Some of it survived.",

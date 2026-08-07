@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Mod Your Way to Victory: Expert SNES Controller Tips</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-modding-101.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-modding-101.html</guid>
+      <pubDate>Fri, 07 Aug 2026 08:38:37 GMT</pubDate>
+      <description>Upgrade your SNES game with these controller mods</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-17.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-17.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-7.html</guid>
       <pubDate>Tue, 04 Aug 2026 03:53:50 GMT</pubDate>
       <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>SNES Speedrun Optimization: Expert Tips</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-speedruns.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-speedruns.html</guid>
-      <pubDate>Mon, 03 Aug 2026 23:46:54 GMT</pubDate>
-      <description>Boost your SNES speedrun performance now</description>
     </item>
   </channel>
 </rss>

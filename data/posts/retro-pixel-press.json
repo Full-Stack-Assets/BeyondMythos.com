@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-controller-modding-101",
+    "title": "Mod Your Way to Victory: Expert SNES Controller Tips",
+    "dek": "Upgrade your SNES game with these controller mods",
+    "takeaway": "A well-modded controller can shave seconds off your speedrun times",
+    "whatHappened": "The SNES controller has been a staple of retro gaming for decades, but its standard design can hold back even the most skilled speedrunners. Recently, the community has seen a surge in creative modding solutions to enhance performance. From button mapping to joystick upgrades, the possibilities are endless.",
+    "whyItMatters": "For competitive speedrunners, every millisecond counts, and a customized controller can be the difference between a world record and a disappointing run. Moreover, modding can also improve the overall gaming experience, reducing fatigue and enhancing precision. As the retro gaming scene continues to grow, the demand for high-performance controllers will only increase.",
+    "howToThink": "When approaching controller modding, it's essential to consider your specific needs and playstyle. Start by identifying areas for improvement, such as button placement or joystick sensitivity, and research the various modification options available. Don't be afraid to experiment and try out different configurations until you find the perfect fit.",
+    "pros": [
+      "Improved speedrun times",
+      "Enhanced gaming experience",
+      "Increased precision"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Potential for damage",
+      "Cost of modifications"
+    ],
+    "watchOut": "Be cautious when soldering or using electrical components to avoid damaging your controller or causing injury",
+    "faq": [
+      {
+        "q": "What is the most popular SNES controller mod?",
+        "a": "Button mapping and joystick upgrades are among the most popular modifications"
+      },
+      {
+        "q": "Do I need to be an expert to mod my controller?",
+        "a": "No, there are many beginner-friendly guides and tutorials available online"
+      },
+      {
+        "q": "Can I mod my controller for other consoles?",
+        "a": "Yes, many modding techniques can be applied to other retro consoles, such as the NES or Genesis"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-07T08:38:37.154Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-17",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",
