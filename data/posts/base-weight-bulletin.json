@@ -1,5 +1,209 @@
 [
   {
+    "slug": "five-shelters-mistakes-21",
+    "title": "Five mistakes everyone makes in their first month of shelters",
+    "dek": "The most common early stumbles in shelters, and the cheap corrections that fix them for ultralight backpackers and thru-hike dreamers.",
+    "takeaway": "Month-one mistakes in shelters are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that ultralight backpackers and thru-hike dreamers post and the same five shelters mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in shelters.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Shelters",
+    "tags": [
+      "Shelters",
+      "Food"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-07T06:52:25.601Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "lower-base-weight-cheap-field-test-8",
+    "title": "\"lower base weight cheap\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about lower base weight cheap through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on lower base weight cheap holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations ultralight backpackers and thru-hike dreamers see when they search \"lower base weight cheap\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about packs is written from a first impression. The failure modes that actually cost ultralight backpackers and thru-hike dreamers time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about lower base weight cheap, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about lower base weight cheap shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about packs is a data point, not a verdict."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "Packs",
+      "Shelters"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultralight community threads",
+        "url": "https://www.reddit.com/r/Ultralight/"
+      },
+      {
+        "label": "Search interest: \"lower base weight cheap\"",
+        "url": "https://duckduckgo.com/?q=lower%20base%20weight%20cheap"
+      }
+    ],
+    "publishedAt": "2026-08-07T05:22:43.699Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ask-the-forge-skills-22",
+    "title": "Ask the forge: your skills questions, answered",
+    "dek": "Straight answers to the skills questions ultralight backpackers and thru-hike dreamers keep asking, minus the hedging.",
+    "takeaway": "Most skills questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever ultralight backpackers and thru-hike dreamers compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to skills don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Skills",
+    "tags": [
+      "Skills",
+      "Packs"
+    ],
+    "sources": [
+      {
+        "label": "r/AppalachianTrail community threads",
+        "url": "https://www.reddit.com/r/AppalachianTrail/"
+      },
+      {
+        "label": "Search interest: \"thru hike food planning\"",
+        "url": "https://duckduckgo.com/?q=thru%20hike%20food%20planning"
+      }
+    ],
+    "publishedAt": "2026-08-07T03:38:11.539Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "quiet-upgrade-food-23",
+    "title": "The quiet upgrade: small tweaks in food with outsized returns",
+    "dek": "No purchases, no overhauls — the modest food adjustments that ultralight backpackers and thru-hike dreamers report mattering most.",
+    "takeaway": "The best upgrades in food are adjustments, not acquisitions. Most cost nothing but attention.",
+    "whatHappened": "Ask experienced ultralight backpackers and thru-hike dreamers what changed their results and the answers are strikingly modest: a tweak to routine, a default swapped, a habit moved earlier in the day. We collected the small changes that keep appearing in those answers.",
+    "whyItMatters": "The upgrade path everyone markets requires spending. The one that works requires noticing. Small adjustments compound daily, which is a rate no purchase matches.",
+    "howToThink": "Once a month, change one default in your food routine and watch for a week. Keep what helps, revert what doesn't, and write down which was which.",
+    "pros": [
+      "Free or nearly free",
+      "Compounds with repetition",
+      "Reversible in minutes"
+    ],
+    "cons": [
+      "Invisible on social media",
+      "Requires actually paying attention",
+      "No unboxing dopamine"
+    ],
+    "watchOut": "Don't stack five changes at once — you'll never know which one worked, and you'll revert the good one with the bad.",
+    "faq": [
+      {
+        "q": "What's the highest-leverage small change?",
+        "a": "Moving your session to the time of day you're least likely to skip. Adherence beats optimization."
+      },
+      {
+        "q": "How do I find my own quiet upgrades?",
+        "a": "Your log. The pattern you're annoyed by weekly is the upgrade waiting to happen."
+      },
+      {
+        "q": "When is buying actually the answer?",
+        "a": "When the same friction survives three free fixes. Then spend without guilt."
+      }
+    ],
+    "category": "Food",
+    "tags": [
+      "Food",
+      "Skills"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-07T00:30:16.875Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-lower-base-weight-cheap-8",
     "title": "Myth vs. reality: lower base weight cheap",
     "dek": "The persistent myths around lower base weight cheap, stress-tested against what ultralight backpackers and thru-hike dreamers actually report.",

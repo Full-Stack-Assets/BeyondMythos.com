@@ -1,5 +1,209 @@
 [
   {
+    "slug": "weekend-project-hardware-17",
+    "title": "A weekend project: level up your hardware in two hours",
+    "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour hardware project around the single highest-leverage fundamental — the one that experienced retro game collectors and speedrunners consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of hardware don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Speedruns"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-07T06:52:21.659Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-pulse-gameboy-7",
+    "title": "Community pulse: what r/Gameboy is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among retro game collectors and speedrunners split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in indie — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in indie has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Indie",
+    "tags": [
+      "Indie",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-07T05:22:39.418Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "snes-diy-repair-kits",
+    "title": "Reviving Retro: The Rise of DIY SNES Repair Kits",
+    "dek": "Fix your SNES with ease",
+    "takeaway": "DIY SNES repair kits are a cost-effective solution for common hardware issues",
+    "whatHappened": "The SNES community has seen a surge in DIY repair kits, offering a cheaper alternative to replacement consoles. These kits usually include replacement parts and step-by-step guides. Enthusiasts can now breathe new life into their beloved consoles.",
+    "whyItMatters": "The rise of DIY repair kits is significant because it extends the lifespan of retro consoles, reducing electronic waste. It also empowers collectors and speedrunners to take matters into their own hands, saving money and preserving their gaming heritage. This trend promotes sustainability and self-sufficiency within the retro gaming community.",
+    "howToThink": "When considering a DIY repair kit, think about the specific issue you're trying to resolve and choose a kit that includes the necessary parts. Always follow the manufacturer's instructions and take precautions to avoid damaging your console. Researching reviews and tutorials can also help you make an informed decision.",
+    "pros": [
+      "Cost-effective",
+      "Easy to use",
+      "Environmentally friendly"
+    ],
+    "cons": [
+      "Limited expertise",
+      "Quality variability",
+      "Potential damage"
+    ],
+    "watchOut": "Be cautious of low-quality kits that may cause more harm than good to your console",
+    "faq": [
+      {
+        "q": "What is a DIY SNES repair kit?",
+        "a": "A set of replacement parts and instructions to fix common SNES hardware issues"
+      },
+      {
+        "q": "Are DIY repair kits suitable for beginners?",
+        "a": "Yes, many kits are designed for beginners, but some technical knowledge may be required"
+      },
+      {
+        "q": "Where can I find reliable DIY SNES repair kits?",
+        "a": "Check online marketplaces, retro gaming forums, and specialized electronics stores"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "SNES Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-07T03:38:07.362Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "snes-controller-repair",
+    "title": "Resurrecting the Classic: A Step-by-Step SNES Controller Repair Guide",
+    "dek": "Breathe new life into old controllers",
+    "takeaway": "With basic tools and patience, you can restore your SNES controller to its former glory",
+    "whatHappened": "Many retro gamers and speedrunners face the issue of worn-out SNES controllers, which can hinder their gaming experience. Over time, the buttons and joysticks can become less responsive, and the overall condition of the controller can deteriorate. This can lead to a decrease in performance and accuracy during speedruns and gameplay.",
+    "whyItMatters": "Having a well-functioning controller is crucial for optimal gaming performance, especially in competitive speedrunning. A properly repaired SNES controller can improve response times, reduce errors, and enhance the overall gaming experience. Furthermore, repairing old controllers can also help preserve the original hardware and reduce electronic waste.",
+    "howToThink": "When repairing your SNES controller, it's essential to approach the process methodically. Start by disassembling the controller, identifying the problematic components, and then replacing or cleaning them as needed. Use basic tools such as screwdrivers and cleaning solutions to gently restore the controller's functionality.",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Improved performance"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical skills",
+      "Limited availability of replacement parts"
+    ],
+    "watchOut": "Be cautious when handling electrical components to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What tools do I need to repair my SNES controller?",
+        "a": "Basic tools such as screwdrivers, pliers, and cleaning solutions"
+      },
+      {
+        "q": "Can I use a third-party controller instead of repairing my old one?",
+        "a": "While possible, original controllers often provide better performance and authenticity"
+      },
+      {
+        "q": "How long does the repair process typically take?",
+        "a": "The repair process can take anywhere from 30 minutes to several hours, depending on the complexity of the issue"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Controller Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-07T00:30:13.124Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reconditioning-classic-controllers",
     "title": "Breathe New Life into Your Retro Gamepads",
     "dek": "Revive your classic controllers",

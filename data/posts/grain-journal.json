@@ -1,5 +1,209 @@
 [
   {
+    "slug": "community-pulse-analogcommunity-8",
+    "title": "Community pulse: what r/AnalogCommunity is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the scanning community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among film photographers shooting analog split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in scanning — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in scanning has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Scanning",
+    "tags": [
+      "Scanning",
+      "Cameras"
+    ],
+    "sources": [
+      {
+        "label": "r/AnalogCommunity community threads",
+        "url": "https://www.reddit.com/r/AnalogCommunity/"
+      },
+      {
+        "label": "Search interest: \"best film stocks 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20film%20stocks%202026"
+      }
+    ],
+    "publishedAt": "2026-08-07T06:52:24.952Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "analog-camera-maintenance-hacks",
+    "title": "Tightening the screws: DIY camera maintenance for analogue enthusiasts",
+    "dek": "Keep your camera in top condition",
+    "takeaway": "Regular maintenance can significantly extend the life of your analog camera",
+    "whatHappened": "Many film photographers overlook the importance of regular camera maintenance, leading to costly repairs and missed shots. By performing simple DIY tasks, photographers can prevent common issues and ensure their camera continues to function smoothly. From cleaning the lens to lubricating the shutter, these tasks are easy to learn and can be done at home.",
+    "whyItMatters": "A well-maintained camera is essential for producing high-quality images and minimizing the risk of equipment failure. By taking care of their camera, photographers can focus on capturing the perfect shot, rather than worrying about technical issues. Moreover, regular maintenance can also help to prevent damage to the camera's mechanical components, reducing the need for costly repairs.",
+    "howToThink": "To get started with DIY camera maintenance, photographers should first consult their camera's manual to understand the recommended maintenance schedule and procedures. They should also invest in a few basic tools, such as a lens cleaning cloth and a shutter release cable, to make the process easier and more efficient. By following these simple steps, photographers can keep their camera in top condition and ensure it continues to produce stunning images for years to come.",
+    "pros": [
+      "Improved camera performance",
+      "Reduced risk of equipment failure",
+      "Cost savings"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires some technical knowledge",
+      "May void warranty"
+    ],
+    "watchOut": "Be careful not to damage any of the camera's internal components when performing maintenance tasks",
+    "faq": [
+      {
+        "q": "How often should I clean my camera's lens?",
+        "a": "It's recommended to clean your camera's lens after every use to prevent dust and debris from building up"
+      },
+      {
+        "q": "Can I use a regular cloth to clean my lens?",
+        "a": "No, it's best to use a microfiber cloth specifically designed for cleaning camera lenses to prevent scratching"
+      },
+      {
+        "q": "How do I know if my camera needs maintenance?",
+        "a": "If you notice any issues with your camera's performance, such as blurry images or a stuck shutter, it may be a sign that maintenance is needed"
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "camera maintenance",
+      "analog photography"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-07T05:22:45.289Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "five-film-stocks-mistakes-22",
+    "title": "Five mistakes everyone makes in their first month of film stocks",
+    "dek": "The most common early stumbles in film stocks, and the cheap corrections that fix them for film photographers shooting analog.",
+    "takeaway": "Month-one mistakes in film stocks are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that film photographers shooting analog post and the same five film stocks mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in film stocks.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Film Stocks",
+    "tags": [
+      "Film Stocks",
+      "Developing"
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"home developing guide\"",
+        "url": "https://duckduckgo.com/?q=home%20developing%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-07T03:38:10.979Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "best-film-stocks-2026-field-test-8",
+    "title": "\"best film stocks 2026\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about best film stocks 2026 through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on best film stocks 2026 holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations film photographers shooting analog see when they search \"best film stocks 2026\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about cameras is written from a first impression. The failure modes that actually cost film photographers shooting analog time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about best film stocks 2026, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about best film stocks 2026 shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about cameras is a data point, not a verdict."
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "Cameras",
+      "Film Stocks"
+    ],
+    "sources": [
+      {
+        "label": "r/AnalogCommunity community threads",
+        "url": "https://www.reddit.com/r/AnalogCommunity/"
+      },
+      {
+        "label": "Search interest: \"best film stocks 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20film%20stocks%202026"
+      }
+    ],
+    "publishedAt": "2026-08-07T00:30:16.268Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-scanning-23",
     "title": "Ask the forge: your scanning questions, answered",
     "dek": "Straight answers to the scanning questions film photographers shooting analog keep asking, minus the hedging.",

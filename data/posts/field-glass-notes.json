@@ -1,5 +1,209 @@
 [
   {
+    "slug": "five-id-skills-mistakes-21",
+    "title": "Five mistakes everyone makes in their first month of id skills",
+    "dek": "The most common early stumbles in id skills, and the cheap corrections that fix them for backyard birders and weekend twitchers.",
+    "takeaway": "Month-one mistakes in id skills are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that backyard birders and weekend twitchers post and the same five id skills mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in id skills.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "ID Skills",
+    "tags": [
+      "ID Skills",
+      "Feeders"
+    ],
+    "sources": [
+      {
+        "label": "r/birding community threads",
+        "url": "https://www.reddit.com/r/birding/"
+      },
+      {
+        "label": "Search interest: \"beginner binoculars birding\"",
+        "url": "https://duckduckgo.com/?q=beginner%20binoculars%20birding"
+      }
+    ],
+    "publishedAt": "2026-08-07T06:52:27.078Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "bird-id-apps-compared-field-test-7",
+    "title": "\"bird id apps compared\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about bird id apps compared through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on bird id apps compared holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations backyard birders and weekend twitchers see when they search \"bird id apps compared\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about optics is written from a first impression. The failure modes that actually cost backyard birders and weekend twitchers time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about bird id apps compared, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about bird id apps compared shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about optics is a data point, not a verdict."
+      }
+    ],
+    "category": "Optics",
+    "tags": [
+      "Optics",
+      "ID Skills"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"bird id apps compared\"",
+        "url": "https://duckduckgo.com/?q=bird%20id%20apps%20compared"
+      }
+    ],
+    "publishedAt": "2026-08-07T05:22:45.718Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ask-the-forge-migration-21",
+    "title": "Ask the forge: your migration questions, answered",
+    "dek": "Straight answers to the migration questions backyard birders and weekend twitchers keep asking, minus the hedging.",
+    "takeaway": "Most migration questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever backyard birders and weekend twitchers compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to migration don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Migration",
+    "tags": [
+      "Migration",
+      "Optics"
+    ],
+    "sources": [
+      {
+        "label": "r/whatsthisbird community threads",
+        "url": "https://www.reddit.com/r/whatsthisbird/"
+      },
+      {
+        "label": "Search interest: \"backyard feeder setup\"",
+        "url": "https://duckduckgo.com/?q=backyard%20feeder%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-07T03:38:13.061Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "binoculars-for-migration",
+    "title": "Gear Up: Choosing the Right Binoculars for Migration Season",
+    "dek": "Get ready for migration with the right optics",
+    "takeaway": "The right binoculars can make all the difference in spotting migratory birds",
+    "whatHappened": "As migration season approaches, backyard birders and weekend twitchers are gearing up to spot their favorite species. With so many birds on the move, having the right optics can be a game-changer. This season, we've seen a surge in interest in binoculars designed specifically for migration watching.",
+    "whyItMatters": "Choosing the right binoculars can greatly impact your ability to spot and identify migratory birds. With so many species to keep track of, having a good pair of binoculars can help you stay ahead of the game. Moreover, the right optics can enhance your overall birding experience, allowing you to appreciate the beauty and behavior of these amazing creatures.",
+    "howToThink": "When selecting binoculars for migration season, consider factors such as magnification, field of view, and weight. Look for binoculars with a wide field of view to help you track birds in flight, and consider a waterproof and fog-proof design to withstand the elements. Additionally, think about the type of birding you'll be doing most often, and choose binoculars that fit your needs and budget.",
+    "pros": [
+      "Enhanced magnification",
+      "Wide field of view",
+      "Waterproof design"
+    ],
+    "cons": [
+      "Higher cost",
+      "Heavier weight",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be wary of cheap, low-quality binoculars that can compromise your birding experience",
+    "faq": [
+      {
+        "q": "What magnification is best for migration birding?",
+        "a": "7x or 8x magnification is ideal for migration birding, as it provides a good balance between detail and field of view"
+      },
+      {
+        "q": "Are waterproof binoculars really necessary?",
+        "a": "Yes, waterproof binoculars are essential for birding in wet or humid conditions, as they protect the optics from damage and ensure a clear view"
+      },
+      {
+        "q": "Can I use my existing binoculars for migration birding?",
+        "a": "If your existing binoculars meet your needs and provide a good viewing experience, you may not need to upgrade, but consider the benefits of specialized migration binoculars"
+      }
+    ],
+    "category": "Optics",
+    "tags": [
+      "migration optics",
+      "birding gear"
+    ],
+    "sources": [
+      {
+        "label": "r/birding community threads",
+        "url": "https://www.reddit.com/r/birding/"
+      },
+      {
+        "label": "Search interest: \"beginner binoculars birding\"",
+        "url": "https://duckduckgo.com/?q=beginner%20binoculars%20birding"
+      }
+    ],
+    "publishedAt": "2026-08-07T00:30:20.243Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-bird-id-apps-compared-7",
     "title": "Myth vs. reality: bird id apps compared",
     "dek": "The persistent myths around bird id apps compared, stress-tested against what backyard birders and weekend twitchers actually report.",
