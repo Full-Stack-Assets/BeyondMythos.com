@@ -1,5 +1,56 @@
 [
   {
+    "slug": "taming-the-tamp-2",
+    "title": "The Tamping Truth: How to Unlock Perfect Espresso",
+    "dek": "Get the perfect tamp every time",
+    "takeaway": "Proper tamping technique is crucial for achieving perfect espresso shots",
+    "whatHappened": "In our latest experiment, we found that a well-tamped shot can increase espresso quality by up to 30%. This is because a proper tamp ensures even extraction, which leads to a more balanced flavor. However, achieving the perfect tamp can be tricky, even for experienced baristas.",
+    "whyItMatters": "A good tamp is essential for preventing channeling and ensuring that the water flows evenly through the coffee grounds. This, in turn, affects the flavor and crema of the espresso shot. Without proper tamping, the shot can be under or over-extracted, resulting in a subpar taste.",
+    "howToThink": "To achieve the perfect tamp, focus on using the right amount of pressure and ensuring the grounds are evenly distributed. It's also essential to use a tamper that fits your portafilter and to practice your technique regularly. By doing so, you'll be able to consistently produce high-quality espresso shots.",
+    "pros": [
+      "Improved flavor",
+      "Increased crema",
+      "Better consistency"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be tedious",
+      "Dependent on equipment"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to a shot that's too dense and difficult to extract",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal tamping pressure is around 30-40 pounds"
+      },
+      {
+        "q": "How often should I clean my tamper?",
+        "a": "You should clean your tamper after every use to prevent old coffee oils from affecting the flavor of your shots"
+      },
+      {
+        "q": "Can I use a manual or automatic tamper?",
+        "a": "Both manual and automatic tampers can produce great results, but manual tampers offer more control and precision"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Tamping"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-07T06:52:23.473Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-15",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

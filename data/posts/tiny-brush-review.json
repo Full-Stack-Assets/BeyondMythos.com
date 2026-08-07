@@ -1,5 +1,56 @@
 [
   {
+    "slug": "miniature-painting-blending-techniques",
+    "title": "Smudge, Merge, Repeat: Mastering Edge Blending",
+    "dek": "Elevate your miniature painting with seamless blending.",
+    "takeaway": "Proper edge blending can make or break a miniature's visual appeal, regardless of the painter's skill level.",
+    "whatHappened": "The art of edge blending has been a cornerstone of miniature painting for years, but its importance is often overlooked. Recently, we've seen a resurgence in interest in this technique, with many painters seeking to refine their skills. By understanding how to blend edges effectively, painters can create more realistic and visually stunning miniatures.",
+    "whyItMatters": "Mastering edge blending is crucial because it allows painters to create smooth transitions between colors, eliminating harsh lines and giving the miniature a more polished look. This, in turn, enhances the overall visual appeal of the model, drawing the viewer's eye to the details that matter. Whether painting for competition or personal satisfaction, getting edge blending right can significantly impact the final result.",
+    "howToThink": "To approach edge blending, painters should first select the right brushes and paints for the job. Thinner paints and smaller brushes are ideal for creating subtle transitions. It's also important to practice patience and take the blending process one edge at a time, ensuring each area is fully dry before moving on to the next. Lastly, studying the work of experienced painters can provide valuable insights into different blending techniques.",
+    "pros": [
+      "Enhances realism",
+      "Simplifies color transitions",
+      "Improves overall appearance"
+    ],
+    "cons": [
+      "Requires patience",
+      "Can be challenging for beginners",
+      "Demands precise brush control"
+    ],
+    "watchOut": "Be cautious not to overblend, as this can lead to a loss of detail and a muddy appearance.",
+    "faq": [
+      {
+        "q": "What is the best paint for edge blending?",
+        "a": "Thinner, more fluid paints are best for edge blending, as they allow for smoother transitions."
+      },
+      {
+        "q": "How do I avoid overblending?",
+        "a": "Work in small areas, allowing each section to dry completely before assessing the need for further blending."
+      },
+      {
+        "q": "Can edge blending be done with any brush?",
+        "a": "While any brush can be used, smaller brushes with finer tips are best for creating precise, smooth blends."
+      }
+    ],
+    "category": "Techniques",
+    "tags": [
+      "MiniaturePainting",
+      "BlendingTechniques"
+    ],
+    "sources": [
+      {
+        "label": "r/Warhammer40k community threads",
+        "url": "https://www.reddit.com/r/Warhammer40k/"
+      },
+      {
+        "label": "Search interest: \"speed painting miniatures\"",
+        "url": "https://duckduckgo.com/?q=speed%20painting%20miniatures"
+      }
+    ],
+    "publishedAt": "2026-08-07T06:52:30.570Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-miniature-painting-beginner-guid-4",
     "title": "Myth vs. reality: miniature painting beginner guide",
     "dek": "The persistent myths around miniature painting beginner guide, stress-tested against what miniature painters and tabletop hobbyists actually report.",
