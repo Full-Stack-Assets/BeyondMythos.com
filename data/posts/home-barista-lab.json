@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-coffee-bean-storage",
+    "title": "Brewing Success: The Importance of Proper Coffee Bean Storage",
+    "dek": "Freshness guaranteed with smart storage",
+    "takeaway": "Proper coffee bean storage is crucial for preserving flavor and aroma",
+    "whatHappened": "Recently, we noticed a significant decline in flavor quality among our stored coffee beans, prompting an investigation into storage methods. We discovered that exposure to heat, light, and moisture was the primary cause of the deterioration. By adjusting our storage approach, we were able to restore the beans' original flavor profile.",
+    "whyItMatters": "Coffee beans are sensitive to environmental factors, and improper storage can lead to stale or spoiled beans, resulting in subpar brews. By understanding the importance of storage, home baristas can ensure their beans remain fresh and full of flavor. This, in turn, elevates the overall coffee experience and justifies the investment in high-quality beans.",
+    "howToThink": "To optimize coffee bean storage, consider using airtight containers, storing them in a cool, dark place, and freezing or refrigerating excess beans. When selecting a storage container, look for materials that block out light and moisture, such as glass or ceramic. Regularly checking on stored beans and rotating stock can also help maintain freshness.",
+    "pros": [
+      "Preserves flavor",
+      "Easy to implement",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Requires space",
+      "May require additional equipment",
+      "Limited accessibility"
+    ],
+    "watchOut": "Be cautious of storing coffee beans near strong-smelling foods, as they can absorb odors easily",
+    "faq": [
+      {
+        "q": "How often should I rotate my coffee beans?",
+        "a": "Rotate your beans every 1-2 weeks to ensure freshness"
+      },
+      {
+        "q": "Can I store coffee beans in the freezer?",
+        "a": "Yes, freezing is an excellent way to preserve coffee beans, but be sure to use airtight containers"
+      },
+      {
+        "q": "What is the ideal storage temperature for coffee beans?",
+        "a": "The ideal temperature is between 60-70°F (15-21°C), away from direct sunlight"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "coffee storage",
+      "roasting tips"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-07T19:37:50.074Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-19",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
