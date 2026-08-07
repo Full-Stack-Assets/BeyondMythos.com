@@ -2913,8 +2913,30 @@
       "createdAt": "2026-08-06T15:28:32.475Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "elevenlabsAgentId": null
+    },
+    {
+      "id": "brine-and-bubble-2-1786061757278",
+      "slug": "brine-and-bubble-2",
+      "name": "Brine and Bubble",
+      "tagline": "Fresh takes for home fermenters and pickling hobbyists.",
+      "nicheId": "fermentation",
+      "audience": "home fermenters and pickling hobbyists",
+      "categories": [
+        "Vegetables",
+        "Kombucha",
+        "Miso",
+        "Troubleshooting"
+      ],
+      "url": "https://www.beyondmythos.com/sites/brine-and-bubble-2/",
+      "localUrl": "https://www.beyondmythos.com/sites/brine-and-bubble-2/",
+      "vercel": null,
+      "design": "aurora",
+      "postCount": 6,
+      "createdAt": "2026-08-07T00:15:46.967Z",
+      "streamUrl": "https://www.beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-08-06T15:28:32.475Z",
+  "lastGeneratedAt": "2026-08-07T00:15:46.967Z",
   "lastPostRunAt": "2026-08-06T13:18:32.659Z"
 }
