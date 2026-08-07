@@ -1,5 +1,56 @@
 [
   {
+    "slug": "improving-print-quality",
+    "title": "Belt and Pulley Upgrades for Smoother Prints",
+    "dek": "Upgrade your printer's belts for better prints",
+    "takeaway": "Proper belt tension is key to achieving high-quality prints",
+    "whatHappened": "Recently, many home 3D-printing hobbyists have been experimenting with upgrading their printer's belts and pulleys to improve print quality. These upgrades have shown to reduce vibration and increase precision, resulting in smoother prints. The community has reported significant improvements with these simple upgrades.",
+    "whyItMatters": "Belt and pulley upgrades are crucial for home 3D-printing hobbyists as they directly impact print quality. With proper tension and precision, prints will have less layer shifting and fewer artifacts, making the overall printing experience more enjoyable and rewarding. Moreover, these upgrades can extend the lifespan of the printer",
+    "howToThink": "When considering a belt and pulley upgrade, it's essential to research the specific requirements for your printer model. Measure the current belt and pulley system, and choose the correct replacement parts. Make sure to follow proper tensioning procedures to avoid damaging the printer or compromising print quality",
+    "pros": [
+      "Improved print quality",
+      "Reduced vibration",
+      "Increased precision"
+    ],
+    "cons": [
+      "Additional cost",
+      "Requires technical knowledge",
+      "Potential for over-tightening"
+    ],
+    "watchOut": "Be cautious not to over-tighten the belts, as this can cause damage to the printer's motor or other components",
+    "faq": [
+      {
+        "q": "What type of belts are best for 3D printing?",
+        "a": "Gates belts or similar high-quality alternatives"
+      },
+      {
+        "q": "How often should I check belt tension?",
+        "a": "Every 50-100 print hours"
+      },
+      {
+        "q": "Can I upgrade my pulleys to metal ones?",
+        "a": "Yes, but ensure they are compatible with your printer model"
+      }
+    ],
+    "category": "Upgrades",
+    "tags": [
+      "3D printing upgrades",
+      "print quality"
+    ],
+    "sources": [
+      {
+        "label": "r/FixMyPrint community threads",
+        "url": "https://www.reddit.com/r/FixMyPrint/"
+      },
+      {
+        "label": "Search interest: \"best filament for beginners\"",
+        "url": "https://duckduckgo.com/?q=best%20filament%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-07T13:57:55.855Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-filament-mistakes-22",
     "title": "Five mistakes everyone makes in their first month of filament",
     "dek": "The most common early stumbles in filament, and the cheap corrections that fix them for home 3D-printing hobbyists.",

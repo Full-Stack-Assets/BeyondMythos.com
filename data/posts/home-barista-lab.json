@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-your-grinder",
+    "title": "Grind Control: The Secret to Better Home Espresso",
+    "dek": "Optimize your grind for better espresso",
+    "takeaway": "The right grind size can make or break your espresso shot",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end grinders, but many are still struggling to dial in the perfect grind. A good grinder is only as good as its user, and understanding how to adjust grind size is crucial. With a little practice, you can significantly improve the flavor of your espresso",
+    "whyItMatters": "The correct grind size ensures the optimal flow rate, which in turn affects the flavor and crema of your espresso. If the grind is too fine, it can lead to over-extraction and a bitter taste, while a grind that's too coarse can result in under-extraction and a weak shot. Mastering grind control can elevate your home espresso game",
+    "howToThink": "When adjusting your grinder, start by making small changes and tasting the difference. Pay attention to the flow rate and flavor profile, and adjust accordingly. It's also essential to consider the type of coffee bean and roast level, as these factors can impact the ideal grind size",
+    "pros": [
+      "Improved flavor",
+      "Better crema",
+      "Increased control"
+    ],
+    "cons": [
+      "Trial and error",
+      "Equipment cost",
+      "Maintenance required"
+    ],
+    "watchOut": "Be careful not to over-adjust your grinder, as this can lead to inconsistent results and a frustrating experience",
+    "faq": [
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "The ideal grind size for espresso is typically between 200-250 microns"
+      },
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "It's recommended to clean your grinder every 1-2 weeks to prevent old coffee oils and dust from affecting the flavor"
+      },
+      {
+        "q": "Can I use a blade grinder for espresso?",
+        "a": "It's not recommended to use a blade grinder for espresso, as they can generate heat and produce inconsistent grind sizes"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso",
+      "grinder"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-07T13:57:51.080Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-espresso-dial-in-5",
     "title": "Myth vs. reality: home espresso dial in",
     "dek": "The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.",
