@@ -5,6 +5,13 @@
     <link>https://store-forge-roan.vercel.app/sites/night-lens/</link>
     <description>Fresh takes for backyard astrophotographers.</description>
     <item>
+      <title>&quot;stacking software guide&quot; in practice: a real-world field test</title>
+      <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/stacking-software-guide-field-test-9.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/stacking-software-guide-field-test-9.html</guid>
+      <pubDate>Fri, 07 Aug 2026 22:17:39 GMT</pubDate>
+      <description>We put the most-repeated advice about stacking software guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your light pollution questions, answered</title>
       <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/ask-the-forge-light-pollution-27.html</link>
       <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/ask-the-forge-light-pollution-27.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/community-pulse-askastrophotography-8.html</guid>
       <pubDate>Wed, 05 Aug 2026 11:05:00 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the light pollution community this week.</description>
-    </item>
-    <item>
-      <title>Sharpen your focus: expert autofocus techniques for backyard astrophotography</title>
-      <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/autofocus-hacks.html</link>
-      <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/autofocus-hacks.html</guid>
-      <pubDate>Wed, 05 Aug 2026 08:07:37 GMT</pubDate>
-      <description>Unlock precise focus control</description>
     </item>
   </channel>
 </rss>

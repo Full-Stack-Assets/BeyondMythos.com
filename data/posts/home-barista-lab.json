@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-13",
+    "title": "The Hidden Dangers of Neglecting Your Espresso Machine",
+    "dek": "Keep your espresso machine in top shape",
+    "takeaway": "Regular maintenance is key to perfect espresso shots",
+    "whatHappened": "Recently, we've seen a surge in home baristas experiencing subpar espresso shots due to poorly maintained machines. This can lead to a buildup of old coffee oils and bacteria, affecting the flavor of the espresso. By neglecting regular maintenance, home baristas are putting their machines at risk of damage and themselves at risk of serving low-quality espresso.",
+    "whyItMatters": "A well-maintained espresso machine is crucial for producing high-quality espresso shots. Neglecting maintenance can result in a decrease in the machine's performance, leading to poor-tasting espresso and potentially causing damage to the machine. This can be costly to repair and may even require replacing the machine altogether.",
+    "howToThink": "To keep your espresso machine in top shape, make it a habit to descale and clean it regularly. Check the machine's manual for specific maintenance instructions, and consider investing in a water filter to prevent mineral buildup. By doing so, you'll be able to enjoy perfect espresso shots every time and extend the lifespan of your machine.",
+    "pros": [
+      "Improved flavor",
+      "Increased machine lifespan",
+      "Reduced repair costs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires regular effort",
+      "Additional maintenance costs"
+    ],
+    "watchOut": "Be cautious not to use abrasive materials when cleaning your espresso machine, as this can damage the machine's surfaces",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What type of cleaning solution should I use?",
+        "a": "A mild detergent specifically designed for espresso machines"
+      },
+      {
+        "q": "Can I use vinegar to clean my espresso machine?",
+        "a": "Yes, but be sure to rinse thoroughly to avoid any lingering flavors"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Maintenance",
+      "Home Barista"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-07T22:17:39.671Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-budget-grinder-upgrade-6",
     "title": "Myth vs. reality: budget grinder upgrade",
     "dek": "The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.",

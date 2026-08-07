@@ -5,6 +5,13 @@
     <link>https://storeforge-budget-build-bench.vercel.app/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>Community pulse: what r/pcmasterrace is debating this week</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/community-pulse-pcmasterrace-9.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/community-pulse-pcmasterrace-9.html</guid>
+      <pubDate>Fri, 07 Aug 2026 22:17:38 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the benchmarks community this week.</description>
+    </item>
+    <item>
       <title>The upgrades checklist: run this before you spend</title>
       <link>https://storeforge-budget-build-bench.vercel.app/posts/upgrades-pre-spend-checklist-27.html</link>
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/upgrades-pre-spend-checklist-27.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/quiet-upgrade-upgrades-24.html</guid>
       <pubDate>Wed, 05 Aug 2026 11:04:59 GMT</pubDate>
       <description>No purchases, no overhauls — the modest upgrades adjustments that PC builders on a budget report mattering most.</description>
-    </item>
-    <item>
-      <title>Navigating the Used GPU Market for Budget Builders</title>
-      <link>https://storeforge-budget-build-bench.vercel.app/posts/used-gpu-market-trends.html</link>
-      <guid>https://storeforge-budget-build-bench.vercel.app/posts/used-gpu-market-trends.html</guid>
-      <pubDate>Wed, 05 Aug 2026 08:07:34 GMT</pubDate>
-      <description>Save big on used GPUs with these expert tips.</description>
     </item>
   </channel>
 </rss>
