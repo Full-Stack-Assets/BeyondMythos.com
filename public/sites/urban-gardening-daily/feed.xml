@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Cold Weather Container Care for Herbs</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-container-care-4.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-container-care-4.html</guid>
+      <pubDate>Fri, 07 Aug 2026 12:27:07 GMT</pubDate>
+      <description>Protect your herbs from frost damage</description>
+    </item>
+    <item>
       <title>A weekend project: level up your containers in two hours</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-21.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-21.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/self-watering-containers-4.html</guid>
       <pubDate>Tue, 04 Aug 2026 15:09:35 GMT</pubDate>
       <description>Revolutionize your watering schedule</description>
-    </item>
-    <item>
-      <title>Ask the forge: your seasonal questions, answered</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-16.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-16.html</guid>
-      <pubDate>Tue, 04 Aug 2026 12:28:51 GMT</pubDate>
-      <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

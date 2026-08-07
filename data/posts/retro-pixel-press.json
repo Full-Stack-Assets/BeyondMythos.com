@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-4",
+    "title": "Beyond Factory Settings: How Modding Can Supercharge Your Retro Console",
+    "dek": "Boost performance and compatibility with DIY mods",
+    "takeaway": "Retro console modding can significantly enhance gaming performance and compatibility",
+    "whatHappened": "The retro gaming community has seen a surge in console modding, with enthusiasts pushing the limits of what's possible with vintage hardware. From overclocking to regions-free modifications, these tweaks have opened up new possibilities for gamers. As a result, interest in DIY modding kits and guides has skyrocketed.",
+    "whyItMatters": "For collectors and speedrunners, modding can be a game-changer, offering improved performance, reduced lag, and greater control over the gaming experience. Moreover, it allows for the preservation of classic consoles, extending their lifespan and ensuring they remain playable for years to come. This, in turn, helps keep retro gaming culture alive and thriving.",
+    "howToThink": "When considering a modding project, it's essential to research thoroughly, choosing reputable guides and kits to avoid damaging your console. Start with simple mods and gradually move on to more complex projects, always keeping in mind the potential risks and rewards. By adopting a mindful and methodical approach, you can unlock your console's full potential and enjoy a more satisfying gaming experience.",
+    "pros": [
+      "Improved performance",
+      "Enhanced compatibility",
+      "Customization options"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Voiding warranties",
+      "Technical complexity"
+    ],
+    "watchOut": "Be cautious of low-quality modding kits and inexperienced technicians who can cause irreparable harm to your console",
+    "faq": [
+      {
+        "q": "What is the most popular retro console to mod?",
+        "a": "The Nintendo Entertainment System (NES) and Super Nintendo Entertainment System (SNES) are among the most frequently modified consoles"
+      },
+      {
+        "q": "Do I need to be tech-savvy to mod my console?",
+        "a": "While some technical knowledge is helpful, many modding kits and guides are designed to be user-friendly, making it accessible to a wide range of enthusiasts"
+      },
+      {
+        "q": "Can modding void my console's warranty?",
+        "a": "Yes, modifying your console can void its warranty, so it's crucial to weigh the benefits against the potential risks before proceeding"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "ModdingCommunity"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-07T12:27:08.664Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-game-restoration-field-test-6",
     "title": "\"retro game restoration\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.",

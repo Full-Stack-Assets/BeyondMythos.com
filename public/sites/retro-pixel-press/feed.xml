@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Beyond Factory Settings: How Modding Can Supercharge Your Retro Console</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-4.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-4.html</guid>
+      <pubDate>Fri, 07 Aug 2026 12:27:08 GMT</pubDate>
+      <description>Boost performance and compatibility with DIY mods</description>
+    </item>
+    <item>
       <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-6.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-15.html</guid>
       <pubDate>Tue, 04 Aug 2026 15:09:33 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Gameboy is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-6.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-6.html</guid>
-      <pubDate>Tue, 04 Aug 2026 12:28:51 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>
