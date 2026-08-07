@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-15",
+    "title": "From Barren to Bountiful: The Ultimate Balcony Makeover",
+    "dek": "Transform your balcony into a thriving oasis",
+    "takeaway": "With careful planning, even the smallest balconies can become verdant retreats",
+    "whatHappened": "As the seasons change, many apartment dwellers and balcony gardeners are looking to revamp their outdoor spaces. With a few simple tweaks, it's possible to turn even the most barren balconies into lush, thriving oases. By selecting the right plants and implementing a few space-saving strategies, gardeners can create a beautiful and functional outdoor area",
+    "whyItMatters": "A well-designed balcony garden can provide a much-needed escape from the stresses of urban life, while also increasing the value of your property and providing a space for relaxation and entertainment. By maximizing your balcony space, you can enjoy the benefits of gardening and outdoor living, even in the midst of a bustling city. This can have a significant impact on both your mental and physical well-being",
+    "howToThink": "To get started, consider the specific conditions of your balcony, including the amount of sunlight and wind it receives. Choose plants that are well-suited to these conditions, and select containers that are both functional and visually appealing. Don't be afraid to think vertically, using trellises, wall-mounted planters, and other space-saving strategies to make the most of your available space",
+    "pros": [
+      "Increased property value",
+      "Improved air quality",
+      "Enhanced mental well-being"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Ongoing maintenance requirements",
+      "Potential for over-watering"
+    ],
+    "watchOut": "Be mindful of weight limits when selecting containers and plants for your balcony to avoid any potential structural damage",
+    "faq": [
+      {
+        "q": "What are the best plants for a shady balcony?",
+        "a": "Consider using plants like ferns, peace lilies, or English ivy, which thrive in low-light conditions"
+      },
+      {
+        "q": "How often should I water my balcony plants?",
+        "a": "Watering requirements will vary depending on the specific plants and climate, but a general rule of thumb is to water when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I use a trellis to support climbing plants on my balcony?",
+        "a": "Yes, trellises can be a great way to provide support for climbing plants, and can help to make the most of your available space"
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "balcony gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-07T21:21:39.383Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-22",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",

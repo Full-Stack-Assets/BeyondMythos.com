@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>From Barren to Bountiful: The Ultimate Balcony Makeover</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-space-15.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-space-15.html</guid>
+      <pubDate>Fri, 07 Aug 2026 21:21:39 GMT</pubDate>
+      <description>Transform your balcony into a thriving oasis</description>
+    </item>
+    <item>
       <title>A weekend project: level up your containers in two hours</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-22.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-22.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/balcony-garden-ideas-field-test-6.html</guid>
       <pubDate>Wed, 05 Aug 2026 08:08:08 GMT</pubDate>
       <description>We put the most-repeated advice about balcony garden ideas through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your seasonal questions, answered</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-17.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-17.html</guid>
-      <pubDate>Wed, 05 Aug 2026 04:48:00 GMT</pubDate>
-      <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "portable-water-filtration-systems",
+    "title": "Clean Water on the Go: Essential Gear for Van Dwellers",
+    "dek": "Stay hydrated with portable water filters",
+    "takeaway": "Investing in a portable water filtration system is a must for van dwellers to ensure access to clean drinking water anywhere",
+    "whatHappened": "Recently, we've seen a surge in van dwellers and weekend overlanders seeking reliable ways to access clean drinking water on the go. This has led to an increase in demand for portable water filtration systems. With so many options available, it can be overwhelming to choose the right one for your needs.",
+    "whyItMatters": "Having a portable water filtration system matters because it allows van dwellers to source water from various places, such as rivers or lakes, without worrying about waterborne illnesses. This not only saves money on bottled water but also reduces plastic waste. Moreover, it provides peace of mind, knowing you have access to clean drinking water at all times.",
+    "howToThink": "When selecting a portable water filtration system, consider the type of water sources you'll be using, the flow rate, and the maintenance requirements. Look for systems with a high level of filtration, such as those that remove bacteria, viruses, and contaminants. Additionally, think about the durability and portability of the system, as well as any certifications, such as NSF International or the Water Quality Association.",
+    "pros": [
+      "Lightweight and compact",
+      "Easy to use and maintain",
+      "Effective against waterborne pathogens"
+    ],
+    "cons": [
+      "Initial investment can be expensive",
+      "Some systems require frequent filter replacements",
+      "May not be effective against all types of contaminants"
+    ],
+    "watchOut": "Be cautious of systems that make unrealistic claims or have poor customer reviews, as they may not provide the level of water quality you need",
+    "faq": [
+      {
+        "q": "What is the best type of portable water filtration system for van dwellers?",
+        "a": "The best type of system depends on your specific needs, but consider systems with a high level of filtration, such as those that use ceramic or carbon filters."
+      },
+      {
+        "q": "How often should I replace the filter in my portable water filtration system?",
+        "a": "The frequency of filter replacement depends on the system and usage, but typically ranges from every 1-6 months."
+      },
+      {
+        "q": "Can I use a portable water filtration system to filter saltwater?",
+        "a": "Most portable water filtration systems are designed for freshwater sources and may not be effective against saltwater, so it's essential to check the system's specifications before use."
+      }
+    ],
+    "category": "Cooking",
+    "tags": [
+      "van life",
+      "water filtration"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-08-07T21:21:42.168Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "van-solar-power-setup-field-test-9",
     "title": "\"van solar power setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about van solar power setup through a month of actual use. Some of it survived.",
