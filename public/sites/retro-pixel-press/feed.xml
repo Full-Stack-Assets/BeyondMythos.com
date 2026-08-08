@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-8.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-8.html</guid>
+      <pubDate>Sat, 08 Aug 2026 06:24:19 GMT</pubDate>
+      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Signal Boost: Upgrading Your SNES Console&apos;s Video Output</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/improving-snes-console-signal.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/improving-snes-console-signal.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-4.html</guid>
       <pubDate>Wed, 05 Aug 2026 23:37:11 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-16.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-16.html</guid>
-      <pubDate>Wed, 05 Aug 2026 21:54:43 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>A weekend project: level up your espresso in two hours</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-18.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-18.html</guid>
+      <pubDate>Sat, 08 Aug 2026 06:24:20 GMT</pubDate>
+      <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/pourover is debating this week</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-5.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-temperature.html</guid>
       <pubDate>Wed, 05 Aug 2026 23:37:12 GMT</pubDate>
       <description>Precision temperature for better shots</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-14.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-14.html</guid>
-      <pubDate>Wed, 05 Aug 2026 21:54:43 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>
