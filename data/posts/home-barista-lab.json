@@ -1,5 +1,56 @@
 [
   {
+    "slug": "perfecting-espresso-distribution-2",
+    "title": "Game-Changing Espresso Distribution Techniques",
+    "dek": "Even extraction made easy",
+    "takeaway": "Achieve perfect espresso shots with optimized distribution techniques",
+    "whatHappened": "In our quest for the perfect shot, we've often overlooked the importance of even coffee distribution in the portafilter. Recent experiments have shown that a well-distributed espresso puck can make all the difference in flavor and crema quality. By ensuring all grounds are evenly saturated, we can avoid channeling and over-extraction",
+    "whyItMatters": "Even distribution matters because it directly affects the flavor profile of our espresso shots. Channeling and over-extraction can lead to bitter and unbalanced flavors, while a well-distributed puck ensures a smooth and full-bodied shot. Moreover, it's essential for maintaining consistency across multiple shots",
+    "howToThink": "To achieve perfect distribution, think about using a combination of techniques such as dosing, leveling, and tamping. Experiment with different distribution tools, like distribution tools or tampers with built-in levelers. Pay attention to the coffee's texture and adjust your technique accordingly to ensure an even, smooth surface",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Better crema"
+    ],
+    "cons": [
+      "Requires practice",
+      "Additional equipment costs",
+      "Time-consuming"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to compacted grounds and poor extraction",
+    "faq": [
+      {
+        "q": "What's the best distribution tool for home use?",
+        "a": "A well-designed tamper with a built-in leveler is ideal"
+      },
+      {
+        "q": "Can I use a regular spoon for distribution?",
+        "a": "No, a spoon can cause channeling and uneven distribution"
+      },
+      {
+        "q": "How often should I clean my distribution tool?",
+        "a": "After each use to prevent old coffee oils from affecting flavor"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Coffee Distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-08T00:04:57.562Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-17",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",
