@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>A weekend project: level up your espresso in two hours</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-19.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-19.html</guid>
+      <pubDate>Sat, 08 Aug 2026 14:17:05 GMT</pubDate>
+      <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Tamping Like a Pro: The Secret to Perfect Espresso</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-reboot.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-reboot.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-15.html</guid>
       <pubDate>Fri, 07 Aug 2026 05:22:39 GMT</pubDate>
       <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>Dialing In: The Importance of Espresso Machine Calibration</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-4.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-4.html</guid>
-      <pubDate>Fri, 07 Aug 2026 03:38:06 GMT</pubDate>
-      <description>Get the most out of your espresso machine</description>
     </item>
   </channel>
 </rss>
