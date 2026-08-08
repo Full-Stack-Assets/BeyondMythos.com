@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>A weekend project: level up your hardware in two hours</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-20.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-20.html</guid>
+      <pubDate>Sat, 08 Aug 2026 10:07:14 GMT</pubDate>
+      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Mod Your Way to Victory: A Guide to Retro Console Tweaks</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-console-modding.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-console-modding.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-speedrun-controller-mods.html</guid>
       <pubDate>Thu, 06 Aug 2026 11:06:08 GMT</pubDate>
       <description>Boost your speedrun performance</description>
-    </item>
-    <item>
-      <title>Unlocking the SNES Mini: A Hardware Hacker&apos;s Dream</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-mini-hack.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-mini-hack.html</guid>
-      <pubDate>Thu, 06 Aug 2026 08:06:13 GMT</pubDate>
-      <description>Supercharge your SNES Mini with custom hacks</description>
     </item>
   </channel>
 </rss>
