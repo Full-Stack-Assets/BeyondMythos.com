@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Beat the Heat: Temperature Control for Retro Consoles</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-temperature-control.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-temperature-control.html</guid>
+      <pubDate>Sat, 08 Aug 2026 02:34:28 GMT</pubDate>
+      <description>Consoles overheat, now what?</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-19.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-19.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-6.html</guid>
       <pubDate>Wed, 05 Aug 2026 18:10:12 GMT</pubDate>
       <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your indie questions, answered</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-11.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-11.html</guid>
-      <pubDate>Wed, 05 Aug 2026 15:49:51 GMT</pubDate>
-      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

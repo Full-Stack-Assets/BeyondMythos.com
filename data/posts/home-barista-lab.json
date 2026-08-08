@@ -1,5 +1,56 @@
 [
   {
+    "slug": "taming-the-temperamental-grinder",
+    "title": "Domesticating Your Grinder for Better Espresso",
+    "dek": "Get the most out of your grinder.",
+    "takeaway": "A well-maintained grinder is crucial for achieving perfect espresso at home.",
+    "whatHappened": "Many home baristas overlook the importance of regular grinder maintenance, leading to inconsistent grinds and subpar espresso. This can be due to a lack of understanding of how grinders work or simply not prioritizing this critical piece of equipment. As a result, the quality of the espresso suffers.",
+    "whyItMatters": "The grinder is a foundational piece of equipment in any home espresso setup, directly impacting the flavor and quality of the final product. Proper maintenance ensures that the grinder continues to perform optimally, providing consistent grinds that are essential for a great shot of espresso. Neglecting the grinder can lead to a decline in espresso quality over time.",
+    "howToThink": "To keep your grinder in top condition, establish a regular cleaning and maintenance routine. This should include daily cleaning of the burrs and grind chamber, as well as periodic deep cleaning to remove old coffee oils and residue. Additionally, consider upgrading to a high-quality grinder designed with ease of maintenance in mind.",
+    "pros": [
+      "Consistent grinds",
+      "Improved flavor",
+      "Extended equipment life"
+    ],
+    "cons": [
+      "Regular maintenance required",
+      "Can be messy",
+      "Upfront cost of a quality grinder"
+    ],
+    "watchOut": "Failure to maintain your grinder can lead to costly repairs or even render it unusable.",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Clean your grinder daily, with a deep clean every week."
+      },
+      {
+        "q": "What are the signs of a poorly maintained grinder?",
+        "a": "Inconsistent grinds, decreased flavor quality, and increased noise during operation."
+      },
+      {
+        "q": "Can any grinder be used for espresso?",
+        "a": "No, espresso requires a burr grinder capable of producing a very fine, consistent grind."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Gear",
+      "Grinder Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-08T02:34:28.096Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "perfecting-espresso-distribution-2",
     "title": "Game-Changing Espresso Distribution Techniques",
     "dek": "Even extraction made easy",

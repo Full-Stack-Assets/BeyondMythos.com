@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-temperature-control",
+    "title": "Beat the Heat: Temperature Control for Retro Consoles",
+    "dek": "Consoles overheat, now what?",
+    "takeaway": "Proper temperature control can extend the lifespan of your retro consoles and prevent damage",
+    "whatHappened": "Retro console owners have long struggled with overheating issues, which can cause damage to internal components and lead to system failure. This is especially true for consoles that are heavily used or modified for speedrunning. Recently, there has been a surge in DIY solutions and commercial products aimed at addressing this problem. By understanding the causes of overheating, retro console enthusiasts can take proactive steps to prevent damage and ensure their systems continue to run smoothly.",
+    "whyItMatters": "Overheating can result in costly repairs or even render a console unusable, making temperature control a critical aspect of retro console maintenance. Furthermore, proper temperature control can also improve system performance and reduce the risk of data loss or corruption. As the retro gaming community continues to grow, it is essential to prioritize console preservation and take measures to prevent overheating.",
+    "howToThink": "To approach temperature control for your retro console, start by monitoring its operating temperature and identifying potential hotspots. Consider using thermal imaging tools or temperature probes to get an accurate reading. Next, explore DIY solutions such as heatsinks, fans, or thermal tape, or invest in commercial products specifically designed for retro console cooling. It is also crucial to ensure good airflow around the console and keep it in a well-ventilated area.",
+    "pros": [
+      "Improved system reliability",
+      "Reduced risk of damage",
+      "Enhanced performance"
+    ],
+    "cons": [
+      "Additional cost",
+      "Potential for over-cooling",
+      "Increased complexity"
+    ],
+    "watchOut": "Be cautious when handling internal console components to avoid causing damage or compromising system functionality",
+    "faq": [
+      {
+        "q": "What is the ideal operating temperature for a retro console?",
+        "a": "The ideal temperature varies by console, but generally falls between 60-80°F (15-27°C)"
+      },
+      {
+        "q": "Can I use a modern PC cooling solution on my retro console?",
+        "a": "It's not recommended, as modern PC cooling solutions may be too powerful or incompatible with retro console hardware"
+      },
+      {
+        "q": "How often should I clean dust from my retro console?",
+        "a": "Clean dust from your retro console every 3-6 months to ensure proper airflow and prevent overheating"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "console maintenance",
+      "temperature control"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-08T02:34:28.275Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-19",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",

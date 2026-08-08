@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Domesticating Your Grinder for Better Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-temperamental-grinder.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-temperamental-grinder.html</guid>
+      <pubDate>Sat, 08 Aug 2026 02:34:28 GMT</pubDate>
+      <description>Get the most out of your grinder.</description>
+    </item>
+    <item>
       <title>Game-Changing Espresso Distribution Techniques</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/perfecting-espresso-distribution-2.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/perfecting-espresso-distribution-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-15.html</guid>
       <pubDate>Wed, 05 Aug 2026 18:10:12 GMT</pubDate>
       <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/espresso is debating this week</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-4.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-4.html</guid>
-      <pubDate>Wed, 05 Aug 2026 15:49:51 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
     </item>
   </channel>
 </rss>
