@@ -1,5 +1,56 @@
 [
   {
+    "slug": "burr-grinder-maintenance",
+    "title": "Keep It Fresh: The Importance of Burr Grinder Maintenance",
+    "dek": "Clean grinders equal better espresso",
+    "takeaway": "Regular burr grinder maintenance is crucial for optimal coffee flavor and equipment longevity",
+    "whatHappened": "Burr grinders are a staple in many home coffee setups, but their performance can quickly degrade if not properly maintained. Old coffee oils and residue can accumulate, affecting the flavor of your brew. A simple cleaning routine can make all the difference in preserving the quality of your espresso.",
+    "whyItMatters": "A well-maintained burr grinder ensures consistent grind quality, which is essential for a balanced extraction. Poorly maintained grinders can lead to channeling, under-extraction, or over-extraction, ultimately affecting the taste of your coffee. By prioritizing maintenance, you can extend the life of your grinder and enjoy better-tasting coffee",
+    "howToThink": "To keep your burr grinder in top condition, make it a habit to clean it every 1-2 weeks, depending on usage. Use a soft brush to remove any loose particles, and a cleaning solution to remove old coffee oils and residue. Additionally, consider calibrating your grinder regularly to ensure optimal performance",
+    "pros": [
+      "Improved flavor",
+      "Increased longevity",
+      "Easy to clean"
+    ],
+    "cons": [
+      "Requires regular maintenance",
+      "Can be messy",
+      "May require additional cleaning tools"
+    ],
+    "watchOut": "Be careful not to over-clean your grinder, as this can damage the burrs and affect its performance",
+    "faq": [
+      {
+        "q": "How often should I clean my burr grinder?",
+        "a": "Every 1-2 weeks, depending on usage"
+      },
+      {
+        "q": "Can I use a dishwasher to clean my burr grinder?",
+        "a": "No, it's not recommended, as the high heat and harsh detergents can damage the grinder"
+      },
+      {
+        "q": "What is the best cleaning solution for my burr grinder?",
+        "a": "A mixture of equal parts water and white vinegar is a safe and effective cleaning solution"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Coffee Gear",
+      "Grinder Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-08T15:02:31.555Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-19",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

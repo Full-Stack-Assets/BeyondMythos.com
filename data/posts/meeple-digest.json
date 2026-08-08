@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-game-shelves",
+    "title": "Maximizing Tabletop Real Estate: Storage Hacks for Gamers",
+    "dek": "Boost your game night with smart storage",
+    "takeaway": "Efficient storage systems can significantly enhance your gaming experience by saving time and space",
+    "whatHappened": "Poorly organized game collections can lead to cluttered rooms, wasted time searching for specific games, and a generally frustrating experience for gamers and their guests. Many gamers struggle with finding the perfect balance between displaying their collection and maintaining a tidy, functional space. By implementing a few simple storage hacks, gamers can transform their gaming areas into inviting, organized havens",
+    "whyItMatters": "A well-organized game collection not only improves the aesthetic of the gaming space but also allows for quicker game selection and setup, making the overall gaming experience more enjoyable. Moreover, efficient storage helps protect the games from damage, ensuring they remain in good condition for years to come. This, in turn, can foster a sense of community and camaraderie among gamers",
+    "howToThink": "To optimize your game storage, consider the frequency of play, the size and shape of each game, and the available space in your gaming area. Implementing a categorization system and utilizing vertical space can significantly increase storage capacity. Additionally, labeling and indexing your games can make them easier to find and access",
+    "pros": [
+      "Saves Time",
+      "Increases Space",
+      "Enhances Aesthetic"
+    ],
+    "cons": [
+      "Initial Setup Effort",
+      "Cost of Storage Solutions",
+      "Maintenance Requirements"
+    ],
+    "watchOut": "Be cautious not to overinvest in storage solutions that may not fit your specific needs or gaming style",
+    "faq": [
+      {
+        "q": "What are the best materials for DIY game shelves?",
+        "a": "Wood and metal are popular choices due to their durability and aesthetic appeal"
+      },
+      {
+        "q": "How often should I organize my game collection?",
+        "a": "It's recommended to reorganize your collection every 3-6 months to ensure it remains accessible and clutter-free"
+      },
+      {
+        "q": "Can I store games in a humid environment?",
+        "a": "No, it's advisable to store games in a cool, dry place to prevent damage from moisture and mold"
+      }
+    ],
+    "category": "Storage",
+    "tags": [
+      "Game Storage",
+      "Tabletop Gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/soloboardgaming community threads",
+        "url": "https://www.reddit.com/r/soloboardgaming/"
+      },
+      {
+        "label": "Search interest: \"solo board games\"",
+        "url": "https://duckduckgo.com/?q=solo%20board%20games"
+      }
+    ],
+    "publishedAt": "2026-08-08T15:02:34.768Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-party-games-mistakes-28",
     "title": "Five mistakes everyone makes in their first month of party games",
     "dek": "The most common early stumbles in party games, and the cheap corrections that fix them for tabletop gamers and game-night hosts.",
