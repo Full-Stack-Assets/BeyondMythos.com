@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Ask the forge: your seasonal questions, answered</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-20.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-20.html</guid>
+      <pubDate>Sat, 08 Aug 2026 17:06:50 GMT</pubDate>
+      <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in composting with outsized returns</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-20.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-20.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-20.html</guid>
       <pubDate>Fri, 07 Aug 2026 09:40:08 GMT</pubDate>
       <description>Seven questions that separate a justified composting purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Breakthroughs in Balcony Design: Transforming Tiny Spaces</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-potential.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-potential.html</guid>
-      <pubDate>Fri, 07 Aug 2026 08:38:37 GMT</pubDate>
-      <description>Boost your balcony&apos;s potential</description>
     </item>
   </channel>
 </rss>

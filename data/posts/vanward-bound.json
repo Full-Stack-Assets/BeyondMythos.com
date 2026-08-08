@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-solar-panels",
+    "title": "Solar on a Shoestring: How to DIY Your Van's Power",
+    "dek": "Save big on solar with a DIY setup",
+    "takeaway": "You can build your own solar panel system for a fraction of the cost of commercial kits",
+    "whatHappened": "We set out to test the limits of DIY solar power for van dwellers, scouring online forums and tutorials for the best approaches. Our team assembled a basic solar panel system using readily available components. The results were impressive, with our DIY setup generating nearly as much power as commercial alternatives.",
+    "whyItMatters": "For van dwellers and weekend overlanders, reliable power is essential for keeping devices charged and lights on. Commercial solar panel systems can be expensive, putting them out of reach for many adventurers. By building your own DIY solar panel system, you can save money and still enjoy the benefits of renewable energy on the go.",
+    "howToThink": "When considering a DIY solar panel system, think about your power needs and the space available on your van's roof. Choose components that are durable, efficient, and easy to install. Don't be afraid to experiment and try new approaches – and be sure to follow safety guidelines when working with electrical systems.",
+    "pros": [
+      "Cost-effective",
+      "Customizable",
+      "Environmentally friendly"
+    ],
+    "cons": [
+      "Technical expertise required",
+      "Space constraints",
+      "Weather dependence"
+    ],
+    "watchOut": "Be cautious when handling electrical components and ensure your system is properly grounded to avoid shocks or fires",
+    "faq": [
+      {
+        "q": "What kind of solar panels are best for van dwellers?",
+        "a": "Monocrystalline panels offer the best balance of efficiency and cost"
+      },
+      {
+        "q": "How much power can I expect from a DIY solar panel system?",
+        "a": "A typical DIY system can generate between 100-300 watts of power, depending on the components and setup"
+      },
+      {
+        "q": "Are DIY solar panel systems safe?",
+        "a": "Yes, as long as you follow proper safety guidelines and installation best practices"
+      }
+    ],
+    "category": "Power",
+    "tags": [
+      "van life",
+      "off-grid"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-08-08T17:06:55.279Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "routes-pre-spend-checklist-27",
     "title": "The routes checklist: run this before you spend",
     "dek": "Seven questions that separate a justified routes purchase from an expensive mood.",

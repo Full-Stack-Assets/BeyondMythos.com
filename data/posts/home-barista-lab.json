@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-grinder-buying-guide",
+    "title": "The Daily Grind: Finding Your Perfect Coffee Grinder",
+    "dek": "Get the right grind for your brew",
+    "takeaway": "A good coffee grinder is the backbone of a great home coffee setup",
+    "whatHappened": "As home coffee enthusiasts, we've all been there: struggling to find the perfect grind for our morning brew. Whether you're a pour-over pro or an espresso aficionado, the right grinder can make all the difference. Recently, we've seen a surge in high-quality, affordable grinders hitting the market, making it easier than ever to upgrade your setup.",
+    "whyItMatters": "The right grinder can elevate your coffee game by providing a consistent grind, which is crucial for optimal extraction. A good grinder can also help you experiment with different roast levels and brewing methods, opening up a world of flavor possibilities. By investing in a quality grinder, you'll be able to take your coffee to the next level and enjoy a more satisfying cup every time.",
+    "howToThink": "When shopping for a coffee grinder, consider your brewing method, budget, and desired level of control. Think about the type of grind you need, whether it's fine for espresso or coarse for pour-over. Also, consider the material and build quality of the grinder, as well as any additional features that may be important to you, such as a built-in scale or adjustable settings.",
+    "pros": [
+      "Improved flavor",
+      "Increased control",
+      "Easy to use"
+    ],
+    "cons": [
+      "Higher cost",
+      "Noise level",
+      "Cleaning required"
+    ],
+    "watchOut": "Be wary of low-quality grinders that can generate excessive heat, which can damage your beans and affect the flavor of your coffee",
+    "faq": [
+      {
+        "q": "What type of grinder is best for espresso?",
+        "a": "A burr grinder is the best choice for espresso, as it provides a consistent fine grind"
+      },
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Clean your grinder regularly to prevent old coffee oils and residue from building up and affecting the flavor of your coffee"
+      },
+      {
+        "q": "Can I use a blade grinder for pour-over?",
+        "a": "While possible, blade grinders are not ideal for pour-over, as they can generate heat and produce an inconsistent grind"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "gear guide",
+      "coffee grinder"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-08T17:06:53.341Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-16",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

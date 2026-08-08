@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddling-at-night",
+    "title": "Navigating the Dark: A Kayaker's Guide to Night Paddling",
+    "dek": "Paddling at night requires extra precautions",
+    "takeaway": "With the right gear and mindset, night paddling can be a unique and exhilarating experience",
+    "whatHappened": "As the sun sets over the water, kayakers face a new set of challenges, from reduced visibility to increased wildlife activity. A recent incident involving a group of paddlers highlighted the importance of proper preparation and safety protocols when venturing out at night. By understanding the risks and taking necessary precautions, kayakers can minimize their exposure to hazards and enjoy the serene beauty of nighttime paddling.",
+    "whyItMatters": "Night paddling offers a distinct perspective on the natural world, with bioluminescent organisms lighting up the water and a sense of solitude that's hard to find during the day. However, it also demands a higher level of situational awareness and risk management, making it essential for kayakers to be aware of the potential dangers and take steps to mitigate them. By doing so, paddlers can unlock a new world of paddling experiences and connect with the environment in a unique way.",
+    "howToThink": "To paddle safely at night, kayakers should invest in a reliable light source, such as a headlamp or deck light, and ensure their vessel is equipped with reflective materials and a whistle. They should also file a float plan with a friend or family member, outlining their route and expected return time, and stay alert for potential hazards like rocks, weeds, or marine life. By being prepared and vigilant, paddlers can minimize their risk and maximize their enjoyment of the night paddling experience.",
+    "pros": [
+      "Unique perspective",
+      "Increased solitude",
+      "Bioluminescent displays"
+    ],
+    "cons": [
+      "Reduced visibility",
+      "Increased risk",
+      "Disorientation"
+    ],
+    "watchOut": "Be cautious of underwater obstacles and marine life that may be more active at night",
+    "faq": [
+      {
+        "q": "What light source is best for night paddling?",
+        "a": "A reliable headlamp or deck light with a red light mode to preserve night vision"
+      },
+      {
+        "q": "How can I stay visible to other boats at night?",
+        "a": "Use reflective materials on your kayak and paddle, and consider adding a strobe light or flag"
+      },
+      {
+        "q": "What should I do if I get lost while paddling at night?",
+        "a": "Stay calm, use your light source to signal for help, and try to find a visible landmark or shoreline to orient yourself"
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "night paddling",
+      "kayak safety"
+    ],
+    "sources": [
+      {
+        "label": "r/canoeing community threads",
+        "url": "https://www.reddit.com/r/canoeing/"
+      },
+      {
+        "label": "Search interest: \"best day paddle trips\"",
+        "url": "https://duckduckgo.com/?q=best%20day%20paddle%20trips"
+      }
+    ],
+    "publishedAt": "2026-08-08T17:06:57.411Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-trips-25",
     "title": "The quiet upgrade: small tweaks in trips with outsized returns",
     "dek": "No purchases, no overhauls — the modest trips adjustments that recreational kayakers and paddlers report mattering most.",
