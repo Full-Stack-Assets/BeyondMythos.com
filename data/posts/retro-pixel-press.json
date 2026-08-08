@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-hacks-4",
+    "title": "Retro Console Repairs: DIY or Die Trying",
+    "dek": "Revive your retro console with DIY hacks",
+    "takeaway": "Basic hardware skills can save you money and extend the life of your retro consoles",
+    "whatHappened": "Retro console repair services are on the rise, but many common issues can be fixed at home with basic tools and knowledge. From replacing worn-out controller pads to resoldering loose connections, DIY repairs can be a cost-effective and rewarding way to breathe new life into vintage hardware. With the right guides and tutorials, even beginners can learn to perform routine repairs and maintenance",
+    "whyItMatters": "As retro consoles become increasingly rare and valuable, the ability to repair and maintain them is crucial for collectors and enthusiasts. By learning basic hardware repair skills, you can extend the lifespan of your consoles, avoid costly repair bills, and ensure that your favorite games remain playable for years to come. Moreover, DIY repairs can also help to preserve the original hardware and prevent the loss of unique gaming experiences",
+    "howToThink": "When approaching DIY repairs, it's essential to start with basic tools and a solid understanding of the console's internal components. Online tutorials and repair guides can provide valuable step-by-step instructions, while forums and communities can offer expert advice and troubleshooting tips. By taking a methodical and patient approach, you can overcome common repair challenges and develop the skills and confidence to tackle more complex projects",
+    "pros": [
+      "Cost-effective",
+      "Extends console lifespan",
+      "Develops repair skills"
+    ],
+    "cons": [
+      "Requires basic tools",
+      "Can be time-consuming",
+      "May void warranties"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronic components to avoid causing further damage or safety risks",
+    "faq": [
+      {
+        "q": "What are the basic tools required for retro console repairs?",
+        "a": "A soldering iron, wire strippers, and a multimeter are essential for most repairs"
+      },
+      {
+        "q": "How do I find reliable repair guides and tutorials?",
+        "a": "Online forums, YouTube channels, and specialized repair websites are great resources for repair guides and tutorials"
+      },
+      {
+        "q": "Can I repair my retro console if I'm not tech-savvy?",
+        "a": "While some technical knowledge is helpful, many repairs can be done with basic tools and patience, and online communities can provide support and guidance"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "DIYRepairs"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-08T18:02:30.403Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-retrogaming-10",
     "title": "Community pulse: what r/retrogaming is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",
