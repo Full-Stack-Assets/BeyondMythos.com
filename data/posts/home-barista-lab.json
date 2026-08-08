@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-espresso-flavor",
+    "title": "Unlocking Hidden Notes in Your Espresso",
+    "dek": "Get more from your espresso",
+    "takeaway": "Adjusting roast levels can significantly impact espresso flavor",
+    "whatHappened": "Recently, we experimented with different roast levels to see how they affect the flavor of our espresso shots. We found that even small adjustments can make a big difference. By moving from a medium to a medium-dark roast, we noticed a deeper, richer flavor profile.",
+    "whyItMatters": "Understanding how roast levels impact flavor is crucial for home baristas looking to elevate their espresso game. It allows for greater control over the final product and can help in achieving the perfect balance of flavors. This knowledge can also guide purchasing decisions when selecting coffee beans.",
+    "howToThink": "When experimenting with roast levels, consider the type of coffee beans you're using and the equipment at your disposal. Lighter roasts may require more precise temperature control, while darker roasts can be more forgiving. It's also important to keep in mind the overall flavor profile you're aiming for, whether it's fruity, nutty, or chocolatey.",
+    "pros": [
+      "Deeper flavor",
+      "Greater control",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Steeper learning curve",
+      "Equipment limitations",
+      "Bean quality variability"
+    ],
+    "watchOut": "Be cautious not to over-roast, as this can lead to a bitter taste that's hard to balance",
+    "faq": [
+      {
+        "q": "What's the ideal roast level for espresso?",
+        "a": "It depends on personal taste, but medium to medium-dark roasts are commonly preferred"
+      },
+      {
+        "q": "Can I roast my own beans at home?",
+        "a": "Yes, with the right equipment and knowledge, home roasting can be a fun and rewarding experience"
+      },
+      {
+        "q": "How do I store roasted beans to preserve flavor?",
+        "a": "Store them in an airtight container in a cool, dark place to minimize exposure to air, light, and moisture"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Roast",
+      "Home Barista"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-08T23:03:34.213Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-20",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

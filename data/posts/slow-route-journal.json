@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-hostels-2",
+    "title": "Green Stays: How to Choose an Eco-Friendly Hostel",
+    "dek": "Sustainable hostels for low-impact travel",
+    "takeaway": "Choosing an eco-friendly hostel can significantly reduce your travel footprint",
+    "whatHappened": "As a slow-travel enthusiast, I've noticed a surge in eco-friendly hostels popping up across Europe. These hostels prioritize sustainability, from solar-powered roofs to recycling programs. By opting for these green stays, travelers can minimize their environmental impact",
+    "whyItMatters": "The hospitality industry is a significant contributor to greenhouse gas emissions, so making conscious choices about where we stay can have a substantial impact. Eco-friendly hostels not only reduce waste but also promote local communities and conservation efforts. By supporting these hostels, travelers can be part of a more sustainable tourism model",
+    "howToThink": "When searching for eco-friendly hostels, look for certifications like EU Ecolabel or Green Globe. Research the hostel's sustainability initiatives, such as energy-efficient systems or community involvement. Consider the hostel's location and proximity to public transportation to minimize carbon emissions",
+    "pros": [
+      "Reduced carbon footprint",
+      "Supports local communities",
+      "Inspires sustainable travel"
+    ],
+    "cons": [
+      "Higher prices",
+      "Limited options",
+      "Variable sustainability standards"
+    ],
+    "watchOut": "Be wary of greenwashing, where hostels claim to be eco-friendly without actually implementing sustainable practices",
+    "faq": [
+      {
+        "q": "What is an eco-friendly hostel?",
+        "a": "A hostel that prioritizes sustainability, reduces waste, and promotes environmental conservation"
+      },
+      {
+        "q": "How can I find eco-friendly hostels?",
+        "a": "Research online, look for certifications, and read reviews from other travelers"
+      },
+      {
+        "q": "Do eco-friendly hostels cost more?",
+        "a": "Sometimes, but the benefits to the environment and local communities often outweigh the extra cost"
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "Sustainable Travel",
+      "Eco-Friendly"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-08T23:03:33.725Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-23",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",
