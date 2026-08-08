@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Famicom Frenzy: Bringing Nintendo&apos;s 8-Bit Giant Back to Life</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-famicom-perfection-3.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-famicom-perfection-3.html</guid>
+      <pubDate>Sat, 08 Aug 2026 11:04:57 GMT</pubDate>
+      <description>Revive your Famicom with these expert tips!</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-20.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-20.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/reconditioning-classic-controllers.html</guid>
       <pubDate>Thu, 06 Aug 2026 13:18:18 GMT</pubDate>
       <description>Revive your classic controllers</description>
-    </item>
-    <item>
-      <title>Optimize Your SNES Speedrun Setup</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-speedrun-controller-mods.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-speedrun-controller-mods.html</guid>
-      <pubDate>Thu, 06 Aug 2026 11:06:08 GMT</pubDate>
-      <description>Boost your speedrun performance</description>
     </item>
   </channel>
 </rss>

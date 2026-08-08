@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of pour-over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-17.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-17.html</guid>
+      <pubDate>Sat, 08 Aug 2026 11:04:54 GMT</pubDate>
+      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
+    </item>
+    <item>
       <title>&quot;pour over technique&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-6.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-bean-freshness-matters-2.html</guid>
       <pubDate>Thu, 06 Aug 2026 13:18:18 GMT</pubDate>
       <description>Fresh beans boost flavor</description>
-    </item>
-    <item>
-      <title>Weighing the Odds: How a Coffee Scale Can Transform Your Brew</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-scale-precision.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-scale-precision.html</guid>
-      <pubDate>Thu, 06 Aug 2026 11:06:08 GMT</pubDate>
-      <description>Precision brewing made easy</description>
     </item>
   </channel>
 </rss>

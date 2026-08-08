@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-famicom-perfection-3",
+    "title": "Famicom Frenzy: Bringing Nintendo's 8-Bit Giant Back to Life",
+    "dek": "Revive your Famicom with these expert tips!",
+    "takeaway": "Proper restoration can increase your Famicom's lifespan and improve performance",
+    "whatHappened": "The Famicom, Nintendo's iconic 8-bit console, has seen a resurgence in popularity among collectors and retro gaming enthusiasts. However, decades of use and neglect can take a toll on these beloved systems. Restoration experts have been working to develop new methods for bringing these consoles back to their former glory. By using a combination of traditional techniques and modern tools, it's possible to restore a Famicom to like-new condition.",
+    "whyItMatters": "A properly restored Famicom can provide hours of entertainment and nostalgia for gamers of all ages. Moreover, restoration can help preserve the history of the gaming industry and ensure that these iconic consoles continue to function for generations to come. By learning about the restoration process, enthusiasts can gain a deeper appreciation for the craftsmanship and engineering that went into creating these legendary systems.",
+    "howToThink": "When approaching a Famicom restoration project, it's essential to prioritize caution and patience. Start by thoroughly cleaning the console and its components, then proceed to diagnose and address any issues with the hardware. Don't be afraid to seek guidance from online communities or professional restorers if you're unsure about any aspect of the process.",
+    "pros": [
+      "Improved performance",
+      "Increased lifespan",
+      "Enhanced aesthetics"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires technical expertise",
+      "Can be costly"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronic components to avoid causing damage or injury",
+    "faq": [
+      {
+        "q": "What is the most common issue with old Famicom consoles?",
+        "a": "The most common issue is typically related to capacitor failure or corrosion on the motherboard"
+      },
+      {
+        "q": "Can I restore a Famicom myself, or should I hire a professional?",
+        "a": "While it's possible to restore a Famicom yourself, it's recommended that you hire a professional if you're not experienced with electronics repair"
+      },
+      {
+        "q": "How much does a typical Famicom restoration cost?",
+        "a": "The cost of restoration can vary widely depending on the extent of the work needed, but expect to pay anywhere from $50 to $500 or more"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Famicom",
+      "Restoration"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-08T11:04:57.016Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-20",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",

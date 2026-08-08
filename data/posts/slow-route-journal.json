@@ -1,5 +1,56 @@
 [
   {
+    "slug": "minimalist-rail-essentials",
+    "title": "Streamlining Your Rail Travel: A Practical Guide",
+    "dek": "Travel light, travel far on the rails.",
+    "takeaway": "With the right mindset and minimal gear, you can maximize your rail travel experience.",
+    "whatHappened": "As I embarked on my latest rail journey, I found myself reflecting on the essence of minimalist travel. It's not just about packing less, but about experiencing more. By stripping away the unnecessary, I was able to connect deeper with the landscapes and cultures I encountered.",
+    "whyItMatters": "Adopting a minimalist approach to rail travel can significantly reduce your environmental footprint and enhance your overall travel experience. By carrying less, you're more likely to engage with local communities and immerse yourself in the journey. It's a mindset shift that can transform your travels.",
+    "howToThink": "To start, reassess your packing list and focus on multipurpose items. Consider the 80/20 rule, where 80% of the time you likely only use 20% of your gear. By prioritizing versatility and simplicity, you'll be better equipped to handle the unexpected and make the most of your rail travel adventures.",
+    "pros": [
+      "Lighter load",
+      "Increased mobility",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Limited gear options",
+      "Potential for overpacking",
+      "Initial investment in quality items"
+    ],
+    "watchOut": "Be mindful of overcompensating with gear in an effort to be prepared, as this can quickly negate the benefits of minimalist travel.",
+    "faq": [
+      {
+        "q": "What are the essentials for minimalist rail travel?",
+        "a": "A good backpack, versatile clothing, and a portable charger."
+      },
+      {
+        "q": "How can I minimize my environmental impact while traveling by rail?",
+        "a": "Choose trains with high fuel efficiency, pack reusable items, and avoid single-use plastics."
+      },
+      {
+        "q": "What are some tips for packing light without sacrificing comfort?",
+        "a": "Roll your clothes to save space, choose items with multiple uses, and wear your heaviest or bulkiest items on the train."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail travel",
+      "minimalist packing"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-08T11:04:56.238Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "carry-on-packing-list-field-test-7",
     "title": "\"carry on packing list\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about carry on packing list through a month of actual use. Some of it survived.",
