@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-19.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-19.html</guid>
+      <pubDate>Sat, 08 Aug 2026 20:01:37 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
+    </item>
+    <item>
       <title>Retro Repair Revival: DIY Kits Take Center Stage</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-kits.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-kits.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-4.html</guid>
       <pubDate>Fri, 07 Aug 2026 12:27:08 GMT</pubDate>
       <description>Boost performance and compatibility with DIY mods</description>
-    </item>
-    <item>
-      <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-6.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-6.html</guid>
-      <pubDate>Fri, 07 Aug 2026 11:30:14 GMT</pubDate>
-      <description>We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
