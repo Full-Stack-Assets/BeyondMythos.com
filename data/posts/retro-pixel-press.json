@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-game-console-modding",
+    "title": "Mod Your Way to Victory: A Guide to Retro Console Tweaks",
+    "dek": "Upgrade your retro console with these tweaks",
+    "takeaway": "Simple mods can significantly improve your retro gaming experience",
+    "whatHappened": "Retro console modding has become increasingly popular among collectors and speedrunners, with many enthusiasts turning to online forums and communities for guidance. The rise of DIY modding kits and tutorials has made it easier than ever to upgrade and customize retro consoles. However, with so many options available, it can be difficult to know where to start.",
+    "whyItMatters": "Modding your retro console can improve performance, reduce lag, and even add new features. For speedrunners, these tweaks can be the difference between a world record and a missed opportunity. For collectors, modding can help preserve the longevity of their consoles and ensure they continue to function optimally.",
+    "howToThink": "When considering a mod, think about your specific needs and goals. If you're a speedrunner, focus on tweaks that improve performance and reduce lag. If you're a collector, prioritize mods that enhance preservation and aesthetic appeal. Always research and carefully follow instructions to avoid damaging your console",
+    "pros": [
+      "Improved performance",
+      "Increased customization",
+      "Enhanced preservation"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Voiding warranties",
+      "Cost of materials"
+    ],
+    "watchOut": "Be cautious of low-quality modding kits and tutorials that can damage your console",
+    "faq": [
+      {
+        "q": "What is the most popular retro console to mod?",
+        "a": "The Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "q": "Do I need to be an expert to mod my console?",
+        "a": "No, many mods can be done with basic DIY skills and patience"
+      },
+      {
+        "q": "Can modding my console void its warranty?",
+        "a": "Yes, check your console's warranty terms before attempting any mods"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-08T09:20:53.751Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-18",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",

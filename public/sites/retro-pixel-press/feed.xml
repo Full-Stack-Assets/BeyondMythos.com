@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Mod Your Way to Victory: A Guide to Retro Console Tweaks</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-console-modding.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-console-modding.html</guid>
+      <pubDate>Sat, 08 Aug 2026 09:20:53 GMT</pubDate>
+      <description>Upgrade your retro console with these tweaks</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-18.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-mini-hack.html</guid>
       <pubDate>Thu, 06 Aug 2026 08:06:13 GMT</pubDate>
       <description>Supercharge your SNES Mini with custom hacks</description>
-    </item>
-    <item>
-      <title>Instant Response: Upgrading Your SNES Controller for Competitive Speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controllers.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controllers.html</guid>
-      <pubDate>Thu, 06 Aug 2026 04:48:32 GMT</pubDate>
-      <description>Boost your speedrun times with these simple upgrades.</description>
     </item>
   </channel>
 </rss>

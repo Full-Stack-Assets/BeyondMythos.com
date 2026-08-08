@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-composting-hacks",
+    "title": "Composting in Tight Spaces: No Yard? No Problem",
+    "dek": "Turn scraps into soil on your balcony",
+    "takeaway": "Apartment dwellers can compost effectively with minimal space and equipment",
+    "whatHappened": "Urban gardeners often face the challenge of composting without a yard. However, with a few simple hacks, anyone can turn food scraps into nutrient-rich soil. From worm composting to DIY compost bins, the options are plentiful.",
+    "whyItMatters": "Composting is a crucial step in reducing waste and creating a sustainable gardening practice. By composting food scraps, gardeners can reduce their environmental impact while also improving soil quality. This, in turn, leads to healthier plants and a more bountiful harvest.",
+    "howToThink": "When considering composting in a small space, think vertically and utilize hidden areas like under the bed or behind a balcony wall. Choose a composting method that fits your lifestyle, such as a compact worm composter or a bokashi bin, and don't be afraid to get creative with DIY solutions.",
+    "pros": [
+      "Reduces waste",
+      "Improves soil quality",
+      "Increases harvest yields"
+    ],
+    "cons": [
+      "Space constraints",
+      "Potential odors",
+      "Initial investment"
+    ],
+    "watchOut": "Be sure to maintain proper airflow and moisture levels to avoid pests and unpleasant odors",
+    "faq": [
+      {
+        "q": "What can I compost?",
+        "a": "Food scraps, tea bags, and coffee grounds are all great additions to a compost bin"
+      },
+      {
+        "q": "How long does composting take?",
+        "a": "Composting time varies depending on the method, but can take anywhere from a few weeks to several months"
+      },
+      {
+        "q": "Do I need a lot of space?",
+        "a": "No, composting can be done in even the smallest of spaces, such as a balcony or apartment"
+      }
+    ],
+    "category": "Composting",
+    "tags": [
+      "apartment gardening",
+      "balcony composting"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-08T09:20:53.904Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-composting-19",
     "title": "The quiet upgrade: small tweaks in composting with outsized returns",
     "dek": "No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.",
