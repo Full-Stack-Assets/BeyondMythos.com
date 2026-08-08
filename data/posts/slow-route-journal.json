@@ -1,5 +1,56 @@
 [
   {
+    "slug": "low-impact-rail-stations",
+    "title": "Sustainable Stations: The Unsung Heroes of Eco-Friendly Travel",
+    "dek": "Discover the best low-impact rail stations for slow travel",
+    "takeaway": "Choosing the right rail station can significantly reduce your carbon footprint",
+    "whatHappened": "Recent studies have shown that rail travel can be a highly sustainable mode of transportation, with some stations taking extra steps to reduce their environmental impact. From solar-powered platforms to locally sourced food options, these eco-friendly hubs are setting a new standard for low-impact travel. By opting for these sustainable stations, travelers can significantly reduce their carbon footprint",
+    "whyItMatters": "As slow travelers, we have a unique opportunity to make a positive impact on the environment by choosing transportation methods and infrastructure that prioritize sustainability. By supporting low-impact rail stations, we can help drive demand for more eco-friendly options and promote a cleaner, healthier planet. This, in turn, can have a lasting impact on local communities and the environment",
+    "howToThink": "When planning your next rail journey, consider the environmental credentials of your departure and arrival stations. Look for stations with green initiatives, such as renewable energy sources, recycling programs, and sustainable food options. By making informed choices, you can contribute to a more sustainable travel industry and reduce your own environmental footprint",
+    "pros": [
+      "Reduced carbon emissions",
+      "Increased use of renewable energy",
+      "Support for local communities"
+    ],
+    "cons": [
+      "Limited availability of sustainable stations",
+      "Higher costs for eco-friendly options",
+      "Potential for inconsistent sustainability standards"
+    ],
+    "watchOut": "Be sure to research the sustainability credentials of your chosen rail station to avoid potential greenwashing",
+    "faq": [
+      {
+        "q": "What makes a rail station 'low-impact'?",
+        "a": "A low-impact rail station prioritizes sustainability through initiatives such as renewable energy, recycling, and locally sourced food options"
+      },
+      {
+        "q": "How can I find sustainable rail stations?",
+        "a": "Research online, look for stations with green certifications, and read reviews from fellow travelers to find the most eco-friendly options"
+      },
+      {
+        "q": "Do low-impact rail stations cost more?",
+        "a": "While some sustainable options may come at a higher cost, many low-impact rail stations offer affordable and eco-friendly choices for slow travelers"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "ecotourism",
+      "sustainabletravel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-08T13:31:38.576Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "packing-pre-spend-checklist-15",
     "title": "The packing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified packing purchase from an expensive mood.",

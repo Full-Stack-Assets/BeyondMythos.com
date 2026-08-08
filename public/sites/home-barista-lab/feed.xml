@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Tamping Like a Pro: The Secret to Perfect Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-reboot.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-reboot.html</guid>
+      <pubDate>Sat, 08 Aug 2026 13:31:38 GMT</pubDate>
+      <description>Get the perfect tamp every time</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-21.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-21.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration-4.html</guid>
       <pubDate>Fri, 07 Aug 2026 03:38:06 GMT</pubDate>
       <description>Get the most out of your espresso machine</description>
-    </item>
-    <item>
-      <title>Brewing Up Savings: The Cost-Effective Case for Regular Espresso Machine Maintenance</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-12.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-12.html</guid>
-      <pubDate>Fri, 07 Aug 2026 00:30:13 GMT</pubDate>
-      <description>Stay on top of machine maintenance</description>
     </item>
   </channel>
 </rss>

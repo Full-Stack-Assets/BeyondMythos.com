@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-14.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-14.html</guid>
+      <pubDate>Sat, 08 Aug 2026 13:31:36 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-18.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-diy-repair-kits.html</guid>
       <pubDate>Fri, 07 Aug 2026 03:38:07 GMT</pubDate>
       <description>Fix your SNES with ease</description>
-    </item>
-    <item>
-      <title>Resurrecting the Classic: A Step-by-Step SNES Controller Repair Guide</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-repair.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-repair.html</guid>
-      <pubDate>Fri, 07 Aug 2026 00:30:13 GMT</pubDate>
-      <description>Breathe new life into old controllers</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-winter-herb-growth",
+    "title": "Winter Herb Growth Hacks for Apartment Gardeners",
+    "dek": "Grow herbs year-round, no matter the weather",
+    "takeaway": "With the right techniques, you can enjoy fresh herbs even in the dead of winter",
+    "whatHappened": "As the temperatures drop, many gardeners assume that their herb-growing days are behind them. However, with a little creativity and the right strategies, it's possible to keep your herb garden thriving even in the coldest months. By utilizing indoor containers, grow lights, and insulation, apartment dwellers can enjoy a continuous harvest of fresh herbs.",
+    "whyItMatters": "Having access to fresh herbs can elevate any dish and provide a much-needed boost of flavor and nutrients during the winter months. Moreover, growing your own herbs can be a fun and rewarding hobby, providing a sense of connection to nature even in the midst of urban landscapes. By learning how to grow herbs in the winter, you can take your cooking to the next level and enjoy the many benefits of homegrown produce.",
+    "howToThink": "To get started, consider investing in a few key pieces of equipment, such as a grow light and a thermometer. Next, choose a variety of herbs that are well-suited to indoor growing, such as basil, mint, and parsley. Finally, make sure to provide your herbs with the right amount of water, light, and nutrients to ensure healthy growth and maximum flavor.",
+    "pros": [
+      "Year-round harvest",
+      "Improved flavor",
+      "Increased nutrition"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Requires more maintenance",
+      "Limited space"
+    ],
+    "watchOut": "Be careful not to overwater your herbs, as this can lead to root rot and other problems",
+    "faq": [
+      {
+        "q": "What are the best herbs to grow indoors?",
+        "a": "Basil, mint, and parsley are all great options"
+      },
+      {
+        "q": "How much light do herbs need?",
+        "a": "Most herbs require at least 4-6 hours of direct light per day"
+      },
+      {
+        "q": "Can I grow herbs on a windowsill?",
+        "a": "Yes, but make sure to choose a variety that can tolerate cooler temperatures and limited light"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "indoor gardening",
+      "winter herbs"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-08T13:31:37.823Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-22",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",
