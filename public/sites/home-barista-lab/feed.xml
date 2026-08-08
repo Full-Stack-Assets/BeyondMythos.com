@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Unlocking the Full Potential of Your Coffee Beans</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-3.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-3.html</guid>
+      <pubDate>Sat, 08 Aug 2026 07:34:35 GMT</pubDate>
+      <description>Elevate your brew with expert roasting techniques</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-18.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-6.html</guid>
       <pubDate>Thu, 06 Aug 2026 01:03:24 GMT</pubDate>
       <description>We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Thermal Control: The Hidden Variable in Espresso</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-temperature.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-temperature.html</guid>
-      <pubDate>Wed, 05 Aug 2026 23:37:12 GMT</pubDate>
-      <description>Precision temperature for better shots</description>
     </item>
   </channel>
 </rss>

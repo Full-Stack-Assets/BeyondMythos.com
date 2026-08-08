@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddling-at-night",
+    "title": "Paddling in the Dark: A Beginner's Guide",
+    "dek": "Kayaking at night requires prep",
+    "takeaway": "Paddling at night can be safe and enjoyable with proper planning and equipment",
+    "whatHappened": "Many paddlers are hesitant to venture out at night, but with the right gear and mindset, it can be a unique and exhilarating experience. A recent trip on a calm lake under a full moon highlighted the importance of proper lighting and navigation. The darkness can be intimidating, but it also amplifies the senses and creates a sense of adventure",
+    "whyItMatters": "Paddling at night allows kayakers to experience the water in a new way, with different sounds, sights, and sensations. It can also be a great way to avoid crowds and paddle during cooler temperatures. Additionally, learning to navigate in the dark can improve overall paddling skills and confidence",
+    "howToThink": "To paddle safely at night, consider the moon phase, weather, and water conditions before heading out. Invest in a good light source, such as a headlamp or deck light, and bring a spare battery. It's also essential to file a float plan and let someone know your expected return time",
+    "pros": [
+      "Increased sense of adventure",
+      "Improved navigation skills",
+      "Cooler temperatures"
+    ],
+    "cons": [
+      "Reduced visibility",
+      "Increased risk of collisions",
+      "Cold water hazards"
+    ],
+    "watchOut": "Be cautious of underwater obstacles and other watercraft when paddling at night",
+    "faq": [
+      {
+        "q": "What type of light is best for paddling at night?",
+        "a": "A headlamp or deck light with a red light mode to preserve night vision"
+      },
+      {
+        "q": "How can I stay warm while paddling at night?",
+        "a": "Dress in layers, wear a wetsuit or dry suit, and bring a warm hat and gloves"
+      },
+      {
+        "q": "What should I do if I get lost while paddling at night?",
+        "a": "Stay calm, use your light to signal for help, and try to find a landmark or familiar spot"
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "night paddling",
+      "kayak safety"
+    ],
+    "sources": [
+      {
+        "label": "r/Kayaking community threads",
+        "url": "https://www.reddit.com/r/Kayaking/"
+      },
+      {
+        "label": "Search interest: \"first kayak buying guide\"",
+        "url": "https://duckduckgo.com/?q=first%20kayak%20buying%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-08T07:34:43.750Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-storage-11",
     "title": "Ask the forge: your storage questions, answered",
     "dek": "Straight answers to the storage questions recreational kayakers and paddlers keep asking, minus the hedging.",

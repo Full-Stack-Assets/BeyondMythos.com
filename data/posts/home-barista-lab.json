@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-coffee-flavor-3",
+    "title": "Unlocking the Full Potential of Your Coffee Beans",
+    "dek": "Elevate your brew with expert roasting techniques",
+    "takeaway": "Roasting your own coffee beans can significantly enhance the flavor of your home brew",
+    "whatHappened": "Roasting brings out the unique characteristics of coffee beans, but many home enthusiasts are unsure where to start. With the right techniques, anyone can achieve professional-grade roasts at home. Recent advancements in home roasting equipment have made it more accessible than ever",
+    "whyItMatters": "A well-roasted coffee bean can make all the difference in the quality of your brew, bringing out nuances and flavors that might otherwise be lost. By controlling the roasting process, you can tailor the flavor to your liking, whether that's a bright and acidic pour-over or a rich and smooth espresso. This level of control is especially important for home coffee enthusiasts who are looking to take their brewing to the next level",
+    "howToThink": "When it comes to roasting, it's all about finding the right balance between flavor and acidity. Start by experimenting with different roast levels and techniques to find what works best for you. Consider investing in a home roasting setup, such as a drum roaster or air roaster, to give you more control over the process",
+    "pros": [
+      "Increased flavor control",
+      "Customizable roast levels",
+      "Cost-effective in the long run"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Initial equipment investment",
+      "Space and cleanup requirements"
+    ],
+    "watchOut": "Be cautious not to over-roast your beans, as this can lead to a bitter and unpleasant flavor",
+    "faq": [
+      {
+        "q": "What is the ideal roast level for espresso?",
+        "a": "A medium to dark roast is usually preferred for espresso, as it provides a bold and rich flavor"
+      },
+      {
+        "q": "How often should I roast my coffee beans?",
+        "a": "It's best to roast your coffee beans in small batches and as needed, to ensure the freshest flavor possible"
+      },
+      {
+        "q": "Can I roast coffee beans at home without special equipment?",
+        "a": "While it's possible to roast coffee beans at home without special equipment, such as in a skillet or oven, it's not recommended as it can be difficult to achieve consistent results"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "Coffee Roasting",
+      "Home Brew"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-08T07:34:35.286Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-18",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

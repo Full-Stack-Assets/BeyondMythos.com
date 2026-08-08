@@ -1,5 +1,56 @@
 [
   {
+    "slug": "seam-allowance-hacks",
+    "title": "Revolutionize Your Sewing: Mastering Seam Allowances",
+    "dek": "Boost your sewing skills with smart seam allowances",
+    "takeaway": "Understanding seam allowances is key to achieving professional-looking garments",
+    "whatHappened": "Recently, we've seen a surge in sewing enthusiasts struggling with ill-fitting garments due to improper seam allowances. This common mistake can lead to frustration and wasted fabric. By mastering seam allowances, sewists can take their skills to the next level.",
+    "whyItMatters": "Seam allowances are crucial in determining the final fit of a garment. Incorrect seam allowances can result in garments that are either too tight or too loose, making them unwearable. By understanding how to work with seam allowances, sewists can ensure a perfect fit every time.",
+    "howToThink": "When working with seam allowances, it's essential to consider the type of fabric, the pattern, and the desired fit. A general rule of thumb is to use a 1/4 inch seam allowance for delicate fabrics and a 1/2 inch seam allowance for heavier fabrics. However, this can vary depending on the specific project and pattern.",
+    "pros": [
+      "Improved fit",
+      "Reduced waste",
+      "Professional finish"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires precision",
+      "Time-consuming"
+    ],
+    "watchOut": "Be cautious not to confuse seam allowances with hem allowances, as this can lead to errors in your garment's construction",
+    "faq": [
+      {
+        "q": "What is a seam allowance?",
+        "a": "The amount of fabric allowed between the edge of the fabric and the stitching line"
+      },
+      {
+        "q": "How do I choose the right seam allowance?",
+        "a": "Consider the type of fabric, pattern, and desired fit to determine the optimal seam allowance"
+      },
+      {
+        "q": "Can I use the same seam allowance for all my sewing projects?",
+        "a": "No, seam allowances vary depending on the specific project, fabric, and pattern"
+      }
+    ],
+    "category": "Fitting",
+    "tags": [
+      "seamallowance",
+      "fittinghacks"
+    ],
+    "sources": [
+      {
+        "label": "r/quilting community threads",
+        "url": "https://www.reddit.com/r/quilting/"
+      },
+      {
+        "label": "Search interest: \"sewing machine maintenance\"",
+        "url": "https://duckduckgo.com/?q=sewing%20machine%20maintenance"
+      }
+    ],
+    "publishedAt": "2026-08-08T07:34:40.801Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-fabric-mistakes-15",
     "title": "Five mistakes everyone makes in their first month of fabric",
     "dek": "The most common early stumbles in fabric, and the cheap corrections that fix them for home sewists and pattern hackers.",

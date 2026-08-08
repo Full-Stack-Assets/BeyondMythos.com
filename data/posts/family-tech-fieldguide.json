@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smart-device-ground-rules",
+    "title": "Setting Boundaries: Essential Smart Device Rules for Kids",
+    "dek": "Limit screen time with simple rules",
+    "takeaway": "Establishing clear ground rules for smart device usage is crucial for kids' health and safety",
+    "whatHappened": "The widespread adoption of smart devices among children has led to concerns over excessive screen time and decreased physical activity. Parents are now looking for ways to set boundaries and ensure their kids use these devices responsibly. By setting clear ground rules, parents can help their kids develop healthy relationships with technology.",
+    "whyItMatters": "Excessive screen time has been linked to various health problems, including obesity, sleep deprivation, and decreased attention span. Moreover, it can also lead to decreased social skills, as kids spend more time interacting with screens than with other humans. By establishing smart device ground rules, parents can help mitigate these risks and promote healthier habits.",
+    "howToThink": "To establish effective ground rules, parents should start by setting clear limits on screen time and device usage. This can include designating device-free zones, such as the dinner table or bedrooms, and setting aside device-free times, such as during family activities or before bed. Parents should also monitor their kids' device usage and have open conversations with them about responsible technology use.",
+    "pros": [
+      "Promotes healthy habits",
+      "Encourages physical activity",
+      "Fosters social skills"
+    ],
+    "cons": [
+      "Can be challenging to enforce",
+      "May limit educational opportunities",
+      "Requires ongoing monitoring"
+    ],
+    "watchOut": "Be cautious of over-restricting device usage, as this can lead to rebellion and decreased trust between parents and kids",
+    "faq": [
+      {
+        "q": "How much screen time is too much for kids?",
+        "a": "The American Academy of Pediatrics recommends no more than 1 hour of screen time per day for children aged 2-5 years"
+      },
+      {
+        "q": "How can I monitor my kid's device usage?",
+        "a": "Use parental control software or apps to track and limit device usage, and have regular conversations with your kid about their online activities"
+      },
+      {
+        "q": "What are some device-free activities I can do with my kids?",
+        "a": "Try outdoor games, board games, reading, or cooking together to promote quality time and device-free fun"
+      }
+    ],
+    "category": "Screen Time",
+    "tags": [
+      "screen time",
+      "kid safety"
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-08T07:34:40.594Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "family-tech-setup-field-test-5",
     "title": "\"family tech setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about family tech setup through a month of actual use. Some of it survived.",
