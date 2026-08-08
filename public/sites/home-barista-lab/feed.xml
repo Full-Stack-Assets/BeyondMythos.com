@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Elevate Your Brew: Expert Tips for Coffee Flavor Enhancement</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/boosting-coffee-flavor-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/boosting-coffee-flavor-2.html</guid>
+      <pubDate>Sat, 08 Aug 2026 19:15:41 GMT</pubDate>
+      <description>Unlock deeper flavors in your pour-over</description>
+    </item>
+    <item>
       <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-7.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-7.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-16.html</guid>
       <pubDate>Fri, 07 Aug 2026 11:30:13 GMT</pubDate>
       <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>The Daily Grind: Keeping Your Coffee Grinder in Top Shape</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/grinder-maintenance-matters.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/grinder-maintenance-matters.html</guid>
-      <pubDate>Fri, 07 Aug 2026 10:32:27 GMT</pubDate>
-      <description>Stay sharp with these tips</description>
     </item>
   </channel>
 </rss>

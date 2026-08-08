@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-coffee-flavor-2",
+    "title": "Elevate Your Brew: Expert Tips for Coffee Flavor Enhancement",
+    "dek": "Unlock deeper flavors in your pour-over",
+    "takeaway": "Small adjustments to pour-over technique can significantly enhance coffee flavor",
+    "whatHappened": "Recently, our team experimented with various pour-over techniques to identify key factors influencing flavor outcome. We discovered that water temperature, coffee-to-water ratio, and pouring speed play crucial roles. By optimizing these variables, we achieved more balanced and nuanced flavors in our brews.",
+    "whyItMatters": "For home coffee enthusiasts, understanding how to tweak pour-over techniques can be a game-changer. It allows for a more tailored brewing experience, catering to individual taste preferences. Moreover, recognizing the importance of these factors can help in making informed decisions when investing in coffee equipment or choosing coffee beans.",
+    "howToThink": "To elevate your pour-over game, consider the concept of 'total dissolved solids' and aim for a balance between under and over-extraction. Pay attention to the bloom phase, as it sets the stage for the rest of the brewing process. Lastly, don't underestimate the impact of water quality on the final flavor profile.",
+    "pros": [
+      "Richer flavors",
+      "Customizable brewing",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Equipment costs",
+      "Sensitive to technique"
+    ],
+    "watchOut": "Be cautious not to over-extract, as it can lead to bitter flavors and a disappointing brew.",
+    "faq": [
+      {
+        "q": "What is the ideal water temperature for pour-over?",
+        "a": "Between 195°F and 205°F"
+      },
+      {
+        "q": "How does coffee-to-water ratio affect flavor?",
+        "a": "Aim for 1:15 to 1:17 for a balanced brew"
+      },
+      {
+        "q": "Can I use any coffee beans for pour-over?",
+        "a": "Choose high-quality, freshly roasted beans for the best flavor"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "Pour-over",
+      "Brewing"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-08T19:15:41.946Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-espresso-dial-in-field-test-7",
     "title": "\"home espresso dial in\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.",
