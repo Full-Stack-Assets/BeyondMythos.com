@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Even Extraction: The Key to Perfect Espresso Shots</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution-2.html</guid>
+      <pubDate>Sat, 08 Aug 2026 21:04:38 GMT</pubDate>
+      <description>Get perfect espresso every time</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-22.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-22.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/fine-tuning-your-grinder.html</guid>
       <pubDate>Fri, 07 Aug 2026 13:57:51 GMT</pubDate>
       <description>Optimize your grind for better espresso</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: home espresso dial in</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-home-espresso-dial-in-5.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-home-espresso-dial-in-5.html</guid>
-      <pubDate>Fri, 07 Aug 2026 12:27:06 GMT</pubDate>
-      <description>The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.</description>
     </item>
   </channel>
 </rss>

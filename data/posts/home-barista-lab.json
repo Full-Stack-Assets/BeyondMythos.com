@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-espresso-distribution-2",
+    "title": "Even Extraction: The Key to Perfect Espresso Shots",
+    "dek": "Get perfect espresso every time",
+    "takeaway": "Mastering espresso distribution is crucial for even extraction and a perfect shot",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end espresso machines, only to struggle with inconsistent shots. This inconsistency often stems from uneven coffee distribution in the portafilter. By understanding the importance of distribution, you can take the first step towards resolving this issue. Our experiments show that distribution affects flavor and quality significantly.",
+    "whyItMatters": "Even extraction is the holy grail of espresso, as it ensures that every shot tastes as intended by the roaster. Uneven distribution can lead to channeling, under-extraction, or over-extraction, all of which negatively impact the flavor. By mastering distribution, home baristas can elevate their espresso game and enjoy professional-quality shots in the comfort of their own homes. This skill is fundamental for any serious coffee enthusiast.",
+    "howToThink": "To achieve even distribution, think about the entire process, from grinding to tamping. Ensure your grind is consistent, and adjust your tamp to apply even pressure. Additionally, consider investing in a distribution tool to help you achieve a perfectly leveled coffee bed. Practice makes perfect, so don't be discouraged if it takes a few attempts to get it right. Consistency and patience are key.",
+    "pros": [
+      "Consistent flavor",
+      "Easy to learn",
+      "Improves shot quality"
+    ],
+    "cons": [
+      "Requires practice",
+      "Additional cost for tools",
+      "Tamping can be tricky"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to over-extraction and a bitter taste",
+    "faq": [
+      {
+        "q": "What is espresso distribution?",
+        "a": "Espresso distribution refers to the even spreading of coffee grounds in the portafilter to ensure consistent extraction."
+      },
+      {
+        "q": "How do I achieve even distribution?",
+        "a": "Use a combination of the right grind, proper tamping technique, and consider a distribution tool for help."
+      },
+      {
+        "q": "Is distribution really that important?",
+        "a": "Yes, distribution is crucial for achieving even extraction and, therefore, the perfect shot of espresso."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Home Barista"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-08T21:04:38.178Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-22",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

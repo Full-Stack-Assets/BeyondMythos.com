@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-vernal-roi",
+    "title": "Spring Into Action: How to Get the Most Out of Your Balcony Garden This Season",
+    "dek": "Unlock your balcony's potential this spring",
+    "takeaway": "Timing and planning are key to a thriving seasonal balcony garden",
+    "whatHappened": "As the last wisps of winter dissipate, balcony gardeners are itching to kickstart their spring gardens. With the right strategy, you can turn your outdoor space into a lush oasis. From soil prep to clever container choices, the decisions you make now will pay dividends come summer.",
+    "whyItMatters": "A well-planned spring garden not only provides a serene escape from urban life but also offers a bounty of fresh produce and a significant boost to mental wellbeing. By understanding the unique challenges and opportunities of the season, you can tailor your approach for maximum impact. This means selecting the right seasonal plants, managing sunlight and wind, and optimizing your space for growth.",
+    "howToThink": "To maximize your balcony garden's ROI this spring, consider adopting a 'layered' approach, where multiple levels of containers and trellises work together to maximize space. Don't forget to leave enough room for air circulation and access. Also, keep an eye on temperature fluctuations and be prepared to protect your plants from unexpected frosts.",
+    "pros": [
+      "Increased yield",
+      "Improved air quality",
+      "Aesthetic appeal"
+    ],
+    "cons": [
+      "Limited space",
+      "Weather unpredictability",
+      "Initial investment"
+    ],
+    "watchOut": "Be cautious of overwatering, which can be detrimental to your plants' health, especially in cooler spring temperatures",
+    "faq": [
+      {
+        "q": "What are the best herbs to plant in spring?",
+        "a": "Basil, mint, and cilantro thrive in spring and can be harvested quickly"
+      },
+      {
+        "q": "How often should I water my balcony garden?",
+        "a": "Watering needs vary by plant, but a general rule is to water when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I use regular potting soil in my containers?",
+        "a": "While possible, consider a specialized potting mix designed for containers to improve drainage and aeration"
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "spring gardening",
+      "container tips"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-08T21:04:37.446Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-23",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",
