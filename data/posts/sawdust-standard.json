@@ -1,5 +1,56 @@
 [
   {
+    "slug": "essential-clamp-collection",
+    "title": "Building a Basic Clamp Arsenal for Small Shops",
+    "dek": "Start with the essentials.",
+    "takeaway": "A well-curated clamp set is crucial for precise woodworking in small spaces.",
+    "whatHappened": "For hobby woodworkers, investing in the right clamps can be daunting due to space and budget constraints. A basic set should include bar clamps, C-clamps, and F-style clamps. These provide the versatility needed for various projects without cluttering the shop.",
+    "whyItMatters": "Having the right clamps ensures that wood pieces are properly aligned and secured, leading to professional-looking finishes and preventing errors that can be costly in terms of time and material. It also enhances safety by minimizing the risk of pieces moving during glue-up or joining processes.",
+    "howToThink": "When selecting clamps, consider the types of projects you undertake most frequently and the space available in your shop. Prioritize clamps that offer the most versatility and can be used across multiple projects. Regularly inspect and maintain your clamps to ensure they remain effective.",
+    "pros": [
+      "Space Efficiency",
+      "Budget Friendly",
+      "Versatility"
+    ],
+    "cons": [
+      "Limited Capacity",
+      "Quality Variance",
+      "Storage Challenges"
+    ],
+    "watchOut": "Be cautious of very cheap clamps as they may not provide the necessary holding power or durability.",
+    "faq": [
+      {
+        "q": "What are the most essential clamps for a beginner?",
+        "a": "Bar clamps, C-clamps, and F-style clamps are must-haves for any small shop."
+      },
+      {
+        "q": "How many clamps should I start with?",
+        "a": "Start with a set of 2-3 of each type to cover basic needs and expand as your projects become more complex."
+      },
+      {
+        "q": "How do I store my clamps efficiently?",
+        "a": "Use wall-mounted racks or hanging organizers to keep clamps off the floor and within easy reach."
+      }
+    ],
+    "category": "Hand Tools",
+    "tags": [
+      "handtools",
+      "smallshop"
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "publishedAt": "2026-08-08T05:24:32.383Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-shop-setup-26",
     "title": "Ask the forge: your shop setup questions, answered",
     "dek": "Straight answers to the shop setup questions hobby woodworkers in small shops keep asking, minus the hedging.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "improving-snes-console-signal",
+    "title": "Signal Boost: Upgrading Your SNES Console's Video Output",
+    "dek": "Better video, less lag",
+    "takeaway": "Upgrading your SNES console's video output can significantly improve your gaming experience",
+    "whatHappened": "The Super Nintendo Entertainment System (SNES) is a beloved retro console, but its original video output can be lacking. Recently, retro gaming enthusiasts have been exploring ways to improve the console's video signal. One popular method is to install an RGB modification, which can greatly enhance the console's video output.",
+    "whyItMatters": "A better video signal can make a big difference in your gaming experience, with reduced lag and improved image quality. This is especially important for speedrunners, who need every frame to count. Additionally, a improved video signal can also make it easier to record and stream your gameplay",
+    "howToThink": "When considering an upgrade, think about your specific needs and the type of games you play. If you're a casual gamer, a simple RGB modification may be sufficient. However, if you're a serious speedrunner, you may want to consider a more advanced upgrade, such as an HDMI mod",
+    "pros": [
+      "Improved video quality",
+      "Reduced lag",
+      "Easier recording and streaming"
+    ],
+    "cons": [
+      "Can be technically challenging",
+      "May require soldering",
+      "Can be expensive"
+    ],
+    "watchOut": "Be careful when installing an upgrade, as it can potentially damage your console if not done correctly",
+    "faq": [
+      {
+        "q": "What is an RGB modification?",
+        "a": "An RGB modification is an upgrade that improves the console's video signal by separating the red, green, and blue color channels"
+      },
+      {
+        "q": "Do I need to be an expert to install an upgrade?",
+        "a": "No, but you should have some basic technical knowledge and be comfortable with soldering and working with electronics"
+      },
+      {
+        "q": "Will an upgrade void my console's warranty?",
+        "a": "If you still have a warranty, it's likely that installing an upgrade will void it, so be sure to check before proceeding"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Retro Gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-08T05:24:30.059Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-17",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

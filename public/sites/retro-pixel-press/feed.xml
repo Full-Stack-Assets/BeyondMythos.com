@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Signal Boost: Upgrading Your SNES Console&apos;s Video Output</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/improving-snes-console-signal.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/improving-snes-console-signal.html</guid>
+      <pubDate>Sat, 08 Aug 2026 05:24:30 GMT</pubDate>
+      <description>Better video, less lag</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-17.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-17.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-16.html</guid>
       <pubDate>Wed, 05 Aug 2026 21:54:43 GMT</pubDate>
       <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-14.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-14.html</guid>
-      <pubDate>Wed, 05 Aug 2026 20:13:35 GMT</pubDate>
-      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>
