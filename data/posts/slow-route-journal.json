@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-hostel-hacks",
+    "title": "Sustainable Stays: Eco-Friendly Hostel Hacks for the Conscious Traveler",
+    "dek": "Maximize your eco-friendly hostel experience",
+    "takeaway": "Choose hostels with clear environmental policies to reduce your travel footprint",
+    "whatHappened": "As a slow-travel enthusiast, I recently discovered the importance of selecting eco-friendly hostels that align with my values. Many hostels now prioritize sustainability, from renewable energy to reducing food waste. By making informed choices, travelers can significantly minimize their environmental impact",
+    "whyItMatters": "The accommodation sector is a significant contributor to greenhouse gas emissions, and opting for eco-friendly hostels can substantially reduce a traveler's carbon footprint. Moreover, supporting sustainable hostels encourages the industry to adopt more environmentally responsible practices",
+    "howToThink": "When booking a hostel, look for certifications like EU Ecolabel or Green Globe, and research their sustainability initiatives, such as energy-efficient lighting or recycling programs. Consider hostels that offer environmentally friendly amenities, like refillable water bottles or biodegradable toiletries",
+    "pros": [
+      "Reduced carbon footprint",
+      "Supports sustainable tourism",
+      "Often unique, community-driven experiences"
+    ],
+    "cons": [
+      "Sometimes higher prices",
+      "Limited options in certain areas",
+      "Quality can vary"
+    ],
+    "watchOut": "Be wary of greenwashing, where hostels claim to be eco-friendly without actual sustainable practices in place",
+    "faq": [
+      {
+        "q": "What is greenwashing in the context of hostels?",
+        "a": "Greenwashing refers to the practice of making false or misleading claims about a hostel's environmental policies or sustainability initiatives"
+      },
+      {
+        "q": "How can I research a hostel's sustainability initiatives?",
+        "a": "Check the hostel's website, social media, or review sites like Hostelworld or Booking.com for information on their eco-friendly practices"
+      },
+      {
+        "q": "What are some common eco-friendly amenities offered by hostels?",
+        "a": "Common eco-friendly amenities include refillable water bottles, biodegradable toiletries, energy-efficient lighting, and recycling programs"
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "Sustainable Travel",
+      "Eco-Friendly Accommodation"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-09T13:36:01.324Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-21",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",

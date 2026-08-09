@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-hacks-6",
+    "title": "Descale and Thrive: How to Keep Your Espresso Machine in Top Shape",
+    "dek": "Keep your espresso machine clean and happy",
+    "takeaway": "Regular descaling and cleaning can extend the life of your espresso machine and improve the taste of your coffee",
+    "whatHappened": "A buildup of limescale and old coffee oils can cause your espresso machine to malfunction and produce subpar shots. Recently, we've seen a surge in home baristas reporting issues with their machines due to poor maintenance. By implementing a regular cleaning schedule, you can prevent these problems and keep your machine running smoothly.",
+    "whyItMatters": "A well-maintained espresso machine is essential for producing high-quality espresso at home. Not only does it affect the taste of your coffee, but it also helps to prevent costly repairs and replacements. By taking care of your machine, you can ensure it continues to perform at its best and provide you with delicious espresso for years to come.",
+    "howToThink": "To keep your espresso machine in top shape, think about cleaning and descaling as a regular part of your routine. Set aside time each week to wipe down the machine, clean the brew group, and run a descaling solution through the system. By staying on top of maintenance, you can prevent problems before they start and enjoy better-tasting coffee",
+    "pros": [
+      "Improved taste",
+      "Extended machine life",
+      "Reduced repair costs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires specialized cleaning products",
+      "Can be messy"
+    ],
+    "watchOut": "Be careful not to use abrasive cleaners or scrubbers, as they can damage the machine's surfaces and components",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage and water quality"
+      },
+      {
+        "q": "What type of cleaning products should I use?",
+        "a": "Mild detergents and descaling solutions specifically designed for espresso machines"
+      },
+      {
+        "q": "Can I use vinegar to clean my espresso machine?",
+        "a": "Yes, but be sure to dilute it with water and avoid using it on aluminum or copper components"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Machine Maintenance",
+      "Home Barista Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-09T13:36:01.157Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-20",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

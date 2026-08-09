@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-101-5",
+    "title": "Rise of the Modded Beast: Turbocharging Your Retro Consoles",
+    "dek": "Upgrade your retro gaming experience",
+    "takeaway": "Modding your retro console can significantly enhance performance and playability",
+    "whatHappened": "The retro gaming community has seen a surge in console modding, with enthusiasts pushing the limits of what's possible with vintage hardware. From overclocking to custom firmware, the possibilities are endless. As a result, a new wave of modified consoles has hit the market, offering improved performance and features.",
+    "whyItMatters": "For retro game collectors and speedrunners, modded consoles can provide a competitive edge, smoother gameplay, and increased compatibility with modern TVs. Additionally, modding can breathe new life into old hardware, extending its lifespan and making it more enjoyable to use. This, in turn, can help preserve the retro gaming experience for future generations.",
+    "howToThink": "When considering a modded console, think about your specific needs and goals. Do you want to improve performance, add new features, or enhance the overall gaming experience? Research different modding options, read reviews, and join online communities to learn from others and make an informed decision.",
+    "pros": [
+      "Improved performance",
+      "Enhanced playability",
+      "Customization options"
+    ],
+    "cons": [
+      "Voided warranty",
+      "Technical complexity",
+      "Cost"
+    ],
+    "watchOut": "Be cautious of cheap or low-quality mods that can damage your console or compromise its performance",
+    "faq": [
+      {
+        "q": "What is console modding?",
+        "a": "Console modding refers to the process of modifying or upgrading a retro gaming console to improve its performance, add new features, or enhance the overall gaming experience."
+      },
+      {
+        "q": "Is console modding legal?",
+        "a": "The legality of console modding varies depending on the jurisdiction and the type of mod. In general, modding for personal use is tolerated, but selling or distributing modified consoles can be a gray area."
+      },
+      {
+        "q": "How do I get started with console modding?",
+        "a": "Start by researching different modding options, reading tutorials, and joining online communities to learn from experienced modders and enthusiasts."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Console Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-09T13:36:01.482Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-gameboy-8",
     "title": "Community pulse: what r/Gameboy is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",
