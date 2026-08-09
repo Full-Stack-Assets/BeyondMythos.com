@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Ask the forge: your seasonal questions, answered</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-22.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-22.html</guid>
+      <pubDate>Sun, 09 Aug 2026 12:01:52 GMT</pubDate>
+      <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in composting with outsized returns</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-22.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-22.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/herb-container-hacks-3.html</guid>
       <pubDate>Sat, 08 Aug 2026 03:57:13 GMT</pubDate>
       <description>Boost herb growth in tiny spaces</description>
-    </item>
-    <item>
-      <title>Squeeze Every Inch: Expert Balcony Layouts for Urban Gardeners</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-space-16.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-space-16.html</guid>
-      <pubDate>Sat, 08 Aug 2026 02:34:27 GMT</pubDate>
-      <description>Boost yields with smart space use</description>
     </item>
   </channel>
 </rss>
