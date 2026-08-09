@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-tweaks-2",
+    "title": "Tamping Technique Tweaks for Better Espresso",
+    "dek": "Improve your espresso with these simple tamping tweaks",
+    "takeaway": "Proper tamping technique can significantly enhance espresso flavor and consistency",
+    "whatHappened": "Recently, we've seen a surge in home baristas experimenting with different tamping techniques to optimize their espresso shots. From using specialized tamping tools to adjusting the force and speed of the tamp, the variables are numerous. However, a consistent, well-executed tamp remains the cornerstone of a great espresso.",
+    "whyItMatters": "A well-tamped puck allows for even water flow, which in turn leads to a more balanced extraction of flavors from the coffee grounds. This results in a richer, more satisfying espresso experience. Conversely, an improperly tamped puck can lead to channeling, over-extraction, or under-extraction, all of which detract from the quality of the shot.",
+    "howToThink": "To improve your tamping technique, start by ensuring your espresso machine's portafilter is clean and dry. Then, focus on applying even pressure, using a tool if necessary, to achieve a smooth, flat surface. Practice will help you develop the right touch, so don't be discouraged if it takes a few attempts to get it just right.",
+    "pros": [
+      "Improved flavor",
+      "Enhanced consistency",
+      "Easier cleanup"
+    ],
+    "cons": [
+      "Requires practice",
+      "May need special tools",
+      "Can be frustrating"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to a dense puck that's difficult to extract properly",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal pressure varies by machine, but generally falls between 20-30 pounds"
+      },
+      {
+        "q": "Do I need a tamping tool?",
+        "a": "While not necessary, a tamping tool can help achieve a consistent, even tamp"
+      },
+      {
+        "q": "How often should I clean my portafilter?",
+        "a": "Clean your portafilter after each use to prevent old coffee oils from affecting the taste of your espresso"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Tamping"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-09T09:22:09.193Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-pourover-6",
     "title": "Community pulse: what r/pourover is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

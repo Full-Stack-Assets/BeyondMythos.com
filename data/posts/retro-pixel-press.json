@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-game-emulation-on-linux",
+    "title": "Emulate Retro Games on Linux: A Beginner's Guide",
+    "dek": "Run retro games on Linux with ease",
+    "takeaway": "Linux is a viable option for retro game emulation with the right tools",
+    "whatHappened": "Recent advances in Linux emulation have made it possible to run classic games with minimal lag and high fidelity. The introduction of user-friendly frontends has also simplified the process. Now, retro game enthusiasts can easily emulate their favorite childhood games on Linux.",
+    "whyItMatters": "Emulation on Linux offers a cost-effective and efficient way to play retro games without the need for original hardware. It also provides a way to preserve classic games for future generations. Furthermore, the Linux community is actively involved in improving emulation software, ensuring that it stays up-to-date and compatible with the latest games.",
+    "howToThink": "When setting up retro game emulation on Linux, consider the specific games you want to play and the required system resources. Choose an emulator that supports your desired games and has a user-friendly interface. Additionally, optimize your system settings to ensure smooth gameplay and minimal latency.",
+    "pros": [
+      "Cost-effective",
+      "Wide game compatibility",
+      "Efficient performance"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Potential for lag or glitches",
+      "Limited controller support"
+    ],
+    "watchOut": "Be cautious when downloading emulators and ROMs from unknown sources to avoid malware and copyright issues",
+    "faq": [
+      {
+        "q": "What is the best Linux emulator for retro games?",
+        "a": "Popular options include RetroArch, EmulationStation, and Dolphin"
+      },
+      {
+        "q": "Can I use my original game controllers with Linux emulation?",
+        "a": "Yes, many emulators support original controllers, but you may need to configure them manually"
+      },
+      {
+        "q": "Is Linux emulation legal?",
+        "a": "Emulation itself is legal, but downloading copyrighted ROMs without permission is not"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Linux gaming",
+      "Retro emulation"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-09T09:22:09.007Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-indie-16",
     "title": "Ask the forge: your indie questions, answered",
     "dek": "Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.",
