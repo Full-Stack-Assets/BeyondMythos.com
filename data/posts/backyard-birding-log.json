@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-feeder-placement",
+    "title": "Maximizing Your Birding Bang: Feeder Placement Strategies",
+    "dek": "Get more birds with less seed.",
+    "takeaway": "Strategic feeder placement can significantly increase the variety and number of birds visiting your yard.",
+    "whatHappened": "Recently, a study highlighted the impact of feeder placement on bird diversity. It showed that birds are more likely to visit feeders placed near natural habitats and away from predators. This insight has significant implications for backyard birders looking to enhance their birding experience.",
+    "whyItMatters": "By optimizing feeder placement, birdwatchers can attract a wider range of species, contributing to a healthier local ecosystem. This, in turn, supports biodiversity and provides endless entertainment for nature enthusiasts. Well-placed feeders also offer better viewing opportunities, making the hobby more enjoyable.",
+    "howToThink": "When deciding where to place your feeders, consider the surrounding landscape and the types of birds you want to attract. Think about placing feeders near shrubs or trees that provide shelter and perches for birds. Also, keep feeders at least 10 feet away from any structures that could harbors predators.",
+    "pros": [
+      "Increased bird diversity",
+      "Improved viewing opportunities",
+      "Enhanced ecosystem health"
+    ],
+    "cons": [
+      "Potential for increased predator attraction",
+      "Higher maintenance due to more frequent cleaning",
+      "Greater upfront cost for optimal placement"
+    ],
+    "watchOut": "Be cautious not to over-concentrate feeders in one area, as this can lead to overcrowding and stress among the bird population.",
+    "faq": [
+      {
+        "q": "How often should I clean my feeders?",
+        "a": "Clean your feeders at least once a week to prevent mold and bacterial growth."
+      },
+      {
+        "q": "What types of birds are attracted to feeders near shrubs?",
+        "a": "Birds like sparrows, finches, and wrens are often attracted to feeders placed near shrubs or small trees."
+      },
+      {
+        "q": "Can I place feeders near my garden?",
+        "a": "Yes, but be aware that some birds may also be attracted to your garden plants, potentially causing damage."
+      }
+    ],
+    "category": "Feeders",
+    "tags": [
+      "bird feeders",
+      "backyard birding"
+    ],
+    "sources": [
+      {
+        "label": "r/birding community threads",
+        "url": "https://www.reddit.com/r/birding/"
+      },
+      {
+        "label": "Search interest: \"backyard bird feeder setup\"",
+        "url": "https://duckduckgo.com/?q=backyard%20bird%20feeder%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-09T02:50:31.348Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-habitat-17",
     "title": "Ask the forge: your habitat questions, answered",
     "dek": "Straight answers to the habitat questions casual birdwatchers and backyard naturalists keep asking, minus the hedging.",

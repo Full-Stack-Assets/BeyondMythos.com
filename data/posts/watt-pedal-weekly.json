@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-commute-speed",
+    "title": "Squeeze Every Mile: How to Optimize Your E-Bike for Speed",
+    "dek": "Get the most out of your e-bike commute",
+    "takeaway": "Optimizing your e-bike for speed can significantly reduce your commute time",
+    "whatHappened": "Recent advancements in e-bike technology have made it possible to achieve higher speeds with greater efficiency. Many commuters are now looking to optimize their e-bikes for speed to reduce their daily commute time. However, this requires careful consideration of several key factors, including tire pressure, gear ratio, and rider position.",
+    "whyItMatters": "For many commuters, time is of the essence, and reducing commute time can have a significant impact on overall quality of life. By optimizing their e-bike for speed, commuters can arrive at work feeling more energized and focused. Additionally, a faster commute can also reduce stress and anxiety, making for a more enjoyable riding experience.",
+    "howToThink": "To optimize your e-bike for speed, start by checking your tire pressure and adjusting it according to the manufacturer's recommendations. Next, consider adjusting your gear ratio to achieve a more efficient pedaling cadence. Finally, pay attention to your rider position, making sure to maintain a aerodynamic posture to minimize wind resistance.",
+    "pros": [
+      "Reduced commute time",
+      "Increased efficiency",
+      "Improved riding experience"
+    ],
+    "cons": [
+      "Increased energy consumption",
+      "Potential for decreased battery life",
+      "Higher risk of accidents"
+    ],
+    "watchOut": "Be cautious of over-optimizing your e-bike for speed, as this can lead to decreased safety and increased wear and tear on your bike",
+    "faq": [
+      {
+        "q": "What is the ideal tire pressure for my e-bike?",
+        "a": "The ideal tire pressure will depend on the specific tire and riding conditions, but a general rule of thumb is to maintain a pressure between 40-60 PSI"
+      },
+      {
+        "q": "How can I adjust my gear ratio for optimal speed?",
+        "a": "Adjusting your gear ratio will depend on your specific e-bike model, but generally involves switching to a higher gear or adjusting the derailleur"
+      },
+      {
+        "q": "What are some common mistakes to avoid when optimizing my e-bike for speed?",
+        "a": "Common mistakes include over-inflating tires, neglecting to maintain proper bike maintenance, and ignoring safety precautions"
+      }
+    ],
+    "category": "Commuting",
+    "tags": [
+      "e-bike optimization",
+      "commuter tips"
+    ],
+    "sources": [
+      {
+        "label": "r/ebikecommuting community threads",
+        "url": "https://www.reddit.com/r/ebikecommuting/"
+      },
+      {
+        "label": "Search interest: \"ebike battery care\"",
+        "url": "https://duckduckgo.com/?q=ebike%20battery%20care"
+      }
+    ],
+    "publishedAt": "2026-08-09T02:50:30.216Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "batteries-pre-spend-checklist-25",
     "title": "The batteries checklist: run this before you spend",
     "dek": "Seven questions that separate a justified batteries purchase from an expensive mood.",

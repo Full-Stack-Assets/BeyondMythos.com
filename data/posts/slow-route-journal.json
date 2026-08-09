@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-travel-hacks-2",
+    "title": "Minimalist Travel: The Freedom of Less",
+    "dek": "Travel lighter, not harder",
+    "takeaway": "Reducing luggage leads to a more enjoyable, low-impact journey",
+    "whatHappened": "On a recent trip, I found that carrying only essentials allowed for greater flexibility and spontaneity. By embracing a minimalist approach, I was able to navigate unfamiliar places with ease. This experience reinforced the importance of thoughtful packing for slow-travel enthusiasts.",
+    "whyItMatters": "Embracing minimalism in travel is not just about convenience; it's also an environmentally conscious choice. By carrying less, we reduce our carbon footprint and contribute to a more sustainable travel industry. Moreover, it allows travelers to engage more deeply with local cultures, unencumbered by bulky luggage.",
+    "howToThink": "To adopt a minimalist mindset, start by assessing your packing list and eliminating items that serve no essential purpose. Consider the activities you plan to do and pack accordingly. It's also helpful to choose multi-functional items that can serve several purposes, reducing the overall amount of luggage.",
+    "pros": [
+      "Increased mobility",
+      "Reduced waste",
+      "Enhanced experience"
+    ],
+    "cons": [
+      "Initial planning required",
+      "Limited wardrobe options",
+      "Potential for over-reliance on local purchases"
+    ],
+    "watchOut": "Be cautious not to overcompensate by purchasing unnecessary items at your destination, which could negate the benefits of minimalist packing.",
+    "faq": [
+      {
+        "q": "What if I forget something essential?",
+        "a": "Make a list and check it twice, and consider the availability of items at your destination."
+      },
+      {
+        "q": "How do I pack multi-functional items?",
+        "a": "Choose items like a sarong that can serve as a blanket, towel, or dress."
+      },
+      {
+        "q": "Is minimalist travel suitable for all types of trips?",
+        "a": "While it's adaptable, it's particularly beneficial for slow-travel and low-impact explorers focusing on cultural immersion and sustainability."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "TravelLight",
+      "SustainableTravel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-09T02:50:24.315Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-22",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",

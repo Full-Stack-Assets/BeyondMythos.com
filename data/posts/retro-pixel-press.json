@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-101-4",
+    "title": "Breathe New Life into Old Consoles",
+    "dek": "Mod your way to better performance",
+    "takeaway": "Retro console modding can significantly enhance your gaming experience",
+    "whatHappened": "The rise of retro gaming has led to a resurgence in console modding, with enthusiasts pushing the boundaries of what's possible with old hardware. From upscaling graphics to improving controller response times, the possibilities are endless. However, with great power comes great responsibility, and would-be modders must tread carefully to avoid damaging their prized consoles.",
+    "whyItMatters": "For retro game collectors and speedrunners, console modding can be a game-changer, allowing for smoother gameplay, reduced lag, and even new features like online multiplayer. Moreover, modding can help extend the lifespan of aging consoles, preserving the gaming heritage for future generations. By understanding the basics of console modding, enthusiasts can unlock new levels of performance and enjoyment from their beloved systems.",
+    "howToThink": "When approaching retro console modding, it's essential to research thoroughly, choosing reputable sources and tutorials to avoid damaging your hardware. Start with simple modifications, such as replacing capacitors or upgrading cooling systems, before progressing to more complex projects. Always prioritize safety, using proper tools and techniques to minimize the risk of electrical shock or component damage.",
+    "pros": [
+      "Improved performance",
+      "Increased lifespan",
+      "Enhanced features"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Voided warranties",
+      "Technical complexity"
+    ],
+    "watchOut": "Be cautious when sourcing components or following DIY tutorials from unverified sources to avoid compromising your console's integrity",
+    "faq": [
+      {
+        "q": "What's the best way to get started with retro console modding?",
+        "a": "Begin by researching popular modding communities and tutorials, focusing on simple, low-risk projects"
+      },
+      {
+        "q": "Can I mod any retro console?",
+        "a": "Most consoles can be modded, but some are more straightforward than others; start with well-documented systems like the NES or SNES"
+      },
+      {
+        "q": "How do I avoid damaging my console during modding?",
+        "a": "Use proper tools, follow established tutorials, and take necessary safety precautions to minimize the risk of electrical shock or component damage"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-09T02:50:24.477Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-20",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",
