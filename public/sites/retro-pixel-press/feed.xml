@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Revive Your Retro Gamepads: A Step-by-Step Guide</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-classic-controllers.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-classic-controllers.html</guid>
+      <pubDate>Sun, 09 Aug 2026 11:06:07 GMT</pubDate>
+      <description>Breathe new life into old controllers.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of speedruns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-19.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-19.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-temperature-control.html</guid>
       <pubDate>Sat, 08 Aug 2026 02:34:28 GMT</pubDate>
       <description>Consoles overheat, now what?</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your hardware in two hours</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-19.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-19.html</guid>
-      <pubDate>Sat, 08 Aug 2026 00:04:55 GMT</pubDate>
-      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

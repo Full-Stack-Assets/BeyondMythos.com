@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mindful-morning-routines",
+    "title": "Slow Starts: Crafting Morning Routines for Low-Impact Travel",
+    "dek": "Begin your day with intention",
+    "takeaway": "Mindful morning routines can enhance your slow-travel experience by fostering a deeper connection with local cultures and environments",
+    "whatHappened": "As slow travelers, we often find ourselves in new and unfamiliar places, seeking to immerse ourselves in local experiences. A mindful morning routine can help set a positive tone for the day, allowing us to appreciate the subtle nuances of our surroundings. By incorporating simple practices such as meditation, journaling, or a short walk, we can cultivate a sense of awareness and gratitude",
+    "whyItMatters": "In today's fast-paced world, it's easy to get caught up in the hustle and bustle of travel, neglecting our own well-being and the impact we have on the environment. By adopting mindful morning routines, we can reduce our stress levels, increase our energy, and develop a greater appreciation for the local communities we visit. This, in turn, can lead to more meaningful and sustainable travel experiences",
+    "howToThink": "When crafting your mindful morning routine, consider the local context and adapt your practices accordingly. For example, you might start your day with a quiet moment of reflection in a nearby park or engage in a traditional local activity, such as yoga or tai chi. Be intentional about your actions, and remember that the goal is to cultivate a sense of awareness and connection, rather than to stick to a rigid routine",
+    "pros": [
+      "Reduces stress",
+      "Increases energy",
+      "Fosters connection"
+    ],
+    "cons": [
+      "Requires discipline",
+      "Can be time-consuming",
+      "May not be suitable for all environments"
+    ],
+    "watchOut": "Be mindful of local customs and noise levels when practicing your morning routine, especially in residential areas or shared accommodations",
+    "faq": [
+      {
+        "q": "What is the best time to start a mindful morning routine?",
+        "a": "Experiment to find a time that works for you, but aim for at least 30 minutes before starting your day"
+      },
+      {
+        "q": "Do I need to be a experienced meditator to benefit from a mindful morning routine?",
+        "a": "No, anyone can benefit from simple practices such as deep breathing, journaling, or a short walk"
+      },
+      {
+        "q": "How can I incorporate local activities into my morning routine?",
+        "a": "Research local customs, ask your hosts for recommendations, or join a community class to experience traditional practices"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "Slow Travel",
+      "Local Experiences"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-09T11:06:07.188Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-carry-on-packing-list-6",
     "title": "Myth vs. reality: carry on packing list",
     "dek": "The persistent myths around carry on packing list, stress-tested against what slow-travel and low-impact explorers actually report.",

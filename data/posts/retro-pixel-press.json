@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-classic-controllers",
+    "title": "Revive Your Retro Gamepads: A Step-by-Step Guide",
+    "dek": "Breathe new life into old controllers.",
+    "takeaway": "Restoring classic controllers can enhance your retro gaming experience with original feel and functionality.",
+    "whatHappened": "Many retro game collectors and speedrunners struggle with worn-out or damaged controllers, which can hinder their gaming performance and overall experience. Classic gamepads, though durable, are not immune to wear and tear over time. A well-restored controller can make a significant difference in playability and nostalgia.",
+    "whyItMatters": "Using restored controllers can provide a more authentic experience, closer to how the games were originally meant to be played. It also extends the life of vintage hardware, supporting the preservation of retro gaming culture. Moreover, for speedrunners, precision and control are crucial, and a restored controller can offer the required reliability and responsiveness.",
+    "howToThink": "When restoring a classic controller, consider the materials and tools needed, such as replacement buttons, new cable, and appropriate cleaning solutions. It's also important to research the specific model's restoration requirements, as some parts may be harder to find or replace than others. Practice patience and gentle handling to avoid causing further damage.",
+    "pros": [
+      "Improved playability",
+      "Authentic gaming experience",
+      "Extended hardware life"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Cost of replacement parts",
+      "Potential for further damage"
+    ],
+    "watchOut": "Be cautious not to use harsh chemicals or excessive force, which can irreparably damage your vintage controllers.",
+    "faq": [
+      {
+        "q": "What are the most common parts to replace in a retro controller?",
+        "a": "Buttons, joysticks, and the directional pad are commonly replaced parts."
+      },
+      {
+        "q": "Can I use a retro controller with modern gaming systems?",
+        "a": "It depends on the system and controller; some are compatible with adapters or through original hardware support."
+      },
+      {
+        "q": "How do I clean a retro controller without damaging it?",
+        "a": "Use a soft, dry cloth and avoid harsh chemicals; for stubborn stains, slightly dampen the cloth but ensure it's not wet."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "GamepadRestoration"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-09T11:06:07.352Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-speedruns-mistakes-19",
     "title": "Five mistakes everyone makes in their first month of speedruns",
     "dek": "The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.",
