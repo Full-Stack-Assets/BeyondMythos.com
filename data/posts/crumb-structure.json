@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sourdough-hydration-hacks",
+    "title": "Mastering the Art of Hydration in Sourdough",
+    "dek": "Hydrate like a pro",
+    "takeaway": "Proper hydration is key to a perfect sourdough loaf",
+    "whatHappened": "Recently, many home bakers have been struggling to achieve the perfect crumb, often due to inadequate hydration. This can lead to dense, tough bread that lacks the characteristic sourdough tang. By understanding the importance of hydration, bakers can take the first step towards creating a truly exceptional sourdough.",
+    "whyItMatters": "Hydration affects not only the texture but also the flavor of the bread, as it influences the activity of the starter and the breakdown of starches. A well-hydrated dough will have a more even crumb and a more complex flavor profile. Moreover, proper hydration can make the dough easier to work with, reducing the risk of over-mixing and tears.",
+    "howToThink": "To master hydration, bakers should focus on creating a consistent environment for their dough, taking into account factors like temperature, humidity, and the type of flour used. A good rule of thumb is to aim for a dough that is slightly sticky but still holds its shape. By paying attention to these details, bakers can develop a keen sense of how to adjust hydration levels to achieve the perfect loaf.",
+    "pros": [
+      "Improved crumb texture",
+      "More complex flavor",
+      "Easier dough handling"
+    ],
+    "cons": [
+      "Over-hydration risk",
+      "Increased mixing time",
+      "Higher chance of contamination"
+    ],
+    "watchOut": "Be cautious not to over-hydrate, as this can lead to a sticky, unworkable dough",
+    "faq": [
+      {
+        "q": "What is the ideal hydration level for sourdough?",
+        "a": "The ideal hydration level varies depending on the type of flour and the desired crumb texture, but a common range is between 60-80%"
+      },
+      {
+        "q": "How can I measure hydration levels in my dough?",
+        "a": "Hydration levels can be measured by calculating the total amount of water relative to the total amount of flour"
+      },
+      {
+        "q": "Can I adjust hydration levels during the mixing process?",
+        "a": "Yes, hydration levels can be adjusted during mixing, but it's generally easier to add water than to remove excess water from the dough"
+      }
+    ],
+    "category": "Hydration",
+    "tags": [
+      "sourdough",
+      "hydration"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-08-09T06:28:05.271Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-starters-29",
     "title": "A weekend project: level up your starters in two hours",
     "dek": "One contained, satisfying starters project for home sourdough bakers — start Saturday morning, done by lunch.",

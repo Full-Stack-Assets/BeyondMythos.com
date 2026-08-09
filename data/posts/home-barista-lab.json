@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-14",
+    "title": "Brewing Without Breakdowns: The Art of Espresso Machine Maintenance",
+    "dek": "Keep your espresso machine in top shape",
+    "takeaway": "Regular maintenance is key to perfect espresso shots every time",
+    "whatHappened": "As home baristas, we invest in high-quality espresso machines, but often neglect their upkeep, leading to subpar performance and potential breakdowns. A well-maintained machine ensures optimal temperature control, precise pressure, and a longer lifespan. By adopting a maintenance routine, you can prevent issues and guarantee a flawless espresso experience.",
+    "whyItMatters": "A poorly maintained machine can result in inconsistent shots, wasted coffee beans, and a shorter machine lifespan. Moreover, regular maintenance helps prevent bacterial growth and mineral buildup, which can affect the taste and quality of your espresso. By prioritizing maintenance, you can enjoy a superior coffee experience and protect your investment.",
+    "howToThink": "To maintain your espresso machine, descale regularly, clean the brew group and portafilter, and check for worn-out seals and gaskets. Additionally, run a cleaning cycle every week and perform a deep clean every month to prevent mineral deposits and bacterial growth. By staying on top of maintenance, you can troubleshoot issues before they become major problems.",
+    "pros": [
+      "Improved taste",
+      "Increased longevity",
+      "Enhanced performance"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical knowledge",
+      "Additional costs"
+    ],
+    "watchOut": "Neglecting maintenance can lead to costly repairs or even machine replacement",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage and water quality"
+      },
+      {
+        "q": "What is the best way to clean my espresso machine's brew group?",
+        "a": "Use a mixture of equal parts water and white vinegar, and run a cleaning cycle"
+      },
+      {
+        "q": "Can I use any cleaning products on my espresso machine?",
+        "a": "No, only use products specifically designed for espresso machines to avoid damage or contamination"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Maintenance",
+      "Coffee Machine Care"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-09T06:28:02.899Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "mastering-espresso-distribution-3",
     "title": "Even Beans, Every Time: Mastering Espresso Distribution",
     "dek": "Get perfect espresso shots with even distribution.",
