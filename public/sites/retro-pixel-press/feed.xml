@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: retro game restoration</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-8.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-8.html</guid>
+      <pubDate>Sun, 09 Aug 2026 14:18:41 GMT</pubDate>
+      <description>The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>Rise of the Modded Beast: Turbocharging Your Retro Consoles</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-5.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-8.html</guid>
       <pubDate>Sat, 08 Aug 2026 06:24:19 GMT</pubDate>
       <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Signal Boost: Upgrading Your SNES Console&apos;s Video Output</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/improving-snes-console-signal.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/improving-snes-console-signal.html</guid>
-      <pubDate>Sat, 08 Aug 2026 05:24:30 GMT</pubDate>
-      <description>Better video, less lag</description>
     </item>
   </channel>
 </rss>
