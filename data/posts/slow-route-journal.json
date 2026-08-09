@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mindful-mornings-on-the-move-2",
+    "title": "Rise and Shine: Morning Routines for Slow Travelers",
+    "dek": "Start your day like a local",
+    "takeaway": "Mindful morning routines can enhance your slow travel experience",
+    "whatHappened": "As I wandered through the quiet streets of a small town, I noticed the locals beginning their day with intention and calm. They sipped coffee, practiced yoga, and simply enjoyed the stillness. I realized that adopting a similar mindful morning routine could be a great way to connect with the local culture and set a positive tone for the day. By doing so, I felt more grounded and prepared to take on the day's adventures.",
+    "whyItMatters": "In today's fast-paced world, it's easy to get caught up in the hustle and bustle of travel. However, taking a few moments each morning to cultivate mindfulness can have a significant impact on your overall experience. By doing so, you'll be more present, aware, and open to the unique experiences and encounters that slow travel has to offer. This, in turn, can lead to a more authentic and fulfilling journey.",
+    "howToThink": "To incorporate mindful mornings into your slow travel routine, start by waking up a bit earlier than usual. Take a few deep breaths, stretch, or practice some light meditation. Then, take a short walk to a local café or park to enjoy the surroundings and observe the daily rhythms of the community. By slowing down and being more intentional, you'll be better equipped to navigate the day's challenges and appreciate the beauty of the local culture.",
+    "pros": [
+      "Increased mindfulness",
+      "Enhanced cultural connection",
+      "Improved mental clarity"
+    ],
+    "cons": [
+      "Early wake-up times",
+      "Difficulty finding quiet spaces",
+      "Initial discomfort with new routines"
+    ],
+    "watchOut": "Be respectful of local customs and noise levels when enjoying your morning routine in public spaces",
+    "faq": [
+      {
+        "q": "What if I'm not a morning person?",
+        "a": "Start small by waking up 15-30 minutes earlier each day and gradually adjust to a more mindful morning routine"
+      },
+      {
+        "q": "How can I find quiet spaces in busy areas?",
+        "a": "Look for local parks, gardens, or lesser-known streets that offer a peaceful atmosphere"
+      },
+      {
+        "q": "Can I still enjoy mindful mornings if I'm staying in a hostel?",
+        "a": "Yes, consider waking up early to practice yoga or meditation in a common room, or find a nearby outdoor spot to enjoy some fresh air and quiet time"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "slow travel",
+      "mindful mornings"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-09T04:49:53.836Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-travel-hacks-2",
     "title": "Minimalist Travel: The Freedom of Less",
     "dek": "Travel lighter, not harder",

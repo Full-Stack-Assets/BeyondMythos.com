@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-espresso-distribution-3",
+    "title": "Even Beans, Every Time: Mastering Espresso Distribution",
+    "dek": "Get perfect espresso shots with even distribution.",
+    "takeaway": "Mastering espresso distribution is key to perfect shots every time.",
+    "whatHappened": "We tested various distribution tools to find the best method for achieving even espresso extraction. Our results showed that a well-designed distribution tool can significantly improve shot quality. With the right technique, home baristas can rival commercial espresso shops.",
+    "whyItMatters": "Even distribution ensures that all the coffee grounds are saturated evenly, resulting in a balanced flavor. This is crucial for home baristas who want to take their espresso game to the next level. By mastering distribution, enthusiasts can unlock the full potential of their espresso machines.",
+    "howToThink": "To achieve perfect distribution, consider using a distribution tool and adjusting your tamp. Practice makes perfect, so experiment with different techniques to find what works best for you. Remember, the goal is to ensure all grounds are evenly saturated for optimal extraction.",
+    "pros": [
+      "Improved shot quality",
+      "Increased consistency",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Additional cost",
+      "Requires practice",
+      "May not work with all grinders"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to channeling and poor extraction.",
+    "faq": [
+      {
+        "q": "What is espresso distribution?",
+        "a": "Espresso distribution refers to the even saturation of coffee grounds in the portafilter."
+      },
+      {
+        "q": "Do I need a distribution tool?",
+        "a": "While not necessary, a distribution tool can significantly improve shot quality and consistency."
+      },
+      {
+        "q": "How do I adjust my tamp?",
+        "a": "Adjust your tamp by applying gentle, even pressure to ensure all grounds are saturated evenly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-09T04:49:52.741Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-19",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

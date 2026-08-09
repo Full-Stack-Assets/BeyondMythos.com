@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Even Beans, Every Time: Mastering Espresso Distribution</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution-3.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution-3.html</guid>
+      <pubDate>Sun, 09 Aug 2026 04:49:52 GMT</pubDate>
+      <description>Get perfect espresso shots with even distribution.</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-19.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-19.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/optimizing-coffee-bean-storage.html</guid>
       <pubDate>Fri, 07 Aug 2026 19:37:50 GMT</pubDate>
       <description>Freshness guaranteed with smart storage</description>
-    </item>
-    <item>
-      <title>The roasting checklist: run this before you spend</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-19.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-19.html</guid>
-      <pubDate>Fri, 07 Aug 2026 18:29:37 GMT</pubDate>
-      <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
