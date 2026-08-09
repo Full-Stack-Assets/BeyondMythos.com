@@ -5,6 +5,13 @@
     <link>https://storeforge-good-dog-field-notes.vercel.app/</link>
     <description>Fresh takes for first-time dog owners.</description>
     <item>
+      <title>Socialization On A Schedule</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/puppy-socialization-hacks.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/puppy-socialization-hacks.html</guid>
+      <pubDate>Sun, 09 Aug 2026 21:06:38 GMT</pubDate>
+      <description>Get social with your pup</description>
+    </item>
+    <item>
       <title>&quot;leash reactivity tips&quot; in practice: a real-world field test</title>
       <link>https://storeforge-good-dog-field-notes.vercel.app/posts/leash-reactivity-tips-field-test-11.html</link>
       <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/leash-reactivity-tips-field-test-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/weekend-project-puppies-29.html</guid>
       <pubDate>Sat, 08 Aug 2026 13:31:36 GMT</pubDate>
       <description>One contained, satisfying puppies project for first-time dog owners — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/puppy101 is debating this week</title>
-      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/community-pulse-puppy101-10.html</link>
-      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/community-pulse-puppy101-10.html</guid>
-      <pubDate>Sat, 08 Aug 2026 12:00:39 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the health community this week.</description>
     </item>
   </channel>
 </rss>

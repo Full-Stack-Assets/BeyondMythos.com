@@ -1,5 +1,56 @@
 [
   {
+    "slug": "puppy-socialization-hacks",
+    "title": "Socialization On A Schedule",
+    "dek": "Get social with your pup",
+    "takeaway": "Socialization is key to a well-adjusted puppy",
+    "whatHappened": "As a first-time dog owner, I struggled to socialize my puppy effectively. Between work and other commitments, it seemed impossible to expose my pup to all the new people, places, and experiences they needed. However, I discovered that with a little planning, socialization can be done efficiently and effectively. By dedicating just a few hours a week, I was able to help my puppy become confident and calm in new situations.",
+    "whyItMatters": "Socialization is critical for puppies as it helps them develop good manners, reduces anxiety, and prevents fear-based behaviors. Without proper socialization, puppies can grow into fearful or aggressive dogs, leading to a range of behavioral problems. By prioritizing socialization, owners can set their puppies up for a lifetime of happiness and good behavior.",
+    "howToThink": "To socialize your puppy, think about exposing them to a variety of new experiences, such as meeting new people, visiting dog parks, and exploring different environments. Start with small, manageable steps, and gradually increase the intensity and duration of socialization sessions. Remember to reward good behavior and provide plenty of positive reinforcement to help your puppy associate new experiences with positive outcomes.",
+    "pros": [
+      "Improves behavior",
+      "Reduces anxiety",
+      "Enhances confidence"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires planning",
+      "Can be overwhelming"
+    ],
+    "watchOut": "Don't over-socialize your puppy, as this can lead to exhaustion and decreased effectiveness",
+    "faq": [
+      {
+        "q": "How old should my puppy be to start socialization?",
+        "a": "Puppies can start socialization from as young as 8 weeks old"
+      },
+      {
+        "q": "What are some good socialization activities for puppies?",
+        "a": "Good activities include meeting new people, visiting dog parks, and exploring different environments"
+      },
+      {
+        "q": "How often should I socialize my puppy?",
+        "a": "Aim to socialize your puppy for at least a few hours a week, spread across multiple sessions"
+      }
+    ],
+    "category": "Puppies",
+    "tags": [
+      "puppy training",
+      "socialization"
+    ],
+    "sources": [
+      {
+        "label": "r/puppy101 community threads",
+        "url": "https://www.reddit.com/r/puppy101/"
+      },
+      {
+        "label": "Search interest: \"crate training schedule\"",
+        "url": "https://duckduckgo.com/?q=crate%20training%20schedule"
+      }
+    ],
+    "publishedAt": "2026-08-09T21:06:38.602Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "leash-reactivity-tips-field-test-11",
     "title": "\"leash reactivity tips\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about leash reactivity tips through a month of actual use. Some of it survived.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "edge-beveling-101",
+    "title": "Sharpen Your Edge: The Ultimate Beveling Guide",
+    "dek": "Get a sharper edge with these tips",
+    "takeaway": "Proper edge beveling is crucial for efficient cutting and a professional finish",
+    "whatHappened": "As a hobby leatherworker, you've likely encountered dull edges and uneven cuts. Edge beveling is a simple yet effective technique to improve your tool's performance. By adjusting the angle of your edge, you can significantly enhance your cutting experience",
+    "whyItMatters": "A well-beveled edge reduces fatigue, prevents accidents, and ensures a clean cut. It also extends the life of your tools, saving you money in the long run. With the right bevel, you can tackle even the toughest leather projects with confidence",
+    "howToThink": "To get started with edge beveling, inspect your tools and identify areas that need improvement. Use a sharpening stone or leather strop to adjust the angle, and always maintain a consistent bevel. Practice makes perfect, so don't be discouraged if it takes a few attempts to get it right",
+    "pros": [
+      "Improved cutting efficiency",
+      "Reduced tool wear",
+      "Enhanced safety"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires patience",
+      "May require additional tools"
+    ],
+    "watchOut": "Be careful not to over-bevel, as this can damage your tools and affect their performance",
+    "faq": [
+      {
+        "q": "What is edge beveling?",
+        "a": "Edge beveling is the process of adjusting the angle of a tool's edge to improve its cutting performance"
+      },
+      {
+        "q": "What tools do I need to bevel my edge?",
+        "a": "You can use a sharpening stone, leather strop, or a beveling jig to adjust your edge"
+      },
+      {
+        "q": "How often should I bevel my edge?",
+        "a": "The frequency of beveling depends on your tool usage, but it's recommended to inspect and adjust your edge regularly"
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "leatherworking",
+      "toolcare"
+    ],
+    "sources": [
+      {
+        "label": "r/Leathercraft community threads",
+        "url": "https://www.reddit.com/r/Leathercraft/"
+      },
+      {
+        "label": "Search interest: \"leathercraft starter tools\"",
+        "url": "https://duckduckgo.com/?q=leathercraft%20starter%20tools"
+      }
+    ],
+    "publishedAt": "2026-08-09T21:06:39.443Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stitching-pre-spend-checklist-32",
     "title": "The stitching checklist: run this before you spend",
     "dek": "Seven questions that separate a justified stitching purchase from an expensive mood.",
