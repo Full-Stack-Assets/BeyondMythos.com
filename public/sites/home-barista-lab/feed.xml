@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of pour-over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-19.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-19.html</guid>
+      <pubDate>Sun, 09 Aug 2026 22:03:00 GMT</pubDate>
+      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
+    </item>
+    <item>
       <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-8.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-19.html</guid>
       <pubDate>Sat, 08 Aug 2026 14:17:05 GMT</pubDate>
       <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Tamping Like a Pro: The Secret to Perfect Espresso</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-reboot.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-reboot.html</guid>
-      <pubDate>Sat, 08 Aug 2026 13:31:38 GMT</pubDate>
-      <description>Get the perfect tamp every time</description>
     </item>
   </channel>
 </rss>
