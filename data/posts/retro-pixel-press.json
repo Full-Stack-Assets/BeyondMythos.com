@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-gaming-on-modern-tvs",
+    "title": "Retro Gaming on Modern TVs: A Technical Guide",
+    "dek": "Retro games on modern TVs made easy",
+    "takeaway": "With the right equipment, you can play retro games on modern TVs without sacrificing quality",
+    "whatHappened": "Retro gaming has seen a resurgence in popularity, but playing classic consoles on modern TVs can be a challenge due to compatibility issues and signal degradation. Many modern TVs lack native support for older video formats, requiring adapters or converters to connect retro consoles. Recently, several companies have released devices aimed at bridging this gap, offering high-quality video conversion and upscaling for retro games.",
+    "whyItMatters": "For retro game collectors and speedrunners, being able to play classic games on modern TVs is crucial for both preservation and performance. It allows for a more enjoyable gaming experience, with sharper images and reduced input lag, which is particularly important for speedrunning. Moreover, this capability helps in introducing retro games to a new generation of gamers who may not have access to older TVs.",
+    "howToThink": "When considering how to play retro games on modern TVs, it's essential to research the best adapters or converters for your specific console and TV model. Look for devices that support the original video format of your console and can upscale to your TV's resolution without introducing significant lag. Additionally, consider the cost and the quality of the video output to ensure it meets your gaming needs.",
+    "pros": [
+      "Improved video quality",
+      "Reduced input lag",
+      "Wide compatibility"
+    ],
+    "cons": [
+      "Additional hardware cost",
+      "Potential for signal degradation",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be cautious of cheap adapters that may compromise video quality or introduce lag, as they can negatively impact your gaming experience",
+    "faq": [
+      {
+        "q": "Do I need a special adapter for my retro console?",
+        "a": "Yes, most modern TVs require an adapter or converter to connect retro consoles due to differences in video formats"
+      },
+      {
+        "q": "Will playing retro games on a modern TV affect the gameplay?",
+        "a": "It can, especially if the adapter or converter introduces lag; choose high-quality devices to minimize this effect"
+      },
+      {
+        "q": "Can I use any HDMI adapter for my retro console?",
+        "a": "No, not all HDMI adapters are created equal; look for ones specifically designed for retro consoles to ensure compatibility and quality"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Hardware Hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-09T07:39:34.722Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-crt-setup-guide-8",
     "title": "Myth vs. reality: crt setup guide",
     "dek": "The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.",
