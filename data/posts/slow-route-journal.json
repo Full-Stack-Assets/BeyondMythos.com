@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-rail-cards-9",
+    "title": "Maximizing Rail Travel on a Budget",
+    "dek": "Save money on rail travel",
+    "takeaway": "Investing in a rail card can significantly reduce travel costs for frequent train users",
+    "whatHappened": "The cost of train travel has increased significantly over the past few years, making it challenging for slow-travel and low-impact explorers to maintain their budgets. However, many rail companies offer rail cards that can provide substantial discounts for frequent travelers. These cards often come with additional benefits such as priority seating and access to exclusive lounges.",
+    "whyItMatters": "For slow-travel and low-impact explorers, every dollar saved on transportation can be allocated to experiencing local cultures, trying new foods, and supporting eco-friendly accommodations. By maximizing rail travel budgets, travelers can extend their stays, explore more destinations, and make a more positive impact on the environments they visit. This approach also encourages a more mindful and deliberate travel style, which is at the heart of the slow-travel movement.",
+    "howToThink": "When considering a rail card, think about your travel frequency and the routes you most commonly take. Calculate the costs and benefits of each card option, including any discounts, perks, and restrictions. It's also essential to read reviews and ask fellow travelers about their experiences with different rail cards to make an informed decision.",
+    "pros": [
+      "Cost savings",
+      "Priority seating",
+      "Access to lounges"
+    ],
+    "cons": [
+      "Annual fees",
+      "Limited route options",
+      "Blackout dates"
+    ],
+    "watchOut": "Be aware of the terms and conditions of each rail card, including any blackout dates or travel restrictions that may apply",
+    "faq": [
+      {
+        "q": "What is a rail card?",
+        "a": "A rail card is a type of membership card that offers discounts and perks for frequent train travelers"
+      },
+      {
+        "q": "How much can I save with a rail card?",
+        "a": "Savings vary depending on the card and travel frequency, but some cards offer up to 50% off ticket prices"
+      },
+      {
+        "q": "Can I use my rail card on any train?",
+        "a": "Most rail cards are valid on specific routes or with particular rail companies, so be sure to check the terms and conditions before purchasing"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail travel",
+      "Budget friendly"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-09T19:19:07.185Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-train-travel-europe-tips-8",
     "title": "Myth vs. reality: train travel europe tips",
     "dek": "The persistent myths around train travel europe tips, stress-tested against what slow-travel and low-impact explorers actually report.",

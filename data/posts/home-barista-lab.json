@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevate-your-grind",
+    "title": "Burr Grinders: The Secret to Unlocking Perfect Espresso",
+    "dek": "Upgrade your grind, upgrade your brew",
+    "takeaway": "Investing in a high-quality burr grinder is essential for achieving optimal espresso flavor",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in burr grinders, and for good reason. Blade grinders, commonly found in supermarkets, are often inconsistent and generate excessive heat, which can damage coffee beans. In contrast, burr grinders produce a uniform grind, allowing for a more precise extraction.",
+    "whyItMatters": "A good burr grinder is crucial for espresso enthusiasts, as it enables the perfect balance of flavor and crema. With a burr grinder, you can experiment with different grind settings to find the optimal coarseness for your machine, resulting in a more satisfying cup. This level of control is particularly important for those using semi-automatic or manual espresso machines.",
+    "howToThink": "When selecting a burr grinder, consider the material, grind settings, and maintenance requirements. Look for grinders with conical or flat burrs, as they produce a more consistent grind. Additionally, opt for a grinder with adjustable grind settings to accommodate different brewing methods. Regularly cleaning and calibrating your grinder will also ensure optimal performance.",
+    "pros": [
+      "Consistent grind",
+      "Improved flavor",
+      "Customizable"
+    ],
+    "cons": [
+      "Higher cost",
+      "Regular maintenance",
+      "Noise level"
+    ],
+    "watchOut": "Be cautious of low-quality burr grinders that may not produce a consistent grind, leading to subpar espresso",
+    "faq": [
+      {
+        "q": "What type of burr grinder is best for home use?",
+        "a": "Conical burr grinders are often preferred for home use due to their ease of use and cleaning"
+      },
+      {
+        "q": "How often should I clean my burr grinder?",
+        "a": "Clean your burr grinder every 1-2 weeks, depending on usage, to prevent oil buildup and maintain optimal performance"
+      },
+      {
+        "q": "Can I use a burr grinder for pour-over coffee?",
+        "a": "Yes, many burr grinders offer adjustable grind settings, making them suitable for pour-over coffee as well"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso",
+      "grinders"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-09T19:19:06.333Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-espresso-dial-in-6",
     "title": "Myth vs. reality: home espresso dial in",
     "dek": "The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.",
