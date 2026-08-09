@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reducing-rail-carbon-footprint",
+    "title": "Lowering Emissions on the Move",
+    "dek": "Eco-friendly rail travel made easy",
+    "takeaway": "Choosing the right rail services can significantly lower your carbon footprint while traveling",
+    "whatHappened": "Recent studies have shown that rail travel can be up to 70% more environmentally friendly than air travel, depending on the train type and fuel source. Many rail companies are now investing in renewable energy and more efficient trains. Some countries are also introducing carbon offset options for rail passengers.",
+    "whyItMatters": "As travelers, we have the power to reduce our carbon footprint by making conscious choices about our transportation methods. Rail travel offers a unique opportunity to see the countryside while minimizing our impact on the environment. By choosing eco-friendly rail options, we can help to reduce greenhouse gas emissions and promote sustainable tourism.",
+    "howToThink": "When planning your next rail journey, consider the type of train and its fuel source, look for carbon offset options, and choose routes that prioritize energy efficiency. Additionally, packing light and avoiding single-use plastics can further reduce your environmental impact. By taking these simple steps, you can enjoy your journey while also doing your part for the planet.",
+    "pros": [
+      "Eco-friendly",
+      "Scenic routes",
+      "Relaxed pace"
+    ],
+    "cons": [
+      "Limited routes",
+      "Variable schedules",
+      "Higher costs"
+    ],
+    "watchOut": "Be sure to research the rail company's environmental policies before booking to ensure you're making the most sustainable choice",
+    "faq": [
+      {
+        "q": "What is the most eco-friendly type of train?",
+        "a": "Trains powered by renewable energy sources, such as electric or hybrid trains, are generally the most eco-friendly"
+      },
+      {
+        "q": "Can I offset my carbon emissions from rail travel?",
+        "a": "Yes, many rail companies now offer carbon offset options for passengers, which can help to compensate for the emissions produced during your journey"
+      },
+      {
+        "q": "How can I make my rail journey more sustainable?",
+        "a": "Packing light, avoiding single-use plastics, and choosing energy-efficient routes can all help to reduce your environmental impact"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Eco Rail",
+      "Sustainable Travel"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-09T17:11:36.939Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-backpacking-7",
     "title": "Community pulse: what r/backpacking is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",

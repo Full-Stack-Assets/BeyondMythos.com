@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Hardware Hacks: Unlocking Hidden Performance</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware.html</guid>
+      <pubDate>Sun, 09 Aug 2026 17:11:36 GMT</pubDate>
+      <description>Boost your retro console&apos;s performance</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-17.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-17.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-console-modding.html</guid>
       <pubDate>Sat, 08 Aug 2026 09:20:53 GMT</pubDate>
       <description>Upgrade your retro console with these tweaks</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-18.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-18.html</guid>
-      <pubDate>Sat, 08 Aug 2026 08:21:01 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

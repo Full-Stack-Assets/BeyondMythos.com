@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-retro-hardware",
+    "title": "Retro Hardware Hacks: Unlocking Hidden Performance",
+    "dek": "Boost your retro console's performance",
+    "takeaway": "Simple hardware tweaks can significantly improve your retro gaming experience",
+    "whatHappened": "Recently, speedrunners have been experimenting with custom hardware modifications to squeeze out extra performance from their retro consoles. These tweaks have resulted in faster load times, improved graphics, and enhanced overall gaming experience. By applying these modifications, enthusiasts can breathe new life into their vintage systems.",
+    "whyItMatters": "For retro game collectors and speedrunners, optimizing hardware is crucial for achieving the best possible gaming experience. It allows for smoother gameplay, reduced lag, and increased competitiveness in speedrunning events. Moreover, these modifications can also help preserve the longevity of vintage consoles by reducing wear and tear on internal components.",
+    "howToThink": "When considering hardware modifications, it's essential to research and understand the specific needs of your console. Look for tutorials and guides from reputable sources, and start with small, low-risk tweaks before moving on to more complex modifications. Additionally, always prioritize the preservation of your original hardware and ensure that any modifications are reversible.",
+    "pros": [
+      "Improved performance",
+      "Enhanced graphics",
+      "Increased competitiveness"
+    ],
+    "cons": [
+      "Voided warranties",
+      "Potential damage",
+      "Cost of modifications"
+    ],
+    "watchOut": "Be cautious when applying tweaks to avoid damaging your console or voiding its warranty",
+    "faq": [
+      {
+        "q": "What is the most common hardware modification for retro consoles?",
+        "a": "Overclocking the CPU"
+      },
+      {
+        "q": "Can I modify my console's hardware without voiding its warranty?",
+        "a": "It depends on the specific console and modification, but generally, yes"
+      },
+      {
+        "q": "Where can I find reliable guides for retro hardware modifications?",
+        "a": "Online forums, YouTube tutorials, and specialized retro gaming communities"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-09T17:11:36.771Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-indie-17",
     "title": "Ask the forge: your indie questions, answered",
     "dek": "Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.",
