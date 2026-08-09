@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of speedruns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-20.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-20.html</guid>
+      <pubDate>Sun, 09 Aug 2026 18:03:52 GMT</pubDate>
+      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>Retro Hardware Hacks: Unlocking Hidden Performance</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-20.html</guid>
       <pubDate>Sat, 08 Aug 2026 10:07:14 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Mod Your Way to Victory: A Guide to Retro Console Tweaks</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-console-modding.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-console-modding.html</guid>
-      <pubDate>Sat, 08 Aug 2026 09:20:53 GMT</pubDate>
-      <description>Upgrade your retro console with these tweaks</description>
     </item>
   </channel>
 </rss>
