@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Squeeze Every Last Drop: Expert Tips for Maximizing Espresso Yield</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-espresso-yield.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-espresso-yield.html</guid>
+      <pubDate>Sun, 09 Aug 2026 15:05:45 GMT</pubDate>
+      <description>Get more from your shots</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of pour-over</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-18.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-3.html</guid>
       <pubDate>Sat, 08 Aug 2026 07:34:35 GMT</pubDate>
       <description>Elevate your brew with expert roasting techniques</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your espresso in two hours</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-18.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-18.html</guid>
-      <pubDate>Sat, 08 Aug 2026 06:24:20 GMT</pubDate>
-      <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

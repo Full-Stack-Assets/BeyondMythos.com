@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-espresso-yield",
+    "title": "Squeeze Every Last Drop: Expert Tips for Maximizing Espresso Yield",
+    "dek": "Get more from your shots",
+    "takeaway": "Optimizing espresso yield requires a balance of grind, tamp, and brewing technique",
+    "whatHappened": "Home baristas often struggle to achieve consistent espresso yields, leading to wasted beans and subpar shots. Recent experiments have shed light on the importance of precise grind settings and tamping techniques. By making a few simple adjustments, enthusiasts can significantly improve their espresso yields",
+    "whyItMatters": "Maximizing espresso yield is crucial for home baristas, as it directly impacts the quality and consistency of their shots. By optimizing yield, enthusiasts can reduce waste, save money, and enjoy better-tasting coffee. Furthermore, understanding the factors that affect yield can help baristas troubleshoot common issues and refine their technique",
+    "howToThink": "To maximize espresso yield, think about the entire brewing process, from grind to pour. Consider investing in a high-quality grinder and tamper, and experiment with different settings to find the optimal balance for your equipment. Additionally, pay attention to factors like coffee bean freshness and distribution, as these can significantly impact yield and flavor",
+    "pros": [
+      "increased yield",
+      "better flavor",
+      "reduced waste"
+    ],
+    "cons": [
+      "requires experimentation",
+      "may require new equipment",
+      "can be time-consuming"
+    ],
+    "watchOut": "Be careful not to over-extract, as this can lead to bitter flavors and decreased yield",
+    "faq": [
+      {
+        "q": "What is the ideal grind setting for espresso?",
+        "a": "The ideal grind setting will depend on your equipment and personal preference, but a good starting point is a fine to medium-fine grind"
+      },
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "It's recommended to clean your espresso machine daily, with a deeper clean every 1-3 months"
+      },
+      {
+        "q": "Can I use any type of coffee bean for espresso?",
+        "a": "While you can use any type of coffee bean for espresso, high-quality Arabica beans are generally preferred for their nuanced flavor and higher acidity"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "coffee yield"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-09T15:05:45.630Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-18",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",
