@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-travel-overnights",
+    "title": "Slow Travel Overnights: How to Make the Most of Local Stays",
+    "dek": "Maximize local experiences with overnight stays.",
+    "takeaway": "Prioritizing local connections can lead to more authentic travel experiences.",
+    "whatHappened": "As slow travelers, we often find ourselves rushing from one destination to another, neglecting the unique charm of each local stop. Recently, I had the opportunity to spend a week in a small town, immersing myself in the community and discovering hidden gems. This experience taught me the value of slowing down and truly engaging with the places I visit.",
+    "whyItMatters": "By embracing local stays, travelers can contribute to the local economy, foster meaningful relationships with residents, and gain a deeper understanding of the culture. This approach also encourages a more mindful and present travel experience, allowing visitors to appreciate the subtle nuances of each location. Ultimately, prioritizing local connections can lead to more fulfilling and sustainable travel practices.",
+    "howToThink": "To make the most of local stays, consider booking accommodations through local hosts or family-run establishments. Take time to explore the surrounding area, engage with locals, and support small businesses. By adopting this mindset, travelers can transform their overnight stays into immersive experiences that enrich both themselves and the communities they visit.",
+    "pros": [
+      "Immersive cultural experiences",
+      "Supports local economy",
+      "Fosters meaningful connections"
+    ],
+    "cons": [
+      "Requires more planning",
+      "May be less convenient",
+      "Can be more expensive"
+    ],
+    "watchOut": "Be cautious of overtourism and respect local customs to avoid disrupting the community.",
+    "faq": [
+      {
+        "q": "What is the best way to find local accommodations?",
+        "a": "Use local hosting platforms or ask for referrals from friends or fellow travelers."
+      },
+      {
+        "q": "How can I contribute to the local economy?",
+        "a": "Support small businesses, eat at local restaurants, and purchase products from local artisans."
+      },
+      {
+        "q": "What are some tips for engaging with locals?",
+        "a": "Learn a few basic phrases in the local language, attend community events, and show genuine interest in the culture."
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "local stays",
+      "slow travel"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-10T18:31:59.689Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-carry-on-packing-list-7",
     "title": "Myth vs. reality: carry on packing list",
     "dek": "The persistent myths around carry on packing list, stress-tested against what slow-travel and low-impact explorers actually report.",

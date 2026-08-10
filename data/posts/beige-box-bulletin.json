@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-riser-cards",
+    "title": "Retro Riser Cards: The Ultimate Upgrade for Expansion",
+    "dek": "Boost your retro PC's capabilities",
+    "takeaway": "Riser cards can significantly enhance your retro computer's performance and expansion options",
+    "whatHappened": "The introduction of retro riser cards has revolutionized the way we upgrade and restore vintage computers. These innovative cards allow for the installation of multiple expansion cards, providing increased functionality and versatility. As a result, retro computer enthusiasts can now breathe new life into their beloved machines.",
+    "whyItMatters": "Retro riser cards matter because they enable the use of modern peripherals and expansions with vintage systems, extending their lifespan and utility. This is particularly significant for retro gaming and emulation, where compatibility and performance are crucial. By leveraging riser cards, enthusiasts can create hybrid systems that blend the best of old and new technologies.",
+    "howToThink": "When considering a retro riser card upgrade, think about your specific needs and the limitations of your current system. Assess the types of expansions you want to add, such as graphics or sound cards, and choose a riser card that can accommodate them. Additionally, ensure the card is compatible with your retro computer's architecture and form factor to avoid potential installation issues.",
+    "pros": [
+      "Increased expansion options",
+      "Improved system flexibility",
+      "Enhanced performance"
+    ],
+    "cons": [
+      "Potential compatibility issues",
+      "Additional cost",
+      "Physical installation challenges"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics and ensure proper grounding to avoid damaging your retro computer or the riser card",
+    "faq": [
+      {
+        "q": "What is a retro riser card?",
+        "a": "A retro riser card is a specialized expansion card that allows for the installation of multiple peripherals or expansions in a vintage computer system"
+      },
+      {
+        "q": "Are retro riser cards compatible with all vintage computers?",
+        "a": "No, compatibility varies depending on the specific retro computer model and architecture, so research and verify compatibility before purchasing"
+      },
+      {
+        "q": "Can I use a retro riser card for retro gaming?",
+        "a": "Yes, retro riser cards can be particularly useful for retro gaming, enabling the use of modern graphics or sound cards to enhance the gaming experience"
+      }
+    ],
+    "category": "Upgrades",
+    "tags": [
+      "Retro Upgrades",
+      "Expansion Cards"
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-10T18:32:05.454Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-emulation-mistakes-30",
     "title": "Five mistakes everyone makes in their first month of emulation",
     "dek": "The most common early stumbles in emulation, and the cheap corrections that fix them for retro computer restorers and emulation fans.",
