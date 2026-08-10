@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevating-home-espresso",
+    "title": "The Simple Path to Pro-Level Espresso at Home",
+    "dek": "Unlock better espresso with one simple trick.",
+    "takeaway": "Investing in a precise temperature control for your espresso machine can significantly elevate the quality of your home espresso.",
+    "whatHappened": "Recently, we've seen a surge in home baristas seeking to upgrade their espresso game without breaking the bank. A common thread among these enthusiasts is the quest for better temperature control, as it's become clear that even slight variations can drastically affect the flavor profile of the espresso. By focusing on this often-overlooked aspect, baristas can achieve professional-level results.",
+    "whyItMatters": "Temperature precision matters because it ensures that the water flowing through the coffee grounds is at the optimal temperature for extraction. This balance is crucial for bringing out the full potential of the coffee beans. Without it, shots can be either under-extracted and sour or over-extracted and bitter. By achieving the right temperature, home baristas can consistently produce high-quality espresso that rivals that of commercial cafes.",
+    "howToThink": "To start elevating your home espresso, consider the current limitations of your setup and how they might be impacting your shots. Think about the equipment you're using and whether upgrading to a machine with better temperature control could be a worthwhile investment. Additionally, experiment with different roasts and grind sizes to see how they interact with your machine's temperature profile, as this will give you a more nuanced understanding of what works best for your particular setup.",
+    "pros": [
+      "Better Flavor",
+      "Increased Consistency",
+      "Ease of Use"
+    ],
+    "cons": [
+      "Higher Cost",
+      "Space Requirements",
+      "Learning Curve"
+    ],
+    "watchOut": "Be cautious of cheap alternatives that promise temperature control but fail to deliver consistent results, as they can lead to more frustration than improvement.",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for espresso?",
+        "a": "The ideal temperature for espresso extraction is between 195°F and 205°F."
+      },
+      {
+        "q": "How does temperature affect espresso taste?",
+        "a": "Temperature affects the balance of extraction, with too high a temperature leading to bitterness and too low leading to sourness."
+      },
+      {
+        "q": "Can I achieve good temperature control with a budget espresso machine?",
+        "a": "While some budget machines offer decent temperature control, precision and consistency are typically better in higher-end models designed specifically with temperature stability in mind."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Home Barista"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-10T19:40:46.521Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-19",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",
