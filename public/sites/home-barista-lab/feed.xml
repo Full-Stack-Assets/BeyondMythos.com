@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Ask the forge: your gear questions, answered</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-22.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-22.html</guid>
+      <pubDate>Mon, 10 Aug 2026 09:01:17 GMT</pubDate>
+      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>Even Extraction: The Key to Perfect Espresso Distribution</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution-4.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-22.html</guid>
       <pubDate>Sat, 08 Aug 2026 20:01:37 GMT</pubDate>
       <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Elevate Your Brew: Expert Tips for Coffee Flavor Enhancement</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/boosting-coffee-flavor-2.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/boosting-coffee-flavor-2.html</guid>
-      <pubDate>Sat, 08 Aug 2026 19:15:41 GMT</pubDate>
-      <description>Unlock deeper flavors in your pour-over</description>
     </item>
   </channel>
 </rss>

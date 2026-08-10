@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-cocktail-recipes",
+    "title": "Perfecting the Classics: A Data-Driven Approach",
+    "dek": "Elevate your mixology",
+    "takeaway": "Data analysis can refine classic cocktail recipes for better flavor balance",
+    "whatHappened": "Recent trends have seen a surge in home bartenders experimenting with innovative twists on classic cocktails. However, this creativity often leads to unbalanced flavors. By applying data analysis to traditional recipes, bartenders can identify optimal ingredient ratios. This approach ensures that each sip is a perfect harmony of flavors.",
+    "whyItMatters": "Achieving balance in a cocktail is crucial for an enjoyable drinking experience. Unbalanced flavors can lead to a disappointing taste, which might discourage home bartenders from continuing to experiment and learn. By perfecting classic recipes, enthusiasts can build a solid foundation for more complex creations and variations.",
+    "howToThink": "When optimizing a classic cocktail recipe, consider the role of each ingredient and how they interact. Think about the base spirit, sweetener, acid, and bitter components. Adjusting these elements based on data insights can reveal new dimensions in familiar drinks. It's also essential to taste regularly during the refinement process to ensure the flavor profile aligns with your preferences.",
+    "pros": [
+      "Improved flavor balance",
+      "Enhanced creativity",
+      "Data-driven decisions"
+    ],
+    "cons": [
+      "Overreliance on data",
+      "Limited ingredient availability",
+      "Time-consuming analysis"
+    ],
+    "watchOut": "Be cautious not to over-analyze, as this can stifle creativity and lead to an overcomplication of simple, timeless recipes",
+    "faq": [
+      {
+        "q": "What tools do I need for data analysis?",
+        "a": "Basic spreadsheet software is sufficient for initial analysis"
+      },
+      {
+        "q": "How do I apply data insights to my recipes?",
+        "a": "Start by adjusting one ingredient at a time and tasting the differences"
+      },
+      {
+        "q": "Can data analysis replace traditional mixology knowledge?",
+        "a": "No, data analysis is a tool to complement, not replace, foundational knowledge of mixology principles"
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "Cocktail Optimization",
+      "Home Bartending"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-08-10T09:01:24.948Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ingredients-pre-spend-checklist-29",
     "title": "The ingredients checklist: run this before you spend",
     "dek": "Seven questions that separate a justified ingredients purchase from an expensive mood.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Community pulse: what r/snes is debating this week</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-6.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-6.html</guid>
+      <pubDate>Mon, 10 Aug 2026 09:01:17 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-22.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-22.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-19.html</guid>
       <pubDate>Sat, 08 Aug 2026 20:01:37 GMT</pubDate>
       <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
-    </item>
-    <item>
-      <title>Retro Repair Revival: DIY Kits Take Center Stage</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-kits.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-kits.html</guid>
-      <pubDate>Sat, 08 Aug 2026 19:15:42 GMT</pubDate>
-      <description>Fix your retro console with ease</description>
     </item>
   </channel>
 </rss>
