@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Reviving the Classics: A Step-by-Step Guide to Restoring Your NES</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-to-former-glory.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-to-former-glory.html</guid>
+      <pubDate>Mon, 10 Aug 2026 14:05:15 GMT</pubDate>
+      <description>Breathe new life into your vintage NES.</description>
+    </item>
+    <item>
       <title>Mod Your Way to Retro Gaming Glory</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-6.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-18.html</guid>
       <pubDate>Sat, 08 Aug 2026 23:03:32 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>&quot;hidden snes gems&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-8.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-8.html</guid>
-      <pubDate>Sat, 08 Aug 2026 22:01:14 GMT</pubDate>
-      <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

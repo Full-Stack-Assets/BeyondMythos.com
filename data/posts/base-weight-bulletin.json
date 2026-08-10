@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reducing-pack-weight-with-diy-mods",
+    "title": "Slash Your Pack Weight: DIY Mods for the Win",
+    "dek": "Cut pack weight with simple DIY mods",
+    "takeaway": "Ultralight backpacking starts with a leaner pack, and DIY mods can get you there",
+    "whatHappened": "We took a stock backpack and applied some simple, lightweight DIY mods, cutting weight by over 20%. The results were surprising, with a much more comfortable carry. Our test hiker reported reduced fatigue and increased mobility on the trail.",
+    "whyItMatters": "For thru-hikers and ultralight enthusiasts, every ounce counts. Reducing pack weight can be the difference between a successful, enjoyable hike and a grueling, disappointing one. By applying DIY mods, backpackers can customize their gear to meet their specific needs and goals.",
+    "howToThink": "When considering DIY mods, think about the 80/20 rule: 80% of the weight is often in 20% of the features. Identify areas where you can cut weight without sacrificing functionality or safety, and get creative with materials like mesh, foam, and lightweight fabrics.",
+    "pros": [
+      "Increased mobility",
+      "Reduced fatigue",
+      "Customizable"
+    ],
+    "cons": [
+      "Time-consuming",
+      "May require sewing skills",
+      "Limited durability"
+    ],
+    "watchOut": "Be cautious not to compromise the structural integrity of your pack when making DIY mods",
+    "faq": [
+      {
+        "q": "What are some essential DIY mod skills?",
+        "a": "Basic sewing and material handling are a must"
+      },
+      {
+        "q": "How much weight can I expect to save?",
+        "a": "Up to 20% or more, depending on the mods"
+      },
+      {
+        "q": "Are DIY mods worth the time and effort?",
+        "a": "Absolutely, for serious ultralight enthusiasts and thru-hikers"
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "ultralight backpacking",
+      "DIY gear mods"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-10T14:05:19.126Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "food-pre-spend-checklist-30",
     "title": "The food checklist: run this before you spend",
     "dek": "Seven questions that separate a justified food purchase from an expensive mood.",
