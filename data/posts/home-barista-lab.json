@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-revisited",
+    "title": "The Tamping Technique Revisited: A Game Changer for Home Baristas",
+    "dek": "Unlock perfect espresso with the right tamping technique.",
+    "takeaway": "Proper tamping can significantly improve the flavor and consistency of your espresso shots.",
+    "whatHappened": "Recently, we've seen a resurgence in discussions around tamping techniques among home baristas. The age-old question of how to achieve the perfect tamp has been debated, with some advocating for a firm, level tamp, while others swear by a more nuanced approach. As a result, we've revisited the fundamentals of tamping to provide clarity and practical advice.",
+    "whyItMatters": "A well-executed tamp is crucial for achieving evenly extracted espresso, as it ensures all grounds are saturated uniformly. Incorrect tamping can lead to channeling, under-extraction, or over-extraction, resulting in subpar flavors. By mastering the tamping technique, home baristas can elevate their espresso game and enjoy a more satisfying cup.",
+    "howToThink": "To improve your tamping technique, focus on using the right tools, such as a tamper with a flat, smooth base, and practice applying even pressure. Pay attention to the coffee's distribution in the portafilter, aiming for a smooth, level surface. Experiment with different tamping pressures and techniques to find what works best for your equipment and coffee beans.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Enhanced crema"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be time-consuming",
+      "Dependent on equipment"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to compacted grounds and poor extraction.",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal pressure varies depending on the equipment and coffee, but a common range is between 20-30 pounds of pressure."
+      },
+      {
+        "q": "Can I use a tamper with a non-flat base?",
+        "a": "It's not recommended, as a flat base ensures even distribution of pressure and prevents channeling."
+      },
+      {
+        "q": "How often should I clean my tamper?",
+        "a": "Regularly, as residual coffee oils and debris can affect the tamper's performance and the flavor of your espresso."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Tamping"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-10T05:09:58.335Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tuning-your-grinder-4",
     "title": "The Art of Fine-Tuning Your Burr Grinder for Perfect Espresso",
     "dek": "Get the most out of your beans with a well-tuned grinder.",
