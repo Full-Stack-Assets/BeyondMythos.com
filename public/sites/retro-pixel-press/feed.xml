@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Controller Mods: A Game-Changer for Speedrunners</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-controller-mods.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-controller-mods.html</guid>
+      <pubDate>Mon, 10 Aug 2026 16:30:08 GMT</pubDate>
+      <description>Upgrade your retro game with mods</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-19.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-19.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-4.html</guid>
       <pubDate>Sun, 09 Aug 2026 02:50:24 GMT</pubDate>
       <description>Mod your way to better performance</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-20.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-20.html</guid>
-      <pubDate>Sun, 09 Aug 2026 00:01:27 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

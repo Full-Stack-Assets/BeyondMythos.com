@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>A weekend project: level up your espresso in two hours</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-22.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-22.html</guid>
+      <pubDate>Mon, 10 Aug 2026 16:30:06 GMT</pubDate>
+      <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Grind Size Control: The Secret to Elevating Your Pour-Over</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-burr-grinder-for-pour-over.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-burr-grinder-for-pour-over.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-19.html</guid>
       <pubDate>Sun, 09 Aug 2026 02:50:22 GMT</pubDate>
       <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-17.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-17.html</guid>
-      <pubDate>Sun, 09 Aug 2026 00:01:26 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>

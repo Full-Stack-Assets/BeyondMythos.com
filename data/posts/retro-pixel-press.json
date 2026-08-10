@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-controller-mods",
+    "title": "Retro Controller Mods: A Game-Changer for Speedrunners",
+    "dek": "Upgrade your retro game with mods",
+    "takeaway": "Retro controller mods can significantly improve speedrun performance",
+    "whatHappened": "Recently, speedrunners have been experimenting with retro controller mods to gain a competitive edge. These mods involve modifying the original controllers to reduce latency and improve button responsiveness. The results have been impressive, with many speedrunners reporting significant improvements in their run times.",
+    "whyItMatters": "For retro game collectors and speedrunners, having the right hardware can make all the difference. Retro controller mods can help to level the playing field, allowing speedrunners to compete with others who have access to more modern equipment. Additionally, these mods can help to extend the life of vintage consoles and controllers, preserving their functionality for years to come.",
+    "howToThink": "When considering retro controller mods, it's essential to think about the specific needs of your speedrunning setup. Consider the type of games you play, the level of latency you can tolerate, and the overall responsiveness of your controller. By choosing the right mods for your needs, you can create a customized setup that helps you to perform at your best.",
+    "pros": [
+      "Improved performance",
+      "Increased responsiveness",
+      "Customizable"
+    ],
+    "cons": [
+      "Technical expertise required",
+      "Potential for damage to original hardware",
+      "Cost"
+    ],
+    "watchOut": "Be cautious when modifying original hardware, as it can void the warranty and potentially cause damage",
+    "faq": [
+      {
+        "q": "What types of mods are available?",
+        "a": "There are various types of mods available, including button swaps, joystick upgrades, and latency reduction mods"
+      },
+      {
+        "q": "How do I install retro controller mods?",
+        "a": "Installation typically requires technical expertise and specialized tools, but there are many online resources and tutorials available to guide you through the process"
+      },
+      {
+        "q": "Are retro controller mods compatible with all retro consoles?",
+        "a": "Not all mods are compatible with all retro consoles, so be sure to research compatibility before making a purchase"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "speedrunning",
+      "retro gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-10T16:30:08.184Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-indie-19",
     "title": "Ask the forge: your indie questions, answered",
     "dek": "Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.",
