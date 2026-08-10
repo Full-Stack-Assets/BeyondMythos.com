@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddle-ready-camping",
+    "title": "Camping with your kayak: a beginner's guide",
+    "dek": "Kayak camping 101",
+    "takeaway": "Kayak camping offers a unique way to explore nature and connect with the outdoors, but requires careful planning and preparation",
+    "whatHappened": "As the summer months approach, many kayakers are looking to take their paddling adventures to the next level by combining them with camping trips. Kayak camping allows paddlers to explore remote areas and experience the beauty of nature in a unique way. However, it requires careful planning and preparation to ensure a safe and enjoyable trip",
+    "whyItMatters": "Kayak camping is an exciting way to explore new destinations and challenge oneself, but it also requires a good understanding of safety protocols and emergency procedures. By being prepared and knowing what to expect, kayakers can minimize risks and maximize their enjoyment of the experience. Additionally, kayak camping can be a great way to connect with nature and improve mental and physical health",
+    "howToThink": "When planning a kayak camping trip, it's essential to consider factors such as weather conditions, water levels, and campsite availability. Kayakers should also make sure to pack the necessary gear, including a first aid kit, navigation tools, and a repair kit. Additionally, it's crucial to plan for contingencies and have a backup plan in case of an emergency",
+    "pros": [
+      "Unique camping experience",
+      "Improved physical health",
+      "Connection with nature"
+    ],
+    "cons": [
+      "Physical demands",
+      "Weather risks",
+      "Logistical challenges"
+    ],
+    "watchOut": "Be aware of changing weather conditions and water levels, which can impact the safety of your trip",
+    "faq": [
+      {
+        "q": "What is the best way to transport gear on a kayak camping trip?",
+        "a": "Using a dry bag or a waterproof container to keep gear dry and secure"
+      },
+      {
+        "q": "How do I choose a safe campsite for kayak camping?",
+        "a": "Look for campsites with easy access to the water, a flat surface, and protection from the elements"
+      },
+      {
+        "q": "What are some essential items to pack for a kayak camping trip?",
+        "a": "A first aid kit, navigation tools, a repair kit, and a headlamp or flashlight"
+      }
+    ],
+    "category": "Trips",
+    "tags": [
+      "kayak camping",
+      "outdoor adventures"
+    ],
+    "sources": [
+      {
+        "label": "r/paddling community threads",
+        "url": "https://www.reddit.com/r/paddling/"
+      },
+      {
+        "label": "Search interest: \"kayak safety basics\"",
+        "url": "https://duckduckgo.com/?q=kayak%20safety%20basics"
+      }
+    ],
+    "publishedAt": "2026-08-10T02:58:19.526Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-kayaking-10",
     "title": "Community pulse: what r/Kayaking is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the storage community this week.",

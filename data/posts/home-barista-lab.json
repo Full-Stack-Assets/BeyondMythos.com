@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-your-grinder-4",
+    "title": "The Art of Fine-Tuning Your Burr Grinder for Perfect Espresso",
+    "dek": "Get the most out of your beans with a well-tuned grinder.",
+    "takeaway": "A properly tuned grinder is crucial for achieving optimal espresso flavor and consistency.",
+    "whatHappened": "Recently, we've seen a surge in questions about how to properly adjust and maintain burr grinders for home espresso setups. This is largely due to the increased popularity of high-end grinders designed specifically for domestic use. As a result, there's a growing need for practical guidance on grinder tuning.",
+    "whyItMatters": "A well-tuned grinder ensures that the coffee beans are ground to the correct size and consistency, which directly affects the flavor and quality of the espresso shot. Incorrect grind settings can lead to channeling, under-extraction, or over-extraction, all of which can significantly degrade the taste experience. Therefore, understanding how to adjust and maintain your grinder is essential for any serious home barista.",
+    "howToThink": "To approach grinder tuning, start by consulting your grinder's manual for specific adjustment instructions. Then, experiment with small adjustments and taste the results, keeping in mind that the ideal grind setting can vary depending on the type of coffee bean, roast level, and the espresso machine being used. Regular cleaning and maintenance of the grinder are also crucial to prevent old coffee oils and residue from affecting the flavor of your espresso.",
+    "pros": [
+      "Improved Flavor",
+      "Better Consistency",
+      "Increased Control"
+    ],
+    "cons": [
+      "Requires Patience",
+      "Can Be Frustrating",
+      "Grinder Dependent"
+    ],
+    "watchOut": "Be cautious not to over-adjust, as this can lead to unnecessary wear on the grinder's burrs and potentially degrade the quality of your grind.",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Daily, to prevent old coffee oils from building up and affecting flavor."
+      },
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "It varies, but generally, a fine grind that's slightly coarser than powder is best."
+      },
+      {
+        "q": "Can I use any coffee bean with my grinder?",
+        "a": "Most beans work well, but very hard or very soft beans may require special grind settings or equipment."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Gear",
+      "Grinder Tuning"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-10T02:58:14.704Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-espresso-5",
     "title": "Community pulse: what r/espresso is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

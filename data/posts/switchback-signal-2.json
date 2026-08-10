@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mid-run-fueling-strategies",
+    "title": "Fuel for the long haul: mastering mid-run nutrition",
+    "dek": "Optimize your fueling strategy",
+    "takeaway": "A well-planned mid-run fueling strategy can significantly improve your endurance performance",
+    "whatHappened": "Many trail runners and ultrarunners struggle with mid-run fueling, leading to decreased performance and increased risk of bonking. Recent studies have highlighted the importance of personalized nutrition planning. By understanding individual energy needs and preferences, athletes can optimize their fueling strategy.",
+    "whyItMatters": "Proper mid-run fueling is critical for maintaining energy levels, delaying fatigue, and supporting overall performance. Inadequate fueling can lead to decreased performance, increased risk of injury, and a higher likelihood of DNFs. A well-planned fueling strategy can provide a competitive edge and enhance the overall running experience.",
+    "howToThink": "To develop an effective mid-run fueling strategy, consider your individual energy needs, the duration and intensity of your runs, and your personal preferences. Experiment with different types and amounts of fuel during training to find what works best for you. Practice fueling during long runs to build confidence and fine-tune your strategy.",
+    "pros": [
+      "Improved endurance",
+      "Increased energy",
+      "Enhanced performance"
+    ],
+    "cons": [
+      "Digestive issues",
+      "Weight and bulk",
+      "Cost"
+    ],
+    "watchOut": "Be cautious not to overfuel, as this can lead to digestive discomfort and decreased performance",
+    "faq": [
+      {
+        "q": "What types of food are best for mid-run fueling?",
+        "a": "Opt for easily digestible, high-carbohydrate foods such as energy gels, fruits, and nuts"
+      },
+      {
+        "q": "How often should I fuel during a long run?",
+        "a": "Aim to fuel every 30-60 minutes, depending on your individual energy needs and the intensity of your run"
+      },
+      {
+        "q": "Can I use a single fuel source for entire runs?",
+        "a": "It's generally recommended to vary your fuel sources to avoid digestive issues and prevent flavor fatigue"
+      }
+    ],
+    "category": "Nutrition",
+    "tags": [
+      "ultrarunning",
+      "trailrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultramarathon community threads",
+        "url": "https://www.reddit.com/r/Ultramarathon/"
+      },
+      {
+        "label": "Search interest: \"ultra training plan\"",
+        "url": "https://duckduckgo.com/?q=ultra%20training%20plan"
+      }
+    ],
+    "publishedAt": "2026-08-10T02:58:24.316Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-races-17",
     "title": "Ask the forge: your races questions, answered",
     "dek": "Straight answers to the races questions trail runners and ultrarunning hopefuls keep asking, minus the hedging.",

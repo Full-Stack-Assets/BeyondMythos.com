@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Art of Fine-Tuning Your Burr Grinder for Perfect Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-grinder-4.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-grinder-4.html</guid>
+      <pubDate>Mon, 10 Aug 2026 02:58:14 GMT</pubDate>
+      <description>Get the most out of your beans with a well-tuned grinder.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/espresso is debating this week</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-5.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-buying-guide.html</guid>
       <pubDate>Sat, 08 Aug 2026 17:06:53 GMT</pubDate>
       <description>Get the right grind for your brew</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-16.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-16.html</guid>
-      <pubDate>Sat, 08 Aug 2026 16:01:22 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>

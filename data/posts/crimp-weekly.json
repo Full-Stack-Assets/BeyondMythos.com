@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smarter-warm-ups",
+    "title": "Warming up for sends: the secret to better bouldering",
+    "dek": "Maximize your climbing with a smart warm-up routine",
+    "takeaway": "A well-structured warm-up can boost your bouldering performance and reduce injury risk",
+    "whatHappened": "Indoor climbers often neglect proper warm-ups, focusing solely on the climb. However, a thoughtful warm-up can make all the difference. By incorporating mobility exercises, light cardio, and dynamic stretching, climbers can prepare their bodies for the physical demands of bouldering.",
+    "whyItMatters": "A good warm-up increases blood flow, reduces muscle stiffness, and enhances power output. It also helps prevent common injuries like finger strains and shoulder pulls. Moreover, a well-warmed-up climber can focus on technique and strategy, rather than struggling through initial moves.",
+    "howToThink": "To create an effective warm-up, start with 5-10 minutes of light cardio, such as jogging or jumping jacks. Then, move on to dynamic stretches like leg swings, arm circles, and hip openers. Finally, incorporate mobility exercises like wrist extensions and finger bends to prepare your hands for gripping.",
+    "pros": [
+      "Improved performance",
+      "Reduced injury risk",
+      "Enhanced focus"
+    ],
+    "cons": [
+      "Time-consuming",
+      "May feel tedious",
+      "Requires discipline"
+    ],
+    "watchOut": "Don't overdo it – a warm-up should prepare your body, not exhaust it",
+    "faq": [
+      {
+        "q": "How long should my warm-up be?",
+        "a": "10-15 minutes is a good starting point"
+      },
+      {
+        "q": "What if I'm short on time?",
+        "a": "Even 5 minutes is better than nothing – prioritize mobility exercises"
+      },
+      {
+        "q": "Can I use the same warm-up for every climb?",
+        "a": "No, adjust your warm-up based on the climb's specific demands and your own needs"
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "bouldering",
+      "training"
+    ],
+    "sources": [
+      {
+        "label": "r/bouldering community threads",
+        "url": "https://www.reddit.com/r/bouldering/"
+      },
+      {
+        "label": "Search interest: \"bouldering technique for beginners\"",
+        "url": "https://duckduckgo.com/?q=bouldering%20technique%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-10T02:58:19.950Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-climbing-shoe-guide-10",
     "title": "Myth vs. reality: climbing shoe guide",
     "dek": "The persistent myths around climbing shoe guide, stress-tested against what indoor boulderers and new climbers actually report.",
