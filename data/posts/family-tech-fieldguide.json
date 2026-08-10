@@ -1,5 +1,56 @@
 [
   {
+    "slug": "managing-kids-apps",
+    "title": "Taming the App Beast: A Parent's Guide to Kid-Friendly Apps",
+    "dek": "Find safe apps for your kids",
+    "takeaway": "Choose apps that promote learning and fun while protecting your kids' digital well-being",
+    "whatHappened": "The world of kids' apps is vast and overwhelming, with thousands of options available. Many apps are designed to be both entertaining and educational, but some can be detrimental to kids' health and safety. Parents need to navigate this complex landscape to find apps that are suitable for their children.",
+    "whyItMatters": "Exposure to inappropriate content, online predators, and excessive screen time are just a few of the risks associated with kids' app use. By choosing the right apps, parents can help their kids develop healthy digital habits and a positive relationship with technology. This, in turn, can have a lasting impact on their social, emotional, and cognitive development.",
+    "howToThink": "When selecting apps for your kids, consider their age, interests, and individual needs. Look for apps that promote learning, creativity, and physical activity, and that have robust safety features and parental controls. Be sure to read reviews, check ratings, and monitor your child's app use to ensure a safe and enjoyable experience.",
+    "pros": [
+      "Promotes learning",
+      "Encourages creativity",
+      "Fosters physical activity"
+    ],
+    "cons": [
+      "Risk of addiction",
+      "Inappropriate content",
+      "Online predators"
+    ],
+    "watchOut": "Be cautious of apps with lax safety measures and those that collect excessive personal data from your child",
+    "faq": [
+      {
+        "q": "What are some popular kid-friendly apps?",
+        "a": "Popular options include PBS Kids, Duolingo, and Toca Life"
+      },
+      {
+        "q": "How can I restrict app access on my child's device?",
+        "a": "Use parental control features like Screen Time or Family Link to set limits and monitor app use"
+      },
+      {
+        "q": "Can I trust app ratings and reviews?",
+        "a": "While not always reliable, app ratings and reviews can provide valuable insights into an app's quality and safety"
+      }
+    ],
+    "category": "Apps",
+    "tags": [
+      "kidstech",
+      "appsecurity"
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-10T06:55:29.469Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-safety-mistakes-20",
     "title": "Five mistakes everyone makes in their first month of safety",
     "dek": "The most common early stumbles in safety, and the cheap corrections that fix them for parents managing kids, screens, and smart devices.",

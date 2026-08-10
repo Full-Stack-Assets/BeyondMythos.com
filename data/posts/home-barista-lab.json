@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-espresso-distribution-4",
+    "title": "Even Extraction: The Key to Perfect Espresso Distribution",
+    "dek": "Achieve balanced flavor with these expert tips.",
+    "takeaway": "Proper espresso distribution is crucial for even extraction and a perfect shot.",
+    "whatHappened": "Recently, we've seen a surge in home baristas experimenting with different espresso roast levels and brewing techniques. However, many are overlooking the importance of proper distribution in achieving the perfect shot. By focusing on this often-neglected aspect, enthusiasts can significantly improve their espresso quality.",
+    "whyItMatters": "Even extraction is essential for bringing out the full flavor potential of your espresso. Uneven distribution can lead to channeling, resulting in a shot that's either over or under-extracted. By mastering distribution, you'll be able to enjoy a more balanced and satisfying espresso experience.",
+    "howToThink": "To improve your espresso distribution, start by adjusting your tamp and ensuring your portafilter is level. Next, experiment with different grind sizes and distribution tools to find what works best for your setup. Finally, practice makes perfect – take the time to dial in your technique and you'll be on your way to crafting exceptional espresso shots.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Enhanced crema"
+    ],
+    "cons": [
+      "Steeper learning curve",
+      "Additional equipment costs",
+      "More time-consuming"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to poor extraction and a less-than-ideal shot.",
+    "faq": [
+      {
+        "q": "What's the best way to distribute espresso grounds?",
+        "a": "Use a combination of a distribution tool and a level portafilter to ensure even coverage."
+      },
+      {
+        "q": "Can I use a regular coffee grinder for espresso?",
+        "a": "While possible, it's recommended to use a burr grinder specifically designed for espresso to achieve the optimal grind size."
+      },
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily cleaning is essential to prevent old coffee oils and residue from building up and affecting the taste of your espresso."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-10T06:55:22.664Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-technique-revisited",
     "title": "The Tamping Technique Revisited: A Game Changer for Home Baristas",
     "dek": "Unlock perfect espresso with the right tamping technique.",

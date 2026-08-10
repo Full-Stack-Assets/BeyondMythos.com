@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The preservation checklist: run this before you spend</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-22.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-22.html</guid>
+      <pubDate>Mon, 10 Aug 2026 06:55:21 GMT</pubDate>
+      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of speedruns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-21.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-21.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-kits.html</guid>
       <pubDate>Sat, 08 Aug 2026 19:15:42 GMT</pubDate>
       <description>Fix your retro console with ease</description>
-    </item>
-    <item>
-      <title>Retro Console Repairs: DIY or Die Trying</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-4.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-4.html</guid>
-      <pubDate>Sat, 08 Aug 2026 18:02:30 GMT</pubDate>
-      <description>Revive your retro console with DIY hacks</description>
     </item>
   </channel>
 </rss>
