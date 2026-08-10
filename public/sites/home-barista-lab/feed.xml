@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Grind Size Control: The Secret to Elevating Your Pour-Over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-burr-grinder-for-pour-over.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-burr-grinder-for-pour-over.html</guid>
+      <pubDate>Mon, 10 Aug 2026 15:36:35 GMT</pubDate>
+      <description>Unlock better flavor with precise grind control</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-24.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-24.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-17.html</guid>
       <pubDate>Sun, 09 Aug 2026 00:01:26 GMT</pubDate>
       <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
-    </item>
-    <item>
-      <title>Unlocking Hidden Notes in Your Espresso</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-espresso-flavor.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-espresso-flavor.html</guid>
-      <pubDate>Sat, 08 Aug 2026 23:03:34 GMT</pubDate>
-      <description>Get more from your espresso</description>
     </item>
   </channel>
 </rss>

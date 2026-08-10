@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-your-burr-grinder-for-pour-over",
+    "title": "Grind Size Control: The Secret to Elevating Your Pour-Over",
+    "dek": "Unlock better flavor with precise grind control",
+    "takeaway": "Adjusting your burr grinder's grind size can significantly impact the taste of your pour-over coffee",
+    "whatHappened": "Recently, we've seen a surge in home baristas experimenting with pour-over brewing, but many are overlooking the importance of grind size control. A well-adjusted burr grinder can make all the difference in extracting the perfect cup. By fine-tuning your grind, you can prevent over or under extraction, leading to a more balanced flavor profile.",
+    "whyItMatters": "Grind size control matters because it directly affects the flow rate of water through the coffee grounds, which in turn impacts the extraction of flavors and oils. A grind that's too fine can lead to over-extraction and bitterness, while a grind that's too coarse can result in under-extraction and a weak cup. By mastering grind size control, you can unlock the full potential of your pour-over brewer.",
+    "howToThink": "To think about grind size control in a practical way, consider the type of coffee you're brewing and the desired flavor profile. For example, a lighter roast may require a slightly coarser grind to prevent over-extraction, while a darker roast may benefit from a finer grind to bring out its rich, bold flavors. Experiment with small adjustments to find the sweet spot for your pour-over.",
+    "pros": [
+      "Improved flavor control",
+      "Increased consistency",
+      "Enhanced aroma"
+    ],
+    "cons": [
+      "Requires trial and error",
+      "Can be time-consuming",
+      "May need frequent cleaning"
+    ],
+    "watchOut": "Be cautious not to over-adjust your grinder, as this can lead to inconsistent results and a decrease in overall flavor quality",
+    "faq": [
+      {
+        "q": "What's the ideal grind size for pour-over?",
+        "a": "The ideal grind size for pour-over is typically medium to medium-coarse, similar to kosher salt"
+      },
+      {
+        "q": "How often should I clean my burr grinder?",
+        "a": "It's recommended to clean your burr grinder every 1-3 months, depending on usage and the type of coffee you're brewing"
+      },
+      {
+        "q": "Can I use a blade grinder for pour-over?",
+        "a": "While it's possible to use a blade grinder for pour-over, it's not recommended, as blade grinders can generate heat and produce inconsistent grind sizes"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "pour-over",
+      "grind-control"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-10T15:36:35.871Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-24",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
