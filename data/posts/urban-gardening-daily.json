@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-potential-2",
+    "title": "Squeeze the Most from Your Balcony:  Expert Container Tips",
+    "dek": "Tips to boost your balcony garden",
+    "takeaway": "With the right strategy, even the smallest balconies can yield a bountiful harvest",
+    "whatHappened": "As urban gardening gains popularity, more people are looking for ways to maximize their outdoor spaces. Balconies, once mere afterthoughts, are now being transformed into lush gardens. By choosing the right containers and implementing a few clever strategies, apartment dwellers can join the ranks of successful urban gardeners. The key is understanding how to make the most of the space available.",
+    "whyItMatters": "For apartment dwellers, having a garden is not just about aesthetics; it's about creating a sustainable source of fresh produce. When done correctly, balcony gardening can provide a significant portion of a person's daily vegetables, reducing reliance on supermarkets and minimizing carbon footprint. Moreover, the mental health benefits of gardening are well-documented, making it an invaluable hobby for urban residents.",
+    "howToThink": "To maximize balcony potential, consider the amount of sunlight your balcony receives and choose plants accordingly. Utilize vertical space with trellises and wall-mounted planters to increase yields without sacrificing floor space. Furthermore, implementing a self-watering system can help minimize maintenance, making it easier to keep your garden thriving even with a busy schedule.",
+    "pros": [
+      "Increased yields",
+      "Aesthetic appeal",
+      "Sustainable"
+    ],
+    "cons": [
+      "Space limitations",
+      "Weather exposure",
+      "Initial investment"
+    ],
+    "watchOut": "Be cautious of overwatering, as balcony gardens can be more susceptible to waterlogged soil due to limited drainage",
+    "faq": [
+      {
+        "q": "What are the best plants for beginners?",
+        "a": "Herbs like basil and mint are hardy and easy to grow"
+      },
+      {
+        "q": "How often should I water my balcony garden?",
+        "a": "Watering needs vary by plant, but a general rule is to water when the top inch of soil feels dry"
+      },
+      {
+        "q": "Can I grow vegetables in partial shade?",
+        "a": "Yes, vegetables like lettuce and spinach can thrive in partial shade, making them ideal for balconies with limited sunlight"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Balcony Gardening",
+      "Urban Harvest"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-10T21:25:10.124Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "small-space-vegetables-field-test-8",
     "title": "\"small space vegetables\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about small space vegetables through a month of actual use. Some of it survived.",

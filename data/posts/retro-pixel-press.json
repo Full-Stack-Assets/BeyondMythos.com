@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-hacks-5",
+    "title": "Retro Hardware Hacks to Supercharge Your Speedruns",
+    "dek": "Upgrade your retro gear",
+    "takeaway": "Simple hardware hacks can significantly improve your speedrun performance",
+    "whatHappened": "The retro gaming community has seen a surge in speedrunners experimenting with hardware modifications to gain a competitive edge. From overclocking to button mapping, these tweaks can make all the difference in achieving record-breaking times. As a result, the demand for retro hardware hacking guides has skyrocketed.",
+    "whyItMatters": "For speedrunners, every millisecond counts, and hardware hacks can provide the necessary boost to stay ahead of the competition. Moreover, these modifications can also enhance the overall gaming experience, making it more enjoyable for collectors and enthusiasts alike. By embracing retro hardware hacking, the community can continue to push the boundaries of what is possible with classic consoles.",
+    "howToThink": "When considering retro hardware hacks, it's essential to research and understand the specific modifications that can be made to your console. Look for guides from reputable sources, and don't be afraid to experiment and try new things. Additionally, join online forums and communities to connect with other speedrunners and learn from their experiences.",
+    "pros": [
+      "Improved performance",
+      "Enhanced gaming experience",
+      "Increased competitiveness"
+    ],
+    "cons": [
+      "Voided warranty",
+      "Potential damage to hardware",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be cautious when attempting hardware hacks, as they can potentially damage your console or void its warranty",
+    "faq": [
+      {
+        "q": "What is overclocking?",
+        "a": "Overclocking refers to the process of increasing a console's clock speed to improve performance"
+      },
+      {
+        "q": "Can I use any controller for speedrunning?",
+        "a": "No, it's recommended to use a controller specifically designed for speedrunning, as they often feature optimized button mapping and ergonomics"
+      },
+      {
+        "q": "How do I find reputable hardware hacking guides?",
+        "a": "Look for guides from established retro gaming communities, forums, and YouTube channels"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "speedrun",
+      "retrohack"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-10T21:25:08.978Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-23",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",
