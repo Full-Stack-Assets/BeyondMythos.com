@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddling-at-night-2",
+    "title": "Night Paddling 101: A Beginner's Guide",
+    "dek": "Paddling at night requires prep and know-how",
+    "takeaway": "With the right gear and mindset, night paddling can be a safe and exhilarating experience",
+    "whatHappened": "As the sun sets, many paddlers head back to shore, but for some, the real adventure begins. Night paddling offers a unique perspective on the water, with bioluminescence and starry skies. However, it also presents new challenges, such as reduced visibility and increased risk of collision.",
+    "whyItMatters": "Night paddling is an exciting way to experience the water, but it requires special consideration and preparation. By understanding the risks and taking necessary precautions, paddlers can enjoy this unique experience while staying safe. As the sport grows in popularity, it's essential to educate paddlers on the best practices for night paddling.",
+    "howToThink": "To get started with night paddling, consider investing in a good light source, such as a headlamp or deck light, and practice paddling in low-light conditions during the day. It's also essential to file a float plan and let someone know your itinerary. Finally, be aware of your surroundings and paddle with a buddy whenever possible.",
+    "pros": [
+      "Increased solitude",
+      "Unique visual experience",
+      "Improved navigation skills"
+    ],
+    "cons": [
+      "Reduced visibility",
+      "Increased risk of collision",
+      "Cold temperatures"
+    ],
+    "watchOut": "Be cautious of other watercraft and obstacles, such as rocks or buoys, which can be difficult to spot in the dark",
+    "faq": [
+      {
+        "q": "What light source is best for night paddling?",
+        "a": "A good headlamp or deck light with a red light mode to preserve night vision"
+      },
+      {
+        "q": "How can I stay warm while night paddling?",
+        "a": "Dress in layers, wear a dry suit or wetsuit, and bring a warm hat and gloves"
+      },
+      {
+        "q": "Is it safe to paddle alone at night?",
+        "a": "While possible, it's generally safer to paddle with a buddy, especially in unfamiliar waters"
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "night paddling",
+      "safety tips"
+    ],
+    "sources": [
+      {
+        "label": "r/paddling community threads",
+        "url": "https://www.reddit.com/r/paddling/"
+      },
+      {
+        "label": "Search interest: \"kayak safety basics\"",
+        "url": "https://duckduckgo.com/?q=kayak%20safety%20basics"
+      }
+    ],
+    "publishedAt": "2026-08-10T23:17:22.769Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "trips-pre-spend-checklist-31",
     "title": "The trips checklist: run this before you spend",
     "dek": "Seven questions that separate a justified trips purchase from an expensive mood.",

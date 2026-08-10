@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sauce-template-boost",
+    "title": "Saucy Shortcuts: How Templates Can Elevate Your Weeknight Sauces",
+    "dek": "Level up your sauces with templates",
+    "takeaway": "Using sauce templates can save you time and effort on weeknight dinners",
+    "whatHappened": "We experimented with applying template systems to our weeknight sauces, and the results were impressive. By creating a set of reusable sauce templates, we were able to streamline our cooking process and reduce decision fatigue. This approach allowed us to focus on the creative aspects of cooking, rather than getting bogged down in mundane tasks.",
+    "whyItMatters": "Having a solid sauce template system in place can be a game-changer for home cooks, as it allows for greater flexibility and adaptability in the kitchen. With a set of trusted templates, you can quickly and easily swap out ingredients and flavors to suit your tastes and dietary needs. This approach also enables you to build a repertoire of reliable, go-to sauces that can be used to elevate a wide range of dishes.",
+    "howToThink": "To get started with sauce templates, think about the core flavor profiles and ingredients that you use most frequently. Consider creating a set of basic templates, such as a neutral bechamel or a spicy tomato sauce, and then experiment with modifying these templates to suit different dishes and cuisines. Don't be afraid to get creative and try new combinations – the key to success lies in finding a balance between structure and flexibility.",
+    "pros": [
+      "Time-saving",
+      "Increased flexibility",
+      "Improved consistency"
+    ],
+    "cons": [
+      "Limited creativity",
+      "Over-reliance on templates",
+      "Initial setup time"
+    ],
+    "watchOut": "Be careful not to become too reliant on templates, as this can stifle your creativity and prevent you from trying new things",
+    "faq": [
+      {
+        "q": "What is a sauce template?",
+        "a": "A sauce template is a reusable framework for creating a specific type of sauce, with interchangeable ingredients and flavor profiles"
+      },
+      {
+        "q": "How do I create my own sauce templates?",
+        "a": "Start by identifying your favorite sauces and deconstructing them into their core components – then experiment with modifying these components to create new templates"
+      },
+      {
+        "q": "Can I use sauce templates for special diets?",
+        "a": "Yes, sauce templates can be easily adapted to suit a wide range of dietary needs and preferences, from vegan and gluten-free to paleo and low-carb"
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "sauce hacks",
+      "weeknight dinners"
+    ],
+    "sources": [
+      {
+        "label": "r/cookingforbeginners community threads",
+        "url": "https://www.reddit.com/r/cookingforbeginners/"
+      },
+      {
+        "label": "Search interest: \"five mother sauces\"",
+        "url": "https://duckduckgo.com/?q=five%20mother%20sauces"
+      }
+    ],
+    "publishedAt": "2026-08-10T23:17:23.671Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pantry-staples-list-field-test-10",
     "title": "\"pantry staples list\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pantry staples list through a month of actual use. Some of it survived.",
