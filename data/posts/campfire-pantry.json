@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimal-food-drying",
+    "title": "Drying Done Right: A Game-Changer for Camp Food",
+    "dek": "Elevate your camp meals with perfectly dried ingredients.",
+    "takeaway": "Proper food drying can significantly enhance the quality and longevity of your camp meals.",
+    "whatHappened": "Recent backpacking trips have highlighted the importance of properly dried meals. Improper drying can lead to spoilage and decreased nutritional value. With the right techniques, camp cooks can enjoy hearty, healthy meals even on extended trips.",
+    "whyItMatters": "Dried meals are a staple for camp cooks due to their lightweight and compact nature. However, improper drying can negate these benefits. By understanding the optimal drying methods, camp cooks can ensure their meals remain fresh and nutritious, enhancing the overall camping experience.",
+    "howToThink": "When preparing dried meals, consider the type of food, drying time, and storage methods. Utilizing a food dehydrator or carefully monitoring sun-drying can yield optimal results. Additionally, storing dried meals in airtight containers can help maintain freshness.",
+    "pros": [
+      "Lightweight",
+      "Compact",
+      "Nutritious"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires equipment",
+      "Limited ingredients"
+    ],
+    "watchOut": "Be cautious of cross-contamination and moisture exposure when handling dried meals to prevent spoilage.",
+    "faq": [
+      {
+        "q": "What is the best method for drying meals?",
+        "a": "Using a food dehydrator or sun-drying with proper monitoring"
+      },
+      {
+        "q": "How do I store dried meals to maintain freshness?",
+        "a": "In airtight containers, protected from moisture and light"
+      },
+      {
+        "q": "Can I dry any type of food?",
+        "a": "Most fruits, vegetables, and meats can be dried, but some require special preparation or equipment"
+      }
+    ],
+    "category": "Prep",
+    "tags": [
+      "backpacking meals",
+      "camp food prep"
+    ],
+    "sources": [
+      {
+        "label": "r/camping community threads",
+        "url": "https://www.reddit.com/r/camping/"
+      },
+      {
+        "label": "Search interest: \"easy camping meals\"",
+        "url": "https://duckduckgo.com/?q=easy%20camping%20meals"
+      }
+    ],
+    "publishedAt": "2026-08-10T12:30:47.318Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-meals-20",
     "title": "A weekend project: level up your meals in two hours",
     "dek": "One contained, satisfying meals project for camp cooks — start Saturday morning, done by lunch.",

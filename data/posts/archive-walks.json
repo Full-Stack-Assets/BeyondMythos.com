@@ -1,5 +1,56 @@
 [
   {
+    "slug": "landmark-visibility",
+    "title": "Reviving Forgotten Landmarks Through Community Engagement",
+    "dek": "Unlock hidden gems in your city",
+    "takeaway": "Community involvement is key to preserving local landmarks",
+    "whatHappened": "Many local landmarks have fallen into disrepair due to lack of attention and funding. However, recent initiatives have shown that community engagement can breathe new life into these forgotten sites. By rallying local support, landmarks can be restored to their former glory.",
+    "whyItMatters": "Preserving local landmarks is crucial for maintaining a sense of community and cultural heritage. These sites often hold historical significance and can serve as important educational tools. Moreover, restored landmarks can also boost local tourism and economies.",
+    "howToThink": "When approaching landmark preservation, consider the potential for community engagement and outreach. This can involve organizing volunteer events, collaborating with local businesses, and leveraging social media to raise awareness. By adopting a collaborative mindset, you can help ensure the long-term viability of your local landmarks.",
+    "pros": [
+      "Increased community engagement",
+      "Preservation of cultural heritage",
+      "Economic benefits"
+    ],
+    "cons": [
+      "High maintenance costs",
+      "Potential for vandalism",
+      "Limited funding"
+    ],
+    "watchOut": "Be cautious of gentrification and ensure that preservation efforts benefit the local community",
+    "faq": [
+      {
+        "q": "How can I get involved in landmark preservation?",
+        "a": "Start by researching local preservation initiatives and attending community events"
+      },
+      {
+        "q": "What are the most effective ways to raise awareness about a landmark?",
+        "a": "Utilize social media, collaborate with local media outlets, and organize public events"
+      },
+      {
+        "q": "How can I ensure that preservation efforts are inclusive and equitable?",
+        "a": "Engage with diverse community stakeholders, prioritize local input, and strive for transparency in decision-making processes"
+      }
+    ],
+    "category": "Landmarks",
+    "tags": [
+      "landmark preservation",
+      "community engagement"
+    ],
+    "sources": [
+      {
+        "label": "r/AskHistorians community threads",
+        "url": "https://www.reddit.com/r/AskHistorians/"
+      },
+      {
+        "label": "Search interest: \"local history research\"",
+        "url": "https://duckduckgo.com/?q=local%20history%20research"
+      }
+    ],
+    "publishedAt": "2026-08-10T12:30:46.416Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-maps-mistakes-20",
     "title": "Five mistakes everyone makes in their first month of maps",
     "dek": "The most common early stumbles in maps, and the cheap corrections that fix them for local history buffs and community archivists.",

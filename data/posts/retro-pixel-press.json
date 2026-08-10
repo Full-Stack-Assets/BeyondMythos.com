@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-101-6",
+    "title": "Mod Your Way to Retro Gaming Glory",
+    "dek": "Upgrade your retro console with ease",
+    "takeaway": "Console modding can breathe new life into old hardware, but it requires careful planning and execution",
+    "whatHappened": "The retro gaming community has seen a surge in console modding, with enthusiasts pushing the boundaries of what's possible with old hardware. From adding HDMI outputs to upgrading internal components, the options are endless. However, with great power comes great responsibility, and modders must be careful not to damage their consoles",
+    "whyItMatters": "Console modding is important because it allows retro gamers to play their favorite games on modern TVs and devices, while also preserving the original hardware. It's a delicate balance between preservation and innovation, and one that requires a deep understanding of the underlying technology. By modding their consoles, gamers can ensure that their favorite games remain playable for years to come",
+    "howToThink": "When considering a console mod, think about your goals and what you want to achieve. Are you looking to add new features or simply upgrade existing ones? Research the process thoroughly and make sure you have the necessary skills and tools before starting. It's also essential to test your mods thoroughly to avoid damaging your console",
+    "pros": [
+      "Improved performance",
+      "Enhanced graphics",
+      "Increased compatibility"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Voiding warranties",
+      "Cost of components"
+    ],
+    "watchOut": "Be cautious when soldering or handling sensitive electronic components to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What is console modding?",
+        "a": "Console modding is the process of modifying or upgrading a retro gaming console to improve its performance or add new features"
+      },
+      {
+        "q": "Do I need to be tech-savvy to mod my console?",
+        "a": "While some technical knowledge is helpful, many console mods can be done with basic DIY skills and patience"
+      },
+      {
+        "q": "Can I mod my console without voiding the warranty?",
+        "a": "It depends on the type of mod and the manufacturer's policies, but in general, modifying your console will void the warranty"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Console Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-10T12:30:40.923Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-console-restoration",
     "title": "Breathe New Life into Old Consoles",
     "dek": "Revive your retro consoles",
