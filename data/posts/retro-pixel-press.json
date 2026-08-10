@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-restoration",
+    "title": "Breathe New Life into Old Consoles",
+    "dek": "Revive your retro consoles",
+    "takeaway": "Proper restoration can extend the life of your retro consoles",
+    "whatHappened": "Many retro game collectors and speedrunners struggle to keep their old consoles running. With the rise of retro gaming, console restoration has become a vital part of the community. Recently, there has been an increase in demand for restoration services and DIY guides.",
+    "whyItMatters": "Restoring old consoles not only preserves gaming history but also allows gamers to experience classic titles on their original hardware. This helps to maintain the authenticity of the gaming experience and can even improve performance. Moreover, restoration can also increase the console's value for collectors.",
+    "howToThink": "When restoring a retro console, it's essential to research the best practices and gather the necessary tools and parts. Start by cleaning the console and its components, then proceed to replace any damaged or worn-out parts. It's also crucial to test the console thoroughly after restoration to ensure it's working correctly.",
+    "pros": [
+      "Improved performance",
+      "Increased longevity",
+      "Preserved authenticity"
+    ],
+    "cons": [
+      "Costly replacement parts",
+      "Risk of damage during restoration",
+      "Time-consuming process"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronic components to avoid causing further damage",
+    "faq": [
+      {
+        "q": "What is the most common issue with old consoles?",
+        "a": "The most common issue is usually related to worn-out capacitors or damaged motherboard components."
+      },
+      {
+        "q": "Can I restore my console myself?",
+        "a": "Yes, with the right tools and knowledge, you can restore your console yourself, but be cautious and patient."
+      },
+      {
+        "q": "Where can I find replacement parts?",
+        "a": "You can find replacement parts online through specialty stores or forums dedicated to retro gaming and console restoration."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Console Restoration"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-10T10:46:58.073Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-snes-6",
     "title": "Community pulse: what r/snes is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",

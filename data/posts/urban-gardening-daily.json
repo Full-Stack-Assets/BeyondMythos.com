@@ -1,5 +1,56 @@
 [
   {
+    "slug": "self-watering-containers-5",
+    "title": "Water You Waiting For: The Lowdown on Self-Watering Containers",
+    "dek": "Cut watering chores in half",
+    "takeaway": "Self-watering containers can boost yields and reduce maintenance for busy urban gardeners",
+    "whatHappened": "Self-watering containers have been gaining traction among urban gardeners due to their ability to reduce watering frequency. These innovative containers feature built-in water reservoirs that supply plants with moisture as needed. By minimizing the risk of overwatering, self-watering containers have become a game-changer for apartment dwellers and balcony gardeners.",
+    "whyItMatters": "For urban gardeners with limited time or a tendency to forget watering schedules, self-watering containers can be a lifesaver. They also help prevent waterlogged soil, reducing the risk of root rot and other problems. Additionally, self-watering containers promote healthy root growth, leading to more robust and resilient plants.",
+    "howToThink": "When considering self-watering containers, think about the specific needs of your plants and the amount of maintenance you're willing to commit to. Choose containers with built-in water indicators to ensure you're not over- or under-watering. Also, be mindful of the container's material and size to ensure it fits your space and style.",
+    "pros": [
+      "Reduced watering frequency",
+      "Increased yields",
+      "Less maintenance"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Limited container sizes",
+      "Potential for clogged water reservoirs"
+    ],
+    "watchOut": "Be cautious not to overfill the water reservoir, as this can lead to waterlogged soil and root rot",
+    "faq": [
+      {
+        "q": "How often should I water my self-watering container?",
+        "a": "Water your self-watering container when the built-in indicator shows it's time to refill the reservoir"
+      },
+      {
+        "q": "Can I use self-watering containers for all types of plants?",
+        "a": "Most plants can thrive in self-watering containers, but some, like cacti and succulents, may require special consideration"
+      },
+      {
+        "q": "How do I clean and maintain my self-watering container?",
+        "a": "Regularly clean the container and water reservoir to prevent the growth of bacteria and algae"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "urban gardening",
+      "container gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-10T10:46:58.256Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-seasonal-24",
     "title": "Ask the forge: your seasonal questions, answered",
     "dek": "Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.",
