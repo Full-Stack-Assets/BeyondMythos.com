@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-rail-revival",
+    "title": "Reclaiming the Romance of Overnight Trains",
+    "dek": "Rediscover the joy of slow travel",
+    "takeaway": "Overnight trains offer a unique blend of comfort, scenery, and sustainability",
+    "whatHappened": "The resurgence of overnight trains is transforming the way we travel, with many routes now offering luxurious amenities and breathtaking views. From the Rocky Mountaineer to the Blue Train, these journeys are redefining the art of slow travel. As travelers increasingly prioritize experience over efficiency, the appeal of overnight trains is undeniable.",
+    "whyItMatters": "The revival of overnight trains matters because it promotes a more relaxed, immersive, and environmentally friendly way of exploring destinations. By slowing down, travelers can appreciate local cultures, landscapes, and communities in a more meaningful way. This shift also encourages a more mindful approach to travel, where the journey is just as important as the destination.",
+    "howToThink": "To make the most of overnight train travel, consider booking a sleeper cabin, packing light, and bringing a good book or journal to document your journey. Research the route and plan ahead to ensure a smooth and enjoyable trip. Additionally, look for trains with sustainable practices and locally sourced amenities to support the local community.",
+    "pros": [
+      "Scenic routes",
+      "Comfortable accommodations",
+      "Sustainable"
+    ],
+    "cons": [
+      "Limited routes",
+      "Expensive",
+      "Less efficient"
+    ],
+    "watchOut": "Be sure to research and book in advance, as popular routes can sell out quickly",
+    "faq": [
+      {
+        "q": "What are the advantages of overnight trains?",
+        "a": "Overnight trains offer a unique blend of comfort, scenery, and sustainability, allowing travelers to appreciate local cultures and landscapes in a more immersive way."
+      },
+      {
+        "q": "How can I make the most of my overnight train journey?",
+        "a": "Book a sleeper cabin, pack light, and bring a good book or journal to document your journey, and research the route and plan ahead to ensure a smooth and enjoyable trip."
+      },
+      {
+        "q": "What should I look for when booking an overnight train?",
+        "a": "Look for trains with sustainable practices, locally sourced amenities, and comfortable accommodations to support the local community and ensure a relaxing journey."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Slow Travel",
+      "Rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-11T21:27:52.322Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-onebag-9",
     "title": "Community pulse: what r/onebag is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",

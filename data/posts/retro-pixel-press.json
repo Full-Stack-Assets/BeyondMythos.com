@@ -1,5 +1,56 @@
 [
   {
+    "slug": "overclocking-101-for-speedrunners",
+    "title": "Pushing the Limits: A Beginner's Guide to Overclocking for Speed Demons",
+    "dek": "Unlock faster frame rates",
+    "takeaway": "Overclocking can significantly improve speedrun performance, but requires careful consideration of hardware limitations",
+    "whatHappened": "Recent advancements in overclocking techniques have made it more accessible to speedrunners, allowing for faster completion times and improved overall performance. However, the process can be complex and requires a deep understanding of hardware and software interactions. As a result, many speedrunners are left wondering where to start and how to safely push their hardware to the limit.",
+    "whyItMatters": "Overclocking can be a game-changer for speedrunners, providing a competitive edge and allowing for more efficient completion of challenging levels and sequences. By understanding how to safely overclock their hardware, speedrunners can optimize their performance and take their skills to the next level. Additionally, overclocking can also help to extend the lifespan of older consoles, making them more viable for speedrunning purposes.",
+    "howToThink": "When considering overclocking, speedrunners should start by researching their specific hardware and identifying potential bottlenecks. From there, they can begin to experiment with different overclocking techniques, carefully monitoring temperatures and performance to ensure stability and safety. It's also essential to stay up-to-date with the latest speedrunning trends and best practices to maximize the benefits of overclocking.",
+    "pros": [
+      "Improved frame rates",
+      "Increased performance",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Risk of hardware damage",
+      "Increased power consumption",
+      "Potential instability"
+    ],
+    "watchOut": "Be cautious of overheating and hardware damage when attempting to overclock your console",
+    "faq": [
+      {
+        "q": "What is overclocking?",
+        "a": "Overclocking is the process of increasing a console's clock speed to improve performance"
+      },
+      {
+        "q": "Is overclocking safe?",
+        "a": "Overclocking can be safe if done correctly, but it also carries risks of hardware damage and instability"
+      },
+      {
+        "q": "What are the benefits of overclocking for speedrunners?",
+        "a": "Overclocking can improve frame rates, increase performance, and provide a competitive edge"
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "Speedrunning",
+      "Overclocking"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-11T21:27:52.129Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-indie-21",
     "title": "Ask the forge: your indie questions, answered",
     "dek": "Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.",

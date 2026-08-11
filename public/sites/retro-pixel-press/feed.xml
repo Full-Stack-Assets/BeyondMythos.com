@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pushing the Limits: A Beginner&apos;s Guide to Overclocking for Speed Demons</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/overclocking-101-for-speedrunners.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/overclocking-101-for-speedrunners.html</guid>
+      <pubDate>Tue, 11 Aug 2026 21:27:52 GMT</pubDate>
+      <description>Unlock faster frame rates</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-21.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-21.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-6.html</guid>
       <pubDate>Mon, 10 Aug 2026 09:01:17 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-22.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-22.html</guid>
-      <pubDate>Mon, 10 Aug 2026 06:55:21 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
