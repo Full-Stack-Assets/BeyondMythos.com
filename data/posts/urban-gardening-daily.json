@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-18",
+    "title": "Squeezing the most from your balcony garden",
+    "dek": "Grow more with less space",
+    "takeaway": "With the right strategy, even the smallest balconies can become thriving gardens",
+    "whatHappened": "As urban spaces continue to shrink, gardeners are getting creative with their balconies. From vertical gardens to clever container arrangements, the possibilities are endless. By leveraging these techniques, apartment dwellers can enjoy a slice of nature in even the most compact environments.",
+    "whyItMatters": "Maximizing balcony space is crucial for urban gardeners, as it allows them to grow their own food, purify the air, and connect with nature. A well-designed balcony garden can also increase property value and enhance the overall aesthetic of a building. Furthermore, it promotes a sense of community among gardeners, fostering knowledge sharing and collaboration.",
+    "howToThink": "To make the most of your balcony, start by assessing the sunlight and wind patterns. Choose containers that fit your space and select plants that thrive in your specific conditions. Consider using a trellis or a wall-mounted planter to add depth and visual interest to your garden.",
+    "pros": [
+      "Increased yields",
+      "Improved air quality",
+      "Enhanced aesthetics"
+    ],
+    "cons": [
+      "Limited space",
+      "Weather exposure",
+      "Higher maintenance"
+    ],
+    "watchOut": "Be mindful of weight limits when choosing containers and soil to avoid damaging your balcony",
+    "faq": [
+      {
+        "q": "What is the best way to water my balcony garden?",
+        "a": "Watering globes or self-watering containers can help reduce maintenance"
+      },
+      {
+        "q": "How can I protect my plants from extreme weather?",
+        "a": "Use a trellis or a screen to shield your plants from harsh winds and sunlight"
+      },
+      {
+        "q": "What are some space-saving container options?",
+        "a": "Hanging baskets, vertical planters, and stackable containers are great for small balconies"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Balcony Gardening",
+      "Small Space Solutions"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-11T23:22:55.207Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-small-space-vegetables-11",
     "title": "Myth vs. reality: small space vegetables",
     "dek": "The persistent myths around small space vegetables, stress-tested against what apartment dwellers and balcony gardeners actually report.",
