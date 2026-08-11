@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-myths",
+    "title": "Shattering Espresso Machine Maintenance Myths",
+    "dek": "Separate fact from fiction in espresso machine upkeep.",
+    "takeaway": "Proper maintenance extends the life of your espresso machine and improves taste.",
+    "whatHappened": "Many home baristas are misled by common myths surrounding espresso machine maintenance, such as the frequency of descaling and backflushing. These myths can lead to premature machine failure and subpar coffee. By understanding what's fact and what's fiction, enthusiasts can optimize their maintenance routines.",
+    "whyItMatters": "Espresso machine maintenance is crucial for delivering high-quality shots and extending the machine's lifespan. Neglecting or mismanaging maintenance can result in expensive repairs or even render the machine unusable. Moreover, a well-maintained machine ensures consistent flavor and crema, elevating the overall coffee experience.",
+    "howToThink": "To approach espresso machine maintenance effectively, it's essential to consult the user manual and adhere to the manufacturer's guidelines. Regularly cleaning and descaling the machine, as well as performing routine checks on wear and tear parts, can significantly impact performance. Additionally, keeping a maintenance log helps track when tasks were last performed, ensuring nothing is overlooked.",
+    "pros": [
+      "Improved taste",
+      "Increased longevity",
+      "Cost savings"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires knowledge",
+      "Initial investment"
+    ],
+    "watchOut": "Failure to regularly maintain your espresso machine can lead to costly repairs and decreased performance over time.",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Descaling frequency depends on usage and water hardness, but a general rule is every 3-6 months."
+      },
+      {
+        "q": "What are the most critical maintenance tasks for espresso machines?",
+        "a": "Regular cleaning, descaling, and checking wear and tear parts like seals and gaskets are crucial."
+      },
+      {
+        "q": "Can I perform maintenance tasks myself, or should I hire a professional?",
+        "a": "Many maintenance tasks can be done by the owner, but for complex issues or warranty concerns, it's best to consult a professional."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Maintenance",
+      "Coffee Gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-11T15:37:04.447Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-cleaning-hacks-7",
     "title": "Descale, Backflush, Repeat: The Ultimate Espresso Machine Cleaning Guide",
     "dek": "Dirty machine? Fix it fast.",
