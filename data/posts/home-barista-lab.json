@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-made-easy-2",
+    "title": "Don't let tamping hold you back",
+    "dek": "Perfect espresso with less fuss",
+    "takeaway": "Use the right tamper to elevate your home espresso game",
+    "whatHappened": "Tamping is often cited as a major hurdle for home baristas, with many struggling to achieve the perfect shot. Recently, we've seen a surge in tamper innovation, with new materials and designs entering the market. This shift has made it easier for enthusiasts to find a tamper that suits their needs.",
+    "whyItMatters": "A well-tamped shot is essential for optimal flavor extraction, and the right tamper can make all the difference. With the wrong tool, you may end up with channeling, under-extraction, or over-extraction, all of which can ruin an otherwise great shot. By choosing the right tamper, you can ensure a more consistent and delicious espresso experience.",
+    "howToThink": "When selecting a tamper, consider the size and shape of your portafilter, as well as your personal preference for material and ergonomics. Practice makes perfect, so don't be discouraged if it takes a few tries to get the hang of it. Start with a calibrated tamper and adjust as needed to find your sweet spot.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Additional cost",
+      "Learning curve",
+      "Storage space"
+    ],
+    "watchOut": "Be cautious of low-quality tampers that may damage your equipment or compromise flavor",
+    "faq": [
+      {
+        "q": "What is the ideal tamper size?",
+        "a": "The ideal tamper size matches your portafilter diameter"
+      },
+      {
+        "q": "Can I use a tamper with a built-in level?",
+        "a": "Yes, a built-in level can help ensure even tamping"
+      },
+      {
+        "q": "How often should I clean my tamper?",
+        "a": "Clean your tamper after each use to prevent old coffee oils from affecting flavor"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "tamping"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-11T04:53:07.337Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-espresso-dial-in-7",
     "title": "Myth vs. reality: home espresso dial in",
     "dek": "The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Turbocharging Your Vintage Consoles</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance.html</guid>
+      <pubDate>Tue, 11 Aug 2026 04:53:07 GMT</pubDate>
+      <description>Boost your retro console&apos;s speed</description>
+    </item>
+    <item>
       <title>Unlocking Frame Advantage: The Secret to Faster Speedruns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns-2.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-8.html</guid>
       <pubDate>Sun, 09 Aug 2026 14:18:41 GMT</pubDate>
       <description>The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.</description>
-    </item>
-    <item>
-      <title>Rise of the Modded Beast: Turbocharging Your Retro Consoles</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-5.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-5.html</guid>
-      <pubDate>Sun, 09 Aug 2026 13:36:01 GMT</pubDate>
-      <description>Upgrade your retro gaming experience</description>
     </item>
   </channel>
 </rss>
