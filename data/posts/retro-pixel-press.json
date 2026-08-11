@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-retro-console-performance-3",
+    "title": "Speed Demons: How to Get the Most Out of Your Retro Console",
+    "dek": "Boost your retro console's performance with these tweaks",
+    "takeaway": "Properly optimizing your retro console can significantly improve speedrun times and overall gaming experience",
+    "whatHappened": "Recently, speedrunners have been experimenting with various hardware modifications to squeeze out extra performance from their retro consoles. These tweaks range from simple cleaning and maintenance to more complex upgrades like capacitor replacement. As a result, speedrunners have seen noticeable improvements in frame rates and overall system stability.",
+    "whyItMatters": "Optimizing retro console performance is crucial for speedrunners, as it can mean the difference between beating a world record or falling short. Moreover, a well-maintained console can also extend its lifespan, preserving the gaming experience for years to come. By investing time and effort into optimizing their consoles, speedrunners can gain a competitive edge and enjoy a more satisfying gaming experience.",
+    "howToThink": "When approaching retro console optimization, it's essential to consider the specific needs of your system. Start by identifying bottlenecks and areas for improvement, such as dusty fans or worn-out capacitors. From there, you can research and implement targeted upgrades and maintenance tasks to maximize performance. Be cautious not to overdo it, as excessive modifications can potentially damage your console.",
+    "pros": [
+      "Improved frame rates",
+      "Increased system stability",
+      "Extended console lifespan"
+    ],
+    "cons": [
+      "Potential for damage",
+      "Cost of upgrades",
+      "Time-consuming process"
+    ],
+    "watchOut": "Be cautious when handling internal components to avoid damage or electrical shock",
+    "faq": [
+      {
+        "q": "What's the most critical component to upgrade for better performance?",
+        "a": "The capacitor is often the most critical component to upgrade, as it can significantly impact system stability and performance"
+      },
+      {
+        "q": "How often should I clean my retro console?",
+        "a": "It's recommended to clean your retro console every 6-12 months to prevent dust buildup and maintain optimal performance"
+      },
+      {
+        "q": "Can I use modern cleaning products on my retro console?",
+        "a": "No, it's not recommended to use modern cleaning products on your retro console, as they can damage the components or harm the system's integrity"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Consoles",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-11T14:05:13.363Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-snes-gems-field-test-10",
     "title": "\"hidden snes gems\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.",
