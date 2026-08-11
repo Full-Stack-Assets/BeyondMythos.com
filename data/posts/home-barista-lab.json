@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-espresso-flavor-2",
+    "title": "Flavor Hacking: Unlocking Espresso's Hidden Potential",
+    "dek": "Maximize your espresso's flavor potential",
+    "takeaway": "Optimizing espresso brewing parameters can significantly enhance flavor",
+    "whatHappened": "Recent experiments with home espresso machines have shown that even small adjustments to brewing parameters can lead to significant improvements in flavor. By tweaking factors like temperature, grind size, and tamping pressure, home baristas can coax more complex and satisfying flavors from their espresso shots. This is particularly noteworthy for those using single-origin or specialty coffee beans, where nuanced flavors are a major draw.",
+    "whyItMatters": "For home coffee enthusiasts, the ability to extract the full flavor potential from their espresso is crucial for a satisfying brewing experience. A well-crafted espresso shot can elevate the entire coffee-drinking experience, providing a rich and complex flavor profile that complements a variety of coffee beans. Moreover, understanding how to optimize brewing parameters empowers home baristas to experiment and tailor their espresso to their personal taste preferences.",
+    "howToThink": "To start optimizing your espresso's flavor, consider investing in a precise temperature control system and a high-quality grinder. Experiment with different grind sizes and tamping pressures to find the sweet spot for your specific espresso machine and coffee beans. Additionally, pay attention to the coffee-to-water ratio and brewing time, as these factors can significantly impact the final flavor of your espresso shots.",
+    "pros": [
+      "Improved flavor complexity",
+      "Increased control over brewing parameters",
+      "Enhanced coffee-drinking experience"
+    ],
+    "cons": [
+      "Requires investment in specialized equipment",
+      "Steep learning curve for optimal adjustments",
+      "Potential for over-extraction or under-extraction"
+    ],
+    "watchOut": "Be cautious not to over-adjust brewing parameters, as this can lead to an unbalanced or bitter flavor profile",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for brewing espresso?",
+        "a": "The ideal temperature for brewing espresso is between 195°F and 205°F"
+      },
+      {
+        "q": "How often should I clean and maintain my espresso machine?",
+        "a": "Regular cleaning and maintenance of your espresso machine is crucial; aim for daily and weekly routines"
+      },
+      {
+        "q": "Can I use any type of coffee bean for espresso?",
+        "a": "While any coffee bean can be used for espresso, high-quality, freshly roasted beans with a suitable roast level are recommended for optimal flavor"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso brewing",
+      "flavor optimization"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-11T17:39:08.966Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-24",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

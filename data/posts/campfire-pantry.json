@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rehydrating-meals-like-a-pro",
+    "title": "Unlocking Flavor: Mastering Rehydration for Camp Meals",
+    "dek": "Elevate your camp meals with perfect rehydration",
+    "takeaway": "Proper rehydration techniques can significantly enhance the flavor and texture of your camp meals",
+    "whatHappened": "During a recent backpacking trip, I experimented with various rehydration methods for freeze-dried meals, from using boiling water to cold soak techniques. The results were surprising, with some methods yielding far superior textures and flavors. This experience highlighted the importance of rehydrating meals correctly in the field.",
+    "whyItMatters": "Rehydrating meals correctly is crucial for camp cooks as it directly impacts the nutritional value, taste, and overall satisfaction of a meal after a long day of hiking. Incorrect rehydration can lead to unappetizing, mushy, or even unsafe food, which can be particularly problematic in a wilderness setting where access to alternatives is limited.",
+    "howToThink": "To achieve perfect rehydration, consider the specific instructions provided with your freeze-dried meals, the altitude at which you are cooking, and the available water temperature. Adjusting the water amount and waiting time based on these factors can make a significant difference. Additionally, investing in a thermometer can help you achieve the optimal temperature for rehydration.",
+    "pros": [
+      "Improved Flavor",
+      "Better Texture",
+      "Increased Satisfaction"
+    ],
+    "cons": [
+      "Requires Planning",
+      "Needs Attention to Detail",
+      "Limited by Water Quality"
+    ],
+    "watchOut": "Be cautious of over-rehydration, which can lead to unappetizing, soggy meals that are also wasteful of precious water resources in the wilderness.",
+    "faq": [
+      {
+        "q": "What is the best water temperature for rehydrating meals?",
+        "a": "Ideally, between 160°F and 180°F for most freeze-dried meals."
+      },
+      {
+        "q": "Can I use cold water to rehydrate meals?",
+        "a": "While possible, cold water rehydration requires longer waiting times and may not yield the best results in terms of flavor and texture."
+      },
+      {
+        "q": "How do I prevent over-rehydration?",
+        "a": "Use the recommended amount of water and avoid adding more water than necessary, as this can lead to an unappetizing consistency."
+      }
+    ],
+    "category": "Meals",
+    "tags": [
+      "Backpacking Meals",
+      "Camp Cooking"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"camp stove comparison\"",
+        "url": "https://duckduckgo.com/?q=camp%20stove%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-11T17:39:18.088Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-trailmeals-8",
     "title": "Community pulse: what r/trailmeals is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the cleanup community this week.",

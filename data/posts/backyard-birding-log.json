@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-your-feeder-for-winter",
+    "title": "Winter-Proofing Your Bird Feeder: Expert Tips",
+    "dek": "Get your feeder ready for winter",
+    "takeaway": "A well-maintained feeder is key to attracting birds during the cold months",
+    "whatHappened": "As winter approaches, many backyard birdwatchers notice a decline in feeder activity. This is often due to feeders being ill-equipped to handle the harsh weather conditions. By making a few simple adjustments, you can ensure your feeder remains a hub of activity throughout the season.",
+    "whyItMatters": "A functional feeder is crucial for supporting local bird populations during the winter, when natural food sources are scarce. By providing a reliable source of nutrition, you can help birds survive the cold months and even attract new species to your yard. This, in turn, can enhance your overall birdwatching experience",
+    "howToThink": "When preparing your feeder for winter, consider the types of birds you want to attract and the specific challenges they face during this time. Think about the types of food that will be most beneficial, as well as any necessary modifications to the feeder itself, such as adding a roof or windbreak",
+    "pros": [
+      "Increased bird activity",
+      "Enhanced winter viewing",
+      "Supports local bird populations"
+    ],
+    "cons": [
+      "Requires maintenance",
+      "May attract pests",
+      "Can be costly"
+    ],
+    "watchOut": "Be cautious not to overfill your feeder, as this can lead to mold and other issues",
+    "faq": [
+      {
+        "q": "What types of food are best for winter?",
+        "a": "High-energy foods like suet and peanuts are ideal for winter"
+      },
+      {
+        "q": "How often should I clean my feeder?",
+        "a": "Clean your feeder at least once a week, or more often in wet or snowy conditions"
+      },
+      {
+        "q": "Can I use a heated birdbath in winter?",
+        "a": "Yes, a heated birdbath can be a great addition to your winter birdwatching setup"
+      }
+    ],
+    "category": "Feeders",
+    "tags": [
+      "winter birding",
+      "feeder maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/whatsthisbird community threads",
+        "url": "https://www.reddit.com/r/whatsthisbird/"
+      },
+      {
+        "label": "Search interest: \"bird migration calendar\"",
+        "url": "https://duckduckgo.com/?q=bird%20migration%20calendar"
+      }
+    ],
+    "publishedAt": "2026-08-11T17:39:16.848Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "backyard-bird-feeder-setup-field-test-6",
     "title": "\"backyard bird feeder setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about backyard bird feeder setup through a month of actual use. Some of it survived.",
