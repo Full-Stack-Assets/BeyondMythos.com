@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-frame-rates",
+    "title": "Squeezing Extra Frames from Your Retro Console",
+    "dek": "Retro console frame rate boosters",
+    "takeaway": "Simple hardware tweaks can significantly improve your retro gaming experience",
+    "whatHappened": "Retro game enthusiasts have been experimenting with various hardware modifications to improve frame rates in classic consoles. These tweaks range from simple capacitor replacements to more complex circuit board modifications. The results have been impressive, with some consoles showing noticeable improvements in frame rate stability and overall performance.",
+    "whyItMatters": "For speedrunners, every frame counts, and a stable frame rate can mean the difference between a world record and a failed run. For collectors, these tweaks can help preserve the original gaming experience, making old games feel new again. Moreover, understanding hardware limitations can inform preservation efforts and inspire new indie games that leverage retro tech.",
+    "howToThink": "When considering hardware tweaks, it's essential to research thoroughly and understand the risks involved. Start with simple modifications and gradually move to more complex ones. It's also crucial to document your process and share your findings with the community to contribute to the collective knowledge base.",
+    "pros": [
+      "Improved frame rates",
+      "Enhanced gaming experience",
+      "Community driven"
+    ],
+    "cons": [
+      "Risk of console damage",
+      "Cost of components",
+      "Complexity of modifications"
+    ],
+    "watchOut": "Be cautious when handling electrical components to avoid damaging your console or causing injury",
+    "faq": [
+      {
+        "q": "What is the most common hardware tweak for retro consoles?",
+        "a": "Replacing capacitors with newer, high-quality ones"
+      },
+      {
+        "q": "Can I use modern hardware to improve frame rates in retro consoles?",
+        "a": "Yes, but it may require significant modifications and can be costly"
+      },
+      {
+        "q": "How do I know if a hardware tweak is safe for my console?",
+        "a": "Research the modification thoroughly and consult with experts in the community"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "FrameRate"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-11T09:39:47.305Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "custom-console-cases",
     "title": "Building a Better Console: Custom Cases for Retro Enthusiasts",
     "dek": "Upgrade your retro console with custom cases.",
