@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Community pulse: what r/pourover is debating this week</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-7.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-7.html</guid>
+      <pubDate>Tue, 11 Aug 2026 20:25:29 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-27.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-27.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/mastering-espresso-distribution-4.html</guid>
       <pubDate>Mon, 10 Aug 2026 06:55:22 GMT</pubDate>
       <description>Achieve balanced flavor with these expert tips.</description>
-    </item>
-    <item>
-      <title>The Tamping Technique Revisited: A Game Changer for Home Baristas</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-revisited.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-revisited.html</guid>
-      <pubDate>Mon, 10 Aug 2026 05:09:58 GMT</pubDate>
-      <description>Unlock perfect espresso with the right tamping technique.</description>
     </item>
   </channel>
 </rss>
