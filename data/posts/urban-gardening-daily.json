@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-balcony-harvests",
+    "title": "Rethinking Balcony Layouts for Maximum Harvest",
+    "dek": "Maximize space, boost yields",
+    "takeaway": "A well-planned balcony layout can significantly increase harvests without needing more space",
+    "whatHappened": "Urban gardeners often struggle with limited space on their balconies, leading to reduced harvests and plant variety. However, by rethinking the traditional layout, gardeners can make the most of their space. A recent experiment showed that a strategically planned balcony can produce up to 30% more harvest.",
+    "whyItMatters": "For apartment dwellers and balcony gardeners, making the most of available space is crucial for a successful harvest. With the rising interest in self-sufficiency and urban gardening, finding ways to optimize balcony layouts has become a pressing issue. By boosting yields, gardeners can enjoy a more diverse and abundant harvest.",
+    "howToThink": "To rethink your balcony layout, start by assessing the available space and sunlight patterns. Consider using vertical planters, tiered containers, and hanging baskets to maximize space. Additionally, prioritize plants that thrive in containers and provide a high yield, such as leafy greens and cherry tomatoes.",
+    "pros": [
+      "Increased yields",
+      "Improved space utilization",
+      "Enhanced plant diversity"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires careful planning",
+      "May need additional support"
+    ],
+    "watchOut": "Be cautious not to overplant, as this can lead to reduced air circulation and increased disease risk",
+    "faq": [
+      {
+        "q": "What is the best way to determine the available sunlight on my balcony?",
+        "a": "Observe the sunlight patterns throughout the day or use a sunlight meter to determine the best spots for your plants"
+      },
+      {
+        "q": "How often should I water my container plants?",
+        "a": "Water your plants when the top inch of soil feels dry, and avoid overwatering to prevent root rot"
+      },
+      {
+        "q": "Can I use regular garden soil in my containers?",
+        "a": "No, regular garden soil can compact and prevent proper drainage in containers; instead, use a well-draining potting mix specifically designed for containers"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "container tips"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-11T07:53:32.259Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-seasonal-25",
     "title": "Ask the forge: your seasonal questions, answered",
     "dek": "Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.",

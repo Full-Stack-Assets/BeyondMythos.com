@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Building a Better Console: Custom Cases for Retro Enthusiasts</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/custom-console-cases.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-console-cases.html</guid>
+      <pubDate>Tue, 11 Aug 2026 07:53:32 GMT</pubDate>
+      <description>Upgrade your retro console with custom cases.</description>
+    </item>
+    <item>
       <title>Burning Rubber on Classic Consoles</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance-2.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-17.html</guid>
       <pubDate>Sun, 09 Aug 2026 16:03:13 GMT</pubDate>
       <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-20.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-20.html</guid>
-      <pubDate>Sun, 09 Aug 2026 15:05:43 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "custom-console-cases",
+    "title": "Building a Better Console: Custom Cases for Retro Enthusiasts",
+    "dek": "Upgrade your retro console with custom cases.",
+    "takeaway": "Custom console cases can enhance both the aesthetic and durability of your retro gaming setup.",
+    "whatHappened": "Retro game collectors and speedrunners often find themselves limited by the original hardware's design. Custom cases have emerged as a solution, offering improved cooling, protection, and style. From 3D printed creations to bespoke wooden designs, the options are vast and creative.",
+    "whyItMatters": "The right custom case can significantly extend the life of your console, protect it from damage, and even improve performance by enhancing airflow. Moreover, it allows enthusiasts to personalize their gaming experience, reflecting their unique preferences and styles. This blend of form and function is a game-changer for those deeply invested in retro gaming.",
+    "howToThink": "When considering a custom case, think about your specific needs: do you need better cooling for marathon gaming sessions, or perhaps a more compact design for portable play? Researching community forums and DIY guides can provide valuable insights and inspiration. Always ensure that the case design prioritizes functionality and compatibility with your console's original components.",
+    "pros": [
+      "Improved durability",
+      "Enhanced aesthetics",
+      "Better cooling"
+    ],
+    "cons": [
+      "Cost",
+      "Complexity",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be cautious of designs that compromise the console's original ventilation system, as this can lead to overheating and damage.",
+    "faq": [
+      {
+        "q": "What materials are commonly used for custom console cases?",
+        "a": "Materials range from 3D printed plastics and metals to wood and carbon fiber, depending on the desired look and durability."
+      },
+      {
+        "q": "Can I make my own custom case?",
+        "a": "Yes, with some DIY knowledge and the right tools, you can design and build your own custom case, tailoring it to your needs and skills."
+      },
+      {
+        "q": "Will a custom case void my console's warranty?",
+        "a": "Generally, yes, modifying your console with a custom case will void its warranty, so it's a decision best made with consoles that are already out of warranty or heavily modified."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "GamingMods"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-11T07:53:32.631Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-retro-console-performance-2",
     "title": "Burning Rubber on Classic Consoles",
     "dek": "Turbocharge your retro gaming",

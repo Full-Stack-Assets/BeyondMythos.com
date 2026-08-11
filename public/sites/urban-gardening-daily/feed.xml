@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Rethinking Balcony Layouts for Maximum Harvest</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/boosting-balcony-harvests.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/boosting-balcony-harvests.html</guid>
+      <pubDate>Tue, 11 Aug 2026 07:53:32 GMT</pubDate>
+      <description>Maximize space, boost yields</description>
+    </item>
+    <item>
       <title>Ask the forge: your seasonal questions, answered</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-25.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-25.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/community-pulse-houseplants-4.html</guid>
       <pubDate>Sun, 09 Aug 2026 16:03:13 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.</description>
-    </item>
-    <item>
-      <title>The composting checklist: run this before you spend</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-25.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-25.html</guid>
-      <pubDate>Sun, 09 Aug 2026 15:05:44 GMT</pubDate>
-      <description>Seven questions that separate a justified composting purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
