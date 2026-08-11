@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Unlocking Frame Advantage: The Secret to Faster Speedruns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns-2.html</guid>
+      <pubDate>Tue, 11 Aug 2026 02:50:54 GMT</pubDate>
+      <description>Boost your speedrun performance with expert tips</description>
+    </item>
+    <item>
       <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-8.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-5.html</guid>
       <pubDate>Sun, 09 Aug 2026 13:36:01 GMT</pubDate>
       <description>Upgrade your retro gaming experience</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Gameboy is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-8.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-8.html</guid>
-      <pubDate>Sun, 09 Aug 2026 12:01:51 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

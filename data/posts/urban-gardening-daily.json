@@ -1,5 +1,56 @@
 [
   {
+    "slug": "apartment-gardening-hacks-3",
+    "title": "Maximizing Yield in Mini Spaces",
+    "dek": "Grow more with less space",
+    "takeaway": "Optimizing container size and layout is key to a successful apartment garden",
+    "whatHappened": "Recent studies have shown that strategically selecting container sizes and layouts can significantly increase yields in small gardening spaces. This approach allows for better soil quality, improved air circulation, and more efficient use of sunlight. By applying these principles, apartment gardeners can overcome common challenges such as limited space and poor soil quality.",
+    "whyItMatters": "For apartment dwellers, maximizing yield in small spaces is crucial for a sustainable and satisfying gardening experience. By optimizing container gardens, individuals can grow a wider variety of plants, enjoy fresher produce, and reduce their reliance on industrial agriculture. This, in turn, contributes to a healthier environment and a stronger sense of community among urban gardeners.",
+    "howToThink": "To get started, gardeners should assess their available space, considering factors such as sunlight, wind direction, and accessibility. They should then select containers that fit their space constraints while allowing for adequate root growth and air circulation. Finally, gardeners should choose a diverse range of plants that thrive in container gardens, such as herbs, leafy greens, and cherry tomatoes.",
+    "pros": [
+      "Increased yields",
+      "Improved soil quality",
+      "Enhanced air circulation"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Limited soil depth",
+      "Potential for overwatering"
+    ],
+    "watchOut": "Be cautious not to overwater, as this can lead to root rot and other problems in container gardens",
+    "faq": [
+      {
+        "q": "What is the ideal container size for a small apartment garden?",
+        "a": "The ideal container size depends on the specific plant variety, but a general rule of thumb is to use containers that are at least 5-7 gallons in size"
+      },
+      {
+        "q": "How often should I water my container garden?",
+        "a": "Watering frequency depends on factors such as climate, soil type, and plant variety, but a general rule of thumb is to water when the top 1-2 inches of soil feel dry to the touch"
+      },
+      {
+        "q": "Can I grow a variety of plants in a single container?",
+        "a": "Yes, many plants can be grown together in a single container, but it's essential to choose plants with similar growing requirements and space needs"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Container Gardening",
+      "Small Space"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-11T02:50:55.140Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-30",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",

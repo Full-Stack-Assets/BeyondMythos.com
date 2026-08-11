@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winterizing-your-hive",
+    "title": "Bee Prepared: Winterizing for Success",
+    "dek": "Protect your hive from harsh winter conditions",
+    "takeaway": "Proper winterization is crucial for the health and survival of your bee colony",
+    "whatHappened": "As winter approaches, backyard beekeepers must take steps to protect their hives from harsh conditions. Failing to do so can lead to colony loss and decreased honey production. A well-prepared hive can thrive during the winter months, setting the stage for a successful spring harvest.",
+    "whyItMatters": "A healthy and well-maintained hive is essential for the long-term success of your beekeeping operation. By taking the time to properly winterize your hive, you can ensure the survival of your colony and maximize your honey production. This, in turn, can lead to a more enjoyable and rewarding beekeeping experience.",
+    "howToThink": "To winterize your hive, start by inspecting for any signs of disease or pest infestation. Next, reduce the entrance to prevent cold air from entering and add insulation to regulate the internal temperature. Finally, ensure your bees have enough food stores to last the winter, and consider providing supplemental nutrition if necessary.",
+    "pros": [
+      "Increased colony survival",
+      "Improved honey production",
+      "Reduced disease risk"
+    ],
+    "cons": [
+      "Increased upfront costs",
+      "Additional time and labor required",
+      "Potential for over-insulation"
+    ],
+    "watchOut": "Be cautious not to over-insulate your hive, as this can lead to moisture buildup and increased disease risk",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for winterizing a hive?",
+        "a": "Between 35-40°F (2-4°C)"
+      },
+      {
+        "q": "How often should I inspect my hive during winter?",
+        "a": "Every 4-6 weeks"
+      },
+      {
+        "q": "Can I use plastic wrap to insulate my hive?",
+        "a": "No, use a breathable material like foam board or straw instead"
+      }
+    ],
+    "category": "Hives",
+    "tags": [
+      "bee health",
+      "hive maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/homestead community threads",
+        "url": "https://www.reddit.com/r/homestead/"
+      },
+      {
+        "label": "Search interest: \"first honey harvest\"",
+        "url": "https://duckduckgo.com/?q=first%20honey%20harvest"
+      }
+    ],
+    "publishedAt": "2026-08-11T02:50:57.380Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-harvest-33",
     "title": "Ask the forge: your harvest questions, answered",
     "dek": "Straight answers to the harvest questions backyard beekeepers keep asking, minus the hedging.",
