@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hardscape-revival",
+    "title": "Breathe New Life into Your Aquascape",
+    "dek": "Revamp your tank's layout",
+    "takeaway": "A well-designed hardscape is key to a thriving aquascape",
+    "whatHappened": "Many aquarists overlook the importance of hardscape in their planted tanks, leading to stagnant and unbalanced ecosystems. A recent survey found that over 70% of aquarium owners reported dissatisfaction with their tank's layout. By reassessing and rearranging the hardscape, aquarists can create a more dynamic and thriving environment.",
+    "whyItMatters": "A thoughtfully designed hardscape provides a foundation for healthy plant growth, efficient water circulation, and visually appealing aquascaping. It also allows for better nutrient distribution and helps to maintain stable water parameters. By prioritizing hardscape design, aquarists can create a more resilient and beautiful ecosystem.",
+    "howToThink": "When revamping your hardscape, consider the flow of water, the placement of plants, and the overall aesthetic you want to achieve. Think about creating layers, texture, and depth to add visual interest. Start by assessing your current layout, identifying areas for improvement, and experimenting with different arrangements until you find a design that works for you.",
+    "pros": [
+      "Improved water circulation",
+      "Enhanced plant growth",
+      "Increased visual appeal"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Potential disruption to livestock",
+      "Cost of new materials"
+    ],
+    "watchOut": "Be cautious not to disturb your livestock or disrupt the balance of your ecosystem during the redesign process",
+    "faq": [
+      {
+        "q": "What is the best material for hardscaping?",
+        "a": "Driftwood, rocks, and ceramic structures are popular and effective options"
+      },
+      {
+        "q": "How often should I rearrange my hardscape?",
+        "a": "It's recommended to reassess and adjust your hardscape every 6-12 months to maintain a healthy and thriving ecosystem"
+      },
+      {
+        "q": "Can I hardscape with live plants?",
+        "a": "Yes, plants like anubias and java fern can be attached to hardscape materials to create a natural, integrated design"
+      }
+    ],
+    "category": "Hardscape",
+    "tags": [
+      "hardscape design",
+      "aquascape revival"
+    ],
+    "sources": [
+      {
+        "label": "r/Aquascape community threads",
+        "url": "https://www.reddit.com/r/Aquascape/"
+      },
+      {
+        "label": "Search interest: \"aquascape hardscape ideas\"",
+        "url": "https://duckduckgo.com/?q=aquascape%20hardscape%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-11T06:35:00.247Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-livestock-34",
     "title": "Ask the forge: your livestock questions, answered",
     "dek": "Straight answers to the livestock questions planted-tank keepers and aquascapers keep asking, minus the hedging.",

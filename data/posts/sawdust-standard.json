@@ -1,5 +1,56 @@
 [
   {
+    "slug": "small-shop-sanders-2",
+    "title": "Benchtop Sanders: The Space-Saving Game Changer",
+    "dek": "Compact sander solutions for small woodshops",
+    "takeaway": "Benchtop sanders can revolutionize your small shop's productivity and efficiency",
+    "whatHappened": "Hobby woodworkers often face space constraints in their small shops, limiting their ability to work efficiently. Benchtop sanders have emerged as a solution, offering a compact alternative to larger, floor-standing models. These compact sanders can be easily integrated into existing workflows, streamlining the sanding process.",
+    "whyItMatters": "A well-chosen benchtop sander can significantly reduce the time and effort required for sanding, allowing woodworkers to focus on other critical tasks. By freeing up valuable floor space, these compact sanders also enable woodworkers to optimize their shop layouts, improving overall workflow and productivity. This, in turn, can lead to higher-quality projects and increased job satisfaction.",
+    "howToThink": "When selecting a benchtop sander, consider the specific needs of your shop, including the types of projects you typically work on and the available power supply. Look for models with adjustable speed settings and a robust dust collection system to minimize mess and maximize efficiency. Additionally, consider the sander's noise level and vibration, as these can impact your overall working experience.",
+    "pros": [
+      "Space-saving design",
+      "Increased productivity",
+      "Improved workflow"
+    ],
+    "cons": [
+      "Limited power",
+      "Noise and vibration",
+      "Higher cost"
+    ],
+    "watchOut": "Be cautious of cheaper models with subpar dust collection systems, as they can lead to a messy and unhealthy working environment",
+    "faq": [
+      {
+        "q": "What is the ideal size for a benchtop sander?",
+        "a": "The ideal size depends on your specific needs, but a 6-inch or 8-inch model is suitable for most small shops"
+      },
+      {
+        "q": "Can I use a benchtop sander for large projects?",
+        "a": "While possible, it may be less efficient; consider a larger, floor-standing model for extensive sanding tasks"
+      },
+      {
+        "q": "How do I maintain my benchtop sander?",
+        "a": "Regularly clean the dust collection system, check the sanding belt for wear, and lubricate moving parts to ensure optimal performance"
+      }
+    ],
+    "category": "Shop Setup",
+    "tags": [
+      "small shop",
+      "benchtop sander"
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "publishedAt": "2026-08-11T06:35:01.037Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-handtools-12",
     "title": "Community pulse: what r/handtools is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the shop setup community this week.",
