@@ -1,5 +1,56 @@
 [
   {
+    "slug": "off-peak-rail-discounts",
+    "title": "Cracking the Code on Off-Peak Rail Discounts",
+    "dek": "Save up to 50% on rail travel with off-peak discounts",
+    "takeaway": "Booking off-peak can significantly reduce your rail travel costs without sacrificing comfort or convenience",
+    "whatHappened": "Recently, we've seen a surge in rail operators offering discounts for off-peak travel, making it more accessible for slow travelers to explore new destinations without breaking the bank. Many of these discounts go unadvertised, requiring travelers to dig deep to find them. By understanding how and when to book, travelers can unlock significant savings.",
+    "whyItMatters": "For slow travelers, the ability to travel at a leisurely pace is crucial, but so is managing costs. Off-peak discounts can be a game-changer, allowing for more extended stays or additional trips within the same budget. It's about finding that balance between affordability and the freedom to explore.",
+    "howToThink": "To maximize savings, travelers should consider booking rail tickets well in advance and being flexible with their travel dates. Utilizing rail operator websites or apps can also provide direct access to unpublished discounts. Additionally, looking into rail passes for multi-destination travels can offer another layer of cost savings.",
+    "pros": [
+      "Substantial cost savings",
+      "Increased travel flexibility",
+      "Less crowded trains"
+    ],
+    "cons": [
+      "Less frequent departures",
+      "Potential for delays",
+      "Requires advance planning"
+    ],
+    "watchOut": "Always check the refund and change policies before booking off-peak tickets, as they can be more restrictive than standard fares",
+    "faq": [
+      {
+        "q": "What is off-peak travel?",
+        "a": "Off-peak travel refers to traveling during less busy times, usually outside of rush hour, holidays, or summer vacation periods."
+      },
+      {
+        "q": "How can I find off-peak rail discounts?",
+        "a": "Check the rail operator's website, use travel apps, or contact their customer service to inquire about available discounts."
+      },
+      {
+        "q": "Are off-peak tickets refundable?",
+        "a": "Refund policies vary by rail operator and type of ticket, so it's essential to review the terms before purchasing."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail Travel",
+      "Budget Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-11T19:44:51.261Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-29",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
