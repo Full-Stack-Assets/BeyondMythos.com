@@ -32,8 +32,12 @@ jobs:
         env:
           BEYONDMYTHOS_BACKEND_URL: ${{ vars.BEYONDMYTHOS_BACKEND_URL }}
         run: node scripts/build-pages-index.js
+      - name: Install portfolio analytics contract
+        env:
+          GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
+        run: node scripts/inject-pages-analytics.js public
       - name: Verify Pages tree
-        run: test -f public/index.html && test -f public/CNAME && test -d public/sites
+        run: test -f public/index.html && test -f public/CNAME && test -d public/sites && test -f public/portfolio-analytics.js
       - if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
       - if: github.event_name != 'pull_request'
