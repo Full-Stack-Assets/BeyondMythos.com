@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-23.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-23.html</guid>
+      <pubDate>Tue, 11 Aug 2026 10:32:19 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
+    </item>
+    <item>
       <title>Squeezing Extra Frames from Your Retro Console</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/boosting-frame-rates.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/boosting-frame-rates.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-20.html</guid>
       <pubDate>Sun, 09 Aug 2026 18:03:52 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>Retro Hardware Hacks: Unlocking Hidden Performance</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware.html</guid>
-      <pubDate>Sun, 09 Aug 2026 17:11:36 GMT</pubDate>
-      <description>Boost your retro console&apos;s performance</description>
     </item>
   </channel>
 </rss>
