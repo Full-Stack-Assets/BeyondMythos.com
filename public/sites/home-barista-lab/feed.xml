@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of pour-over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-23.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-23.html</guid>
+      <pubDate>Tue, 11 Aug 2026 18:34:26 GMT</pubDate>
+      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
+    </item>
+    <item>
       <title>Flavor Hacking: Unlocking Espresso&apos;s Hidden Potential</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/boosting-espresso-flavor-2.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/boosting-espresso-flavor-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-your-grinder-4.html</guid>
       <pubDate>Mon, 10 Aug 2026 02:58:14 GMT</pubDate>
       <description>Get the most out of your beans with a well-tuned grinder.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/espresso is debating this week</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-5.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-5.html</guid>
-      <pubDate>Mon, 10 Aug 2026 00:03:38 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
     </item>
   </channel>
 </rss>
