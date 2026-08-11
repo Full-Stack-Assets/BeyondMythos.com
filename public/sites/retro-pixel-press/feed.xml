@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of speedruns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-23.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-23.html</guid>
+      <pubDate>Tue, 11 Aug 2026 22:23:39 GMT</pubDate>
+      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>Pushing the Limits: A Beginner&apos;s Guide to Overclocking for Speed Demons</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/overclocking-101-for-speedrunners.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/overclocking-101-for-speedrunners.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-restoration.html</guid>
       <pubDate>Mon, 10 Aug 2026 10:46:58 GMT</pubDate>
       <description>Revive your retro consoles</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/snes is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-6.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-6.html</guid>
-      <pubDate>Mon, 10 Aug 2026 09:01:17 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>
