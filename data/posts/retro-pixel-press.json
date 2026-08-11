@@ -1,5 +1,56 @@
 [
   {
+    "slug": "custom-console-mods-for-speed",
+    "title": "Modding for Mastery: Custom Console Mods for Speedrunners",
+    "dek": "Boost your speedrunning with custom mods",
+    "takeaway": "Custom console mods can significantly improve speedrunning performance",
+    "whatHappened": "Recent advancements in modding have made it easier for speedrunners to customize their consoles for optimal performance. This includes modifications such as overclocking, button remapping, and improved latency reduction. As a result, speedrunners are now able to achieve faster completion times and more precise control.",
+    "whyItMatters": "Custom console mods matter because they can give speedrunners a competitive edge, allowing them to execute complex maneuvers with greater precision and accuracy. Moreover, mods can help to extend the lifespan of older consoles, making them more viable for speedrunning and retro gaming. This, in turn, can help to foster a more vibrant and inclusive speedrunning community.",
+    "howToThink": "When considering custom console mods, it's essential to think about your specific speedrunning needs and goals. Identify the most critical areas for improvement, such as input lag or processing power, and research mods that can address these issues. Additionally, be sure to follow proper installation and testing procedures to ensure that your mods are safe and effective.",
+    "pros": [
+      "Improved performance",
+      "Increased precision",
+      "Customizable"
+    ],
+    "cons": [
+      "Technical complexity",
+      "Cost",
+      "Potential risks"
+    ],
+    "watchOut": "Be cautious when installing mods to avoid damaging your console or voiding its warranty",
+    "faq": [
+      {
+        "q": "What is the most popular console mod for speedrunners?",
+        "a": "Overclocking mods are currently the most popular among speedrunners"
+      },
+      {
+        "q": "How do I install custom mods on my console?",
+        "a": "Installation procedures vary depending on the console and mod, but generally require technical expertise and specialized tools"
+      },
+      {
+        "q": "Can custom mods damage my console?",
+        "a": "Yes, if not installed correctly, mods can potentially damage your console or void its warranty"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Speedrunning",
+      "Console mods"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-11T11:28:57.730Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-23",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

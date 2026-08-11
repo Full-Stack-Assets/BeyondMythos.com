@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-15",
+    "title": "Brewing Up Savings: DIY Espresso Machine Maintenance",
+    "dek": "Save money by maintaining your gear",
+    "takeaway": "Regular maintenance can extend the life of your espresso machine and save you money in the long run",
+    "whatHappened": "Many home baristas overlook the importance of regular maintenance for their espresso machines, leading to decreased performance and a shorter lifespan. A well-maintained machine can brew countless shots, but neglect can result in costly repairs or even replacement. By dedicating a few minutes each week to maintenance, you can prevent common issues and keep your machine running smoothly",
+    "whyItMatters": "A poorly maintained espresso machine can lead to subpar coffee, increased energy consumption, and even safety hazards. Furthermore, regular maintenance can help prevent scale buildup, clogged ports, and other issues that can damage your machine. By staying on top of maintenance, you can ensure your machine continues to produce high-quality espresso and remains a valuable investment",
+    "howToThink": "To maintain your espresso machine, start by descaling it every 3-6 months, depending on usage. Clean the brew group and portafilter regularly, and check for worn-out seals or gaskets. Additionally, run a cleaning cycle through your machine periodically to remove any built-up residue and keep it running efficiently",
+    "pros": [
+      "Saves money",
+      "Extends machine lifespan",
+      "Improves coffee quality"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires some technical knowledge",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be careful not to over-descale your machine, as this can cause damage to the internal components",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What is the best way to clean my espresso machine's brew group?",
+        "a": "Use a soft brush and mild detergent to avoid damaging the components"
+      },
+      {
+        "q": "Can I use vinegar to clean my espresso machine?",
+        "a": "Yes, but be sure to rinse thoroughly to avoid any lingering taste or residue"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Machine",
+      "Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-11T11:28:57.533Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-26",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
