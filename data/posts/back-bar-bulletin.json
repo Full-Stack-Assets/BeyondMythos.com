@@ -1,5 +1,56 @@
 [
   {
+    "slug": "home-bartender-essentials",
+    "title": "Essential Glassware for the Home Bartender",
+    "dek": "Upgrade your bar with the right glasses",
+    "takeaway": "Investing in quality glassware elevates the cocktail experience",
+    "whatHappened": "Recently, a flood of new glassware options has hit the market, making it difficult for home bartenders to know what to choose. From coupe to highball, the variety of shapes and sizes can be overwhelming. However, having the right glasses can make a significant difference in the presentation and enjoyment of a cocktail.",
+    "whyItMatters": "The right glassware can enhance the aroma, flavor, and visual appeal of a cocktail, making it a crucial investment for any serious home bartender. Moreover, using the correct glassware can also affect the perception of a drink's temperature, texture, and overall quality. By choosing the right glasses, home bartenders can elevate their craft and provide a more professional experience for their guests.",
+    "howToThink": "When selecting glassware, consider the types of cocktails you most frequently make and the style you're aiming to achieve. Think about the shape, size, and material of the glass and how it will impact the drink's presentation and flavor. For example, a Nick and Nora glass is ideal for serving classic cocktails like the Sidecar or Daiquiri, while a highball glass is better suited for refreshing drinks like the Gin and Tonic.",
+    "pros": [
+      "Elevates the cocktail experience",
+      "Enhances presentation and flavor",
+      "Professional look and feel"
+    ],
+    "cons": [
+      "Higher cost",
+      "Storage and maintenance",
+      "Limited versatility"
+    ],
+    "watchOut": "Be cautious of low-quality glassware that may not withstand frequent use and washing",
+    "faq": [
+      {
+        "q": "What is the most essential glassware for a home bartender to have?",
+        "a": "A good starting point is to have a set of versatile glasses like the Old Fashioned, Nick and Nora, and highball glasses"
+      },
+      {
+        "q": "How do I care for my glassware?",
+        "a": "Wash glasses by hand with mild soap and dry them immediately to prevent water spots"
+      },
+      {
+        "q": "Can I use any type of glass for any cocktail?",
+        "a": "No, the shape and size of the glass can affect the flavor and presentation of the drink, so it's best to use the recommended glassware for each cocktail"
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "Glassware",
+      "HomeBar"
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "publishedAt": "2026-08-12T10:41:53.809Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-batching-35",
     "title": "Ask the forge: your batching questions, answered",
     "dek": "Straight answers to the batching questions home bartenders and cocktail hobbyists keep asking, minus the hedging.",

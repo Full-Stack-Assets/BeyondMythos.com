@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevating-espresso-with-temperature-control",
+    "title": "Tempering Expectations: How Temperature Control Can Revolutionize Your Espresso",
+    "dek": "Precise temperature control boosts espresso flavor",
+    "takeaway": "Temperature control is key to consistent, high-quality espresso shots",
+    "whatHappened": "Recently, advancements in temperature control technology have made it more accessible to home baristas, allowing for more precise control over brewing temperatures. This has led to a significant improvement in the quality and consistency of espresso shots. With the ability to adjust temperatures to within a degree, baristas can now tailor their brewing process to bring out the unique characteristics of each coffee bean.",
+    "whyItMatters": "Temperature plays a crucial role in the espresso brewing process, as it affects the extraction of flavors and oils from the coffee beans. Incorrect temperatures can result in under or over-extraction, leading to a subpar espresso experience. By having control over temperature, home baristas can ensure that their espresso is always of the highest quality, regardless of the type of coffee bean or roast level used.",
+    "howToThink": "When investing in temperature control equipment, consider the level of precision and adjustability it offers, as well as its ease of use and integration with your existing espresso setup. It's also essential to understand the optimal temperature ranges for espresso brewing and how to adjust them to suit your personal taste preferences. By doing so, you'll be able to elevate your espresso game and enjoy a more satisfying coffee experience.",
+    "pros": [
+      "Improved flavor consistency",
+      "Increased control over brewing process",
+      "Enhanced espresso quality"
+    ],
+    "cons": [
+      "Higher equipment cost",
+      "Steeper learning curve",
+      "Potential for overheating"
+    ],
+    "watchOut": "Be cautious not to over-adjust temperatures, as this can lead to equipment damage or inconsistent results",
+    "faq": [
+      {
+        "q": "What is the ideal temperature range for espresso brewing?",
+        "a": "The ideal temperature range for espresso brewing is between 195°F and 205°F"
+      },
+      {
+        "q": "Can I use temperature control with any type of espresso machine?",
+        "a": "No, temperature control is typically compatible with semi-automatic and automatic espresso machines, but not with manual or stovetop models"
+      },
+      {
+        "q": "How often should I calibrate my temperature control equipment?",
+        "a": "It's recommended to calibrate your temperature control equipment every 1-3 months to ensure accuracy and consistency"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Temperature Control"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-12T10:41:47.514Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-coffee-6",
     "title": "Community pulse: what r/Coffee is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

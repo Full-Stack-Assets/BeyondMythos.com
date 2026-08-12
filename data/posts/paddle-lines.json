@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddle-blade-maintenance",
+    "title": "Sharp Blades, Safe Paddles: The Importance of Maintenance",
+    "dek": "Keep your paddle in top shape",
+    "takeaway": "Regular paddle maintenance is crucial for safe and efficient kayaking",
+    "whatHappened": "A worn-out paddle blade can lead to poor performance, increased fatigue, and even accidents. Many paddlers overlook the importance of regular maintenance, focusing on other aspects of their kayaking experience. However, a well-maintained paddle can make all the difference in a paddler's safety and enjoyment.",
+    "whyItMatters": "A sharp and well-maintained paddle blade can improve your kayaking experience by reducing fatigue, increasing speed, and enhancing overall control. Neglecting paddle maintenance can lead to a range of problems, from decreased performance to increased risk of injury. By prioritizing paddle maintenance, paddlers can ensure a safer and more enjoyable experience on the water.",
+    "howToThink": "To maintain your paddle, start by inspecting the blades for signs of wear, such as cracks, dents, or erosion. Next, clean the paddle thoroughly with a mild soap and water, and apply a protective coating to prevent damage from the elements. Finally, store your paddle in a dry, secure location to prevent accidental damage or loss.",
+    "pros": [
+      "Improved performance",
+      "Increased safety",
+      "Enhanced durability"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires specialized tools",
+      "Can be costly"
+    ],
+    "watchOut": " Failure to maintain your paddle can lead to equipment failure and accidents",
+    "faq": [
+      {
+        "q": "How often should I maintain my paddle?",
+        "a": "Regular maintenance is recommended after every 10-15 uses"
+      },
+      {
+        "q": "What are the most common signs of paddle wear?",
+        "a": "Cracks, dents, and erosion are common signs of paddle wear"
+      },
+      {
+        "q": "Can I maintain my paddle myself?",
+        "a": "Yes, many paddlers can maintain their paddles themselves with the right tools and knowledge"
+      }
+    ],
+    "category": "Boats",
+    "tags": [
+      "kayak gear",
+      "paddle maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/canoeing community threads",
+        "url": "https://www.reddit.com/r/canoeing/"
+      },
+      {
+        "label": "Search interest: \"best day paddle trips\"",
+        "url": "https://duckduckgo.com/?q=best%20day%20paddle%20trips"
+      }
+    ],
+    "publishedAt": "2026-08-12T10:41:53.100Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-paddling-11",
     "title": "Community pulse: what r/paddling is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the storage community this week.",
