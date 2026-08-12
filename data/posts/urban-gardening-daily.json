@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-care-3",
+    "title": "How to Keep Your Herbs Alive Through the Winter",
+    "dek": "Protect your herb garden from the cold.",
+    "takeaway": "With proper care, your herbs can thrive even in the dead of winter.",
+    "whatHappened": "As the temperatures drop, many apartment dwellers and balcony gardeners worry about the fate of their herb gardens. Herbs like basil and mint are sensitive to frost and can quickly wither away if not protected. However, with the right techniques, you can keep your herbs healthy and thriving throughout the winter months.",
+    "whyItMatters": "Having a year-round herb garden can be a game-changer for home cooks, providing fresh flavors and aromas even in the depths of winter. Moreover, nurturing your herbs through the cold season can be a rewarding experience, allowing you to connect with nature and enjoy the therapeutic benefits of gardening. By taking the right steps, you can ensure a bountiful harvest of fresh herbs all year round.",
+    "howToThink": "To keep your herbs alive through the winter, start by bringing potted plants indoors or moving them to a protected area like a greenhouse or sunroom. Use grow lights to supplement the limited natural light, and maintain a consistent temperature between 60-70°F. You can also consider using a cold frame or hoop house to extend the growing season.",
+    "pros": [
+      "Year-round fresh herbs",
+      "Improved air quality",
+      "Mental health benefits"
+    ],
+    "cons": [
+      "Limited natural light",
+      "Higher energy costs",
+      "Space constraints"
+    ],
+    "watchOut": "Be cautious not to overwater your herbs during the winter months, as this can lead to root rot and other problems.",
+    "faq": [
+      {
+        "q": "What herbs are most sensitive to frost?",
+        "a": "Basil, mint, and lemongrass are among the most sensitive to frost."
+      },
+      {
+        "q": "How often should I water my herbs in winter?",
+        "a": "Water your herbs sparingly, allowing the soil to dry slightly between waterings."
+      },
+      {
+        "q": "Can I still harvest herbs in the winter?",
+        "a": "Yes, you can still harvest herbs in the winter, but be sure to do so gently to avoid damaging the plants."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "winter gardening",
+      "herb care"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-12T08:50:55.254Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-30",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

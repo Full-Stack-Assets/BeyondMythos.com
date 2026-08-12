@@ -1,5 +1,56 @@
 [
   {
+    "slug": "local-motion-detection",
+    "title": "Maximizing Motion Detection for Local Control",
+    "dek": "Boost security with smart motion detection",
+    "takeaway": "Optimize motion detection for a more secure and automated smart home",
+    "whatHappened": "Recent advancements in motion detection technology have made it easier for smart-home tinkerers to enhance their local control systems. With the rise of privacy-minded automators, the demand for secure and reliable motion detection has increased. By leveraging machine learning algorithms and advanced sensor technology, users can now create more sophisticated motion detection systems.",
+    "whyItMatters": "Effective motion detection is crucial for a secure and automated smart home, as it enables users to receive timely alerts and trigger specific actions. This technology also helps reduce false positives and minimizes unnecessary notifications. By investing in a reliable motion detection system, users can enjoy a more seamless and private smart home experience.",
+    "howToThink": "When implementing motion detection, it's essential to consider factors such as sensor placement, sensitivity adjustments, and integration with other smart devices. Users should also prioritize local control and avoid cloud-based solutions to maintain their privacy. By taking a thoughtful and strategic approach, users can maximize the benefits of motion detection and create a more secure and automated smart home.",
+    "pros": [
+      "Enhanced security",
+      "Increased automation",
+      "Improved privacy"
+    ],
+    "cons": [
+      "False positives",
+      "Sensor interference",
+      "High upfront costs"
+    ],
+    "watchOut": "Be cautious of motion detection systems that rely on cloud-based processing, as they may compromise your privacy and security",
+    "faq": [
+      {
+        "q": "What is the best type of motion sensor for local control?",
+        "a": "Passive infrared (PIR) sensors are a popular choice for local control due to their high accuracy and low power consumption"
+      },
+      {
+        "q": "How can I reduce false positives in my motion detection system?",
+        "a": "Adjusting sensor sensitivity, using machine learning algorithms, and implementing noise filtering can help minimize false positives"
+      },
+      {
+        "q": "Can I integrate motion detection with other smart devices?",
+        "a": "Yes, many motion detection systems can be integrated with devices such as smart lights, security cameras, and door locks to create a more comprehensive smart home ecosystem"
+      }
+    ],
+    "category": "Sensors",
+    "tags": [
+      "smart sensors",
+      "local control"
+    ],
+    "sources": [
+      {
+        "label": "r/homeautomation community threads",
+        "url": "https://www.reddit.com/r/homeautomation/"
+      },
+      {
+        "label": "Search interest: \"smart lighting setup\"",
+        "url": "https://duckduckgo.com/?q=smart%20lighting%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-12T08:51:01.772Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "local-smart-home-no-cloud-field-test-12",
     "title": "\"local smart home no cloud\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about local smart home no cloud through a month of actual use. Some of it survived.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smarter-warm-ups-2",
+    "title": "Warm Up Like a Pro: The Ultimate Guide for New Climbers",
+    "dek": "Improve your climb with a better warm-up",
+    "takeaway": "A well-structured warm-up can boost your climbing performance and reduce injury risk",
+    "whatHappened": "Many new climbers rush into their climbing sessions without a proper warm-up, which can lead to poor performance and increased risk of injury. A good warm-up should include light cardio, mobility exercises, and dynamic stretching. By incorporating these elements, climbers can prepare their muscles for the physical demands of climbing.",
+    "whyItMatters": "A proper warm-up is essential for indoor boulderers and new climbers as it helps prevent injuries, improves flexibility, and enhances overall climbing performance. It also prepares the mind for the physical and mental challenges of climbing. By prioritizing warm-ups, climbers can set themselves up for success and make the most of their training sessions.",
+    "howToThink": "When designing a warm-up routine, consider your specific climbing goals and needs. Focus on exercises that target key muscle groups used in climbing, such as the fingers, shoulders, and core. Be sure to also incorporate mental preparation techniques, such as visualization and breathing exercises, to get your mind ready for the climb.",
+    "pros": [
+      "Improved flexibility",
+      "Reduced injury risk",
+      "Enhanced performance"
+    ],
+    "cons": [
+      "Time-consuming",
+      "May feel tedious",
+      "Requires discipline"
+    ],
+    "watchOut": "Be careful not to overdo it with your warm-up, as excessive exercise can lead to fatigue and decreased performance",
+    "faq": [
+      {
+        "q": "How long should my warm-up be?",
+        "a": "Aim for 15-30 minutes, depending on your climbing intensity and goals"
+      },
+      {
+        "q": "What types of exercises should I include?",
+        "a": "Focus on light cardio, mobility exercises, and dynamic stretching"
+      },
+      {
+        "q": "Can I use my warm-up as a cool-down?",
+        "a": "While some exercises may overlap, it's best to design separate warm-up and cool-down routines to meet specific needs"
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "climbing tips",
+      "training advice"
+    ],
+    "sources": [
+      {
+        "label": "r/bouldering community threads",
+        "url": "https://www.reddit.com/r/bouldering/"
+      },
+      {
+        "label": "Search interest: \"bouldering technique for beginners\"",
+        "url": "https://duckduckgo.com/?q=bouldering%20technique%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-12T08:51:00.749Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-technique-34",
     "title": "A weekend project: level up your technique in two hours",
     "dek": "One contained, satisfying technique project for indoor boulderers — start Saturday morning, done by lunch.",

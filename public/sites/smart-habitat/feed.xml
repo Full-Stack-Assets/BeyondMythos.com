@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Maximizing Motion Detection for Local Control</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/local-motion-detection.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/local-motion-detection.html</guid>
+      <pubDate>Wed, 12 Aug 2026 08:51:01 GMT</pubDate>
+      <description>Boost security with smart motion detection</description>
+    </item>
+    <item>
       <title>&quot;local smart home no cloud&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/local-smart-home-no-cloud-field-test-12.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/local-smart-home-no-cloud-field-test-12.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/privacy-preserving-local-control.html</guid>
       <pubDate>Mon, 10 Aug 2026 18:32:05 GMT</pubDate>
       <description>Secure your smart home with these local control tips</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/homeautomation is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeautomation-11.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeautomation-11.html</guid>
-      <pubDate>Mon, 10 Aug 2026 17:34:42 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the lighting community this week.</description>
     </item>
   </channel>
 </rss>
