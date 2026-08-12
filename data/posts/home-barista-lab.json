@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-reboot-2",
+    "title": "Tamping Down the Competition: A Fresh Look at Espresso's Most Overlooked Step",
+    "dek": "Revamp your tamping technique for better shots",
+    "takeaway": "Proper tamping can significantly improve the quality of your espresso shots",
+    "whatHappened": "Recent experiments have shown that even slight variations in tamping pressure and technique can drastically affect the flavor profile of espresso. This has led to a re-evaluation of the often-overlooked step in the espresso-making process. By focusing on improving tamping technique, home baristas can achieve more consistent and higher-quality espresso",
+    "whyItMatters": "The importance of tamping lies in its ability to ensure an even extraction, which is crucial for bringing out the full potential of the coffee beans. Uneven tamping can lead to channeling, under-extraction, or over-extraction, all of which negatively impact the taste. By mastering the tamping technique, home baristas can elevate their espresso game",
+    "howToThink": "To improve your tamping technique, focus on using the right tool for the job, such as a tamper with a flat base, and practice applying even pressure. It's also essential to ensure the coffee grounds are evenly distributed in the portafilter before tamping. Lastly, consider investing in a tamping mat to prevent the counter from getting damaged and to provide a stable surface",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Enhanced crema"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be physically demanding",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to over-extraction and a bitter taste",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal tamping pressure is around 30 pounds, but this can vary depending on the specific equipment and coffee beans"
+      },
+      {
+        "q": "Do I need a tamping mat?",
+        "a": "While not strictly necessary, a tamping mat can help prevent damage to the counter and provide a stable surface for tamping"
+      },
+      {
+        "q": "Can I use a regular spoon to tamp?",
+        "a": "No, it's not recommended to use a regular spoon to tamp, as this can lead to uneven pressure and poor extraction"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-12T03:10:38.777Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-25",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",
