@@ -1,5 +1,56 @@
 [
   {
+    "slug": "self-watering-containers-6",
+    "title": "Ditch the Daily Watering grind",
+    "dek": "Water less, harvest more",
+    "takeaway": "Self-watering containers can boost yields by up to 30% with minimal watering",
+    "whatHappened": "Apartment dwellers often struggle to keep their balcony gardens watered, with busy schedules and limited time. Self-watering containers have emerged as a game-changer, allowing plants to thrive with minimal maintenance. These innovative containers have built-in water reservoirs that supply plants with water as needed.",
+    "whyItMatters": "For balcony gardeners, self-watering containers mean reduced water waste, healthier plants, and more free time. This technology is especially crucial during hot summer months when plants require consistent hydration. By adopting self-watering containers, gardeners can enjoy a more sustainable and low-maintenance gardening experience.",
+    "howToThink": "When selecting self-watering containers, consider the size of your plants, the climate you're in, and the type of soil you're using. Look for containers with built-in water indicators to monitor moisture levels. Start with a small investment and scale up as you gain experience with these innovative containers.",
+    "pros": [
+      "Increased yields",
+      "Reduced water waste",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Limited container sizes",
+      "May require occasional cleaning"
+    ],
+    "watchOut": "Be cautious of overwatering, as self-watering containers can still be prone to waterlogged soil if not monitored properly",
+    "faq": [
+      {
+        "q": "How often should I refill the water reservoir?",
+        "a": "Refill the reservoir when the water level indicator shows low levels, usually every 2-3 days"
+      },
+      {
+        "q": "Can I use self-watering containers for all plant types?",
+        "a": "Most plants can thrive in self-watering containers, but some plants like cacti and succulents may require less frequent watering"
+      },
+      {
+        "q": "Do self-watering containers attract pests?",
+        "a": "Self-watering containers are designed to minimize moisture on the surface, reducing the likelihood of pest attraction"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "container gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-12T21:27:22.507Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "maximizing-container-space",
     "title": "Bigger Yields, Smaller Footprint",
     "dek": "Maximize space, boost yields",
