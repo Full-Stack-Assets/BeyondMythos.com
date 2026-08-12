@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-rail-cards-11",
+    "title": "Revolutionizing Rail Travel with Smart Passes",
+    "dek": "Maximize rail travel with smart passes.",
+    "takeaway": "Investing in a rail card can save you hundreds on long trips.",
+    "whatHappened": "Recently, several countries have introduced new rail passes designed for flexible, spontaneous travel. These passes offer significant discounts for frequent travelers. For instance, a single pass can grant access to multiple train routes across Europe.",
+    "whyItMatters": "The introduction of smart rail passes matters because it aligns with the growing demand for sustainable, low-impact travel options. By reducing the need for individual tickets and minimizing travel planning time, these passes promote a more carefree, environmentally friendly way to explore new destinations. Moreover, they often include perks like free travel for companions or discounts on local attractions.",
+    "howToThink": "When considering a rail pass, think about your overall travel plans and not just the immediate cost. Calculate the total distance you plan to travel and compare it with the cost of individual tickets versus the pass. Also, consider the flexibility you need—some passes offer more freedom to change plans than others. Lastly, look into any additional benefits the pass might provide, such as travel insurance or access to airport lounges.",
+    "pros": [
+      "Cost-effective",
+      "Convenient",
+      "Flexibility"
+    ],
+    "cons": [
+      "Initial cost",
+      "Limited routes",
+      "Restrictions"
+    ],
+    "watchOut": "Be cautious of the pass's validity period and any blackout dates that might affect your travel plans.",
+    "faq": [
+      {
+        "q": "What is a rail card?",
+        "a": "A rail card is a type of pass that grants access to train travel across specific routes or countries."
+      },
+      {
+        "q": "How do I choose the right pass?",
+        "a": "Choose a pass based on your travel itinerary, considering the routes you plan to use most frequently."
+      },
+      {
+        "q": "Can I share my rail pass?",
+        "a": "Most rail passes are non-transferable, but some offer free or discounted travel for companions or family members."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "RailTravel",
+      "SustainableTourism"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-12T19:46:45.977Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-solotravel-11",
     "title": "Community pulse: what r/solotravel is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",

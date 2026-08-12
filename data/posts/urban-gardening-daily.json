@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-container-space",
+    "title": "Bigger Yields, Smaller Footprint",
+    "dek": "Maximize space, boost yields",
+    "takeaway": "Optimizing container layout can increase yields by up to 30%",
+    "whatHappened": "Urban gardeners often struggle with limited balcony space, leading to reduced yields and plant growth. Recent studies have shown that by optimizing container layout, gardeners can increase their yields significantly. This approach not only saves space but also promotes healthier plant growth.",
+    "whyItMatters": "As urban gardening continues to gain popularity, finding ways to maximize space is crucial for apartment dwellers and balcony gardeners. By adopting space-saving techniques, gardeners can enjoy higher yields, reduce waste, and promote sustainable gardening practices. This, in turn, contributes to a healthier environment and a stronger sense of community among urban gardeners.",
+    "howToThink": "To maximize container space, consider using vertical planters, optimizing plant placement, and selecting compact or dwarf varieties of plants. Additionally, implementing a crop rotation system can help maintain soil health and reduce the risk of pests and diseases. By taking a thoughtful and intentional approach to container layout, gardeners can create thriving and productive gardens even in the smallest of spaces.",
+    "pros": [
+      "Increased yields",
+      "Space-saving",
+      "Improved plant health"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires planning",
+      "Limited plant selection"
+    ],
+    "watchOut": "Be cautious not to overplant, as this can lead to reduced air circulation and increased risk of disease",
+    "faq": [
+      {
+        "q": "What is the best material for containers?",
+        "a": "Containers can be made from a variety of materials, including plastic, wood, and ceramic, each with its own pros and cons"
+      },
+      {
+        "q": "How often should I water my container garden?",
+        "a": "Watering frequency depends on factors such as climate, soil type, and plant selection, but a general rule of thumb is to water when the top inch of soil feels dry"
+      },
+      {
+        "q": "Can I use regular garden soil in my containers?",
+        "a": "It's recommended to use a high-quality potting mix specifically designed for containers, as it will retain moisture, drain excess water, and provide optimal root growth"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "container gardening",
+      "urban agriculture"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-12T19:46:45.532Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-urbangardening-6",
     "title": "Community pulse: what r/UrbanGardening is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",

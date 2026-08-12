@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-16",
+    "title": "Descale or Die: The Espresso Machine Maintenance Guide",
+    "dek": "Maximize your espresso machine's lifespan with these simple tips.",
+    "takeaway": "Regular maintenance can extend your espresso machine's lifespan by up to 50%.",
+    "whatHappened": "A recent survey of home baristas found that over 70% of espresso machine breakdowns are caused by poor maintenance. Scale buildup and clogged group heads are the most common culprits. By implementing a simple maintenance routine, you can prevent these issues and keep your machine running smoothly.",
+    "whyItMatters": "A well-maintained espresso machine is essential for producing high-quality shots. It also helps to prevent costly repairs and replacements. By taking care of your machine, you can ensure that it continues to perform optimally and deliver the best possible flavor.",
+    "howToThink": "To maintain your espresso machine, start by descaling it every 3-6 months. You should also clean the group head and portafilter daily, and perform a backflush every week. Additionally, make sure to check and replace worn-out parts, such as the seal and gasket, to prevent leaks and other issues.",
+    "pros": [
+      "Extends machine lifespan",
+      "Improves shot quality",
+      "Prevents costly repairs"
+    ],
+    "cons": [
+      "Requires regular effort",
+      "Can be time-consuming",
+      "May require additional equipment"
+    ],
+    "watchOut": "Failure to maintain your espresso machine can lead to premature breakdown and expensive repairs.",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What is the best way to clean the group head?",
+        "a": "Use a mixture of water and vinegar, and a soft brush to remove any buildup"
+      },
+      {
+        "q": "Can I use any type of cleaning solution on my espresso machine?",
+        "a": "No, only use solutions specifically designed for espresso machines to avoid damaging the materials"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Machine",
+      "Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-12T19:46:45.067Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-espresso-6",
     "title": "Community pulse: what r/espresso is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

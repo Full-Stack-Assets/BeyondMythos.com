@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;hidden snes gems&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-11.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-11.html</guid>
+      <pubDate>Wed, 12 Aug 2026 19:46:43 GMT</pubDate>
+      <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-23.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-23.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance-2.html</guid>
       <pubDate>Tue, 11 Aug 2026 06:34:56 GMT</pubDate>
       <description>Turbocharge your retro gaming</description>
-    </item>
-    <item>
-      <title>Turbocharging Your Vintage Consoles</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance.html</guid>
-      <pubDate>Tue, 11 Aug 2026 04:53:07 GMT</pubDate>
-      <description>Boost your retro console&apos;s speed</description>
     </item>
   </channel>
 </rss>
