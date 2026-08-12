@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-travel-benefits",
+    "title": "Slow Train Travel: The Unsung Hero of Sustainable Tourism",
+    "dek": "Ditch the plane for a more relaxed ride",
+    "takeaway": "Slow train travel offers a unique blend of scenic views, cultural immersion, and environmental sustainability",
+    "whatHappened": "The rise of fast travel has led to a decline in traditional train routes, but slow train travel is experiencing a resurgence in popularity. Many travelers are now seeking out scenic routes and unique cultural experiences. From the Rocky Mountaineer to the Trans-Siberian Railway, slow trains are redefining the way we travel",
+    "whyItMatters": "Slow train travel allows passengers to connect with local communities, reduce their carbon footprint, and experience the passing landscape in a way that's not possible with air travel. It also promotes cultural exchange and supports local economies. By choosing slow train travel, travelers can make a positive impact on the environment and local communities",
+    "howToThink": "When planning a slow train journey, consider the route, scenery, and cultural experiences on offer. Research local customs, try local cuisine, and engage with fellow passengers to get the most out of your trip. Be flexible, patient, and open-minded, and you'll be rewarded with a unique and unforgettable travel experience",
+    "pros": [
+      "Scenic routes",
+      "Cultural immersion",
+      "Sustainability"
+    ],
+    "cons": [
+      "Limited routes",
+      "Longer travel times",
+      "Variable comfort"
+    ],
+    "watchOut": "Be prepared for delays or changes in schedules, and research any necessary visas or travel documents before embarking on your journey",
+    "faq": [
+      {
+        "q": "What is slow train travel?",
+        "a": "A type of travel that prioritizes scenic routes, cultural experiences, and sustainability over speed"
+      },
+      {
+        "q": "Is slow train travel expensive?",
+        "a": "Not always - many routes offer affordable options, and the experience can be well worth the cost"
+      },
+      {
+        "q": "Can I bring my luggage on a slow train?",
+        "a": "Yes, but check with the railway company for any restrictions or requirements"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Sustainable travel",
+      "Train journeys"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-12T12:31:16.730Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-train-travel-europe-tips-10",
     "title": "Myth vs. reality: train travel europe tips",
     "dek": "The persistent myths around train travel europe tips, stress-tested against what slow-travel and low-impact explorers actually report.",
