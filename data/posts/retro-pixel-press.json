@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-repair-101-3",
+    "title": "Fix It Like You Mean It: Essential Tools for Retro Console Repair",
+    "dek": "Revive your retro consoles with these DIY fixes",
+    "takeaway": "With the right tools and a bit of practice, you can breathe new life into your vintage gaming rigs",
+    "whatHappened": "Retro console owners often face common issues like faulty controllers, corroded pins, and overheating. These problems can render your beloved systems useless, forcing you to seek out expensive repairs or replacements. However, with a few essential tools and some basic know-how, you can tackle many of these issues yourself.",
+    "whyItMatters": "DIY repair not only saves you money but also helps preserve the longevity of your retro consoles, ensuring they continue to function for years to come. Moreover, learning to repair your own hardware can foster a deeper appreciation for the engineering and design that went into these classic systems. By taking matters into your own hands, you can also avoid the risks associated with sending your consoles to third-party repair services.",
+    "howToThink": "When approaching a repair, start by identifying the root cause of the issue and gather the necessary tools and replacement parts. Consult online forums, repair guides, and YouTube tutorials to learn the specific techniques and best practices for your console model. Remember to handle components with care, as they can be fragile and sensitive to static electricity.",
+    "pros": [
+      "Cost-effective",
+      "Improved longevity",
+      "Increased self-sufficiency"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Risk of damage",
+      "Time-consuming"
+    ],
+    "watchOut": "Be cautious when handling electrical components to avoid damaging your console or injuring yourself",
+    "faq": [
+      {
+        "q": "What are the most common tools needed for retro console repair?",
+        "a": "Soldering iron, desoldering wick, and a multimeter"
+      },
+      {
+        "q": "How do I prevent static electricity from damaging my console's components?",
+        "a": "Use an anti-static strap and work on a grounded surface"
+      },
+      {
+        "q": "Where can I find repair guides and tutorials for my specific console model?",
+        "a": "Online forums, YouTube, and dedicated retro gaming communities"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "DIYRepair"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-12T00:42:09.435Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-25",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",

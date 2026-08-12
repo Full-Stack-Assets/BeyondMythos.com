@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Fix It Like You Mean It: Essential Tools for Retro Console Repair</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-3.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-3.html</guid>
+      <pubDate>Wed, 12 Aug 2026 00:42:09 GMT</pubDate>
+      <description>Revive your retro consoles with these DIY fixes</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-25.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-25.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-to-former-glory.html</guid>
       <pubDate>Mon, 10 Aug 2026 14:05:15 GMT</pubDate>
       <description>Breathe new life into your vintage NES.</description>
-    </item>
-    <item>
-      <title>Mod Your Way to Retro Gaming Glory</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-6.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-6.html</guid>
-      <pubDate>Mon, 10 Aug 2026 12:30:40 GMT</pubDate>
-      <description>Upgrade your retro console with ease</description>
     </item>
   </channel>
 </rss>
