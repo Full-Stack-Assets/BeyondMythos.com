@@ -5,6 +5,13 @@
     <link>https://storeforge-budget-build-bench.vercel.app/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>Myth vs. reality: 1440p value build</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/myth-vs-reality-1440p-value-build-12.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/myth-vs-reality-1440p-value-build-12.html</guid>
+      <pubDate>Wed, 12 Aug 2026 15:37:05 GMT</pubDate>
+      <description>The persistent myths around 1440p value build, stress-tested against what PC builders on a budget actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your gpus in two hours</title>
       <link>https://storeforge-budget-build-bench.vercel.app/posts/weekend-project-gpus-38.html</link>
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/weekend-project-gpus-38.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/best-budget-gpu-2026-field-test-12.html</guid>
       <pubDate>Mon, 10 Aug 2026 23:17:16 GMT</pubDate>
       <description>We put the most-repeated advice about best budget gpu 2026 through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your benchmarks questions, answered</title>
-      <link>https://storeforge-budget-build-bench.vercel.app/posts/ask-the-forge-benchmarks-35.html</link>
-      <guid>https://storeforge-budget-build-bench.vercel.app/posts/ask-the-forge-benchmarks-35.html</guid>
-      <pubDate>Mon, 10 Aug 2026 22:18:53 GMT</pubDate>
-      <description>Straight answers to the benchmarks questions PC builders on a budget keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>
