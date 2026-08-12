@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-coffee-flavor-4",
+    "title": "Unlocking Hidden Flavors: A Deep Dive into Coffee Bloom",
+    "dek": "Boost flavor with a simple tweak",
+    "takeaway": "Pre-infusing your coffee grounds can significantly enhance the flavor of your pour-over",
+    "whatHappened": "Recently, coffee enthusiasts have been experimenting with the concept of coffee bloom, where a small amount of water is used to pre-infuse the grounds before the full pour. This technique has gained traction due to its ability to bring out unique flavors in the coffee. By allowing the coffee to bloom, the gases that are trapped within the beans are released, resulting in a more balanced and nuanced taste.",
+    "whyItMatters": "The coffee bloom process is crucial because it sets the stage for the rest of the brewing process. By pre-infusing the grounds, the coffee is able to release its CO2, which can lead to a more even extraction. This, in turn, can bring out the full range of flavors that the coffee has to offer, from fruity notes to chocolatey undertones. As a result, the coffee bloom is an essential step in unlocking the true potential of your pour-over",
+    "howToThink": "To incorporate the coffee bloom into your pour-over routine, start by using a small amount of water to pre-infuse the grounds. Allow the mixture to sit for about 30-45 seconds before proceeding with the rest of the pour. This brief pause will give the coffee the opportunity to release its gases and start the brewing process off on the right foot. Be sure to adjust the amount of water and the bloom time based on the specific type of coffee you are using, as some beans may require more or less blooming time",
+    "pros": [
+      "Enhanced flavor",
+      "Improved balance",
+      "Increased nuance"
+    ],
+    "cons": [
+      "Requires patience",
+      "Can be messy",
+      "May not work with all coffees"
+    ],
+    "watchOut": "Be careful not to over-bloom your coffee, as this can lead to a bitter or sour taste",
+    "faq": [
+      {
+        "q": "What is coffee bloom?",
+        "a": "Coffee bloom refers to the process of pre-infusing coffee grounds with a small amount of water before the full pour"
+      },
+      {
+        "q": "How long should I bloom my coffee?",
+        "a": "The bloom time will vary depending on the type of coffee, but a good starting point is 30-45 seconds"
+      },
+      {
+        "q": "Can I bloom my coffee for too long?",
+        "a": "Yes, over-blooming can lead to a bitter or sour taste, so be sure to adjust the bloom time based on the specific coffee you are using"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "pour-over",
+      "coffee bloom"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-12T14:05:13.935Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-21",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

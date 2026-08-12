@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sustainable-station-eats",
+    "title": "Eating Local on the Rails: A Guide to Sustainable Station Grub",
+    "dek": "Savor local flavors without hurting the planet",
+    "takeaway": "Choosing sustainable station eats supports local economies and reduces waste",
+    "whatHappened": "The rise of fast food in train stations has led to increased plastic waste and a decline in local cuisine. However, a new wave of sustainable eateries is emerging, offering passengers a chance to indulge in local flavors while minimizing their environmental impact. From artisanal bakeries to farm-to-table cafes, these eateries are redefining the rail dining experience.",
+    "whyItMatters": "Supporting local, sustainable food vendors at train stations helps to preserve regional culinary traditions, reduces carbon emissions from transportation, and promotes a more environmentally conscious travel culture. By making informed food choices, slow-travelers can contribute to a more regenerative and resilient food system. This, in turn, enhances the overall travel experience and fosters a deeper connection with the local community.",
+    "howToThink": "When selecting a station eatery, consider the source of the ingredients, the waste management practices, and the overall environmental footprint. Look for vendors that prioritize locally sourced, organic, and seasonal produce, and opt for eateries that implement sustainable packaging and reduce food waste. By adopting these habits, travelers can make a positive impact on the local environment and enjoy a more authentic, flavorful dining experience.",
+    "pros": [
+      "Supports local economies",
+      "Reduces plastic waste",
+      "Promotes sustainable agriculture"
+    ],
+    "cons": [
+      "Limited options at smaller stations",
+      "Higher prices for sustainable food",
+      "Variable quality of local cuisine"
+    ],
+    "watchOut": "Be wary of greenwashing and ensure that the eatery's sustainable claims are backed by tangible practices and certifications",
+    "faq": [
+      {
+        "q": "How can I find sustainable eateries at train stations?",
+        "a": "Research online, ask locals, or look for certifications like 'organic' or 'locally sourced'"
+      },
+      {
+        "q": "What are some common sustainable food options at train stations?",
+        "a": "Artisanal sandwiches, locally roasted coffee, and seasonal fruit are popular choices"
+      },
+      {
+        "q": "Can I bring my own reusable container for take-out?",
+        "a": "Yes, many sustainable eateries encourage customers to bring their own containers to reduce waste"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "slow travel",
+      "local food"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-12T14:05:12.989Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-train-travel-benefits",
     "title": "Slow Train Travel: The Unsung Hero of Sustainable Tourism",
     "dek": "Ditch the plane for a more relaxed ride",
