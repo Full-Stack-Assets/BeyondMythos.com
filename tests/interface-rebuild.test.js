@@ -8,3 +8,12 @@ test('approved BeyondMythos portfolio dashboard surfaces are present', () => {
     assert.match(dashboard, new RegExp(label));
   }
 });
+
+test('dashboard metrics are derived from registry and fulfillment records', () => {
+  const dashboard = fs.readFileSync('lib/dashboard.js', 'utf8');
+  assert.match(dashboard, /const revenue = revenueDashboard\(\)/);
+  assert.match(dashboard, /sites\.length/);
+  assert.match(dashboard, /Revenue bars appear only after verified purchase records exist/);
+  assert.doesNotMatch(dashboard, /48,293/);
+  assert.doesNotMatch(dashboard, /9,721/);
+});
