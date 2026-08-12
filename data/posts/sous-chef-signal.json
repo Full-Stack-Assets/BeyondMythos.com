@@ -1,5 +1,56 @@
 [
   {
+    "slug": "streamlining-weeknight-dinners",
+    "title": "Simplifying Supper: A System for Home Cooks",
+    "dek": "Get dinner on the table faster",
+    "takeaway": "A well-planned template system can save home cooks up to an hour each weeknight",
+    "whatHappened": "Many home cooks struggle to get dinner on the table during weeknights due to lack of planning and organization. This leads to last-minute takeout or fast food, which can be unhealthy and expensive. By implementing a template system, home cooks can streamline their dinner process and reduce stress.",
+    "whyItMatters": "A template system allows home cooks to plan meals in advance, make a grocery list, and prep ingredients, saving time and reducing food waste. This system also enables home cooks to experiment with new recipes and flavors, keeping mealtime exciting and varied. By streamlining dinner, home cooks can focus on other aspects of their lives, such as family, work, or hobbies.",
+    "howToThink": "To implement a template system, start by tracking your weekly meals and identifying patterns and themes. Then, create a library of versatile templates that can be adapted to different ingredients and cuisines. Consider meal prep, one-pot wonders, and sheet pan dinners as efficient and effective options.",
+    "pros": [
+      "Saves time",
+      "Reduces stress",
+      "Increases variety"
+    ],
+    "cons": [
+      "Requires planning",
+      "May feel restrictive",
+      "Needs adjustment"
+    ],
+    "watchOut": "Be careful not to overcomplicate your template system, as this can lead to decision fatigue and decreased motivation",
+    "faq": [
+      {
+        "q": "What is a template system?",
+        "a": "A set of reusable plans for meals that can be adapted to different ingredients and cuisines"
+      },
+      {
+        "q": "How do I create a template library?",
+        "a": "Start by tracking your weekly meals and identifying patterns and themes, then create a library of versatile templates"
+      },
+      {
+        "q": "Can I still be creative with a template system?",
+        "a": "Yes, a template system allows for flexibility and experimentation with new ingredients and flavors"
+      }
+    ],
+    "category": "Templates",
+    "tags": [
+      "weeknight dinners",
+      "meal planning"
+    ],
+    "sources": [
+      {
+        "label": "r/Cooking community threads",
+        "url": "https://www.reddit.com/r/Cooking/"
+      },
+      {
+        "label": "Search interest: \"weeknight dinner formula\"",
+        "url": "https://duckduckgo.com/?q=weeknight%20dinner%20formula"
+      }
+    ],
+    "publishedAt": "2026-08-12T05:18:13.056Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-knife-skills-33",
     "title": "The quiet upgrade: small tweaks in knife skills with outsized returns",
     "dek": "No purchases, no overhauls — the modest knife skills adjustments that home cooks systematizing weeknight dinners report mattering most.",

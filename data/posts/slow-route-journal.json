@@ -1,5 +1,56 @@
 [
   {
+    "slug": "small-town-rail-stops",
+    "title": "Hidden Gems on the Rails: Finding Charm in Small Towns",
+    "dek": "Discover offbeat rail stops",
+    "takeaway": "Small town rail stops offer unique experiences and low-impact exploration opportunities",
+    "whatHappened": "While traveling by rail, I stumbled upon a small town that was not on the typical tourist trail. The town's quaint atmosphere and slow pace were a breath of fresh air. I spent hours exploring the local market and talking to the friendly residents.",
+    "whyItMatters": "These small towns often have a rich history and culture that is worth preserving. By visiting them, slow travelers can support local economies and experience a more authentic way of life. Moreover, small town rail stops can be a great alternative to crowded tourist destinations.",
+    "howToThink": "When planning your rail trip, consider getting off at smaller stations and exploring the surrounding area. Look for local events and festivals, and try to engage with the community. Don't be afraid to ask locals for recommendations and insider tips.",
+    "pros": [
+      "Unique experiences",
+      "Low-impact exploration",
+      "Authentic culture"
+    ],
+    "cons": [
+      "Limited amenities",
+      "Unpredictable schedules",
+      "Language barriers"
+    ],
+    "watchOut": "Be mindful of the town's limited resources and respect the local way of life",
+    "faq": [
+      {
+        "q": "How do I find small town rail stops?",
+        "a": "Check the rail company's website or ask locals for recommendations"
+      },
+      {
+        "q": "What should I expect from small town accommodations?",
+        "a": "Be prepared for basic amenities and a more rustic experience"
+      },
+      {
+        "q": "Can I use public transportation to get around?",
+        "a": "Yes, many small towns have reliable public transportation systems or bike-sharing options"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail travel",
+      "small towns"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-12T05:18:09.132Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-train-station-hacks",
     "title": "Unlocking the Secrets of Slow Train Stations",
     "dek": "Maximize your slow travel experience",

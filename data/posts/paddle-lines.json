@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddle-with-a-plan",
+    "title": "Navigation Nightmares: Avoiding Common Mistakes",
+    "dek": "Stay safe on the water with a solid plan",
+    "takeaway": "A well-planned route can be the difference between a successful trip and a disaster",
+    "whatHappened": "Many kayakers and paddlers have found themselves lost or stranded due to poor planning. This can happen to even the most experienced paddlers, and it's often caused by a lack of preparation or a failure to adapt to changing conditions. By taking the time to plan your route and prepare for emergencies, you can minimize the risk of getting lost or injured.",
+    "whyItMatters": "Navigation is a critical aspect of kayaking and paddling, and it's essential to get it right. A good plan can help you avoid hazards, find the best routes, and make the most of your time on the water. By developing strong navigation skills, you can become a more confident and self-sufficient paddler, and you'll be better equipped to handle any situation that arises.",
+    "howToThink": "To paddle with a plan, start by researching your route and checking the weather forecast. Make sure you have the necessary skills and equipment, and consider paddling with a buddy or joining a guided tour. It's also essential to stay flexible and be prepared to adapt your plan if conditions change or you encounter unexpected obstacles.",
+    "pros": [
+      "Increased safety",
+      "Improved navigation",
+      "Enhanced confidence"
+    ],
+    "cons": [
+      "Requires planning and preparation",
+      "Can be time-consuming",
+      "May limit spontaneity"
+    ],
+    "watchOut": "Don't rely solely on technology, as GPS devices and other tools can fail or run out of battery",
+    "faq": [
+      {
+        "q": "What's the best way to plan a kayaking route?",
+        "a": "Use a combination of maps, guides, and online resources to research your route and plan your trip"
+      },
+      {
+        "q": "How can I stay safe while paddling alone?",
+        "a": "Let someone know your itinerary and expected return time, and consider carrying a personal locator beacon (PLB) or satellite phone"
+      },
+      {
+        "q": "What should I do if I get lost while kayaking?",
+        "a": "Stay calm, try to find a landmark or reference point, and use your navigation skills to find your way back to your planned route"
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "kayak safety",
+      "paddling tips"
+    ],
+    "sources": [
+      {
+        "label": "r/canoeing community threads",
+        "url": "https://www.reddit.com/r/canoeing/"
+      },
+      {
+        "label": "Search interest: \"best day paddle trips\"",
+        "url": "https://duckduckgo.com/?q=best%20day%20paddle%20trips"
+      }
+    ],
+    "publishedAt": "2026-08-12T05:18:13.212Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "kayak-safety-basics-field-test-12",
     "title": "\"kayak safety basics\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about kayak safety basics through a month of actual use. Some of it survived.",

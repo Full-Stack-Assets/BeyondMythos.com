@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-security-cameras",
+    "title": "Self-Hosted Surveillance: A Tinkerer's Guide",
+    "dek": "Self-host your security cameras for added privacy.",
+    "takeaway": "By self-hosting your security cameras, you can significantly enhance your smart home's privacy and security.",
+    "whatHappened": "Recent advancements in single-board computers have made it easier for smart home tinkerers to self-host their security cameras. This shift towards local control allows for reduced reliance on cloud services and increased privacy. Furthermore, the cost of hardware has decreased, making self-hosted security cameras a viable option for many.",
+    "whyItMatters": "Self-hosting security cameras is crucial for privacy-minded automators as it eliminates the risk of cloud-based surveillance footage being accessed by unauthorized parties. Additionally, local control enables more granular access management and customization of camera settings. This approach also promotes a more secure smart home ecosystem by reducing the attack surface.",
+    "howToThink": "When considering self-hosted security cameras, think about the trade-offs between convenience, cost, and control. Assess your specific needs and weigh the benefits of local control against potential drawbacks like increased setup complexity. It's also essential to evaluate the compatibility of self-hosted solutions with your existing smart home infrastructure.",
+    "pros": [
+      "Enhanced privacy",
+      "Customizable",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Complex setup",
+      "Limited scalability",
+      "Higher maintenance"
+    ],
+    "watchOut": "Be cautious of underpowered hardware that may struggle to handle multiple camera feeds and processing demands.",
+    "faq": [
+      {
+        "q": "What hardware is required for self-hosted security cameras?",
+        "a": "A single-board computer like Raspberry Pi or an NVIDIA Jetson device."
+      },
+      {
+        "q": "Can I use existing cloud-based camera software with self-hosting?",
+        "a": "Some cloud-based software may offer self-hosting options or APIs for integration, but this varies by vendor."
+      },
+      {
+        "q": "How do I ensure the security of my self-hosted camera footage?",
+        "a": "Implement robust access controls, encrypt your footage, and regularly update your system to prevent unauthorized access."
+      }
+    ],
+    "category": "Local Control",
+    "tags": [
+      "self-hosting",
+      "security"
+    ],
+    "sources": [
+      {
+        "label": "r/homeassistant community threads",
+        "url": "https://www.reddit.com/r/homeassistant/"
+      },
+      {
+        "label": "Search interest: \"home assistant beginner guide\"",
+        "url": "https://duckduckgo.com/?q=home%20assistant%20beginner%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-12T05:18:13.371Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-local-control-34",
     "title": "The quiet upgrade: small tweaks in local control with outsized returns",
     "dek": "No purchases, no overhauls — the modest local control adjustments that smart-home tinkerers and privacy-minded automators report mattering most.",
