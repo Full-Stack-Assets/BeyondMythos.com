@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-23.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-23.html</guid>
+      <pubDate>Wed, 12 Aug 2026 18:35:13 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-24.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-24.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance.html</guid>
       <pubDate>Tue, 11 Aug 2026 04:53:07 GMT</pubDate>
       <description>Boost your retro console&apos;s speed</description>
-    </item>
-    <item>
-      <title>Unlocking Frame Advantage: The Secret to Faster Speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns-2.html</guid>
-      <pubDate>Tue, 11 Aug 2026 02:50:54 GMT</pubDate>
-      <description>Boost your speedrun performance with expert tips</description>
     </item>
   </channel>
 </rss>
