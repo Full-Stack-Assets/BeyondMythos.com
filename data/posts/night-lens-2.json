@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-focal-lengths",
+    "title": "Focal Length Hacks for Sharper Shots",
+    "dek": "Unlock sharper astrophotography shots",
+    "takeaway": "Optimizing your camera's focal length is key to reducing noise and capturing sharper images",
+    "whatHappened": "Recent experiments with various focal lengths revealed significant improvements in image quality when using shorter lengths. By switching from a 300mm to a 200mm lens, photographers noticed a decrease in star trails and increased overall sharpness. This led to a reevaluation of traditional focal length choices for backyard astrophotography",
+    "whyItMatters": "Understanding how different focal lengths impact image quality can make a substantial difference in the final result, especially for those capturing wide-field targets like the Milky Way or large nebulae. Sharper images also enhance post-processing capabilities, allowing for more precise color grading and noise reduction",
+    "howToThink": "When considering a new lens or adjusting your current setup, think about the specific targets you're trying to capture and how shorter focal lengths can provide a wider field of view without compromising on sharpness. Experimenting with different lengths during test shots can also help you find the optimal setup for your equipment and targets",
+    "pros": [
+      "Sharper images",
+      "Reduced star trails",
+      "Wider field of view"
+    ],
+    "cons": [
+      "Potential for increased noise",
+      "Necessity for tripod adjustments",
+      "Learning curve for new focal lengths"
+    ],
+    "watchOut": "Be cautious of overly short focal lengths that can lead to excessive noise and decreased detail in your images",
+    "faq": [
+      {
+        "q": "What is the ideal focal length for backyard astrophotography?",
+        "a": "The ideal focal length depends on your target and equipment, but generally, shorter lengths (around 200mm) are preferred for wide-field targets"
+      },
+      {
+        "q": "How do I adjust my tripod for shorter focal lengths?",
+        "a": "Adjust your tripod to a lower height and ensure it's level to accommodate the wider field of view and prevent camera shake"
+      },
+      {
+        "q": "Can shorter focal lengths work with any camera model?",
+        "a": "While shorter focal lengths can work with most camera models, it's essential to consult your camera's manual to understand its capabilities and limitations"
+      }
+    ],
+    "category": "Rigs",
+    "tags": [
+      "Astrophotography",
+      "Rigs"
+    ],
+    "sources": [
+      {
+        "label": "r/telescopes community threads",
+        "url": "https://www.reddit.com/r/telescopes/"
+      },
+      {
+        "label": "Search interest: \"stacking software guide\"",
+        "url": "https://duckduckgo.com/?q=stacking%20software%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-12T17:40:39.486Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rigs-24",
     "title": "A weekend project: level up your rigs in two hours",
     "dek": "One contained, satisfying rigs project for backyard astrophotographers — start Saturday morning, done by lunch.",

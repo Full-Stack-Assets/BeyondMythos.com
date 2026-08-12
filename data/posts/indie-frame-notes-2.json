@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-location-scouting",
+    "title": "Location Scouting on a Shoestring Budget",
+    "dek": "Get the perfect shot without breaking the bank",
+    "takeaway": "Effective location scouting is key to a successful indie film production",
+    "whatHappened": "Indie filmmakers often overlook the importance of location scouting, settling for subpar locations that can compromise the overall quality of their film. However, with a little creativity and resourcefulness, it's possible to find and secure ideal locations without blowing the budget. By thinking outside the box and exploring unconventional options, filmmakers can turn potential limitations into opportunities",
+    "whyItMatters": "A well-scouted location can make or break a scene, and ultimately, the entire film. It's not just about finding a visually appealing backdrop, but also about ensuring the location is functional, safe, and accessible for cast and crew. By prioritizing location scouting, filmmakers can avoid costly mistakes and create a more polished, professional final product",
+    "howToThink": "When scouting locations, consider factors like lighting, sound, and logistics. Think about how each location will be used in the context of the story, and how it will impact the overall mood and atmosphere of the film. Be flexible and open to unexpected finds, and don't be afraid to negotiate with location owners to get the best possible deal",
+    "pros": [
+      "Cost-effective",
+      "Increased creativity",
+      "Improved production value"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Limited options",
+      "Permitting hurdles"
+    ],
+    "watchOut": "Be sure to secure necessary permits and releases to avoid costly legal issues down the line",
+    "faq": [
+      {
+        "q": "What's the best way to find potential locations?",
+        "a": "Utilize online resources, drive around neighborhoods, and ask for referrals from locals"
+      },
+      {
+        "q": "How can I negotiate with location owners?",
+        "a": "Be respectful, flexible, and clear about your needs and budget"
+      },
+      {
+        "q": "What should I look for when scouting a location?",
+        "a": "Consider factors like lighting, sound, and logistics, as well as the overall aesthetic and atmosphere of the space"
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "indie film production",
+      "location scouting"
+    ],
+    "sources": [
+      {
+        "label": "r/Filmmakers community threads",
+        "url": "https://www.reddit.com/r/Filmmakers/"
+      },
+      {
+        "label": "Search interest: \"indie film lighting budget\"",
+        "url": "https://duckduckgo.com/?q=indie%20film%20lighting%20budget"
+      }
+    ],
+    "publishedAt": "2026-08-12T17:40:38.523Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-run-and-gun-audio-8",
     "title": "Myth vs. reality: run and gun audio",
     "dek": "The persistent myths around run and gun audio, stress-tested against what indie filmmakers and short-film creators actually report.",
