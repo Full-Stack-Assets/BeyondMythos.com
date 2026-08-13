@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Breathe new life into your SNES controller</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-revival.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-revival.html</guid>
+      <pubDate>Thu, 13 Aug 2026 21:27:36 GMT</pubDate>
+      <description>Rescue your SNES controller from fade</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-29.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-29.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware-performance.html</guid>
       <pubDate>Wed, 12 Aug 2026 06:58:23 GMT</pubDate>
       <description>Boost your retro console&apos;s performance</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: retro game restoration</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-9.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-9.html</guid>
-      <pubDate>Wed, 12 Aug 2026 05:18:06 GMT</pubDate>
-      <description>The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.</description>
     </item>
   </channel>
 </rss>

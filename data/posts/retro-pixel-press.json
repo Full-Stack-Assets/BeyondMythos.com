@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-controller-revival",
+    "title": "Breathe new life into your SNES controller",
+    "dek": "Rescue your SNES controller from fade",
+    "takeaway": "You can restore your SNES controller to its former glory with simple DIY methods",
+    "whatHappened": "The original SNES controllers are prone to fading and wear, making them difficult to use. Many retro game collectors and speedrunners have to rely on third-party alternatives or expensive restoration services. However, with the right techniques and materials, you can revive your SNES controller and extend its lifespan.",
+    "whyItMatters": "A well-maintained SNES controller can greatly enhance your gaming experience, providing a more authentic and immersive experience. Moreover, restoring your controller can also help preserve the original hardware, reducing electronic waste and the need for resource-intensive manufacturing processes. By taking Matters into your own hands, you can save money and ensure your SNES controller remains functional for years to come.",
+    "howToThink": "When attempting to restore your SNES controller, consider the materials and tools you'll need, such as replacement buttons, contact cleaners, and soldering equipment. It's essential to approach the process with patience and caution, as improper handling can cause further damage. Start by assessing the controller's condition, identifying the areas that require attention, and then proceed with the necessary repairs and replacements.",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Improved performance"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical skills",
+      "No guarantee of success"
+    ],
+    "watchOut": "Be cautious when handling electrical components to avoid damaging the controller or causing injury",
+    "faq": [
+      {
+        "q": "What are the most common issues with SNES controllers?",
+        "a": "Fading buttons, worn-out joysticks, and corroded contacts are common problems"
+      },
+      {
+        "q": "Can I use a third-party controller instead of restoring my original?",
+        "a": "While third-party controllers are available, they may lack the authenticity and quality of the original SNES controller"
+      },
+      {
+        "q": "Where can I find replacement parts and materials for my SNES controller?",
+        "a": "You can find replacement parts and materials online through retailers, forums, or specialized retro gaming communities"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "SNES"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-13T21:27:36.756Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-29",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",

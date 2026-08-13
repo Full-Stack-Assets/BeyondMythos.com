@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevate-your-espresso-game-2",
+    "title": "Mastering Espresso Distribution: The Key to Perfect Shots",
+    "dek": "Get perfect espresso shots every time",
+    "takeaway": "Even distribution is crucial for a perfect espresso shot",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end espresso machines, only to find that their shots are inconsistent. Upon closer inspection, it becomes clear that uneven distribution of coffee grounds is the culprit. This can be due to a variety of factors, including improperly calibrated grinders or insufficient tamping.",
+    "whyItMatters": "Even distribution is essential for a balanced espresso shot, as it allows for the optimal extraction of flavors and oils from the coffee. Without it, shots can be over- or under-extracted, leading to a subpar taste experience. By mastering distribution, home baristas can take their espresso game to the next level.",
+    "howToThink": "To achieve perfect distribution, focus on using a high-quality grinder that's calibrated to your machine's specifications, and invest in a proper tamper. Additionally, experiment with different distribution techniques, such as the 'stocking method' or 'wavy pour', to find what works best for you.",
+    "pros": [
+      "consistent shots",
+      "easier calibration",
+      "better flavor"
+    ],
+    "cons": [
+      "requires practice",
+      "needs proper equipment",
+      "can be time-consuming"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to channeling and a poor shot",
+    "faq": [
+      {
+        "q": "What's the best way to distribute coffee grounds?",
+        "a": "Use a combination of a high-quality grinder and proper tamping technique"
+      },
+      {
+        "q": "How often should I calibrate my grinder?",
+        "a": "Calibrate your grinder at least once a month, or whenever you change coffee beans"
+      },
+      {
+        "q": "Can I use a distribution tool to help with evenness?",
+        "a": "Yes, distribution tools can be helpful, but they're no substitute for proper technique and equipment"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "coffee distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-13T21:27:35.640Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-24",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",
