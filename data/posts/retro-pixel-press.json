@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-controller-repair-101",
+    "title": "Fixing Faded Buttons: A SNES Controller Rescue Guide",
+    "dek": "Rescue your worn SNES gamepad",
+    "takeaway": "With basic soldering skills, you can restore your SNES controller to like-new condition",
+    "whatHappened": "Many retro gamers have experienced the frustration of worn-out SNES controllers, with faded buttons and sticky directional pads. Over time, these issues can render your favorite games unplayable. Fortunately, repairing your SNES controller is a relatively simple process. With the right tools and a bit of patience, you can breathe new life into your trusty gamepad",
+    "whyItMatters": "A well-maintained controller can greatly enhance your gaming experience, especially for speedrunners who rely on precise and responsive controls. Moreover, repairing your SNES controller can help extend its lifespan, saving you money and reducing electronic waste. By learning basic repair skills, you'll be able to troubleshoot and fix common issues, keeping your retro gaming setup in top condition",
+    "howToThink": "When approaching SNES controller repair, it's essential to be methodical and gentle to avoid causing further damage. Start by disassembling the controller, taking note of the wire connections and button placement. Use a soft brush to clean out debris and corrosion, and then replace any faulty components. Finally, reassemble the controller and test it to ensure everything is working smoothly",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Improved gameplay"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "May not fix all issues",
+      "Time-consuming"
+    ],
+    "watchOut": "Be cautious when handling electrical components to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What tools do I need to repair my SNES controller?",
+        "a": "A screwdriver, soldering iron, and replacement buttons or directional pad"
+      },
+      {
+        "q": "Can I use a replacement controller from a third-party vendor?",
+        "a": "While third-party controllers can be a viable option, be wary of potential compatibility issues and quality control"
+      },
+      {
+        "q": "How often should I clean my SNES controller?",
+        "a": "Regularly cleaning your controller can help prevent damage and extend its lifespan; aim to clean it every 1-3 months"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Controller Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-13T08:54:15.445Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-console-modding-101-7",
     "title": "Retro Console Modding for Beginners",
     "dek": "Upgrade your retro console",

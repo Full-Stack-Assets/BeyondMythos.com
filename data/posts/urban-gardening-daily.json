@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-container-care-6",
+    "title": "Herb Survival Guide: Navigating Winter on Your Balcony",
+    "dek": "Protect your herbs from winter damage",
+    "takeaway": "With proper care, your herb containers can thrive year-round",
+    "whatHappened": "As winter approaches, balcony gardeners face a new set of challenges in keeping their herb containers healthy. Frost and freezing temperatures can quickly damage or kill herbs, while reduced sunlight and colder temperatures slow down growth. However, with the right strategies, it's possible to keep your herbs thriving throughout the winter months.",
+    "whyItMatters": "Having a continuous supply of fresh herbs can elevate your cooking and add freshness to your meals, even in the dead of winter. Moreover, maintaining a thriving herb container can also provide a sense of connection to nature and the outdoors, which is especially important during the colder months when we tend to stay indoors more. By understanding how to care for your herb containers in winter, you can enjoy the benefits of gardening year-round.",
+    "howToThink": "To keep your herb containers healthy in winter, consider moving them to a sheltered location, such as under an awning or against a wall, to protect them from wind and frost. You should also reduce watering and fertilizing, as herbs require less moisture and nutrients during the colder months. Finally, choose herb varieties that are more resilient to cold temperatures, such as rosemary or thyme, for better chances of survival.",
+    "pros": [
+      "Year-round herb supply",
+      "Improved cooking freshness",
+      "Continued gardening connection"
+    ],
+    "cons": [
+      "Increased protection efforts",
+      "Reduced growth rates",
+      "Potential for frost damage"
+    ],
+    "watchOut": "Be cautious not to overwater your herbs in winter, as this can lead to root rot and other diseases",
+    "faq": [
+      {
+        "q": "Can I leave my herb container outside in freezing temperatures?",
+        "a": "No, it's best to bring your herb container indoors or move it to a sheltered location to protect it from frost damage"
+      },
+      {
+        "q": "How often should I water my herbs in winter?",
+        "a": "Reduce watering to once every 7-10 days, as herbs require less moisture during the colder months"
+      },
+      {
+        "q": "What are the best herbs to grow in winter?",
+        "a": "Choose cold-hardy herbs like rosemary, thyme, or sage for better chances of survival"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "balcony gardening",
+      "winter herbs"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-13T08:54:15.635Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-vegetablegardening-9",
     "title": "Community pulse: what r/vegetablegardening is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",
