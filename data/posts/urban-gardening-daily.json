@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-20",
+    "title": "Squeeze Every Inch: Optimizing Balcony Gardens for Maximum Yield",
+    "dek": "Get the most from your balcony garden",
+    "takeaway": "Careful planning can significantly increase your balcony garden's yield",
+    "whatHappened": "As urban gardening continues to grow in popularity, balcony gardeners are looking for ways to maximize their space. With a little creativity, even the smallest balconies can be transformed into thriving gardens. By utilizing vertical space and selecting the right containers, gardeners can grow a wide variety of plants, from herbs to vegetables.",
+    "whyItMatters": "Maximizing balcony space is crucial for urban gardeners, as it allows them to grow their own food and connect with nature, even in the midst of a bustling city. By optimizing their balcony gardens, gardeners can also increase their yields, reducing their reliance on grocery stores and saving money. Furthermore, a well-designed balcony garden can also enhance the aesthetic of a home, increasing its value and appeal.",
+    "howToThink": "To maximize your balcony space, start by assessing your available space and sunlight. Choose containers that fit your space and are suitable for the plants you want to grow. Consider using trellises, wall-mounted planters, or tiered containers to make the most of your vertical space. Also, don't forget to leave enough space between containers for easy access and maintenance.",
+    "pros": [
+      "Increased yields",
+      "Improved aesthetics",
+      "Space efficiency"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires careful planning",
+      "Limited flexibility"
+    ],
+    "watchOut": "Be mindful of weight limits when choosing containers and plants for your balcony garden",
+    "faq": [
+      {
+        "q": "What type of containers are best for balcony gardens?",
+        "a": "Choose containers that are durable, well-draining, and suitable for the plants you want to grow"
+      },
+      {
+        "q": "How can I maximize my balcony's vertical space?",
+        "a": "Use trellises, wall-mounted planters, or tiered containers to make the most of your vertical space"
+      },
+      {
+        "q": "What plants are best suited for small balcony gardens?",
+        "a": "Herbs, leafy greens, and compact varieties of vegetables are great options for small balcony gardens"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "container gardens"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-13T00:43:39.834Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-seasonal-29",
     "title": "Ask the forge: your seasonal questions, answered",
     "dek": "Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.",

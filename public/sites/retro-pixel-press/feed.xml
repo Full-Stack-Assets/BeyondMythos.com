@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>SNES Console Optimization for Speed Demons</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-console-performance.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-console-performance.html</guid>
+      <pubDate>Thu, 13 Aug 2026 00:43:40 GMT</pubDate>
+      <description>Unlock your SNES&apos; full potential</description>
+    </item>
+    <item>
       <title>Community pulse: what r/snes is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-8.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-console-mods-for-speed.html</guid>
       <pubDate>Tue, 11 Aug 2026 11:28:57 GMT</pubDate>
       <description>Boost your speedrunning with custom mods</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-23.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-23.html</guid>
-      <pubDate>Tue, 11 Aug 2026 10:32:19 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>

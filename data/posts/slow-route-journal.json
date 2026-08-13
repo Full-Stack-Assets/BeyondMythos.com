@@ -1,5 +1,56 @@
 [
   {
+    "slug": "repacking-rail-essentials",
+    "title": "The Ultimate Rail Travel Packing List for Low-Impact Explorers",
+    "dek": "Essential items for a low-impact rail adventure",
+    "takeaway": "Pack smart and light to make the most of your rail journey",
+    "whatHappened": "As a seasoned slow-traveler, I've learned that packing the right gear can make all the difference on a rail adventure. From navigating cramped train cabins to finding sustainable accommodations, having the right essentials can be a game-changer. By streamlining my packing list, I've been able to focus on the journey, not the luggage.",
+    "whyItMatters": "Packing light and efficiently is crucial for low-impact travel, as it reduces waste, saves energy, and enhances the overall travel experience. By prioritizing the right items, travelers can minimize their environmental footprint while maximizing their enjoyment of the journey. This, in turn, supports sustainable tourism and promotes a more mindful approach to exploration.",
+    "howToThink": "When packing for a rail adventure, consider the 3-1 rule: three tops for every one bottom, and prioritize versatile, quick-drying items that can be easily mixed and matched. Don't forget to pack a portable power bank, a refillable water bottle, and a compact travel guide to stay connected and informed on the go.",
+    "pros": [
+      "Reduced luggage space",
+      "Increased mobility",
+      "Environmentally friendly"
+    ],
+    "cons": [
+      "Limited wardrobe options",
+      "Higher upfront cost",
+      "Requires planning"
+    ],
+    "watchOut": "Be mindful of luggage restrictions and pack accordingly to avoid extra fees or hassle",
+    "faq": [
+      {
+        "q": "What are the most essential items to pack for a rail adventure?",
+        "a": "A portable power bank, a refillable water bottle, and a compact travel guide"
+      },
+      {
+        "q": "How can I reduce my luggage space without sacrificing comfort?",
+        "a": "Prioritize versatile, quick-drying items and consider the 3-1 rule"
+      },
+      {
+        "q": "What are some sustainable alternatives to single-use travel products?",
+        "a": "Refillable water bottles, cloth bags, and bamboo toothbrushes"
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "Rail Travel",
+      "Packing Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-13T00:43:39.620Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-26",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",
