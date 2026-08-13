@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Ask the forge: your lighting questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-37.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-37.html</guid>
+      <pubDate>Thu, 13 Aug 2026 23:23:31 GMT</pubDate>
+      <description>Straight answers to the lighting questions smart-home tinkerers and privacy-minded automators keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in local control with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-38.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-38.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/simplifying-sensor-calibration.html</guid>
       <pubDate>Wed, 12 Aug 2026 10:41:53 GMT</pubDate>
       <description>Get accurate sensor readings every time.</description>
-    </item>
-    <item>
-      <title>Maximizing Motion Detection for Local Control</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/local-motion-detection.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/local-motion-detection.html</guid>
-      <pubDate>Wed, 12 Aug 2026 08:51:01 GMT</pubDate>
-      <description>Boost security with smart motion detection</description>
     </item>
   </channel>
 </rss>

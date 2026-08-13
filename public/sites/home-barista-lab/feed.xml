@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Tamping Technique Revisited: The Secret to Consistent Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-revisited-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-revisited-2.html</guid>
+      <pubDate>Thu, 13 Aug 2026 23:23:26 GMT</pubDate>
+      <description>Improve your espresso with proper tamping</description>
+    </item>
+    <item>
       <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-10.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-10.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-espresso-with-temperature-control.html</guid>
       <pubDate>Wed, 12 Aug 2026 10:41:47 GMT</pubDate>
       <description>Precise temperature control boosts espresso flavor</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Coffee is debating this week</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee-6.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee-6.html</guid>
-      <pubDate>Wed, 12 Aug 2026 08:50:53 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
     </item>
   </channel>
 </rss>

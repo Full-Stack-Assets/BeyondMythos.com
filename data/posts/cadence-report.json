@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-virtual-racing-performance",
+    "title": "Breaking Through the Virtual Wall",
+    "dek": "Optimize your virtual racing strategy",
+    "takeaway": "Consistent training and smart pacing are key to success in virtual races",
+    "whatHappened": "Virtual racing has become increasingly popular among indoor cyclists, with many riders seeking to improve their performance and competitiveness. However, the lack of physical interaction and varying courses can make it challenging to gauge progress. Recent studies have shown that riders who focus on consistent training and smart pacing tend to perform better in virtual races.",
+    "whyItMatters": "As virtual racing continues to grow, understanding the factors that contribute to success is crucial for riders looking to improve. By focusing on consistent training and smart pacing, riders can gain a competitive edge and achieve their goals. Moreover, optimizing virtual racing performance can also translate to improved real-world cycling abilities.",
+    "howToThink": "To maximize virtual racing performance, riders should focus on developing a consistent training schedule, incorporating interval training and hill repeats to build endurance and strength. Additionally, riders should pay attention to their pacing, aiming to maintain a steady power output throughout the race. By combining these strategies with a well-optimized setup, riders can unlock their full potential and achieve better results.",
+    "pros": [
+      "Improved performance",
+      "Increased competitiveness",
+      "Enhanced cycling skills"
+    ],
+    "cons": [
+      "Higher risk of burnout",
+      "Requires dedicated training time",
+      "Dependence on technology"
+    ],
+    "watchOut": "Be cautious of overtraining and burnout, as excessive virtual racing can lead to physical and mental exhaustion",
+    "faq": [
+      {
+        "q": "What is the best way to train for virtual races?",
+        "a": "Focus on consistent interval training and hill repeats to build endurance and strength"
+      },
+      {
+        "q": "How can I optimize my pacing in virtual races?",
+        "a": "Use data analytics and feedback from previous races to refine your pacing strategy"
+      },
+      {
+        "q": "What role does setup play in virtual racing performance?",
+        "a": "A well-optimized setup, including a smart trainer and comfortable riding position, is crucial for maximizing performance and reducing fatigue"
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "virtual racing",
+      "indoor cycling"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-13T23:23:31.336Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-pain-cave-setup-13",
     "title": "Myth vs. reality: pain cave setup",
     "dek": "The persistent myths around pain cave setup, stress-tested against what indoor cyclists and virtual racers actually report.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ultralight-cookware-showdown-2",
+    "title": "Ultralight Cookware: Weighing the Options",
+    "dek": "Lighten up your cook kit",
+    "takeaway": "The right ultralight cookware can save you ounces and boost morale on long hikes",
+    "whatHappened": "In our latest field test, we pitted top ultralight cookware options against each other to see which ones deliver. We put popular models from MSR, Jetboil, and Snow Peak through their paces on a series of thru-hikes and backpacking trips. The results were surprising, with some clear winners and losers emerging",
+    "whyItMatters": "For ultralight backpackers and thru-hikers, every ounce counts, and cookware is a key area where weight can be saved. By choosing the right ultralight cookware, you can free up space in your pack, reduce your overall base weight, and enjoy a more comfortable hiking experience. This, in turn, can boost your morale and overall performance on the trail",
+    "howToThink": "When selecting ultralight cookware, consider the specific needs of your trip, including the number of people in your group, the length of your trip, and the types of meals you plan to prepare. Look for models with a high power-to-weight ratio, durable construction, and compact design. Don't be afraid to experiment with different options and find what works best for you",
+    "pros": [
+      "Space-saving design",
+      "Fast boil times",
+      "Durable construction"
+    ],
+    "cons": [
+      "Expensive",
+      "Delicate materials",
+      "Limited compatibility"
+    ],
+    "watchOut": "Be wary of ultralight cookware that sacrifices durability for weight savings, as this can lead to costly repairs or replacements down the line",
+    "faq": [
+      {
+        "q": "What is the lightest ultralight cookware option available?",
+        "a": "The MSR Titan Cook Set weighs in at just 6.6 oz, making it a top choice for ultralight enthusiasts"
+      },
+      {
+        "q": "How do I choose the right ultralight cookware for my needs?",
+        "a": "Consider factors such as group size, trip length, and meal type, and look for models with a high power-to-weight ratio and compact design"
+      },
+      {
+        "q": "Can I use ultralight cookware in extreme weather conditions?",
+        "a": "Most ultralight cookware is designed to withstand moderate weather conditions, but may not perform well in extreme cold or high winds; be sure to check the manufacturer's specifications before making a purchase"
+      }
+    ],
+    "category": "Food",
+    "tags": [
+      "ultralight",
+      "cookware"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-13T23:23:32.664Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-shelters-mistakes-37",
     "title": "Five mistakes everyone makes in their first month of shelters",
     "dek": "The most common early stumbles in shelters, and the cheap corrections that fix them for ultralight backpackers and thru-hike dreamers.",

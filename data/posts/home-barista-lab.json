@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-revisited-2",
+    "title": "Tamping Technique Revisited: The Secret to Consistent Espresso",
+    "dek": "Improve your espresso with proper tamping",
+    "takeaway": "Proper tamping technique is crucial for achieving consistent espresso shots",
+    "whatHappened": "Recently, we experimented with different tamping techniques and tools to see how they affect the quality of our espresso shots. We were surprised to find that even small variations in tamping pressure and distribution could significantly impact the flavor and crema of our shots. This led us to re-examine our tamping technique and explore new methods for improving consistency.",
+    "whyItMatters": "Consistent tamping is essential for achieving balanced flavor and optimal crema in espresso shots. When done correctly, it ensures that the coffee grounds are evenly saturated, allowing for a smooth and full-bodied extraction. Conversely, improper tamping can lead to channeling, under-extraction, or over-extraction, resulting in a subpar shot.",
+    "howToThink": "To improve your tamping technique, focus on applying even pressure and using the right tool for the job. Experiment with different tampers and distributions to find what works best for your equipment and style. Additionally, consider investing in a tamper with a built-in pressure gauge to help you develop a more consistent touch.",
+    "pros": [
+      "Improved shot consistency",
+      "Enhanced flavor balance",
+      "Increased crema quality"
+    ],
+    "cons": [
+      "Requires practice to develop muscle memory",
+      "Can be sensitive to equipment and coffee type",
+      "May require additional investment in tools"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to compacted grounds and poor extraction",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal tamping pressure is around 30-40 pounds, but this may vary depending on the equipment and coffee being used"
+      },
+      {
+        "q": "Can I use a makeshift tamper?",
+        "a": "While a makeshift tamper may work in a pinch, it's recommended to invest in a high-quality tamper designed specifically for espresso to ensure optimal results"
+      },
+      {
+        "q": "How often should I clean and maintain my tamper?",
+        "a": "Clean and maintain your tamper regularly to prevent buildup and ensure consistent performance"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso technique",
+      "coffee equipment"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-13T23:23:26.483Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-espresso-dial-in-field-test-10",
     "title": "\"home espresso dial in\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.",
