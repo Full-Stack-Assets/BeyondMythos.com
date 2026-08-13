@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-ibm-ps-1",
+    "title": "Reviving a Legend: Hands-on with the IBM PS/1",
+    "dek": "Bringing new life to a retro classic",
+    "takeaway": "With careful restoration, the IBM PS/1 can still be a capable and charming retro computer",
+    "whatHappened": "The IBM PS/1 was a groundbreaking machine in its time, known for its sleek design and user-friendly interface. However, like many retro computers, it has fallen into disrepair and obscurity. Recently, a wave of enthusiasts has rediscovered the joys of restoring these vintage machines. By replacing worn-out components and troubleshooting common issues, it's possible to breathe new life into this retro legend.",
+    "whyItMatters": "Restoring the IBM PS/1 is not just about preserving a piece of computer history, but also about experiencing the unique charm and character of a bygone era. By reviving these machines, enthusiasts can relive nostalgic memories, explore vintage software, and appreciate the innovative design that defined the early days of personal computing. Moreover, restoration projects like this help to keep the spirit of DIY tinkering and experimentation alive",
+    "howToThink": "When approaching an IBM PS/1 restoration, it's essential to start with a thorough inspection and diagnosis of the machine's condition. Identify the most critical components that need replacement or repair, such as the power supply, RAM, or floppy drive. Be prepared to troubleshoot common issues like failing capacitors, corroded connectors, or incompatible peripherals. By adopting a methodical and patient approach, you can overcome the challenges and enjoy the rewarding experience of revitalizing a retro computer",
+    "pros": [
+      "Unique design",
+      "Capable performance",
+      "Nostalgic value"
+    ],
+    "cons": [
+      "Limited upgradability",
+      "Component scarcity",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be cautious when handling sensitive components and avoid using modern power supplies that may be incompatible with the IBM PS/1's vintage hardware",
+    "faq": [
+      {
+        "q": "What are the most common issues with the IBM PS/1?",
+        "a": "Failing capacitors, corroded connectors, and incompatible peripherals are common problems"
+      },
+      {
+        "q": "Can I upgrade the IBM PS/1's hardware?",
+        "a": "While some upgrades are possible, the machine's design limits its upgradability, so it's essential to research compatible components carefully"
+      },
+      {
+        "q": "Where can I find replacement parts for the IBM PS/1?",
+        "a": "Specialized retro computer forums, online marketplaces, and vintage electronics stores may carry the necessary replacement parts"
+      }
+    ],
+    "category": "Restoration",
+    "tags": [
+      "Retro Restoration",
+      "IBM PS/1"
+    ],
+    "sources": [
+      {
+        "label": "r/emulation community threads",
+        "url": "https://www.reddit.com/r/emulation/"
+      },
+      {
+        "label": "Search interest: \"crt monitor guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20monitor%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-13T12:31:51.049Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "upgrades-pre-spend-checklist-35",
     "title": "The upgrades checklist: run this before you spend",
     "dek": "Seven questions that separate a justified upgrades purchase from an expensive mood.",

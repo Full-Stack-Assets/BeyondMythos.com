@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddling-at-night-3",
+    "title": "Night Paddling 101: Tips and Tricks",
+    "dek": "Paddle safely after dark",
+    "takeaway": "Proper lighting and planning are key to a safe night paddle",
+    "whatHappened": "Many kayakers are drawn to the peacefulness of paddling at night, but it requires special precautions to stay safe. A recent incident on a lake highlighted the importance of proper lighting and navigation. With the right gear and mindset, night paddling can be a unique and exhilarating experience.",
+    "whyItMatters": "Paddling at night can be disorienting, and the risk of collision or getting lost is higher. However, with the right techniques and equipment, kayakers can enjoy the serene beauty of the water under the stars. It's essential to understand the risks and take necessary precautions to ensure a safe and enjoyable trip.",
+    "howToThink": "To paddle safely at night, consider the visibility of your kayak, the lighting on your person, and the navigation tools you use. Choose a familiar route, and let someone know your itinerary. Stay alert and aware of your surroundings, and be prepared for changing conditions.",
+    "pros": [
+      "Unique experience",
+      "Increased visibility of bioluminescence",
+      "Reduced daytime crowds"
+    ],
+    "cons": [
+      "Reduced visibility",
+      "Increased risk of collision",
+      "Disorienting environment"
+    ],
+    "watchOut": "Be cautious of other boats and watercraft that may not be equipped with proper lighting",
+    "faq": [
+      {
+        "q": "What type of light should I use?",
+        "a": "A red light or a light with a red filter to preserve night vision"
+      },
+      {
+        "q": "How can I increase the visibility of my kayak?",
+        "a": "Use reflective tape or a strobe light to make your kayak more visible to other boats"
+      },
+      {
+        "q": "What should I do in case of an emergency?",
+        "a": "Stay calm, use your whistle to signal for help, and follow your emergency protocol"
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "night paddling",
+      "kayak safety"
+    ],
+    "sources": [
+      {
+        "label": "r/Kayaking community threads",
+        "url": "https://www.reddit.com/r/Kayaking/"
+      },
+      {
+        "label": "Search interest: \"first kayak buying guide\"",
+        "url": "https://duckduckgo.com/?q=first%20kayak%20buying%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-13T12:31:49.723Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-trips-36",
     "title": "The quiet upgrade: small tweaks in trips with outsized returns",
     "dek": "No purchases, no overhauls — the modest trips adjustments that recreational kayakers and paddlers report mattering most.",

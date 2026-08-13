@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-overnights-2",
+    "title": "Sleeping on the Rails: Unlocking Overnight Train Travel",
+    "dek": "Transforming your journey with overnight trains.",
+    "takeaway": "Overnight train travel can be a game-changer for slow-travelers, offering convenience, scenery, and reduced carbon footprint.",
+    "whatHappened": "Recently, many travelers have turned to overnight train travel as a way to explore new destinations while minimizing their environmental impact. This trend has led to an increase in overnight train services and facilities. As a result, travelers can now enjoy a more comfortable and convenient journey.",
+    "whyItMatters": "Overnight train travel matters because it allows travelers to cover long distances while reducing their carbon footprint. Additionally, it provides a unique opportunity to see the countryside and experience the local culture. By choosing overnight trains, travelers can also support more sustainable tourism practices.",
+    "howToThink": "To make the most of overnight train travel, consider the type of accommodation that suits your needs, research the best routes and schedules, and plan ahead to ensure availability. It's also essential to pack light and be prepared for variable train conditions. By being flexible and open-minded, travelers can have a more enjoyable and relaxing journey.",
+    "pros": [
+      "Scenic routes",
+      "Reduced carbon footprint",
+      "Convenient"
+    ],
+    "cons": [
+      "Limited amenities",
+      "Variable comfort",
+      "Delays possible"
+    ],
+    "watchOut": "Be cautious of booking scams and ensure you're purchasing tickets from reputable sources.",
+    "faq": [
+      {
+        "q": "What are the best overnight train routes for beginners?",
+        "a": "The Rocky Mountaineer in Canada and the Glacier Express in Switzerland are excellent options"
+      },
+      {
+        "q": "How do I book overnight train tickets?",
+        "a": "You can book tickets through the official railway website or a trusted ticketing platform"
+      },
+      {
+        "q": "What should I pack for an overnight train journey?",
+        "a": "Pack light, bring a portable charger, and don't forget your passport and travel documents"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail Travel",
+      "Sustainable Tourism"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-13T12:31:42.856Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-25",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "improving-footwork-techniques",
+    "title": "Step Up Your Game: Mastering Footwork on the Wall",
+    "dek": "Better footwork equals better climbs",
+    "takeaway": "Improving footwork techniques is key to unlocking more efficient and successful climbs",
+    "whatHappened": "Recently, we've seen a surge in climbers focusing on upper body strength, but neglecting the importance of footwork. A good footwork technique can make or break a climb, allowing for more efficient movement and conservation of energy. By mastering footwork, climbers can improve their overall performance and reduce the risk of injury",
+    "whyItMatters": "Footwork is often overlooked, but it plays a crucial role in climbing. Good footwork allows for better balance, precision, and control, enabling climbers to tackle more challenging routes. By prioritizing footwork, climbers can gain a competitive edge and improve their overall climbing experience",
+    "howToThink": "To improve footwork techniques, focus on developing a strong foundation, including proper foot placement, weight distribution, and edging. Practice specific footwork exercises, such as smearing and hooking, to build strength and precision. Additionally, film yourself climbing to identify areas for improvement and make adjustments accordingly",
+    "pros": [
+      "Improved balance",
+      "Increased control",
+      "Enhanced precision"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires dedicated practice",
+      "May feel uncomfortable at first"
+    ],
+    "watchOut": "Be careful not to overcompensate with your upper body, as this can lead to poor technique and increased risk of injury",
+    "faq": [
+      {
+        "q": "What are some common footwork mistakes?",
+        "a": "Common mistakes include placing feet too close together, not keeping weight centered, and failing to edge properly"
+      },
+      {
+        "q": "How can I practice footwork at home?",
+        "a": "Practice footwork exercises on a hangboard, campus board, or even on the floor with a balance board"
+      },
+      {
+        "q": "Will improving footwork really make a difference in my climbing?",
+        "a": "Yes, improving footwork techniques can significantly improve your climbing performance, efficiency, and overall experience"
+      }
+    ],
+    "category": "Technique",
+    "tags": [
+      "footwork",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/climbing community threads",
+        "url": "https://www.reddit.com/r/climbing/"
+      },
+      {
+        "label": "Search interest: \"climbing shoe guide\"",
+        "url": "https://duckduckgo.com/?q=climbing%20shoe%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-13T12:31:48.956Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hangboard-routine-field-test-13",
     "title": "\"hangboard routine\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about hangboard routine through a month of actual use. Some of it survived.",
