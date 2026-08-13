@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-game-night",
+    "title": "Elevate Your Game Nights: Essential Hosting Hacks",
+    "dek": "Maximize fun with minimal effort",
+    "takeaway": "A well-prepared host can make or break a game night experience",
+    "whatHappened": "Game nights have become increasingly popular, but hosts often struggle to keep their guests engaged. A successful game night requires more than just a collection of games. It demands attention to detail, from ambiance to game selection. By focusing on these elements, hosts can create an unforgettable experience for their guests.",
+    "whyItMatters": "A well-organized game night can foster meaningful connections among players, create lasting memories, and even inspire new friendships. Moreover, it can help hosts develop valuable skills such as communication, problem-solving, and adaptability. By investing time and effort into hosting, individuals can reap numerous benefits that extend beyond the game night itself.",
+    "howToThink": "To host a successful game night, consider your guests' preferences, plan ahead, and be prepared to adapt to changing circumstances. Start by selecting a diverse range of games that cater to different interests and skill levels. Additionally, create a welcoming atmosphere by adjusting lighting, music, and seating arrangements to promote social interaction and comfort.",
+    "pros": [
+      "Increased social connections",
+      "Improved hosting skills",
+      "Enhanced fun"
+    ],
+    "cons": [
+      "Higher preparation time",
+      "Potential for unexpected issues",
+      "Increased expenses"
+    ],
+    "watchOut": "Be mindful of your guests' preferences and boundaries to avoid overwhelming or frustrating them",
+    "faq": [
+      {
+        "q": "What games are suitable for a mixed-group game night?",
+        "a": "Opt for games that are easy to learn, promote interaction, and cater to different skill levels"
+      },
+      {
+        "q": "How can I create a welcoming atmosphere?",
+        "a": "Adjust lighting, music, and seating arrangements to promote comfort and social interaction"
+      },
+      {
+        "q": "What if unexpected issues arise during the game night?",
+        "a": "Stay calm, be flexible, and have a backup plan in place to minimize disruptions"
+      }
+    ],
+    "category": "Party Games",
+    "tags": [
+      "game night",
+      "hosting tips"
+    ],
+    "sources": [
+      {
+        "label": "r/tabletopgamedesign community threads",
+        "url": "https://www.reddit.com/r/tabletopgamedesign/"
+      },
+      {
+        "label": "Search interest: \"game night hosting\"",
+        "url": "https://duckduckgo.com/?q=game%20night%20hosting"
+      }
+    ],
+    "publishedAt": "2026-08-13T05:22:04.927Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-solo-play-38",
     "title": "The quiet upgrade: small tweaks in solo play with outsized returns",
     "dek": "No purchases, no overhauls — the modest solo play adjustments that tabletop gamers and game-night hosts report mattering most.",

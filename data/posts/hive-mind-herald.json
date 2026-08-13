@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-hive-maintenance-3",
+    "title": "Beat the Heat: Summer Hive Maintenance Essentials",
+    "dek": "Keep your bees cool and thriving",
+    "takeaway": "Regular summer hive maintenance is crucial for healthy bees",
+    "whatHappened": "As temperatures rise, bees can become stressed and vulnerable to disease. Summer is a critical time for hive maintenance, with regular checks necessary to ensure the health and well-being of your colony. Neglecting summer maintenance can lead to colony collapse and decreased honey production.",
+    "whyItMatters": "A healthy hive is essential for a successful harvest, and summer maintenance plays a significant role in determining the overall health of your bees. By taking proactive steps, you can help your bees thrive and increase your chances of a bountiful harvest. Regular checks can also help identify potential issues before they become major problems.",
+    "howToThink": "To maintain a healthy hive during the summer, focus on providing adequate ventilation, ensuring sufficient water supply, and monitoring for signs of disease or pests. Regularly inspect your hive, looking for signs of stress or disease, and take corrective action as needed. Consider adding a hive stand or using a screened bottom board to improve airflow and reduce heat stress.",
+    "pros": [
+      "Improved ventilation",
+      "Increased honey production",
+      "Healthier bees"
+    ],
+    "cons": [
+      "Increased labor",
+      "Potential for disease",
+      "Higher maintenance costs"
+    ],
+    "watchOut": "Be cautious of overheating, which can lead to bee death and hive collapse",
+    "faq": [
+      {
+        "q": "How often should I inspect my hive during the summer?",
+        "a": "At least once a week, or more frequently during extreme heat waves"
+      },
+      {
+        "q": "What are the signs of heat stress in bees?",
+        "a": "Lethargy, disorientation, and increased water consumption"
+      },
+      {
+        "q": "Can I use fans to cool my hive?",
+        "a": "Yes, but use caution to avoid blowing air directly into the hive, which can stress the bees"
+      }
+    ],
+    "category": "Health",
+    "tags": [
+      "bee health",
+      "summer maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Beekeeping community threads",
+        "url": "https://www.reddit.com/r/Beekeeping/"
+      },
+      {
+        "label": "Search interest: \"start beekeeping cost\"",
+        "url": "https://duckduckgo.com/?q=start%20beekeeping%20cost"
+      }
+    ],
+    "publishedAt": "2026-08-13T05:22:05.127Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hives-38",
     "title": "A weekend project: level up your hives in two hours",
     "dek": "One contained, satisfying hives project for backyard beekeepers — start Saturday morning, done by lunch.",

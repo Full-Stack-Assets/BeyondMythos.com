@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-your-cadence",
+    "title": "Optimizing Cadence for Improved Performance",
+    "dek": "Boost performance with targeted cadence work",
+    "takeaway": "Focused cadence training can significantly enhance overall cycling efficiency and speed",
+    "whatHappened": "Recent studies have highlighted the importance of cadence in cycling performance, showing that small improvements can lead to significant gains. Indoor cyclists and virtual racers can particularly benefit from this, as it directly impacts their ability to compete and train effectively. By understanding and optimizing cadence, cyclists can better utilize their training time and platforms.",
+    "whyItMatters": "Optimizing cadence matters because it affects both the physical and mental aspects of cycling. Physically, it improves muscle efficiency and reduces fatigue. Mentally, achieving a consistent and optimal cadence can boost confidence and race performance. Moreover, in virtual racing, small optimizations like cadence can make a significant difference in the competitive landscape.",
+    "howToThink": "To approach cadence training, cyclists should first assess their current cadence during different intensities and terrains. Then, they can incorporate specific drills into their training routine, such as high-cadence intervals and strength training to support higher cadences. Consistency and patience are key, as noticeable improvements may take several weeks of dedicated practice.",
+    "pros": [
+      "Improved Efficiency",
+      "Increased Speed",
+      "Better Endurance"
+    ],
+    "cons": [
+      "Requires Dedicated Practice",
+      "May Feel Uncomfortable Initially",
+      "Needs Regular Monitoring"
+    ],
+    "watchOut": "Be cautious not to overdo high-cadence training, as it can lead to undue stress on the knees and other joints",
+    "faq": [
+      {
+        "q": "What is the ideal cadence for indoor cycling?",
+        "a": "The ideal cadence can vary based on the individual and the specific workout, but a general target is between 80-100 revolutions per minute (RPM)"
+      },
+      {
+        "q": "How often should I incorporate cadence drills into my training?",
+        "a": "It's recommended to dedicate at least one session per week to cadence-specific training, adjusting as needed based on performance and comfort"
+      },
+      {
+        "q": "Can I use Virtual Racing Platforms to improve my cadence?",
+        "a": "Yes, platforms like Zwift offer various training plans and tools that can help you monitor and improve your cadence in a virtual and engaging environment"
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "Cadence Training",
+      "Indoor Cycling"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-13T05:22:06.306Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-training-36",
     "title": "The quiet upgrade: small tweaks in training with outsized returns",
     "dek": "No purchases, no overhauls — the modest training adjustments that indoor cyclists and virtual racers report mattering most.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-25.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-25.html</guid>
+      <pubDate>Thu, 13 Aug 2026 05:21:59 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
+    </item>
+    <item>
       <title>Slash Your SNES Controller Latency</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controller-latency.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controller-latency.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance-3.html</guid>
       <pubDate>Tue, 11 Aug 2026 14:05:13 GMT</pubDate>
       <description>Boost your retro console&apos;s performance with these tweaks</description>
-    </item>
-    <item>
-      <title>&quot;hidden snes gems&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-10.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-10.html</guid>
-      <pubDate>Tue, 11 Aug 2026 12:28:11 GMT</pubDate>
-      <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
