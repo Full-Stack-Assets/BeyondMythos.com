@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-for-top-speed",
+    "title": "Finding the sweet spot: motor and prop tuning for FPV racing",
+    "dek": "Get the most from your drone",
+    "takeaway": "Proper motor and prop tuning can significantly increase your drone's speed and performance",
+    "whatHappened": "Recent advancements in motor and propeller technology have led to a new generation of high-performance FPV drones. However, to take full advantage of these components, pilots must understand how to properly tune their setup. This includes selecting the right motor and propeller combination, as well as adjusting settings such as pitch and throttle curve.",
+    "whyItMatters": "A well-tuned drone can mean the difference between winning and losing in competitive racing, and can also enhance the overall flying experience for freestyle and recreational pilots. Furthermore, a properly tuned drone can help to prevent damage to components and reduce the risk of crashes.",
+    "howToThink": "When tuning your drone, it's essential to consider factors such as the type of flying you'll be doing, the size and weight of your drone, and the capabilities of your motor and propeller. Start by researching and selecting a motor and propeller combination that is well-suited to your needs, then use a combination of theory and trial-and-error to find the optimal settings for your drone.",
+    "pros": [
+      "Increased speed",
+      "Improved performance",
+      "Enhanced flying experience"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Risk of component damage",
+      "Time-consuming process"
+    ],
+    "watchOut": "Be cautious not to over-tighten or over-loosen your propellers, as this can lead to damage or loss of control",
+    "faq": [
+      {
+        "q": "What is the best motor for FPV racing?",
+        "a": "The best motor for FPV racing will depend on your specific needs and setup, but popular options include the T-Motor F40 and the BrotherHobby Returner"
+      },
+      {
+        "q": "How do I know if my propellers are properly tuned?",
+        "a": "You can determine if your propellers are properly tuned by checking for smooth and consistent performance, and making adjustments as needed to achieve optimal results"
+      },
+      {
+        "q": "Can I use the same motor and propeller setup for freestyle and racing?",
+        "a": "While it's possible to use the same motor and propeller setup for both freestyle and racing, it's generally recommended to optimize your setup for the specific type of flying you'll be doing"
+      }
+    ],
+    "category": "Builds",
+    "tags": [
+      "FPV tuning",
+      "drone performance"
+    ],
+    "sources": [
+      {
+        "label": "r/Multicopter community threads",
+        "url": "https://www.reddit.com/r/Multicopter/"
+      },
+      {
+        "label": "Search interest: \"fpv simulator practice\"",
+        "url": "https://duckduckgo.com/?q=fpv%20simulator%20practice"
+      }
+    ],
+    "publishedAt": "2026-08-13T10:43:35.263Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-simulators-39",
     "title": "The quiet upgrade: small tweaks in simulators with outsized returns",
     "dek": "No purchases, no overhauls — the modest simulators adjustments that FPV drone pilots and builders report mattering most.",

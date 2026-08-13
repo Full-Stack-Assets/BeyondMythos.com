@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-green-mastery",
+    "title": "Growing Microgreens in Small Spaces",
+    "dek": "Boost flavor and nutrition",
+    "takeaway": "Microgreens can thrive in tiny spaces with proper care and attention",
+    "whatHappened": "Microgreens have become increasingly popular among urban gardeners due to their ease of growth and high nutritional value. They can be harvested in as little as 7-10 days and require minimal space. This makes them perfect for apartment dwellers and balcony gardeners with limited room.",
+    "whyItMatters": "Incorporating microgreens into your diet can provide a significant boost to your overall health and wellbeing. They are rich in vitamins, minerals, and antioxidants, making them a great addition to salads, sandwiches, and other dishes. By growing your own microgreens, you can ensure a constant supply of fresh, healthy produce.",
+    "howToThink": "To get started with growing microgreens, begin by selecting a container that is at least 1-2 inches deep and has good drainage. Fill the container with a high-quality potting mix and sow your microgreen seeds densely. Keep the soil consistently moist and provide adequate light, and you'll be harvesting your microgreens in no time.",
+    "pros": [
+      "High nutritional value",
+      "Easy to grow",
+      "Space-efficient"
+    ],
+    "cons": [
+      "Requires consistent moisture",
+      "Can be sensitive to light",
+      "Short shelf life"
+    ],
+    "watchOut": "Be cautious not to overwater your microgreens, as this can lead to mold and poor growth",
+    "faq": [
+      {
+        "q": "What are the best microgreens to grow for beginners?",
+        "a": "Pea shoots, radish greens, and salad mix are all great options for those new to growing microgreens"
+      },
+      {
+        "q": "How often should I water my microgreens?",
+        "a": "Microgreens require consistent moisture, but make sure not to overwater - a daily watering schedule is usually sufficient"
+      },
+      {
+        "q": "Can I grow microgreens indoors without direct sunlight?",
+        "a": "Yes, microgreens can be grown indoors with indirect sunlight or under grow lights, but may require more frequent watering"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "microgreens",
+      "indoor gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-13T10:43:31.565Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "winter-herb-container-care-6",
     "title": "Herb Survival Guide: Navigating Winter on Your Balcony",
     "dek": "Protect your herbs from winter damage",

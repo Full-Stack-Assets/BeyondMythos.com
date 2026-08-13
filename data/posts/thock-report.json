@@ -1,5 +1,56 @@
 [
   {
+    "slug": "switch-actuation-points-matter",
+    "title": "The Actuation Point Revolution: How Switch Tuning Is Changing Custom Boards",
+    "dek": "Optimize your switch actuation for better typing.",
+    "takeaway": "Tuning switch actuation points can significantly enhance typing accuracy and speed on custom mechanical keyboards.",
+    "whatHappened": "Recent advancements in switch technology have led to a surge in customizable actuation points, allowing enthusiasts to fine-tune their keyboards for optimal performance. This shift has sparked a community-wide discussion on the importance of switch actuation in achieving the perfect typing experience. As a result, keyboard builders are now more than ever experimenting with different actuation points to find their sweet spot.",
+    "whyItMatters": "The ability to adjust actuation points matters because it directly impacts the tactile feedback and overall feel of the keyboard. For gamers, it can mean the difference between victory and defeat, while for typists, it can significantly reduce fatigue and improve accuracy. Moreover, with the rise of custom keyboards, understanding how to optimize switch actuation is becoming a crucial skill for any enthusiast looking to elevate their setup.",
+    "howToThink": "When considering switch actuation tuning, think about your personal typing style and preferences. If you're a heavy-handed typist, you might prefer a higher actuation point for less accidental key presses. Conversely, if you're a light typist, a lower actuation point could provide a more responsive typing experience. It's also important to experiment with different switch types and actuation points to find what works best for you.",
+    "pros": [
+      "Improved typing accuracy",
+      "Enhanced tactile feedback",
+      "Customizable to user preference"
+    ],
+    "cons": [
+      "Requires trial and error",
+      "Not all switches are adjustable",
+      "May not suit all typing styles"
+    ],
+    "watchOut": "Be cautious not to over-tighten switches, as this can lead to premature wear and potentially damage the switch or the keyboard PCB.",
+    "faq": [
+      {
+        "q": "What is switch actuation point?",
+        "a": "The distance a switch must be pressed before it registers a key press."
+      },
+      {
+        "q": "Can all switches have their actuation points adjusted?",
+        "a": "No, not all switches are designed to be adjustable; it depends on the switch type and manufacturer."
+      },
+      {
+        "q": "How do I know if I need to adjust my switch actuation points?",
+        "a": "If you find yourself experiencing a high rate of typos or if your keyboard feels too sensitive or not sensitive enough, adjusting the actuation points might be necessary."
+      }
+    ],
+    "category": "Switches",
+    "tags": [
+      "switch tuning",
+      "custom keyboards"
+    ],
+    "sources": [
+      {
+        "label": "r/BudgetKeebs community threads",
+        "url": "https://www.reddit.com/r/BudgetKeebs/"
+      },
+      {
+        "label": "Search interest: \"first custom keyboard build\"",
+        "url": "https://duckduckgo.com/?q=first%20custom%20keyboard%20build"
+      }
+    ],
+    "publishedAt": "2026-08-13T10:43:36.160Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-group-buys-38",
     "title": "Ask the forge: your group buys questions, answered",
     "dek": "Straight answers to the group buys questions mechanical keyboard builders and enthusiasts keep asking, minus the hedging.",
