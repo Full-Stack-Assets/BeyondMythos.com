@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-snes-controller-latency",
+    "title": "Slash Your SNES Controller Latency",
+    "dek": "Get the edge with faster inputs",
+    "takeaway": "Optimizing your SNES controller can shave precious milliseconds off your speedrun times",
+    "whatHappened": "Recent tests have shown that stock SNES controllers can introduce up to 16ms of input latency, a significant delay for competitive speedrunners. By upgrading to a customized controller or implementing a DIY latency reduction mod, players can gain a critical edge. This discovery has sparked a wave of innovation among the speedrunning community",
+    "whyItMatters": "In the high-stakes world of competitive speedrunning, every millisecond counts, and minimizing controller latency can be the difference between a world record and a missed opportunity. Furthermore, this optimization can also enhance the overall gaming experience for retro enthusiasts. As the community continues to push the boundaries of what is possible, reducing latency has become a key focus",
+    "howToThink": "When considering a controller upgrade or mod, think about your specific speedrunning needs and the games you play most frequently. Look for modifications that address the root causes of latency, such as signal processing and cable quality. Additionally, consult with experienced modders and speedrunners to ensure you're getting the most out of your optimization",
+    "pros": [
+      "Improved speedrun times",
+      "Enhanced gaming experience",
+      "Customizable solutions"
+    ],
+    "cons": [
+      "Potential cost",
+      "Technical expertise required",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be cautious of cheap or poorly made modifications that can introduce new problems or damage your hardware",
+    "faq": [
+      {
+        "q": "What is the average latency of a stock SNES controller?",
+        "a": "Around 10-16ms"
+      },
+      {
+        "q": "Can I reduce latency without modifying my controller?",
+        "a": "Yes, using a high-quality cable or signal amplifier can help"
+      },
+      {
+        "q": "Are there any risks associated with modifying my SNES controller?",
+        "a": "Yes, improper modifications can damage your hardware or void your warranty"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "speedrun",
+      "SNES"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-13T03:14:45.134Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-snes-console-performance",
     "title": "SNES Console Optimization for Speed Demons",
     "dek": "Unlock your SNES' full potential",

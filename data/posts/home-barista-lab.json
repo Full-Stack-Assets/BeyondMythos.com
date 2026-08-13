@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-grinder-temperature-control",
+    "title": "Temperature Tamers: The Secret to Perfect Grinding",
+    "dek": "Heat-control grinders revolutionize flavor",
+    "takeaway": "Investing in a temperature-controlled grinder enhances your coffee's flavor profile",
+    "whatHappened": "Recent advancements in coffee grinder technology have led to the development of temperature-controlled grinders, which mitigate heat buildup during the grinding process. This innovation has significant implications for home baristas seeking to optimize their coffee's flavor. By reducing heat-generated flavor loss, these grinders ensure a more precise and flavorful cup",
+    "whyItMatters": "Heat damage to coffee beans can result in a loss of delicate flavors and aromas, making temperature control a crucial aspect of the grinding process. As home coffee enthusiasts strive for professional-grade brews, the importance of investing in high-quality gear like temperature-controlled grinders cannot be overstated. This technology has the potential to elevate the entire coffee-making experience",
+    "howToThink": "When selecting a temperature-controlled grinder, consider the material and design, as these factors directly impact the device's ability to regulate heat. Additionally, think about your specific brewing needs and the types of coffee you typically drink, as different grinders may be better suited to certain roast levels or brewing methods. By doing your research and choosing the right grinder, you can significantly improve your coffee's quality and consistency",
+    "pros": [
+      "Enhanced flavor profile",
+      "Reduced heat damage",
+      "Increased precision"
+    ],
+    "cons": [
+      "Higher cost",
+      "Complexity of some models",
+      "Limited compatibility"
+    ],
+    "watchOut": "Be cautious of extremely cheap temperature-controlled grinders, as they may not provide the same level of quality and performance as more reputable brands",
+    "faq": [
+      {
+        "q": "What is the ideal temperature range for grinding coffee?",
+        "a": "The ideal range is between 10°C and 30°C"
+      },
+      {
+        "q": "Can I use a temperature-controlled grinder for both espresso and pour-over?",
+        "a": "Yes, many models are versatile and suitable for multiple brewing methods"
+      },
+      {
+        "q": "How do I maintain and clean my temperature-controlled grinder?",
+        "a": "Regularly clean the burrs and chambers, and follow the manufacturer's guidelines for maintenance and troubleshooting"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Grinder Tech",
+      "Coffee Precision"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-13T03:14:45.369Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-cleaning-hacks-9",
     "title": "Brewing Hygiene 101: How Clean is Your Machine?",
     "dek": "Dirty machines, bad taste",

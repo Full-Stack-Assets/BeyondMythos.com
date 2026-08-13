@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Reclaiming the Joy of Slow Train Travel</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-revival.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-revival.html</guid>
+      <pubDate>Thu, 13 Aug 2026 03:14:44 GMT</pubDate>
+      <description>Slow trains make a comeback</description>
+    </item>
+    <item>
       <title>The Ultimate Rail Travel Packing List for Low-Impact Explorers</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/repacking-rail-essentials.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/repacking-rail-essentials.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/weekend-project-rail-27.html</guid>
       <pubDate>Tue, 11 Aug 2026 12:28:11 GMT</pubDate>
       <description>One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/solotravel is debating this week</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-solotravel-10.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-solotravel-10.html</guid>
-      <pubDate>Tue, 11 Aug 2026 11:28:55 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the local community this week.</description>
     </item>
   </channel>
 </rss>

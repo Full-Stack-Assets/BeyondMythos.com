@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-container-care-5",
+    "title": "Cozy Containers: Keeping Herbs Alive Through Winter",
+    "dek": "Protect your herbs from the cold.",
+    "takeaway": "With the right techniques, you can keep your herb containers thriving year-round.",
+    "whatHappened": "As winter sets in, many apartment dwellers and balcony gardeners are forced to bring their herb containers indoors. However, this can be a challenging time for these plants, as they require careful care to survive the cold and low-light conditions. By taking a few simple steps, you can keep your herbs healthy and thriving throughout the winter months.",
+    "whyItMatters": "Herbs are a crucial part of many recipes, and having a steady supply of fresh herbs can elevate your cooking and add flavor to your meals. Additionally, caring for plants can have numerous mental and physical health benefits, making it a great hobby for apartment dwellers. By keeping your herb containers alive through winter, you can continue to enjoy the benefits of gardening and fresh herbs year-round.",
+    "howToThink": "To keep your herb containers thriving, make sure to provide them with enough light, water, and nutrients. Consider using grow lights or placing your containers near a sunny window, and avoid overwatering, which can be detrimental to the plants. You should also fertilize your herbs regularly, using a balanced fertilizer that is specifically designed for indoor plants.",
+    "pros": [
+      "Year-round herb supply",
+      "Improved mental health",
+      "Fresh flavors"
+    ],
+    "cons": [
+      "Limited space",
+      "Requires extra care",
+      "Potential for overwatering"
+    ],
+    "watchOut": "Be careful not to overwater your herbs, as this can lead to root rot and other problems.",
+    "faq": [
+      {
+        "q": "What herbs are best for indoor containers?",
+        "a": "Basil, mint, and parsley are great options for indoor containers."
+      },
+      {
+        "q": "How often should I water my herbs?",
+        "a": "Water your herbs when the soil feels dry to the touch, usually every 1-2 days."
+      },
+      {
+        "q": "Can I use regular fertilizer on my indoor herbs?",
+        "a": "No, it's best to use a balanced fertilizer that is specifically designed for indoor plants, as regular fertilizers can be too strong."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "indoor gardening",
+      "herb care"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-13T03:14:44.914Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "maximizing-balcony-space-20",
     "title": "Squeeze Every Inch: Optimizing Balcony Gardens for Maximum Yield",
     "dek": "Get the most from your balcony garden",

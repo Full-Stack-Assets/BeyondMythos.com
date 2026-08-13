@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Cozy Containers: Keeping Herbs Alive Through Winter</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-container-care-5.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-container-care-5.html</guid>
+      <pubDate>Thu, 13 Aug 2026 03:14:44 GMT</pubDate>
+      <description>Protect your herbs from the cold.</description>
+    </item>
+    <item>
       <title>Squeeze Every Inch: Optimizing Balcony Gardens for Maximum Yield</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-space-20.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-space-20.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-31.html</guid>
       <pubDate>Tue, 11 Aug 2026 12:28:11 GMT</pubDate>
       <description>One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/UrbanGardening is debating this week</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/community-pulse-urbangardening-5.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/community-pulse-urbangardening-5.html</guid>
-      <pubDate>Tue, 11 Aug 2026 11:28:55 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.</description>
     </item>
   </channel>
 </rss>
