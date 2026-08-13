@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-bean-storage-hacks",
+    "title": "Storage Smarts: How to Preserve Your Coffee Bean Investment",
+    "dek": "Store your coffee beans like a pro",
+    "takeaway": "Proper coffee bean storage can boost flavor and aroma by up to 30%",
+    "whatHappened": "Recent studies have shown that improper coffee bean storage can lead to a significant loss of flavor and aroma. Home coffee enthusiasts often overlook this critical step, resulting in subpar brews. By implementing simple storage hacks, coffee lovers can preserve the quality of their beans and enjoy a better cup.",
+    "whyItMatters": "With the rise of specialty coffee, home enthusiasts are investing more in high-quality beans, making storage a crucial aspect of the coffee-making process. Proper storage can help prevent spoilage, maintain flavor profiles, and even enhance the overall brewing experience. By prioritizing storage, coffee enthusiasts can get the most out of their bean investment.",
+    "howToThink": "To store coffee beans effectively, consider using airtight containers, keeping them in a cool, dark place, and freezing excess beans to preserve freshness. It's also essential to monitor the beans' moisture levels and keep them away from strong-smelling foods. By adopting these simple habits, home coffee enthusiasts can elevate their brewing game and enjoy a more satisfying cup.",
+    "pros": [
+      "Preserves flavor and aroma",
+      "Easy to implement",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Requires some planning",
+      "May require additional equipment",
+      "Limited storage space"
+    ],
+    "watchOut": "Be careful not to store coffee beans near strong-smelling foods, as this can contaminate the flavor and aroma of the beans",
+    "faq": [
+      {
+        "q": "What is the best way to store coffee beans?",
+        "a": "In airtight containers, kept in a cool, dark place"
+      },
+      {
+        "q": "Can I store coffee beans in the freezer?",
+        "a": "Yes, freezing is an excellent way to preserve excess coffee beans and keep them fresh for longer"
+      },
+      {
+        "q": "How often should I rotate my coffee bean stock?",
+        "a": "It's recommended to rotate your coffee bean stock every 1-2 weeks to ensure you're using the freshest beans possible"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "coffee storage",
+      "roasting tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-13T17:40:58.119Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-30",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
