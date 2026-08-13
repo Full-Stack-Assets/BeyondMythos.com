@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-your-grind",
+    "title": "The Grinding Truth: How to Fine-Tune Your Grind",
+    "dek": "Get the perfect grind every time",
+    "takeaway": "A well-calibrated grinder is key to a perfect cup of coffee",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end grinders, only to find that their shots are still inconsistent. This led us to investigate the importance of grind calibration. By fine-tuning the grind, home baristas can significantly improve the quality of their espresso shots.",
+    "whyItMatters": "A improperly calibrated grind can lead to channeling, under-extraction, or over-extraction, resulting in a subpar cup of coffee. By understanding how to adjust the grind, home baristas can take control of the brewing process and achieve a more balanced flavor. This, in turn, can elevate the overall coffee experience",
+    "howToThink": "To fine-tune your grind, start by adjusting the grinder's settings in small increments, then taste and adjust accordingly. It's also essential to consider the type of coffee beans, roast level, and brewing method when calibrating the grind. By adopting a systematic approach to grind adjustment, home baristas can develop a deeper understanding of the brewing process",
+    "pros": [
+      "Improved flavor",
+      "Increased control",
+      "Better consistency"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires patience",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be cautious not to over-adjust the grind, as this can lead to an unbalanced flavor profile",
+    "faq": [
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "The ideal grind size for espresso is typically between 200-250 microns"
+      },
+      {
+        "q": "How often should I calibrate my grinder?",
+        "a": "You should calibrate your grinder every 1-2 weeks, or whenever you change coffee beans or roast levels"
+      },
+      {
+        "q": "Can I use a blade grinder to fine-tune my grind?",
+        "a": "No, blade grinders are not suitable for fine-tuning your grind, as they can generate heat and produce inconsistent results"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grind calibration",
+      "coffee gear"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-13T15:37:31.235Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pour-over-technique-field-test-8",
     "title": "\"pour over technique\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.",

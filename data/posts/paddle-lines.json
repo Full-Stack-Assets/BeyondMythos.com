@@ -1,5 +1,56 @@
 [
   {
+    "slug": "kayak-lighting-essentials",
+    "title": "Shine On: Kayak Lighting Essentials for Night Paddlers",
+    "dek": "Stay visible on the water after dark",
+    "takeaway": "Proper kayak lighting is crucial for safe night paddling and visibility",
+    "whatHappened": "As the days get shorter, many paddlers find themselves on the water at dawn or dusk, when visibility is reduced. This can be a hazardous time, especially when sharing the water with larger, faster craft. Investing in proper lighting can make all the difference in staying safe and visible.",
+    "whyItMatters": "Without proper lighting, kayakers are at risk of collision with other boats or obstacles. Moreover, being visible to other water users reduces the likelihood of accidents and near-misses. It's also a requirement in many jurisdictions to carry a light source when paddling after dark.",
+    "howToThink": "When choosing a kayak light, consider the type of paddling you'll be doing, the distance you'll be from other boats, and the local regulations regarding lighting. LED lights are energy-efficient and durable, making them a great option for kayakers. Always test your lighting before heading out to ensure it's working properly.",
+    "pros": [
+      "Increased visibility",
+      "Reduced accident risk",
+      "Easy to install"
+    ],
+    "cons": [
+      "Added expense",
+      "Battery life concerns",
+      "Regulatory requirements"
+    ],
+    "watchOut": "Be aware of the specific lighting requirements in your area to avoid fines or other penalties",
+    "faq": [
+      {
+        "q": "What type of light is best for kayaking?",
+        "a": "LED lights are recommended for their energy efficiency and durability"
+      },
+      {
+        "q": "Do I need a light if I'm only paddling during the day?",
+        "a": "No, but it's always a good idea to carry a light source in case you're paddling later than expected"
+      },
+      {
+        "q": "Can I use a flashlight as a kayak light?",
+        "a": "While a flashlight can be used in an emergency, it's not a recommended primary light source due to its limited visibility and battery life"
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "kayak safety",
+      "night paddling"
+    ],
+    "sources": [
+      {
+        "label": "r/canoeing community threads",
+        "url": "https://www.reddit.com/r/canoeing/"
+      },
+      {
+        "label": "Search interest: \"best day paddle trips\"",
+        "url": "https://duckduckgo.com/?q=best%20day%20paddle%20trips"
+      }
+    ],
+    "publishedAt": "2026-08-13T15:37:35.428Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "kayak-safety-basics-field-test-13",
     "title": "\"kayak safety basics\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about kayak safety basics through a month of actual use. Some of it survived.",
