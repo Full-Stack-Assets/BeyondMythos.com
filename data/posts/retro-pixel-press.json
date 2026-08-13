@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-101-7",
+    "title": "Retro Console Modding for Beginners",
+    "dek": "Upgrade your retro console",
+    "takeaway": "Modding your retro console can breathe new life into old hardware",
+    "whatHappened": "The world of retro console modding has exploded in recent years, with a plethora of new mods and tutorials available online. From simple LED lighting upgrades to complex hardware overhauls, there's never been a better time to dive in. With the right tools and knowledge, you can transform your dusty old console into a sleek, modern gaming machine.",
+    "whyItMatters": "Modding your retro console can not only improve performance but also enhance the overall gaming experience. With the ability to add new features and functionality, you can play your favorite games in ways you never thought possible. Additionally, modding can help extend the life of your console, saving you money and reducing electronic waste.",
+    "howToThink": "When approaching a modding project, it's essential to research and plan carefully. Start by identifying your goals and determining which mods will best achieve them. Consider factors such as cost, complexity, and potential risks, and don't be afraid to seek advice from online communities or experienced modders.",
+    "pros": [
+      "Improved performance",
+      "Enhanced gaming experience",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Technical complexity",
+      "Limited support"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics and follow proper safety protocols to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What is the best way to get started with retro console modding?",
+        "a": "Start by researching online tutorials and forums to learn about different mods and techniques"
+      },
+      {
+        "q": "What are the most common mistakes made by beginner modders?",
+        "a": "Common mistakes include improper soldering, incorrect component installation, and failure to follow safety protocols"
+      },
+      {
+        "q": "How can I ensure my modded console remains stable and functional?",
+        "a": "Regularly test and troubleshoot your console, and stay up-to-date with the latest modding news and updates"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-13T07:02:01.424Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-25",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

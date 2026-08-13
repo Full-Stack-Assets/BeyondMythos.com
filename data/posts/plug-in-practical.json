@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fast-charging-networks-compared",
+    "title": "Fast Charging Face-Off: Which Network Reigns Supreme",
+    "dek": "Fast charging networks put to the test",
+    "takeaway": "The right fast charging network can save you time and money on long road trips",
+    "whatHappened": "We compared the major fast charging networks, including Tesla's Supercharger, Electrify America, and ChargePoint. Our research revealed significant differences in coverage, speed, and pricing. While Tesla's network remains one of the most extensive, other providers are quickly catching up.",
+    "whyItMatters": "As EV adoption grows, the demand for fast and reliable charging infrastructure increases. A well-developed charging network can make or break the ownership experience, especially for those who frequently take long road trips. By understanding the strengths and weaknesses of each network, EV owners can make informed decisions about their charging needs.",
+    "howToThink": "When evaluating fast charging networks, consider factors such as coverage in your area, charging speeds, and pricing plans. It's also essential to think about your specific driving habits and needs, as some networks may better cater to your lifestyle. By doing your research, you can ensure a seamless and convenient charging experience.",
+    "pros": [
+      "Convenient",
+      "Fast",
+      "Reliable"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited",
+      "Inconsistent"
+    ],
+    "watchOut": "Be aware of potential network congestion and plan your charging stops accordingly to avoid delays",
+    "faq": [
+      {
+        "q": "What is the fastest charging network?",
+        "a": "Tesla's Supercharger network currently offers the fastest charging speeds, with some stations delivering up to 250 kW"
+      },
+      {
+        "q": "How much does fast charging cost?",
+        "a": "Pricing varies depending on the network and your location, but expect to pay between $0.25 and $0.50 per kWh"
+      },
+      {
+        "q": "Can I use any fast charging network with my EV?",
+        "a": "Most modern EVs are compatible with multiple fast charging networks, but it's essential to check your vehicle's specifications before using a particular network"
+      }
+    ],
+    "category": "Charging",
+    "tags": [
+      "EV Charging",
+      "Fast Charging"
+    ],
+    "sources": [
+      {
+        "label": "r/TeslaLounge community threads",
+        "url": "https://www.reddit.com/r/TeslaLounge/"
+      },
+      {
+        "label": "Search interest: \"electric car ownership costs\"",
+        "url": "https://duckduckgo.com/?q=electric%20car%20ownership%20costs"
+      }
+    ],
+    "publishedAt": "2026-08-13T07:02:09.928Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-deals-27",
     "title": "Ask the forge: your deals questions, answered",
     "dek": "Straight answers to the deals questions EV owners and prospective electric car buyers keep asking, minus the hedging.",

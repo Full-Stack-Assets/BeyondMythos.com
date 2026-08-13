@@ -1,5 +1,56 @@
 [
   {
+    "slug": "shaking-up-the-classics",
+    "title": "Revolutionizing Your Whiskey Sour",
+    "dek": "Elevate a timeless cocktail with simple tweaks",
+    "takeaway": "A balanced whiskey sour relies on quality ingredients and technique",
+    "whatHappened": "The whiskey sour, a classic cocktail, has seen numerous interpretations over the years. Recent experiments with various types of whiskey and citrus have led to a resurgence in its popularity. By focusing on the core elements of the drink, home bartenders can create a superior version",
+    "whyItMatters": "Understanding the fundamentals of the whiskey sour allows bartenders to experiment with confidence, creating unique flavor profiles that cater to personal tastes. This knowledge also translates to other classic cocktails, enhancing the overall bartending experience. A well-crafted whiskey sour can become a staple in any home bar",
+    "howToThink": "When approaching the whiskey sour, consider the type of whiskey and its flavor profile, as well as the acidity and sweetness levels. Balance is key, so adjust ingredients according to taste. Practice makes perfect, so don't be afraid to experiment and refine your technique",
+    "pros": [
+      "Improved flavor profile",
+      "Enhanced bartending skills",
+      "Increased confidence"
+    ],
+    "cons": [
+      "Trial and error required",
+      "Quality ingredients can be costly",
+      "Technique takes time to master"
+    ],
+    "watchOut": "Be cautious not to over-dilute the drink when shaking, as this can result in an unbalanced flavor",
+    "faq": [
+      {
+        "q": "What type of whiskey is best for a whiskey sour?",
+        "a": "A medium-bodied whiskey with a balanced flavor profile works well"
+      },
+      {
+        "q": "Can I use alternative citrus fruits?",
+        "a": "Yes, experiment with different citrus fruits to find the perfect balance for your taste"
+      },
+      {
+        "q": "How do I achieve the perfect balance of sweet and sour?",
+        "a": "Adjust the amount of simple syrup and citrus juice to taste, considering the flavor profile of your whiskey"
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "Classics",
+      "Whiskey"
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "publishedAt": "2026-08-13T07:02:07.211Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-ingredients-36",
     "title": "The quiet upgrade: small tweaks in ingredients with outsized returns",
     "dek": "No purchases, no overhauls — the modest ingredients adjustments that home bartenders and cocktail hobbyists report mattering most.",

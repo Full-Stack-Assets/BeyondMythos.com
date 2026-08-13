@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Community pulse: what r/pourover is debating this week</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-8.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-8.html</guid>
+      <pubDate>Thu, 13 Aug 2026 07:02:00 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-29.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-29.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-myths.html</guid>
       <pubDate>Tue, 11 Aug 2026 15:37:04 GMT</pubDate>
       <description>Separate fact from fiction in espresso machine upkeep.</description>
-    </item>
-    <item>
-      <title>Descale, Backflush, Repeat: The Ultimate Espresso Machine Cleaning Guide</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-7.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-7.html</guid>
-      <pubDate>Tue, 11 Aug 2026 14:05:12 GMT</pubDate>
-      <description>Dirty machine? Fix it fast.</description>
     </item>
   </channel>
 </rss>
