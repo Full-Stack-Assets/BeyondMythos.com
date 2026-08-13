@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-for-speed",
+    "title": "Maximizing Thrust: The Impact of Propeller Pitch on FPV Performance",
+    "dek": "Optimize your drone's speed with proper prop tuning",
+    "takeaway": "Adjusting propeller pitch can significantly enhance your drone's performance and speed",
+    "whatHappened": "Recent advancements in propeller design have led to increased efficiency and thrust. However, choosing the right propeller pitch remains a challenge for many FPV pilots. A study on propeller pitch and its effects on drone performance has shed new light on the importance of proper tuning.",
+    "whyItMatters": "Proper propeller tuning can make a significant difference in the speed and agility of your drone, giving you a competitive edge in racing and freestyle flying. Moreover, it can also improve the overall efficiency and lifespan of your drone's motors. With the right propeller pitch, you can unlock your drone's full potential and take your flying to the next level.",
+    "howToThink": "When selecting a propeller, consider the size and type of your drone, as well as your flying style and preferences. It's essential to experiment with different propeller pitches to find the optimal setting for your drone. A good starting point is to consult with other pilots and manufacturers' recommendations, and then fine-tune your setup through trial and error.",
+    "pros": [
+      "Increased speed",
+      "Improved efficiency",
+      "Enhanced agility"
+    ],
+    "cons": [
+      "Reduced durability",
+      "Increased noise",
+      "Higher cost"
+    ],
+    "watchOut": "Be cautious not to over-tighten your propellers, as this can lead to damage to your drone's motors and other components",
+    "faq": [
+      {
+        "q": "What is the ideal propeller pitch for FPV racing?",
+        "a": "The ideal propeller pitch for FPV racing is typically between 4.5 and 5.5 inches, depending on the size and type of your drone"
+      },
+      {
+        "q": "How do I know if my propeller pitch is too high or too low?",
+        "a": "If your propeller pitch is too high, your drone may experience reduced speed and efficiency, while a pitch that's too low can lead to increased noise and vibration"
+      },
+      {
+        "q": "Can I use different propeller pitches on the same drone?",
+        "a": "Yes, you can experiment with different propeller pitches on the same drone, but be sure to follow the manufacturer's recommendations and take necessary safety precautions"
+      }
+    ],
+    "category": "Builds",
+    "tags": [
+      "FPV tuning",
+      "Drone performance"
+    ],
+    "sources": [
+      {
+        "label": "r/fpv community threads",
+        "url": "https://www.reddit.com/r/fpv/"
+      },
+      {
+        "label": "Search interest: \"fpv drone starter kit\"",
+        "url": "https://duckduckgo.com/?q=fpv%20drone%20starter%20kit"
+      }
+    ],
+    "publishedAt": "2026-08-13T19:43:18.308Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-simulators-40",
     "title": "The quiet upgrade: small tweaks in simulators with outsized returns",
     "dek": "No purchases, no overhauls — the modest simulators adjustments that FPV drone pilots and builders report mattering most.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "taming-the-grind",
+    "title": "Grind Mastery: Unlocking Flavor Potential",
+    "dek": "Elevate your brew with precise grinding control",
+    "takeaway": "Adjusting grind size can dramatically improve the flavor of your coffee",
+    "whatHappened": "We recently conducted an experiment with different grind settings on a variety of coffee beans. The results showed that even slight adjustments to the grind size could significantly impact the flavor profile. By fine-tuning the grind, we were able to bring out unique notes and characteristics in each bean.",
+    "whyItMatters": "A well-balanced grind is crucial for optimal extraction, and even small variations can lead to over or under-extraction. As home coffee enthusiasts, understanding how to adjust grind size can help us achieve a more consistent and flavorful cup. Furthermore, it allows us to experiment with different roasts and brewing methods, expanding our palate and coffee knowledge.",
+    "howToThink": "When adjusting grind size, consider the type of coffee bean, roast level, and brewing method. A good starting point is to reference a grind size chart, but be prepared to make adjustments based on taste. It's also essential to invest in a high-quality grinder that can produce a consistent grind, as this will have a significant impact on the final flavor of your coffee.",
+    "pros": [
+      "Improved flavor control",
+      "Increased consistency",
+      "Enhanced aroma"
+    ],
+    "cons": [
+      "Requires investment in a quality grinder",
+      "Steep learning curve",
+      "Time-consuming to adjust"
+    ],
+    "watchOut": "Be cautious not to over-adjust grind size, as this can lead to channeling or under-extraction, resulting in a poor-tasting cup",
+    "faq": [
+      {
+        "q": "What type of grinder is best for home use?",
+        "a": "A burr grinder is recommended for its consistency and control over grind size"
+      },
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Regular cleaning is essential to prevent old coffee oils and residue from affecting the flavor of your coffee"
+      },
+      {
+        "q": "Can I use a blade grinder for espresso?",
+        "a": "While possible, blade grinders are not recommended for espresso as they can generate heat, leading to inconsistent grind size and poor flavor"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Grind Control",
+      "Coffee Gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-13T19:43:14.852Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-27",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

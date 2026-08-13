@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-co2-diffusion",
+    "title": "CO2 Diffusion Hacks for Planted Tanks",
+    "dek": "Maximize CO2 absorption with these tweaks",
+    "takeaway": "Proper CO2 diffusion is crucial for healthy plant growth in planted tanks",
+    "whatHappened": "Recently, many aquarists have been experimenting with different CO2 diffusion methods to optimize plant growth. This has led to a surge in creative solutions, from DIY diffusers to commercial products. However, with so many options available, it can be challenging to determine the most effective approach.",
+    "whyItMatters": "Effective CO2 diffusion is essential for maintaining a healthy balance of oxygen and carbon dioxide in the tank. Inadequate diffusion can lead to poor plant growth, algae blooms, and even harm to livestock. By optimizing CO2 diffusion, aquarists can create a thriving environment for their plants and animals.",
+    "howToThink": "To optimize CO2 diffusion, consider the size and type of your tank, as well as the specific needs of your plants. Experiment with different diffuser types and placements to find the best approach for your setup. Regularly monitoring CO2 levels and adjusting your diffusion method as needed is also crucial for maintaining a healthy balance.",
+    "pros": [
+      "Improved plant growth",
+      "Increased oxygen levels",
+      "Reduced algae"
+    ],
+    "cons": [
+      "Higher equipment costs",
+      "Increased maintenance",
+      "Potential for over-correction"
+    ],
+    "watchOut": "Be cautious not to over-diffuse CO2, as this can lead to an imbalance in the tank's ecosystem",
+    "faq": [
+      {
+        "q": "What is the ideal CO2 level for a planted tank?",
+        "a": "The ideal CO2 level varies depending on the tank size and plant species, but a general range is 15-30 ppm"
+      },
+      {
+        "q": "Can I use a DIY diffuser instead of a commercial one?",
+        "a": "Yes, DIY diffusers can be effective, but may require more maintenance and experimentation to optimize"
+      },
+      {
+        "q": "How often should I monitor CO2 levels in my tank?",
+        "a": "CO2 levels should be monitored regularly, ideally daily, to ensure a stable and healthy environment"
+      }
+    ],
+    "category": "CO2",
+    "tags": [
+      "CO2 diffusion",
+      "planted tank optimization"
+    ],
+    "sources": [
+      {
+        "label": "r/shrimptank community threads",
+        "url": "https://www.reddit.com/r/shrimptank/"
+      },
+      {
+        "label": "Search interest: \"beginner aquarium plants\"",
+        "url": "https://duckduckgo.com/?q=beginner%20aquarium%20plants"
+      }
+    ],
+    "publishedAt": "2026-08-13T19:43:19.159Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-aquascape-hardscape-ideas-14",
     "title": "Myth vs. reality: aquascape hardscape ideas",
     "dek": "The persistent myths around aquascape hardscape ideas, stress-tested against what planted-tank keepers and aquascapers actually report.",

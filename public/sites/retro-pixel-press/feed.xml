@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of speedruns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-27.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-27.html</guid>
+      <pubDate>Thu, 13 Aug 2026 19:43:12 GMT</pubDate>
+      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-10.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-10.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-25.html</guid>
       <pubDate>Wed, 12 Aug 2026 03:10:36 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Fix It Like You Mean It: Essential Tools for Retro Console Repair</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-3.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-3.html</guid>
-      <pubDate>Wed, 12 Aug 2026 00:42:09 GMT</pubDate>
-      <description>Revive your retro consoles with these DIY fixes</description>
     </item>
   </channel>
 </rss>

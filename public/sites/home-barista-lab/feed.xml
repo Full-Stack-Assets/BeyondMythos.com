@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Grind Mastery: Unlocking Flavor Potential</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-grind.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-grind.html</guid>
+      <pubDate>Thu, 13 Aug 2026 19:43:14 GMT</pubDate>
+      <description>Elevate your brew with precise grinding control</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-27.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-27.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-reboot-2.html</guid>
       <pubDate>Wed, 12 Aug 2026 03:10:38 GMT</pubDate>
       <description>Revamp your tamping technique for better shots</description>
-    </item>
-    <item>
-      <title>Ask the forge: your gear questions, answered</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-25.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-25.html</guid>
-      <pubDate>Wed, 12 Aug 2026 00:42:07 GMT</pubDate>
-      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>
