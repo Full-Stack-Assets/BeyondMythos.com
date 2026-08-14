@@ -5,6 +5,13 @@
     <link>https://store-forge-roan.vercel.app/sites/night-lens/</link>
     <description>Fresh takes for backyard astrophotographers.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of processing</title>
+      <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/five-processing-mistakes-42.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/five-processing-mistakes-42.html</guid>
+      <pubDate>Fri, 14 Aug 2026 10:39:24 GMT</pubDate>
+      <description>The most common early stumbles in processing, and the cheap corrections that fix them for backyard astrophotographers.</description>
+    </item>
+    <item>
       <title>&quot;stacking software guide&quot; in practice: a real-world field test</title>
       <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/stacking-software-guide-field-test-14.html</link>
       <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/stacking-software-guide-field-test-14.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/weekend-project-rigs-39.html</guid>
       <pubDate>Wed, 12 Aug 2026 17:40:28 GMT</pubDate>
       <description>One contained, satisfying rigs project for backyard astrophotographers — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/AskAstrophotography is debating this week</title>
-      <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/community-pulse-askastrophotography-13.html</link>
-      <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/community-pulse-askastrophotography-13.html</guid>
-      <pubDate>Wed, 12 Aug 2026 16:34:52 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the light pollution community this week.</description>
     </item>
   </channel>
 </rss>

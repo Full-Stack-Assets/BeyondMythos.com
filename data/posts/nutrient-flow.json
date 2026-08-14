@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-hydroponic-water-temperature",
+    "title": "Water You Waiting For: The Crucial Role of Temperature in Hydroponics",
+    "dek": "Temperature control is key to healthy hydroponic growth.",
+    "takeaway": "Maintaining optimal water temperature is crucial for maximizing crop yields and preventing disease in indoor hydroponic systems.",
+    "whatHappened": "Recent studies have shown that water temperature plays a significant role in nutrient uptake and root development in hydroponic systems. Temperatures that are too high or too low can lead to reduced growth rates and increased susceptibility to disease. By monitoring and controlling water temperature, growers can create an optimal environment for their crops.",
+    "whyItMatters": "Water temperature affects the rate of nutrient uptake, root growth, and overall plant health. Incorrect temperatures can lead to a range of problems, including reduced yields, increased disease susceptibility, and even plant death. By understanding the importance of water temperature, growers can take steps to optimize their systems and improve crop performance.",
+    "howToThink": "To optimize water temperature, growers should invest in a high-quality temperature control system and monitor water temperature regularly. They should also consider factors such as water circulation, aeration, and insulation to create a stable and optimal environment for their crops. By taking a proactive approach to temperature control, growers can minimize risks and maximize yields.",
+    "pros": [
+      "Improved crop yields",
+      "Increased disease resistance",
+      "Enhanced root growth"
+    ],
+    "cons": [
+      "Higher equipment costs",
+      "Increased energy consumption",
+      "Additional maintenance requirements"
+    ],
+    "watchOut": " Failure to monitor and control water temperature can lead to catastrophic consequences for your hydroponic crops, so don't neglect this critical aspect of your system.",
+    "faq": [
+      {
+        "q": "What is the ideal water temperature for hydroponic systems?",
+        "a": "The ideal water temperature for hydroponic systems is between 65-75°F (18-24°C)."
+      },
+      {
+        "q": "How often should I monitor water temperature?",
+        "a": "Water temperature should be monitored at least daily, and ideally continuously, to ensure optimal conditions for your crops."
+      },
+      {
+        "q": "Can I use a standard aquarium heater to control water temperature?",
+        "a": "While aquarium heaters can be used in a pinch, they are not ideal for hydroponic systems and may not provide the level of control and precision required for optimal crop performance."
+      }
+    ],
+    "category": "Systems",
+    "tags": [
+      "hydroponic systems",
+      "water temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/hydro community threads",
+        "url": "https://www.reddit.com/r/hydro/"
+      },
+      {
+        "label": "Search interest: \"kratky method guide\"",
+        "url": "https://duckduckgo.com/?q=kratky%20method%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-14T10:39:31.795Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "lighting-pre-spend-checklist-37",
     "title": "The lighting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified lighting purchase from an expensive mood.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-van-storage-3",
+    "title": "Van Storage Hacks: Double Your Space",
+    "dek": "Smart storage for van life",
+    "takeaway": "Optimize your van's storage to travel lighter and live larger",
+    "whatHappened": "As van dwellers, we're always on the lookout for ways to maximize our living space. Recently, we've seen a surge in creative storage solutions that can double your van's capacity. From hidden compartments to multi-functional furniture, the possibilities are endless.",
+    "whyItMatters": "Effective storage is crucial for van life, as it directly impacts your comfort, safety, and overall experience. A well-organized van can reduce stress, improve navigation, and increase productivity. By investing in smart storage solutions, you can focus on what matters most – exploring the great outdoors.",
+    "howToThink": "When designing your van's storage, consider the 80/20 rule: 80% of the time, you likely only use 20% of your belongings. Prioritize essentials, and use vertical space, hidden compartments, and multi-functional items to create a clutter-free environment. Don't forget to label and categorize your storage to ensure easy access and maintenance.",
+    "pros": [
+      "Increased storage capacity",
+      "Improved organization",
+      "Enhanced safety"
+    ],
+    "cons": [
+      "Initial investment",
+      "Space constraints",
+      "Weight limitations"
+    ],
+    "watchOut": "Be mindful of weight distribution when adding storage solutions to avoid compromising your van's stability and safety",
+    "faq": [
+      {
+        "q": "What are the most essentials items to store in my van?",
+        "a": "Water, food, first aid kit, and a basic toolkit"
+      },
+      {
+        "q": "How can I maximize vertical space in my van?",
+        "a": "Use wall-mounted shelves, hooks, and nets to keep items off the floor and out of the way"
+      },
+      {
+        "q": "What are some creative storage solutions for small vans?",
+        "a": "Consider using hidden compartments, under-bed storage, and multi-functional furniture to optimize your space"
+      }
+    ],
+    "category": "Builds",
+    "tags": [
+      "van life",
+      "storage hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/VanLife community threads",
+        "url": "https://www.reddit.com/r/VanLife/"
+      },
+      {
+        "label": "Search interest: \"van solar power setup\"",
+        "url": "https://duckduckgo.com/?q=van%20solar%20power%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-14T10:39:29.729Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "routes-pre-spend-checklist-40",
     "title": "The routes checklist: run this before you spend",
     "dek": "Seven questions that separate a justified routes purchase from an expensive mood.",
