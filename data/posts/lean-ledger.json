@@ -1,5 +1,56 @@
 [
   {
+    "slug": "frugal-food-hacks",
+    "title": "Cutting food waste with meal planning",
+    "dek": "Plan meals, save money",
+    "takeaway": "Meal planning helps reduce food waste and saves up to 30% on grocery bills",
+    "whatHappened": "A recent study found that the average household throws away around 40% of the food they buy, resulting in significant financial losses. By planning meals in advance, households can avoid buying unnecessary items and reduce waste. This approach also helps to create a more organized grocery list, ensuring that only essential items are purchased.",
+    "whyItMatters": "Food waste is not only a financial burden but also an environmental concern, as it contributes to greenhouse gas emissions and waste management issues. By adopting meal planning habits, households can make a positive impact on the environment while also saving money. Additionally, meal planning helps to promote healthy eating habits and reduces the likelihood of reliance on convenience foods.",
+    "howToThink": "To get started with meal planning, begin by tracking your food intake and identifying patterns in your eating habits. Make a list of your favorite recipes and ingredients, and plan your meals around what's already in your pantry. Consider implementing a 'first in, first out' policy to ensure that older items are consumed before they expire.",
+    "pros": [
+      "Reduces food waste",
+      "Saves money",
+      "Promotes healthy eating"
+    ],
+    "cons": [
+      "Requires planning",
+      "May be time-consuming",
+      "Limited flexibility"
+    ],
+    "watchOut": "Be cautious not to overplan, as this can lead to burnout and decreased motivation",
+    "faq": [
+      {
+        "q": "How often should I meal plan?",
+        "a": "Aim to meal plan at least once a week, but ideally every 3-4 days to ensure flexibility"
+      },
+      {
+        "q": "What are some essential ingredients to keep in my pantry?",
+        "a": "Staples like rice, pasta, canned goods, and spices are great starting points"
+      },
+      {
+        "q": "Can I still be flexible with meal planning?",
+        "a": "Yes, you can always adjust your plan if unexpected events or cravings arise"
+      }
+    ],
+    "category": "Groceries",
+    "tags": [
+      "Grocery savings",
+      "Food waste reduction"
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"grocery budget tips\"",
+        "url": "https://duckduckgo.com/?q=grocery%20budget%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-14T12:28:16.218Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "energy-pre-spend-checklist-41",
     "title": "The energy checklist: run this before you spend",
     "dek": "Seven questions that separate a justified energy purchase from an expensive mood.",

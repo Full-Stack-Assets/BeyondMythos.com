@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pruning-for-growth",
+    "title": "The Cutting Edge: Pruning for Planted Tank Success",
+    "dek": "Smart pruning for healthy growth",
+    "takeaway": "Pruning is key to a thriving planted tank ecosystem",
+    "whatHappened": "Pruning is often overlooked in planted tank maintenance, but it's a crucial step in promoting healthy plant growth. By removing dead or dying leaves and stems, you're helping your plants redirect energy towards new growth. This process also helps maintain a balanced ecosystem, preventing the spread of disease and encouraging beneficial bacteria to thrive.",
+    "whyItMatters": "Effective pruning can make all the difference in the overall health and aesthetic of your tank. It allows you to shape and train your plants, creating a visually stunning aquascape that's unique to your style. Moreover, pruning helps to prevent plant overgrowth, which can lead to issues with water circulation, lighting, and nutrient distribution.",
+    "howToThink": "When approaching pruning, consider the type of plant you're working with and its specific needs. Research the best pruning techniques for your plant species, and invest in a good pair of aquarium scissors or pruning tools. Regular pruning sessions will also help you monitor your plants' health, allowing you to catch any potential issues before they become major problems.",
+    "pros": [
+      "Promotes healthy growth",
+      "Encourages beneficial bacteria",
+      "Enhances aquascape"
+    ],
+    "cons": [
+      "Requires regular maintenance",
+      "Can be time-consuming",
+      "May cause initial shock to plants"
+    ],
+    "watchOut": "Be cautious not to over-prune, as this can cause stress to your plants and lead to disease or algae issues",
+    "faq": [
+      {
+        "q": "How often should I prune my plants?",
+        "a": "Pruning frequency depends on plant species and growth rate, but a good rule of thumb is to prune every 1-2 weeks"
+      },
+      {
+        "q": "What are the best tools for pruning aquarium plants?",
+        "a": "Aquarium scissors or pruning tools specifically designed for aquatic plants are recommended"
+      },
+      {
+        "q": "Can I prune my plants at any time of day?",
+        "a": "It's best to prune your plants during the day, when the tank is under normal lighting conditions, to minimize stress on the plants"
+      }
+    ],
+    "category": "Plants",
+    "tags": [
+      "planted tank",
+      "aquascaping"
+    ],
+    "sources": [
+      {
+        "label": "r/shrimptank community threads",
+        "url": "https://www.reddit.com/r/shrimptank/"
+      },
+      {
+        "label": "Search interest: \"beginner aquarium plants\"",
+        "url": "https://duckduckgo.com/?q=beginner%20aquarium%20plants"
+      }
+    ],
+    "publishedAt": "2026-08-14T12:28:17.465Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-hardscape-mistakes-41",
     "title": "Five mistakes everyone makes in their first month of hardscape",
     "dek": "The most common early stumbles in hardscape, and the cheap corrections that fix them for planted-tank keepers and aquascapers.",

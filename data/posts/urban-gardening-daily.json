@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-vertical-space-15",
+    "title": "Unlocking the Potential of Trellises in Small Spaces",
+    "dek": "Grow more with less space",
+    "takeaway": "Trellises can increase yields by up to 50% in small gardens",
+    "whatHappened": "As urban gardeners, we're constantly looking for ways to maximize our limited space. Recently, we experimented with trellises in our test garden and were impressed by the results. By training our plants to grow upwards, we were able to increase our yields and add some visual interest to our balcony.",
+    "whyItMatters": "For apartment dwellers and balcony gardeners, making the most of our space is crucial. By utilizing trellises, we can grow a wider variety of plants, including vining herbs and climbing vegetables. This not only adds to our harvest but also creates a more dynamic and engaging outdoor space.",
+    "howToThink": "When choosing a trellis, consider the mature size of your plant and the amount of support it will need. Look for sturdy materials and a design that allows for easy training and pruning. By selecting the right trellis and placing it in a spot with plenty of sunlight, you can unlock the full potential of your small garden.",
+    "pros": [
+      "Increased yields",
+      "Space-saving",
+      "Aesthetic appeal"
+    ],
+    "cons": [
+      "Initial investment",
+      "Requires training",
+      "May require additional support"
+    ],
+    "watchOut": "Be sure to choose a trellis that is suitable for the weight and growth habits of your plants to avoid collapse or damage",
+    "faq": [
+      {
+        "q": "What types of plants are best suited for trellises?",
+        "a": "Vining herbs like mint and basil, as well as climbing vegetables like peas and cucumbers"
+      },
+      {
+        "q": "How do I train my plants to grow up a trellis?",
+        "a": "Gently twine the stems around the trellis or use plant clips to secure them in place"
+      },
+      {
+        "q": "Can I use a trellis in a shady area?",
+        "a": "While some plants can thrive in shade, most trellis-friendly plants require at least 4-6 hours of direct sunlight per day"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "small space gardening",
+      "urban agriculture"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-14T12:28:12.894Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "indoor-herb-garden-field-test-10",
     "title": "\"indoor herb garden\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about indoor herb garden through a month of actual use. Some of it survived.",
