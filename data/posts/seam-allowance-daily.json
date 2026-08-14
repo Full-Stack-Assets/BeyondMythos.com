@@ -1,5 +1,56 @@
 [
   {
+    "slug": "seam-allowance-hacks-2",
+    "title": "Solving the Seam Allowance Conundrum: Tips and Tricks",
+    "dek": "Master seam allowance for perfect fits",
+    "takeaway": "Correct seam allowance is key to achieving professional-looking garments",
+    "whatHappened": "For home sewists and pattern hackers, getting the seam allowance right can be a game-changer. Incorrect seam allowances can lead to disappointing fits and unprofessional finishes. By understanding how to work with seam allowances effectively, sewists can elevate their craft.",
+    "whyItMatters": "Seam allowance directly impacts the fit and durability of a garment. It's not just about aesthetics; proper seam allowances ensure that seams are strong and can withstand wear and tear. Moreover, it plays a crucial role in pattern hacking, where small adjustments can significantly alter the final product.",
+    "howToThink": "To approach seam allowance effectively, consider the type of fabric, the pattern's requirements, and the desired fit. For delicate fabrics, narrower seam allowances might be necessary, while thicker fabrics can handle wider allowances. Always test your seam allowances on scrap fabric before working on your final project.",
+    "pros": [
+      "Improved fit",
+      "Professional finish",
+      "Durability"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires precision",
+      "Fabric waste"
+    ],
+    "watchOut": "Be cautious of patterns with inconsistent seam allowances as they can lead to fitting issues and wasted time.",
+    "faq": [
+      {
+        "q": "What is seam allowance?",
+        "a": "The amount of fabric allowed between the edge of the fabric and the stitching line."
+      },
+      {
+        "q": "How do I adjust seam allowances in a pattern?",
+        "a": "Use a seam gauge or adjust the pattern pieces directly, but ensure consistency across all pieces."
+      },
+      {
+        "q": "Can I use different seam allowances for different fabrics?",
+        "a": "Yes, the type and thickness of the fabric should guide your choice of seam allowance."
+      }
+    ],
+    "category": "Fitting",
+    "tags": [
+      "sewing tips",
+      "pattern hacking"
+    ],
+    "sources": [
+      {
+        "label": "r/quilting community threads",
+        "url": "https://www.reddit.com/r/quilting/"
+      },
+      {
+        "label": "Search interest: \"sewing machine maintenance\"",
+        "url": "https://duckduckgo.com/?q=sewing%20machine%20maintenance"
+      }
+    ],
+    "publishedAt": "2026-08-14T05:19:27.255Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "how-to-fit-sewing-patterns-field-test-10",
     "title": "\"how to fit sewing patterns\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about how to fit sewing patterns through a month of actual use. Some of it survived.",

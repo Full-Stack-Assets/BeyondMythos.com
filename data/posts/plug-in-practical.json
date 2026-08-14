@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-public-chargers",
+    "title": "Public Charging Hacks for EV Owners",
+    "dek": "Get the most out of public chargers",
+    "takeaway": "Optimizing public charging can save time and money for EV owners",
+    "whatHappened": "Public charging infrastructure has expanded rapidly, but many EV owners still struggle to find reliable and efficient charging options. Recent surveys show that public charging anxiety remains a top concern. As a result, EV owners are looking for ways to master public charging and make the most out of their time on the road.",
+    "whyItMatters": "Mastering public charging is crucial for EV owners who need to charge on-the-go. It can save time, reduce range anxiety, and make EV ownership more practical. With the right strategies, EV owners can navigate public charging networks with confidence and make the most out of their EV experience.",
+    "howToThink": "To get the most out of public charging, EV owners should research charging options ahead of time, use charging apps to find reliable stations, and plan their route accordingly. Additionally, understanding the different types of charging connectors and speeds can help EV owners make informed decisions about where and when to charge.",
+    "pros": [
+      "Convenient",
+      "Time-saving",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Limited availability",
+      "High costs",
+      "Inconsistent speeds"
+    ],
+    "watchOut": "Be cautious of charging stations with high fees or limited availability to avoid unnecessary costs and range anxiety",
+    "faq": [
+      {
+        "q": "What are the most common types of public charging connectors?",
+        "a": "The most common types are Level 2 and DC Fast Charging"
+      },
+      {
+        "q": "How can I find public charging stations near me?",
+        "a": "Use online mapping tools or charging apps like PlugShare or ChargeHub"
+      },
+      {
+        "q": "Are public charging stations safe to use?",
+        "a": "Yes, public charging stations are designed with safety features to protect users and their vehicles"
+      }
+    ],
+    "category": "Charging",
+    "tags": [
+      "EV Charging",
+      "Public Chargers"
+    ],
+    "sources": [
+      {
+        "label": "r/evcharging community threads",
+        "url": "https://www.reddit.com/r/evcharging/"
+      },
+      {
+        "label": "Search interest: \"EV road trip planning\"",
+        "url": "https://duckduckgo.com/?q=EV%20road%20trip%20planning"
+      }
+    ],
+    "publishedAt": "2026-08-14T05:19:26.698Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-ev-charging-setup-field-test-10",
     "title": "\"home EV charging setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home EV charging setup through a month of actual use. Some of it survived.",

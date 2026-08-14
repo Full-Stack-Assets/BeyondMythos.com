@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-hacks-4",
+    "title": "Brewing on a Budget: DIY Espresso Machine Maintenance",
+    "dek": "Save money, perfect shots",
+    "takeaway": "Regular DIY maintenance can extend the life of your espresso machine and improve performance",
+    "whatHappened": "Many home baristas neglect regular maintenance of their espresso machines, leading to decreased performance and shorter lifespans. Simple tasks like cleaning and descaling can make a significant difference. By incorporating these habits into your routine, you can ensure your machine continues to produce high-quality shots",
+    "whyItMatters": "A well-maintained espresso machine is essential for producing perfect shots, and neglecting maintenance can lead to costly repairs or even replacement. Regular maintenance also helps to prevent bacterial growth and ensures the machine's safety features function correctly. This, in turn, protects your investment and allows you to focus on perfecting your brewing technique",
+    "howToThink": "To get started with DIY maintenance, begin by consulting your machine's user manual and familiarizing yourself with its components. Create a schedule to perform tasks like cleaning the group head and descaling the machine, and invest in the necessary tools and cleaning products. By taking a proactive approach, you'll be able to identify and address potential issues before they become major problems",
+    "pros": [
+      "Cost-effective",
+      "Improved performance",
+      "Extended lifespan"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires some technical knowledge",
+      "May void warranty"
+    ],
+    "watchOut": "Be cautious when performing maintenance tasks, as improper techniques or use of harsh chemicals can damage your machine",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily cleaning is recommended, with deeper cleaning tasks performed weekly or monthly"
+      },
+      {
+        "q": "What is the best way to descale my espresso machine?",
+        "a": "Use a mixture of water and descaling solution, and follow the manufacturer's instructions for the recommended frequency and procedure"
+      },
+      {
+        "q": "Can I perform maintenance tasks myself, or should I hire a professional?",
+        "a": "Most maintenance tasks can be performed by the homeowner, but if you're unsure or uncomfortable, consider consulting a professional"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Machine Maintenance",
+      "DIY Coffee Hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-14T05:19:18.881Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "coffee-synergy-unlocked",
     "title": "Unlocking Coffee Synergy: How to Pair Equipment for Perfect Brews",
     "dek": "Upgrade your brew game with harmonious equipment pairing",
