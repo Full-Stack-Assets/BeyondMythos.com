@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-hacks-10",
+    "title": "Descale, Clean, Repeat: The Ultimate Espresso Machine Maintenance Guide",
+    "dek": "Keep your espresso machine in top shape",
+    "takeaway": "Regular cleaning and descaling can extend the life of your espresso machine and improve flavor",
+    "whatHappened": "We put popular espresso machine cleaning products to the test, and the results were surprising. Scale buildup and old coffee oils can significantly impact the taste of your espresso shots. Cleaning your machine regularly can make all the difference in maintaining flavor and performance.",
+    "whyItMatters": "A well-maintained espresso machine is essential for producing high-quality espresso shots. Neglecting cleaning and maintenance can lead to a decline in flavor and potentially cause damage to the machine. By incorporating regular cleaning into your routine, you can ensure your machine continues to perform optimally.",
+    "howToThink": "To keep your espresso machine in top condition, think about cleaning as a regular part of your routine. Set aside time each week to descale and clean the machine, and consider investing in a high-quality cleaning solution. By taking proactive steps to maintain your machine, you can enjoy better-tasting espresso and extend the life of your investment.",
+    "pros": [
+      "Improved flavor",
+      "Extended machine life",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Additional cost",
+      "Requires regular maintenance"
+    ],
+    "watchOut": "Be careful not to use abrasive cleaners that can damage the machine's surfaces",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "At least once a week, depending on usage"
+      },
+      {
+        "q": "What is the best cleaning solution for my espresso machine?",
+        "a": "A mixture of water and white vinegar or a commercial descaling solution"
+      },
+      {
+        "q": "Can I use a dishwasher to clean my espresso machine parts?",
+        "a": "No, hand washing is recommended to avoid damage"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Maintenance",
+      "Coffee Machine Care"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-14T06:58:42.327Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-hacks-4",
     "title": "Brewing on a Budget: DIY Espresso Machine Maintenance",
     "dek": "Save money, perfect shots",

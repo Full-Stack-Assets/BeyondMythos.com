@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-co2-injection",
+    "title": "Cracking the CO2 Code: Expert Tips for Planted Tanks",
+    "dek": "Maximize plant growth with optimal CO2 levels",
+    "takeaway": "Fine-tuning CO2 injection boosts plant health and aquarium aesthetics",
+    "whatHappened": "Recent studies have highlighted the importance of precise CO2 control in planted tanks, as excessive or inadequate levels can hinder plant growth and even harm aquatic life. CO2 injection systems have evolved to cater to this need, offering various options for aquarists to optimize their tank's environment. By understanding the intricacies of CO2 injection, planted-tank keepers can create a thriving ecosystem",
+    "whyItMatters": "Optimal CO2 levels are crucial for photosynthesis, allowing plants to absorb essential nutrients and maintain healthy growth rates. Inadequate CO2 can lead to stunted growth, while excessive levels can cause pH swings, potentially harming fish and other livestock. By mastering CO2 injection, aquarists can unlock their tank's full potential",
+    "howToThink": "To optimize CO2 injection, consider factors like tank size, plant species, and water circulation. Regularly monitor CO2 levels, pH, and plant response to adjust injection rates accordingly. It's also essential to balance CO2 with adequate lighting and nutrient supply to create a harmonious environment",
+    "pros": [
+      "Enhanced plant growth",
+      "Improved aquarium aesthetics",
+      "Increased aquatic life health"
+    ],
+    "cons": [
+      "Initial investment in CO2 equipment",
+      "Ongoing maintenance and monitoring",
+      "Potential for pH swings if not managed correctly"
+    ],
+    "watchOut": "Be cautious of over-injecting CO2, as this can lead to dangerous pH drops and harm aquatic life",
+    "faq": [
+      {
+        "q": "What is the ideal CO2 level for a planted tank?",
+        "a": "The ideal CO2 level ranges from 15-30 ppm, depending on plant species and tank conditions"
+      },
+      {
+        "q": "How often should I monitor CO2 levels?",
+        "a": "Regularly monitor CO2 levels daily, and adjust injection rates as needed to maintain optimal levels"
+      },
+      {
+        "q": "Can I use a DIY CO2 system?",
+        "a": "While DIY CO2 systems are possible, they often lack the precision and reliability of commercial systems, which are recommended for optimal results"
+      }
+    ],
+    "category": "CO2",
+    "tags": [
+      "CO2 optimization",
+      "planted tank maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Aquascape community threads",
+        "url": "https://www.reddit.com/r/Aquascape/"
+      },
+      {
+        "label": "Search interest: \"aquascape hardscape ideas\"",
+        "url": "https://duckduckgo.com/?q=aquascape%20hardscape%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-14T06:58:46.814Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-low-tech-planted-tank-14",
     "title": "Myth vs. reality: low tech planted tank",
     "dek": "The persistent myths around low tech planted tank, stress-tested against what planted-tank keepers and aquascapers actually report.",

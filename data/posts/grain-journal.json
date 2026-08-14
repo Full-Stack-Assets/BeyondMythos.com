@@ -1,5 +1,56 @@
 [
   {
+    "slug": "shooting-with-expired-film",
+    "title": "Expired Film: Can You Still Get the Shot?",
+    "dek": "Expired film: still worth a shot?",
+    "takeaway": "Expired film can still deliver great results with the right approach",
+    "whatHappened": "Film photographers often wonder if expired film is still usable. The short answer is yes, but with some caveats. Expired film can behave unpredictably, with changes in contrast, color palette, and grain structure.",
+    "whyItMatters": "Understanding how to work with expired film can help you expand your creative options and even achieve unique effects. It can also help you make the most of old film stocks that would otherwise go to waste. With a little practice, you can learn to anticipate and work with the quirks of expired film.",
+    "howToThink": "When shooting with expired film, it's essential to bracket your shots, adjust your exposure compensation, and be prepared for unexpected results. You should also research the specific film stock you're using to understand how it tends to behave when expired. With patience and practice, you can unlock the creative potential of expired film.",
+    "pros": [
+      "Unique effects",
+      "Cost-effective",
+      "Creative challenge"
+    ],
+    "cons": [
+      "Unpredictable results",
+      "Potential for degradation",
+      "Limited availability"
+    ],
+    "watchOut": "Be cautious when purchasing expired film from unknown sources, as it may have been stored improperly or have unknown degradation",
+    "faq": [
+      {
+        "q": "How old is too old for film?",
+        "a": "It depends on the film stock and storage conditions, but generally, film over 5-7 years old is considered expired"
+      },
+      {
+        "q": "Can I still get good results with expired film?",
+        "a": "Yes, with the right approach and expectations, you can still achieve great results with expired film"
+      },
+      {
+        "q": "How do I store expired film to minimize degradation?",
+        "a": "Store expired film in a cool, dry place, away from light and moisture, and consider freezing it to slow down degradation"
+      }
+    ],
+    "category": "Film Stocks",
+    "tags": [
+      "Film Stocks",
+      "Expired Film"
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"home developing guide\"",
+        "url": "https://duckduckgo.com/?q=home%20developing%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-14T06:58:48.297Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-scanning-40",
     "title": "Ask the forge: your scanning questions, answered",
     "dek": "Straight answers to the scanning questions film photographers shooting analog keep asking, minus the hedging.",
