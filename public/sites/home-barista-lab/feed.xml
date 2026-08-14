@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Temperature Tactics: Unlocking Better Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/improving-espresso-with-temp-control.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/improving-espresso-with-temp-control.html</guid>
+      <pubDate>Fri, 14 Aug 2026 17:36:37 GMT</pubDate>
+      <description>Better espresso through temp control</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-28.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-28.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-9.html</guid>
       <pubDate>Thu, 13 Aug 2026 00:43:39 GMT</pubDate>
       <description>Dirty machines, bad taste</description>
-    </item>
-    <item>
-      <title>Ask the forge: your gear questions, answered</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-26.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-26.html</guid>
-      <pubDate>Wed, 12 Aug 2026 23:21:49 GMT</pubDate>
-      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

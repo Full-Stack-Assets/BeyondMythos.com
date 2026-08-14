@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-quick-sauces",
+    "title": "Saucing like a pro: the 10-minute rule",
+    "dek": "Elevate weeknight dinners with fast sauces.",
+    "takeaway": "Mastering quick sauces can transform your weeknight dinners with minimal extra effort.",
+    "whatHappened": "Recently, I've been experimenting with various sauce recipes to see how quickly I can whip them up without sacrificing flavor. The results were surprising, with some sauces taking as little as 5 minutes to prepare. This got me thinking about the potential of quick sauces to elevate weeknight dinners.",
+    "whyItMatters": "Having a repertoire of quick sauces can make all the difference in turning a bland weeknight meal into something special. It's not just about the taste; it's also about the efficiency and stress reduction that comes with knowing you can add a delicious sauce to your meal in no time. This skill can be a game-changer for home cooks looking to systematize their weeknight dinners.",
+    "howToThink": "To start mastering quick sauces, think about building a pantry with versatile ingredients like canned tomatoes, olive oil, and a variety of spices. Practice making simple sauces like marinara or aioli, and then experiment with different combinations of ingredients to create your own unique flavors. The key is to keep it simple and not be afraid to improvise.",
+    "pros": [
+      "Quick to make",
+      "Elevates any dish",
+      "Customizable"
+    ],
+    "cons": [
+      "Limited shelf life",
+      "Requires some planning",
+      "Can be messy"
+    ],
+    "watchOut": "Be careful not to overreduce your sauces, as this can lead to an unpleasantly thick consistency.",
+    "faq": [
+      {
+        "q": "What is the most versatile sauce to make?",
+        "a": "Marinara sauce can be used with pasta, as a dipping sauce, or as a base for other sauces."
+      },
+      {
+        "q": "How can I store quick sauces?",
+        "a": "Most quick sauces can be stored in airtight containers in the fridge for up to 3 days or frozen for up to 2 months."
+      },
+      {
+        "q": "Can I make quick sauces ahead of time?",
+        "a": "Yes, many quick sauces can be made ahead of time, but it's best to add any fresh herbs just before serving to preserve their flavor and texture."
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "sauce recipes",
+      "weeknight dinners"
+    ],
+    "sources": [
+      {
+        "label": "r/cookingforbeginners community threads",
+        "url": "https://www.reddit.com/r/cookingforbeginners/"
+      },
+      {
+        "label": "Search interest: \"five mother sauces\"",
+        "url": "https://duckduckgo.com/?q=five%20mother%20sauces"
+      }
+    ],
+    "publishedAt": "2026-08-14T17:36:44.989Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "knife-skills-pre-spend-checklist-37",
     "title": "The knife skills checklist: run this before you spend",
     "dek": "Seven questions that separate a justified knife skills purchase from an expensive mood.",

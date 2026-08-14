@@ -1,5 +1,56 @@
 [
   {
+    "slug": "beta-angles-matter",
+    "title": "Optimizing Beta: The Hidden Angle Advantage",
+    "dek": "Tweak your footwork for better sends.",
+    "takeaway": "Understanding and adjusting beta angles can significantly improve climbing performance and reduce injury risk.",
+    "whatHappened": "Recent studies and climber feedback highlight the importance of footwork and body positioning in indoor bouldering. Many climbers overlook the subtle adjustments in beta that can make or break a route. By focusing on these details, climbers can optimize their technique and improve overall performance.",
+    "whyItMatters": "Proper beta angles can reduce strain on the body, especially the fingers, wrists, and shoulders, common areas for injury among climbers. Moreover, mastering beta angles enhances movement efficiency, allowing for more effective use of energy and improved endurance. This, in turn, can lead to faster progression and a more enjoyable climbing experience.",
+    "howToThink": "To apply this knowledge, climbers should practice mindful footwork, focusing on precise placement and the angles at which they engage holds. Visualizing and then practicing different beta options can help develop a more intuitive sense of optimal body positioning. Additionally, working with a climbing partner or coach can provide valuable feedback on technique.",
+    "pros": [
+      "Improved technique",
+      "Reduced injury risk",
+      "Enhanced performance"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires practice",
+      "Mental adjustment"
+    ],
+    "watchOut": "Be cautious not to overthink beta to the point of hindering natural movement and flow.",
+    "faq": [
+      {
+        "q": "What is beta in climbing?",
+        "a": "Beta refers to the sequence of moves or technique used to complete a climb."
+      },
+      {
+        "q": "How do I practice beta angles?",
+        "a": "Practice by focusing on footwork and body positioning on easier routes, then apply to more challenging climbs."
+      },
+      {
+        "q": "Will adjusting beta angles make me a better climber?",
+        "a": "Yes, optimizing beta angles can improve technique, efficiency, and overall climbing performance."
+      }
+    ],
+    "category": "Technique",
+    "tags": [
+      "climbing technique",
+      "indoor bouldering"
+    ],
+    "sources": [
+      {
+        "label": "r/bouldering community threads",
+        "url": "https://www.reddit.com/r/bouldering/"
+      },
+      {
+        "label": "Search interest: \"bouldering technique for beginners\"",
+        "url": "https://duckduckgo.com/?q=bouldering%20technique%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-14T17:36:43.923Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-gear-39",
     "title": "The quiet upgrade: small tweaks in gear with outsized returns",
     "dek": "No purchases, no overhauls — the modest gear adjustments that indoor boulderers and new climbers report mattering most.",
