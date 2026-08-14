@@ -1,5 +1,56 @@
 [
   {
+    "slug": "custom-controller-mods",
+    "title": "Revolutionizing Speedruns with Custom Controller Mods",
+    "dek": "Upgrade your game with custom mods",
+    "takeaway": "Custom controller mods can significantly improve speedrun performance",
+    "whatHappened": "Recent advancements in DIY controller modification have given speedrunners a new edge. By tweaking and tailoring their controllers, runners can execute complex maneuvers with greater precision and speed. This has led to a surge in record-breaking runs across various retro games.",
+    "whyItMatters": "The ability to customize controllers can level the playing field for speedrunners with disabilities and provide a competitive advantage for those seeking to push the limits of what's possible in retro games. As the speedrunning community continues to evolve, custom controller mods are becoming an essential tool for serious competitors.",
+    "howToThink": "When considering custom controller mods, think about your specific speedrunning needs and the games you play most. Identify areas where modified inputs could improve your performance, and explore DIY tutorials or commission a custom modder to create a tailored solution. Always test and refine your mods to ensure they enhance your gameplay",
+    "pros": [
+      "Improved precision",
+      "Enhanced execution",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Cost",
+      "Technical complexity",
+      "Potential for malfunction"
+    ],
+    "watchOut": "Be cautious of mods that violate game rules or community guidelines, as they can result in disqualification or ban from speedrunning events",
+    "faq": [
+      {
+        "q": "What is a custom controller mod?",
+        "a": "A modification made to a game controller to enhance its functionality or performance"
+      },
+      {
+        "q": "Can I make my own custom controller mod?",
+        "a": "Yes, with DIY tutorials and basic electronics skills, you can create your own custom mods"
+      },
+      {
+        "q": "Are custom controller mods allowed in speedrunning competitions?",
+        "a": "It depends on the specific competition rules; always check with organizers before using a modified controller"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "speedrun",
+      "controller"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-14T00:42:42.007Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-hidden-snes-gems-9",
     "title": "Myth vs. reality: hidden snes gems",
     "dek": "The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-17",
+    "title": "Brewing Up Savings: The Hidden Cost of Neglecting Your Espresso Machine",
+    "dek": "Regular maintenance saves you money",
+    "takeaway": "Cleaning your espresso machine regularly can extend its lifespan and save you hundreds of dollars in repair costs",
+    "whatHappened": "A recent survey found that many home baristas neglect to maintain their espresso machines, leading to reduced performance and premature wear. This can result in a significant decrease in the quality of espresso produced. As a result, the machine may need to be replaced sooner than expected.",
+    "whyItMatters": "Proper maintenance is crucial to ensuring the longevity and optimal performance of your espresso machine. A well-maintained machine will not only produce better-tasting espresso but also save you money in the long run. Regular cleaning and descaling can prevent damage to the machine's internal components and reduce the need for costly repairs.",
+    "howToThink": "To keep your espresso machine in top condition, establish a regular maintenance routine that includes daily cleaning, weekly descaling, and monthly deep cleaning. This will help prevent the buildup of old coffee oils, mineral deposits, and other substances that can affect the machine's performance. By doing so, you'll be able to enjoy perfect shots of espresso every time and extend the lifespan of your machine.",
+    "pros": [
+      "Saves money",
+      "Improves performance",
+      "Extends lifespan"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires effort",
+      "May require additional equipment"
+    ],
+    "watchOut": "Neglecting to maintain your espresso machine can lead to costly repairs or even render it unusable, so make maintenance a priority",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily cleaning is recommended, with weekly descaling and monthly deep cleaning"
+      },
+      {
+        "q": "What happens if I don't maintain my espresso machine?",
+        "a": "Neglecting maintenance can lead to reduced performance, premature wear, and costly repairs"
+      },
+      {
+        "q": "Can I use any cleaning solution on my espresso machine?",
+        "a": "No, use a solution specifically designed for espresso machines to avoid damaging the internal components"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso",
+      "Gear"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-14T00:42:41.777Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-technique-revisited-2",
     "title": "Tamping Technique Revisited: The Secret to Consistent Espresso",
     "dek": "Improve your espresso with proper tamping",
