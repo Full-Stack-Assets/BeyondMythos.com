@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Optimizing Grind Distribution for Better Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/fine-tuning-grind-distribution.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/fine-tuning-grind-distribution.html</guid>
+      <pubDate>Fri, 14 Aug 2026 08:47:59 GMT</pubDate>
+      <description>Get the perfect shot with optimized grind distribution</description>
+    </item>
+    <item>
       <title>Descale, Clean, Repeat: The Ultimate Espresso Machine Maintenance Guide</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-10.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-10.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-25.html</guid>
       <pubDate>Wed, 12 Aug 2026 16:34:50 GMT</pubDate>
       <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
-    </item>
-    <item>
-      <title>Pressure Profilers: The Game-Changing Espresso Upgrade You Need</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/elevating-espresso-with-pressure-profilers.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-espresso-with-pressure-profilers.html</guid>
-      <pubDate>Wed, 12 Aug 2026 15:37:06 GMT</pubDate>
-      <description>Unlock better espresso with pressure profilers.</description>
     </item>
   </channel>
 </rss>

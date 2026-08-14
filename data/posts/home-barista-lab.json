@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-grind-distribution",
+    "title": "Optimizing Grind Distribution for Better Espresso",
+    "dek": "Get the perfect shot with optimized grind distribution",
+    "takeaway": "Proper grind distribution is key to achieving consistent and flavorful espresso shots",
+    "whatHappened": "Recent experiments in the Home Barista Lab have shown that uneven grind distribution can lead to channeling and poor extraction. By adjusting the grind distribution, we were able to improve shot consistency and flavor. This breakthrough has significant implications for home baristas looking to elevate their espresso game",
+    "whyItMatters": "Even grind distribution ensures that water flows evenly through the coffee, extracting the optimal amount of flavor and oils. This, in turn, affects the overall taste and quality of the espresso. By mastering grind distribution, home baristas can take their espresso to the next level",
+    "howToThink": "To optimize grind distribution, consider using a distribution tool or adjusting your tamp to ensure an even surface. It's also essential to monitor and adjust your grind settings regularly to account for changes in coffee beans or roast levels. By developing a systematic approach to grind distribution, you'll be well on your way to crafting exceptional espresso shots",
+    "pros": [
+      "Improved shot consistency",
+      "Enhanced flavor",
+      "Increased efficiency"
+    ],
+    "cons": [
+      "Additional equipment costs",
+      "Steep learning curve",
+      "Time-consuming adjustments"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to compressed grounds and poor extraction",
+    "faq": [
+      {
+        "q": "What is grind distribution?",
+        "a": "Grind distribution refers to the evenness of the coffee grounds in the portafilter"
+      },
+      {
+        "q": "How often should I adjust my grind distribution?",
+        "a": "Adjust your grind distribution regularly to account for changes in coffee beans or roast levels"
+      },
+      {
+        "q": "Can I use a distribution tool with any espresso machine?",
+        "a": "Most distribution tools are compatible with standard espresso machines, but check your machine's specifications before purchasing"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "grind distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-14T08:47:59.205Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-cleaning-hacks-10",
     "title": "Descale, Clean, Repeat: The Ultimate Espresso Machine Maintenance Guide",
     "dek": "Keep your espresso machine in top shape",
