@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-25.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-25.html</guid>
+      <pubDate>Fri, 14 Aug 2026 18:31:21 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
+    </item>
+    <item>
       <title>Temperature Tactics: Unlocking Better Espresso</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/improving-espresso-with-temp-control.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/improving-espresso-with-temp-control.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-temperature-control.html</guid>
       <pubDate>Thu, 13 Aug 2026 03:14:45 GMT</pubDate>
       <description>Heat-control grinders revolutionize flavor</description>
-    </item>
-    <item>
-      <title>Brewing Hygiene 101: How Clean is Your Machine?</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-9.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-9.html</guid>
-      <pubDate>Thu, 13 Aug 2026 00:43:39 GMT</pubDate>
-      <description>Dirty machines, bad taste</description>
     </item>
   </channel>
 </rss>

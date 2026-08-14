@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The preservation checklist: run this before you spend</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-31.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-31.html</guid>
+      <pubDate>Fri, 14 Aug 2026 18:31:20 GMT</pubDate>
+      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of speedruns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-29.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-29.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controller-latency.html</guid>
       <pubDate>Thu, 13 Aug 2026 03:14:45 GMT</pubDate>
       <description>Get the edge with faster inputs</description>
-    </item>
-    <item>
-      <title>SNES Console Optimization for Speed Demons</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-console-performance.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-console-performance.html</guid>
-      <pubDate>Thu, 13 Aug 2026 00:43:40 GMT</pubDate>
-      <description>Unlock your SNES&apos; full potential</description>
     </item>
   </channel>
 </rss>
