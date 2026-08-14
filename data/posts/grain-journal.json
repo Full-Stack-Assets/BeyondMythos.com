@@ -1,5 +1,56 @@
 [
   {
+    "slug": "avoiding-common-scanning-mistakes",
+    "title": "Scan Like a Pro: Expert Tips for Film Photographers",
+    "dek": "Get the best from your scans",
+    "takeaway": "Accurate scanning is crucial for showcasing your film photography work",
+    "whatHappened": "Many film photographers struggle to achieve high-quality scans, often due to overlooking key details in the scanning process. This can lead to disappointing results, including low-resolution images and missed details. By understanding common scanning mistakes, photographers can improve their workflow and output.",
+    "whyItMatters": "High-quality scans are essential for film photographers to effectively showcase their work, whether online or in print. Poor scans can undermine the impact of even the best photographs, making it crucial to invest time in mastering the scanning process. Good scans, on the other hand, can elevate your photography, revealing nuances that might otherwise be lost.",
+    "howToThink": "To improve your scanning, consider investing in a dedicated film scanner, calibrate your equipment regularly, and experiment with different scanning software to find what works best for your needs. Additionally, maintaining your scanner and keeping it free from dust can significantly improve scan quality. Practice and patience are also key to mastering the scanning technique.",
+    "pros": [
+      "High-quality output",
+      "Better detail retention",
+      "Enhanced workflow efficiency"
+    ],
+    "cons": [
+      "Initial equipment cost",
+      "Time-consuming to master",
+      "Space requirements"
+    ],
+    "watchOut": "Be cautious of dust and debris on your scanner and films, as these can significantly affect scan quality",
+    "faq": [
+      {
+        "q": "What is the best film scanner for beginners?",
+        "a": "Look for a scanner with a high optical resolution and compatible with your computer's operating system"
+      },
+      {
+        "q": "How often should I clean my film scanner?",
+        "a": "Regularly, ideally before each use, to prevent dust buildup"
+      },
+      {
+        "q": "Can I use any scanning software with my film scanner?",
+        "a": "No, ensure the software is compatible with your scanner model for optimal results"
+      }
+    ],
+    "category": "Scanning",
+    "tags": [
+      "film scanning",
+      "analog photography"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-14T19:36:15.603Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-film-stocks-mistakes-40",
     "title": "Five mistakes everyone makes in their first month of film stocks",
     "dek": "The most common early stumbles in film stocks, and the cheap corrections that fix them for film photographers shooting analog.",

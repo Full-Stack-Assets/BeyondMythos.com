@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-game-night-lineups",
+    "title": "Maximizing Fun: The Art of Curating the Perfect Game Night",
+    "dek": "Elevate your game nights with these expert tips!",
+    "takeaway": "A well-curated game night lineup can make all the difference in ensuring a fun and engaging experience for all participants.",
+    "whatHappened": "As the popularity of board game nights continues to soar, hosts are faced with the daunting task of selecting the perfect games to cater to diverse tastes and preferences. Recent trends have shown that a carefully crafted lineup can significantly impact the overall enjoyment of the evening. By considering factors such as player count, genre, and playstyle, hosts can create a unique and captivating experience.",
+    "whyItMatters": "A well-planned game night can foster social connections, encourage teamwork, and create lasting memories. However, a poorly curated lineup can lead to disappointment, boredom, and a lack of engagement. By taking the time to thoughtfully select games, hosts can set the tone for a memorable and entertaining evening. This, in turn, can help build a loyal community of gamers and ensure a successful recurring event.",
+    "howToThink": "When planning a game night, consider starting with a lighthearted icebreaker, followed by a series of games that cater to different interests and playstyles. Be sure to include a mix of competitive and cooperative games to keep things engaging and dynamic. It's also essential to leave some buffer time for socializing and discussion, allowing guests to relax and recharge between games.",
+    "pros": [
+      "Increased player engagement",
+      "Improved social connections",
+      "Enhanced overall experience"
+    ],
+    "cons": [
+      "Time-consuming planning process",
+      "Risk of disappointing games",
+      "Potential for overwhelming options"
+    ],
+    "watchOut": "Be cautious not to overplan, as this can lead to a rigid and inflexible schedule, detracting from the overall enjoyment of the evening.",
+    "faq": [
+      {
+        "q": "How many games should I plan for a typical game night?",
+        "a": "Aim for 2-3 games, depending on their length and complexity."
+      },
+      {
+        "q": "What's the best way to cater to diverse player preferences?",
+        "a": "Consider surveying your guests beforehand to gauge their interests and tailor your lineup accordingly."
+      },
+      {
+        "q": "How can I ensure a smooth transition between games?",
+        "a": "Prepare a playlist, have snacks and drinks readily available, and designate a clear starting and ending time for each game."
+      }
+    ],
+    "category": "Party Games",
+    "tags": [
+      "game night",
+      "party games"
+    ],
+    "sources": [
+      {
+        "label": "r/soloboardgaming community threads",
+        "url": "https://www.reddit.com/r/soloboardgaming/"
+      },
+      {
+        "label": "Search interest: \"solo board games\"",
+        "url": "https://duckduckgo.com/?q=solo%20board%20games"
+      }
+    ],
+    "publishedAt": "2026-08-14T19:36:14.303Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-boardgames-14",
     "title": "Community pulse: what r/boardgames is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the storage community this week.",

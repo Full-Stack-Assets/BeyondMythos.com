@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-nes-consoles-2",
+    "title": "Breathe New Life into Your NES: Restoration Guide",
+    "dek": "NES restoration made easy",
+    "takeaway": "Proper restoration can extend the life of your NES console",
+    "whatHappened": "The original NES console, released in the 80s, is still widely used today, but its age is starting to show. Many collectors and speedrunners are looking to restore their consoles to maintain performance. A well-restored NES can provide a better gaming experience and increase its value.",
+    "whyItMatters": "Restoration is crucial for maintaining the console's performance and preventing damage. A restored NES can also increase its resale value, making it a worthwhile investment for collectors. Furthermore, a well-maintained console ensures that speedrunners can achieve optimal performance and accuracy.",
+    "howToThink": "When restoring an NES, it's essential to focus on cleaning the console and its components, replacing worn-out parts, and ensuring proper connectivity. It's also crucial to research and use the correct restoration methods to avoid damaging the console. Additionally, collectors and speedrunners should consider seeking professional help if they're unsure about any aspect of the restoration process.",
+    "pros": [
+      "Improved performance",
+      "Increased resale value",
+      "Enhanced gaming experience"
+    ],
+    "cons": [
+      "Cost of replacement parts",
+      "Risk of damage during restoration",
+      "Time-consuming process"
+    ],
+    "watchOut": "Be cautious when handling sensitive components to avoid causing permanent damage",
+    "faq": [
+      {
+        "q": "What is the most critical component to replace during restoration?",
+        "a": "The 72-pin connector is the most critical component to replace, as it can cause connectivity issues if damaged."
+      },
+      {
+        "q": "Can I restore my NES console myself?",
+        "a": "Yes, but it's recommended to seek professional help if you're unsure about any aspect of the restoration process."
+      },
+      {
+        "q": "How often should I clean my NES console?",
+        "a": "It's recommended to clean your NES console every 6-12 months to prevent dust buildup and maintain performance."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES restoration",
+      "Retro gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-14T19:36:09.338Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-31",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",

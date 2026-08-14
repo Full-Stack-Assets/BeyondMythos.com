@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Ask the forge: your local questions, answered</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-29.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-29.html</guid>
+      <pubDate>Fri, 14 Aug 2026 19:36:08 GMT</pubDate>
+      <description>Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in packing with outsized returns</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/quiet-upgrade-packing-27.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/quiet-upgrade-packing-27.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-essentials.html</guid>
       <pubDate>Thu, 13 Aug 2026 05:22:00 GMT</pubDate>
       <description>Elevate your rail travel experience</description>
-    </item>
-    <item>
-      <title>Reclaiming the Joy of Slow Train Travel</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-revival.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-revival.html</guid>
-      <pubDate>Thu, 13 Aug 2026 03:14:44 GMT</pubDate>
-      <description>Slow trains make a comeback</description>
     </item>
   </channel>
 </rss>

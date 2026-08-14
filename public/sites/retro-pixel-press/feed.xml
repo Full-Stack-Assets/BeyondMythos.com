@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Breathe New Life into Your NES: Restoration Guide</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-2.html</guid>
+      <pubDate>Fri, 14 Aug 2026 19:36:09 GMT</pubDate>
+      <description>NES restoration made easy</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-31.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-31.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-25.html</guid>
       <pubDate>Thu, 13 Aug 2026 05:21:59 GMT</pubDate>
       <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
-    </item>
-    <item>
-      <title>Slash Your SNES Controller Latency</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controller-latency.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-snes-controller-latency.html</guid>
-      <pubDate>Thu, 13 Aug 2026 03:14:45 GMT</pubDate>
-      <description>Get the edge with faster inputs</description>
     </item>
   </channel>
 </rss>
