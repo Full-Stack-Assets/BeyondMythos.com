@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Console Upgrades: Don&apos;t Get Left Behind</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrades-3.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrades-3.html</guid>
+      <pubDate>Fri, 14 Aug 2026 21:01:39 GMT</pubDate>
+      <description>Upgrade your retro console for a better gaming experience</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-30.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-30.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/snes-controller-repair-101.html</guid>
       <pubDate>Thu, 13 Aug 2026 08:54:15 GMT</pubDate>
       <description>Rescue your worn SNES gamepad</description>
-    </item>
-    <item>
-      <title>Retro Console Modding for Beginners</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-7.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-7.html</guid>
-      <pubDate>Thu, 13 Aug 2026 07:02:01 GMT</pubDate>
-      <description>Upgrade your retro console</description>
     </item>
   </channel>
 </rss>

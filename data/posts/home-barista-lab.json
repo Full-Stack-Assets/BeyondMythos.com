@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-bean-selection-strategies",
+    "title": "Elevate Your Brew: Smart Coffee Bean Selection",
+    "dek": "Unlock better flavors with smart bean choices",
+    "takeaway": "The right coffee beans can transform your daily brew",
+    "whatHappened": "Recently, a surge in specialty coffee shops has led to increased accessibility of unique, high-quality coffee beans for home enthusiasts. This shift has sparked a lively debate among aficionados about the best approaches to selecting the perfect beans. Experimentation and exploration have become fundamental aspects of the home barista experience.",
+    "whyItMatters": "The quality and characteristics of coffee beans directly impact the flavor profile of the final brew. Understanding how to select the right beans can significantly elevate one's coffee game, offering a more satisfying and diverse range of flavors. It also allows enthusiasts to support a variety of roasters and farmers, contributing to the vibrant and dynamic coffee community.",
+    "howToThink": "When considering coffee beans, think about the roast level, origin, and processing method. These factors can greatly influence the taste, from bright and acidic to rich and smooth. Experimenting with different combinations can help you find the perfect balance for your palate, making each cup a delightful discovery.",
+    "pros": [
+      "Enhanced flavor profiles",
+      "Supports coffee diversity",
+      "Personalized taste"
+    ],
+    "cons": [
+      "Higher cost",
+      "Requires experimentation",
+      "Storage considerations"
+    ],
+    "watchOut": "Be cautious of overly dark roasts that can hide the nuanced flavors of high-quality beans",
+    "faq": [
+      {
+        "q": "What is the best coffee bean origin for beginners?",
+        "a": "Ethiopian and Colombian beans are often recommended for their balanced flavors"
+      },
+      {
+        "q": "How do I store coffee beans to preserve freshness?",
+        "a": "Use an airtight container in a cool, dark place to maintain freshness"
+      },
+      {
+        "q": "Can I roast my own coffee beans at home?",
+        "a": "Yes, with the right equipment, such as a home roaster or even a skillet, you can roast your own beans"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "coffeebeans",
+      "roasting"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-14T21:01:40.947Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pour-over-technique-field-test-9",
     "title": "\"pour over technique\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Elevate Your Brew: Smart Coffee Bean Selection</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-bean-selection-strategies.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-bean-selection-strategies.html</guid>
+      <pubDate>Fri, 14 Aug 2026 21:01:40 GMT</pubDate>
+      <description>Unlock better flavors with smart bean choices</description>
+    </item>
+    <item>
       <title>&quot;pour over technique&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-9.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-9.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-26.html</guid>
       <pubDate>Thu, 13 Aug 2026 08:54:13 GMT</pubDate>
       <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/pourover is debating this week</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-8.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-8.html</guid>
-      <pubDate>Thu, 13 Aug 2026 07:02:00 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-upgrades-3",
+    "title": "Retro Console Upgrades: Don't Get Left Behind",
+    "dek": "Upgrade your retro console for a better gaming experience",
+    "takeaway": "Upgrading your retro console can significantly enhance performance and longevity",
+    "whatHappened": "Recently, retro game collectors have been seeking ways to improve their console's performance without breaking the bank. With the rise of retro gaming, console upgrades have become increasingly popular. Many enthusiasts are now opting for DIY upgrades to breathe new life into their vintage consoles.",
+    "whyItMatters": "Retro console upgrades matter because they can extend the life of your console, improve gameplay, and even increase the console's value. Moreover, upgrading your console can also provide a better gaming experience, with reduced lag and improved graphics. This is especially important for speedrunners who require optimal performance to achieve record-breaking times.",
+    "howToThink": "When considering a retro console upgrade, think about your specific needs and goals. Determine what you want to achieve with the upgrade, whether it's improved performance or enhanced graphics. Research the available options and choose a reputable supplier to ensure you get high-quality components.",
+    "pros": [
+      "Improved performance",
+      "Increased longevity",
+      "Enhanced graphics"
+    ],
+    "cons": [
+      "Cost",
+      "Technical difficulty",
+      "Potential damage"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics to avoid damaging your console",
+    "faq": [
+      {
+        "q": "What are the most common retro console upgrades?",
+        "a": "The most common upgrades include RAM upgrades, CPU upgrades, and graphics card upgrades"
+      },
+      {
+        "q": "How difficult is it to upgrade a retro console?",
+        "a": "The difficulty level varies depending on the console and the upgrade, but most upgrades require basic technical knowledge"
+      },
+      {
+        "q": "Can I upgrade my retro console myself or do I need a professional?",
+        "a": "It's possible to upgrade your console yourself, but if you're not comfortable with the process, it's recommended to seek the help of a professional"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Console Upgrades"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-14T21:01:39.744Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-30",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",

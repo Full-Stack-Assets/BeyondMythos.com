@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-rail-cards-12",
+    "title": "Optimizing Rail Travel with Discount Cards",
+    "dek": "Save money on rail travel with the right cards.",
+    "takeaway": "Using the right rail discount cards can greatly reduce travel costs for slow-travelers.",
+    "whatHappened": "Recent changes in rail pricing have made discount cards more valuable than ever, offering significant savings for frequent travelers. With the variety of cards available, choosing the right one can be daunting. However, understanding the benefits and limitations of each card can help travelers make informed decisions.",
+    "whyItMatters": "For slow-travelers, minimizing costs without sacrificing experience is crucial. Rail discount cards can provide access to affordable, high-quality travel options, allowing travelers to explore more destinations without breaking the bank. By leveraging these cards, travelers can also reduce their carbon footprint by opting for rail over flights.",
+    "howToThink": "When considering a rail discount card, think about your typical travel routes and frequencies. Look for cards that offer discounts on your most common journeys and consider the overall cost savings against the annual fee. Additionally, factor in any additional benefits the card may offer, such as travel insurance or accommodation discounts.",
+    "pros": [
+      "Cost savings",
+      "Increased travel flexibility",
+      "Environmental benefits"
+    ],
+    "cons": [
+      "Annual fees",
+      "Limited route coverage",
+      "Complexity in choosing the right card"
+    ],
+    "watchOut": "Be cautious of cards with high annual fees that may not provide sufficient savings for infrequent travelers.",
+    "faq": [
+      {
+        "q": "Which rail discount card is best for international travel?",
+        "a": "Look for cards that offer discounts across multiple countries and consider the Eurail Pass for extensive European travel."
+      },
+      {
+        "q": "Can I use rail discount cards in conjunction with other travel rewards?",
+        "a": "Yes, many rail discount cards can be used alongside other travel rewards programs, but be sure to check the terms and conditions."
+      },
+      {
+        "q": "How do I choose the right rail discount card for my travel style?",
+        "a": "Consider your travel frequency, typical routes, and the benefits offered by each card to find the best fit for your needs."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail Travel",
+      "Sustainable Tourism"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-14T21:01:40.722Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "carry-on-packing-list-field-test-9",
     "title": "\"carry on packing list\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about carry on packing list through a month of actual use. Some of it survived.",
