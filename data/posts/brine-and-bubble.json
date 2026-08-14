@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-quick-pickles",
+    "title": "The Quick Pickle Revolution: Simplify Your Brine Game",
+    "dek": "Elevate your pickling with these simple hacks",
+    "takeaway": "Quick pickling can transform your vegetable game with minimal equipment and effort",
+    "whatHappened": "The art of quick pickling has gained momentum among home fermenters, offering a straightforward method to preserve vegetables without the need for extensive equipment or long-term commitment. This technique allows for a wide range of flavors and textures, making it appealing to both beginners and seasoned pickling enthusiasts. By understanding the basics of quick pickling, individuals can experiment with various recipes and ingredients",
+    "whyItMatters": "Quick pickling matters because it provides an accessible entry point into the world of fermentation and pickling, allowing individuals to explore different flavors and preservation methods without significant upfront investment. It also enables the creation of healthy, flavorful snacks and side dishes, contributing to a more diverse and nutritious diet. Furthermore, quick pickling can help reduce food waste by providing a means to preserve vegetables that might otherwise go unused",
+    "howToThink": "To approach quick pickling, consider the type of vegetables you want to preserve and the flavor profile you aim to achieve. Think about the balance of sweet, sour, and salty flavors, and how different spices and seasonings can enhance your pickles. It's also essential to understand the importance of using fresh, high-quality ingredients and maintaining proper hygiene and storage practices to ensure the pickles remain safe to eat",
+    "pros": [
+      "Easy to learn",
+      "Minimal equipment required",
+      "Highly versatile"
+    ],
+    "cons": [
+      "Limited shelf life",
+      "Requires regular monitoring",
+      "May not be suitable for all vegetables"
+    ],
+    "watchOut": "Be cautious of contamination and improper storage, as these can lead to spoilage and foodborne illness",
+    "faq": [
+      {
+        "q": "What is the ideal vegetable for quick pickling?",
+        "a": "Cucumbers, carrots, and beans are popular choices for quick pickling due to their texture and flavor"
+      },
+      {
+        "q": "How long do quick pickles last?",
+        "a": "Quick pickles can last for several weeks to a few months when stored properly in the refrigerator"
+      },
+      {
+        "q": "Can I use quick pickling for other foods besides vegetables?",
+        "a": "While quick pickling is commonly used for vegetables, it can also be applied to fruits, meats, and other foods, although the process and ingredients may vary"
+      }
+    ],
+    "category": "Vegetables",
+    "tags": [
+      "quick pickles",
+      "vegetable preservation"
+    ],
+    "sources": [
+      {
+        "label": "r/fermentation community threads",
+        "url": "https://www.reddit.com/r/fermentation/"
+      },
+      {
+        "label": "Search interest: \"fermentation for beginners\"",
+        "url": "https://duckduckgo.com/?q=fermentation%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-14T22:58:27.683Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-vegetables-41",
     "title": "A weekend project: level up your vegetables in two hours",
     "dek": "One contained, satisfying vegetables project for home fermenters — start Saturday morning, done by lunch.",

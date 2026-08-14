@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-mods",
+    "title": "Mod Your Way to Glory: Essential Retro Hardware Upgrades",
+    "dek": "Upgrade your retro gaming setup with these mods",
+    "takeaway": "The right hardware mods can significantly improve your retro gaming experience and speedrunning performance",
+    "whatHappened": "The retro gaming community has seen a surge in hardware modification popularity, with enthusiasts pushing the limits of what's possible with classic consoles. Recently, a speedrunner used a modified NES to achieve a world record in Super Mario Bros. This has sparked a wave of interest in hardware mods among retro gamers. As a result, the demand for modding guides and resources has increased",
+    "whyItMatters": "Hardware mods can breathe new life into old consoles, enhancing performance, and providing a more authentic gaming experience. For speedrunners, the right mods can mean the difference between a world record and a mediocre run. Furthermore, mods can help preserve classic consoles, ensuring they remain functional for years to come",
+    "howToThink": "When considering a hardware mod, think about your specific needs and goals. Research the modding community to find reliable guides and resources. Start with simple mods and work your way up to more complex projects, and always follow proper safety protocols to avoid damaging your console",
+    "pros": [
+      "Improved performance",
+      "Enhanced gaming experience",
+      "Increased console longevity"
+    ],
+    "cons": [
+      "Voided warranties",
+      "Potential damage to consoles",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be cautious when soldering or handling electrical components to avoid damaging your console or causing injury",
+    "faq": [
+      {
+        "q": "What is the most popular hardware mod for the NES?",
+        "a": "The most popular mod is the EverDrive, which allows for playing ROMs from an SD card"
+      },
+      {
+        "q": "Can I mod my SNES to play games from other regions?",
+        "a": "Yes, you can use a region-free mod to play games from any region on your SNES"
+      },
+      {
+        "q": "How do I get started with hardware modding?",
+        "a": "Start by researching the modding community and finding reliable guides and resources, and begin with simple mods before moving on to more complex projects"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-14T22:58:22.340Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-28",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

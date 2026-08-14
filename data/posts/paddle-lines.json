@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddling-at-night-4",
+    "title": "Kayaking After Dark: A Beginner's Guide",
+    "dek": "Paddling at night requires extra prep",
+    "takeaway": "Kayaking after dark can be safe and enjoyable with the right gear and planning",
+    "whatHappened": "Many kayakers are drawn to paddling at night, but it poses unique challenges. Visibility is reduced, and the risk of collisions increases. However, with the right equipment and precautions, nighttime kayaking can be a memorable experience.",
+    "whyItMatters": "Nighttime kayaking allows paddlers to experience the water in a new way, with different scenery and wildlife. It can also be a great way to avoid crowds and paddle in cooler temperatures. However, safety must be the top priority when paddling in the dark.",
+    "howToThink": "To paddle safely at night, consider using a kayak with a sturdy rudder and a reliable light source. Always wear a properly fitting life jacket and let someone know your planned route and expected return time. Be aware of your surroundings and watch for other watercraft or obstacles.",
+    "pros": [
+      "Unique scenery",
+      "Cooler temperatures",
+      "Less crowded"
+    ],
+    "cons": [
+      "Reduced visibility",
+      "Increased risk of collisions",
+      "Equipment requirements"
+    ],
+    "watchOut": "Be cautious of underwater obstacles and other watercraft when paddling at night",
+    "faq": [
+      {
+        "q": "What light source is best for nighttime kayaking?",
+        "a": "A waterproof headlamp or kayak light with a red mode to preserve night vision"
+      },
+      {
+        "q": "How can I increase my visibility to other watercraft?",
+        "a": "Use reflective gear and a whistle to signal your presence"
+      },
+      {
+        "q": "What should I do in case of an emergency while paddling at night?",
+        "a": "Stay calm, use your light to signal for help, and follow your emergency protocol"
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "nighttime kayaking",
+      "safety tips"
+    ],
+    "sources": [
+      {
+        "label": "r/paddling community threads",
+        "url": "https://www.reddit.com/r/paddling/"
+      },
+      {
+        "label": "Search interest: \"kayak safety basics\"",
+        "url": "https://duckduckgo.com/?q=kayak%20safety%20basics"
+      }
+    ],
+    "publishedAt": "2026-08-14T22:58:26.840Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "trips-pre-spend-checklist-40",
     "title": "The trips checklist: run this before you spend",
     "dek": "Seven questions that separate a justified trips purchase from an expensive mood.",
