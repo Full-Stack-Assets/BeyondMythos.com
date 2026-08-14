@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-container-care-7",
+    "title": "Winterizing Your Herb Containers: A Step-by-Step Guide",
+    "dek": "Protect your herbs from frost and cold snaps.",
+    "takeaway": "With proper care, your herb containers can thrive year-round, even in freezing temperatures.",
+    "whatHappened": "As winter approaches, many apartment dwellers and balcony gardeners face the challenge of keeping their herb containers alive. Frost and cold snaps can be devastating to delicate herbs, leading to a loss of flavor and fragrance. By taking proactive steps, you can ensure your herbs continue to flourish.",
+    "whyItMatters": "Winterizing your herb containers is crucial for maintaining a continuous supply of fresh herbs for cooking and adding fragrance to your home. It also helps to extend the lifespan of your containers and prevents the need for costly replacements. Moreover, a thriving herb garden can be a beacon of warmth and life during the cold winter months.",
+    "howToThink": "To winterize your herb containers, start by selecting a location that provides protection from harsh winds and extreme temperatures. Insulate your containers with straw or bubble wrap, and consider bringing them indoors during prolonged periods of cold. Choose herb varieties that are resistant to frost, such as rosemary or thyme, and prune back leggy growth to promote healthy development.",
+    "pros": [
+      "Year-round harvest",
+      "Improved flavor",
+      "Increased fragrance"
+    ],
+    "cons": [
+      "Requires insulation",
+      "Limited herb selection",
+      "Increased maintenance"
+    ],
+    "watchOut": "Be cautious not to overwater your herbs during the winter months, as this can lead to root rot and other problems.",
+    "faq": [
+      {
+        "q": "What herbs are most resistant to frost?",
+        "a": "Herbs like rosemary, thyme, and sage are naturally more resistant to frost and can thrive in winter conditions."
+      },
+      {
+        "q": "Can I bring my herb containers indoors?",
+        "a": "Yes, bringing your herb containers indoors during prolonged periods of cold can help protect them from extreme temperatures and frost."
+      },
+      {
+        "q": "How often should I water my herbs in winter?",
+        "a": "Water your herbs sparingly during the winter months, as the soil can take longer to dry out due to the cold temperatures."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "winter gardening",
+      "herb care"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-14T03:12:23.953Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-34",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

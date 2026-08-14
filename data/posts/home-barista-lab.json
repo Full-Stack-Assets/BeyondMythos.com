@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-synergy-unlocked",
+    "title": "Unlocking Coffee Synergy: How to Pair Equipment for Perfect Brews",
+    "dek": "Upgrade your brew game with harmonious equipment pairing",
+    "takeaway": "Pairing the right coffee equipment can elevate your brewing experience and flavor profile",
+    "whatHappened": "Recently, we've seen a surge in home coffee enthusiasts experimenting with different equipment combinations, from grinders to brewers. This trend has led to a new wave of creative brewing methods and flavor profiles. By understanding how to pair equipment effectively, home baristas can unlock new levels of flavor and quality in their coffee",
+    "whyItMatters": "The right equipment pairing can make or break the flavor and quality of your coffee, with mismatched gear leading to subpar brews and a disappointing experience. By investing time in understanding equipment synergy, home baristas can take their brewing to the next level and explore new flavors. This, in turn, can foster a sense of community and experimentation among coffee enthusiasts",
+    "howToThink": "When selecting equipment, consider the specific needs of your brewing method and the type of coffee you're working with. Think about the grind size, water temperature, and flow rate, and how these factors interact with your equipment. By adopting a holistic approach to equipment selection, you can create a seamless brewing experience that brings out the best in your coffee",
+    "pros": [
+      "Improved flavor profile",
+      "Increased brewing efficiency",
+      "Enhanced equipment longevity"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Steep learning curve",
+      "Limited compatibility"
+    ],
+    "watchOut": "Be cautious of equipment pairing that may compromise brew temperature or water quality, as this can negatively impact flavor and quality",
+    "faq": [
+      {
+        "q": "What is the most important factor in equipment pairing?",
+        "a": "Grind size and distribution are crucial, as they directly impact flavor and quality"
+      },
+      {
+        "q": "Can I use any grinder with my espresso machine?",
+        "a": "No, not all grinders are compatible with espresso machines, so choose a grinder specifically designed for espresso"
+      },
+      {
+        "q": "How often should I clean and maintain my equipment?",
+        "a": "Regular cleaning and maintenance are essential to prevent buildup and ensure optimal performance"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Coffee Gear",
+      "Brewing Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-14T03:12:25.090Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-17",
     "title": "Brewing Up Savings: The Hidden Cost of Neglecting Your Espresso Machine",
     "dek": "Regular maintenance saves you money",
