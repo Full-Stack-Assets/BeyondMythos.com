@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-rail-stays",
+    "title": "Eco-Friendly Accommodations Near Train Stations",
+    "dek": "Sustainable stays near rail hubs",
+    "takeaway": "Choosing eco-friendly accommodations near train stations can significantly reduce your travel footprint",
+    "whatHappened": "As slow travelers, we often prioritize rail travel for its lower environmental impact, but our accommodation choices can negate these benefits. Recently, a growing number of eco-friendly hotels and hostels have popped up near major train stations, offering a more sustainable option for travelers. By choosing these stays, travelers can minimize their reliance on taxis or ride-hailing services",
+    "whyItMatters": "The impact of our accommodation choices can be significant, with hotels and other hospitality services contributing to greenhouse gas emissions and waste generation. By opting for eco-friendly stays, we can reduce our carbon footprint and support local businesses that share our values. Moreover, these stays often offer unique experiences and connections to the local community",
+    "howToThink": "When searching for eco-friendly accommodations near train stations, look for hotels or hostels with green certifications, such as LEED or Green Globe. Consider the proximity to the train station and the availability of public transportation options. Additionally, read reviews from other travelers to get a sense of the hotel's commitment to sustainability",
+    "pros": [
+      "Reduced carbon footprint",
+      "Unique local experiences",
+      "Support for eco-friendly businesses"
+    ],
+    "cons": [
+      "Higher costs",
+      "Limited availability",
+      "Variable standards"
+    ],
+    "watchOut": "Be wary of greenwashing, where hotels claim to be eco-friendly without actually implementing sustainable practices",
+    "faq": [
+      {
+        "q": "What is a green certification?",
+        "a": "A green certification, such as LEED or Green Globe, is an independent verification of a hotel's environmental sustainability"
+      },
+      {
+        "q": "How can I find eco-friendly accommodations near train stations?",
+        "a": "Use online booking platforms that filter for eco-friendly or sustainable options, or search for hotels with green certifications near your desired train station"
+      },
+      {
+        "q": "What are some common eco-friendly practices in hotels?",
+        "a": "Common eco-friendly practices in hotels include energy-efficient lighting, recycling programs, and sourcing local materials"
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "sustainable-stays",
+      "rail-travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-14T14:01:54.096Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-33",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",

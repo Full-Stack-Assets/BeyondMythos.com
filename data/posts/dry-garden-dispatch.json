@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-succulent-watering",
+    "title": "Watering Wisdom: Mastering the Art of Hydration",
+    "dek": "Succulent watering tips",
+    "takeaway": "Proper watering techniques can make or break your succulent's health",
+    "whatHappened": "Overwatering is a common mistake that can lead to root rot and kill your succulent. Recently, many growers have reported struggles with finding the right balance. By understanding the soil's water-holding capacity, you can avoid this pitfall.",
+    "whyItMatters": "Succulents have adapted to survive in dry environments, but they still require precise watering to thrive. Incorrect watering can lead to weak and leggy plants, reducing their overall aesthetic appeal and increasing the risk of pests and diseases. Mastering the art of hydration is crucial for any serious succulent grower.",
+    "howToThink": "To optimize your succulent's watering, consider the soil mix, pot size, and climate. Watering should be infrequent but thorough, allowing the soil to dry out completely between waterings. This approach encourages healthy root growth and prevents waterlogged soil.",
+    "pros": [
+      "healthy roots",
+      "increased resilience",
+      "better growth"
+    ],
+    "cons": [
+      "risks of overwatering",
+      "requires patience",
+      "may not suit all species"
+    ],
+    "watchOut": "Be cautious not to get water on the succulent's leaves to avoid rot and other problems",
+    "faq": [
+      {
+        "q": "How often should I water my succulent?",
+        "a": "Water your succulent only when the soil is dry to the touch"
+      },
+      {
+        "q": "What type of soil is best for succulents?",
+        "a": "A well-draining soil mix specifically designed for cacti and succulents"
+      },
+      {
+        "q": "Can I use tap water for my succulents?",
+        "a": "It's recommended to use distilled or filtered water to avoid mineral buildup"
+      }
+    ],
+    "category": "Soil",
+    "tags": [
+      "succulent care",
+      "watering tips"
+    ],
+    "sources": [
+      {
+        "label": "r/succulents community threads",
+        "url": "https://www.reddit.com/r/succulents/"
+      },
+      {
+        "label": "Search interest: \"succulent soil mix\"",
+        "url": "https://duckduckgo.com/?q=succulent%20soil%20mix"
+      }
+    ],
+    "publishedAt": "2026-08-14T14:01:59.247Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-proplifting-14",
     "title": "Community pulse: what r/proplifting is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the arrangements community this week.",
