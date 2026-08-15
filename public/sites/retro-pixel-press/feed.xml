@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Faster Than Fast: The Quest for Perfect Frame Rates</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-frame-rates.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-frame-rates.html</guid>
+      <pubDate>Sat, 15 Aug 2026 02:03:49 GMT</pubDate>
+      <description>Unlock faster frame rates for record-breaking speedruns</description>
+    </item>
+    <item>
       <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-11.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-27.html</guid>
       <pubDate>Thu, 13 Aug 2026 14:07:10 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Gameboy is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-10.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-10.html</guid>
-      <pubDate>Thu, 13 Aug 2026 12:31:41 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

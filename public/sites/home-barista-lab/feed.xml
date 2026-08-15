@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Brewing on a Budget: The Importance of Grinder Maintenance</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-maintenance-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-maintenance-2.html</guid>
+      <pubDate>Sat, 15 Aug 2026 02:03:49 GMT</pubDate>
+      <description>Keep your grind on point</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-29.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-29.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-8.html</guid>
       <pubDate>Thu, 13 Aug 2026 14:07:10 GMT</pubDate>
       <description>We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your gear questions, answered</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-27.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-27.html</guid>
-      <pubDate>Thu, 13 Aug 2026 12:31:41 GMT</pubDate>
-      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

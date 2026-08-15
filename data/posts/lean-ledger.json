@@ -1,5 +1,56 @@
 [
   {
+    "slug": "trimming-subscription-fat",
+    "title": "Streamlining expenses: a no-nonsense guide to subscription minimalism",
+    "dek": "Cut unnecessary costs now",
+    "takeaway": "Regularly reviewing subscriptions can save households significant amounts of money",
+    "whatHappened": "Many households find themselves stuck with subscription services they no longer use, from streaming platforms to monthly delivery boxes. These unused services can silently drain budgets, often going unnoticed for months. By taking a closer look at current subscriptions, individuals can identify areas for immediate cost-cutting.",
+    "whyItMatters": "The cumulative effect of these small, regular payments can be substantial, impacting savings and debt repayment capabilities. Moreover, streamlining subscriptions can help in prioritizing true needs over wants, promoting a more mindful approach to consumer spending. This practice also encourages a periodic review of personal spending habits, leading to more informed financial decisions.",
+    "howToThink": "To start streamlining, make a list of all current subscriptions and assess their value based on usage and personal satisfaction. Consider alternatives, such as free trials, shared accounts, or completely opting out of non-essential services. Implementing a 'one in, one out' policy can also help maintain a balanced and cost-effective portfolio of subscriptions.",
+    "pros": [
+      "Reduces unnecessary expenses",
+      "Improves financial clarity",
+      "Enhances budgeting control"
+    ],
+    "cons": [
+      "Requires regular review",
+      "May involve giving up favored services",
+      "Could lead to initial withdrawal symptoms"
+    ],
+    "watchOut": "Be cautious of services that auto-renew without clear notification, potentially locking you into another payment cycle",
+    "faq": [
+      {
+        "q": "How often should I review my subscriptions?",
+        "a": "Ideally, every 3-6 months to ensure alignment with current needs and financial goals"
+      },
+      {
+        "q": "What if I share a subscription with someone?",
+        "a": "Consider the split cost and whether the shared service still offers value to all parties involved"
+      },
+      {
+        "q": "Are there tools to help track subscriptions?",
+        "a": "Yes, several apps and budgeting software can assist in monitoring and managing subscription services"
+      }
+    ],
+    "category": "Subscriptions",
+    "tags": [
+      "frugal living",
+      "budget hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"grocery budget tips\"",
+        "url": "https://duckduckgo.com/?q=grocery%20budget%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-15T02:03:53.142Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-energy-42",
     "title": "The quiet upgrade: small tweaks in energy with outsized returns",
     "dek": "No purchases, no overhauls — the modest energy adjustments that budget-minded households and frugal optimizers report mattering most.",

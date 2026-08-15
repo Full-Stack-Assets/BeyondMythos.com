@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-grinder-maintenance-2",
+    "title": "Brewing on a Budget: The Importance of Grinder Maintenance",
+    "dek": "Keep your grind on point",
+    "takeaway": "Regular grinder maintenance can save you money and improve your brew",
+    "whatHappened": "A worn-out grinder can lead to inconsistent brews and a shorter lifespan for your equipment. Home baristas often overlook the humble grinder, but it's a crucial component in the coffee-making process. By neglecting maintenance, you're not only affecting the taste but also wasting money on subpar equipment",
+    "whyItMatters": "A well-maintained grinder ensures consistent particle size, which directly affects the flavor and quality of your coffee. Inconsistent grinds can lead to channeling, over-extraction, or under-extraction, making your brews unbalanced. Moreover, a clean grinder prevents old coffee oils and residue from affecting the taste of your new beans",
+    "howToThink": "To keep your grinder in top shape, clean it regularly, check for worn-out parts, and calibrate it as needed. A simple brush and a soft cloth can go a long way in maintaining your grinder's performance. Consider investing in a grinder with easy-to-clean parts and a robust build to minimize downtime and maximize your brewing experience",
+    "pros": [
+      "Cost-effective",
+      "Improved flavor",
+      "Extended equipment lifespan"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires effort",
+      "May require replacement parts"
+    ],
+    "watchOut": "Neglecting grinder maintenance can lead to a significant decrease in brew quality and a shorter equipment lifespan",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Clean your grinder every 1-2 weeks, depending on usage"
+      },
+      {
+        "q": "Can I use a dishwasher to clean my grinder?",
+        "a": "No, most grinders are not dishwasher-safe; stick to gentle cleaning methods"
+      },
+      {
+        "q": "What are the signs of a worn-out grinder?",
+        "a": "Look for inconsistent grinds, increased noise, or a decrease in performance"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder maintenance",
+      "coffee on a budget"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-15T02:03:49.711Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-29",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

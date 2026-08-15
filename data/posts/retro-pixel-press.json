@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-frame-rates",
+    "title": "Faster Than Fast: The Quest for Perfect Frame Rates",
+    "dek": "Unlock faster frame rates for record-breaking speedruns",
+    "takeaway": "Optimizing frame rates can shave seconds off your speedrun times",
+    "whatHappened": "Recent advancements in emulator technology have made it possible to achieve near-perfect frame rates, giving speedrunners a competitive edge. However, achieving these rates requires careful optimization of hardware and software settings. By tweaking these settings, runners can significantly improve their performance.",
+    "whyItMatters": "Frame rates can make or break a speedrun, with even small improvements leading to significant time savings. As competition in the speedrunning community continues to grow, optimizing frame rates has become a key factor in achieving record-breaking times. By understanding how to optimize frame rates, runners can gain a crucial advantage over their competitors.",
+    "howToThink": "To optimize frame rates, runners should start by analyzing their hardware and software settings, identifying potential bottlenecks and areas for improvement. They should then experiment with different configurations, benchmarking their performance to find the optimal balance between speed and stability. By taking a systematic and data-driven approach, runners can unlock faster frame rates and take their speedrunning to the next level.",
+    "pros": [
+      "Improved performance",
+      "Competitive edge",
+      "Record-breaking potential"
+    ],
+    "cons": [
+      "Requires technical expertise",
+      "May require hardware upgrades",
+      "Can be time-consuming"
+    ],
+    "watchOut": "Be cautious not to sacrifice stability for the sake of speed, as this can lead to crashes and lost progress",
+    "faq": [
+      {
+        "q": "What is the ideal frame rate for speedrunning?",
+        "a": "The ideal frame rate varies by game, but 60fps is generally considered the minimum for competitive speedrunning"
+      },
+      {
+        "q": "How do I benchmark my frame rate?",
+        "a": "Use specialized software, such as Frame Rate Benchmarking Tool, to measure and analyze your frame rate"
+      },
+      {
+        "q": "Can I optimize frame rates on older hardware?",
+        "a": "Yes, but it may require more extensive tweaking and compromise on other settings to achieve optimal performance"
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "speedrunning",
+      "optimization"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-15T02:03:49.965Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-game-restoration-field-test-11",
     "title": "\"retro game restoration\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.",

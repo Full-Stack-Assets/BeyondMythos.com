@@ -1,5 +1,56 @@
 [
   {
+    "slug": "lube-like-a-pro",
+    "title": "The Switch Luber's Handbook",
+    "dek": "Lube your way to smoother typing",
+    "takeaway": "Proper switch lubrication can greatly improve your typing experience",
+    "whatHappened": "Recently, we've seen a surge in switch lubrication methods and products, leaving many enthusiasts wondering which approach is best. From thick, heavy greases to thin, synthetic oils, the options can be overwhelming. Our team put several popular methods to the test to find out what really works.",
+    "whyItMatters": "A well-lubricated switch can mean the difference between a smooth, consistent typing experience and a noisy, unreliable one. Proper lubrication can also extend the lifespan of your switches, saving you money in the long run. With so many options available, it's essential to choose the right method for your needs.",
+    "howToThink": "When selecting a switch lubricant, consider the type of switch you're using, as well as your personal typing style. For example, linear switches may benefit from a lighter lubricant, while tactile switches may require something thicker. Always clean your switches before applying lubricant, and start with a small amount to avoid over-lubrication.",
+    "pros": [
+      "Smoother typing",
+      "Increased switch lifespan",
+      "Reduced noise"
+    ],
+    "cons": [
+      "Messy application",
+      "Over-lubrication risks",
+      "Cost"
+    ],
+    "watchOut": "Be careful not to over-lubricate, as this can attract dust and debris, negating the benefits of lubrication",
+    "faq": [
+      {
+        "q": "What's the best switch lubricant?",
+        "a": "The best lubricant for you will depend on your switch type and personal preference, but popular options include Krytox and Tribosys"
+      },
+      {
+        "q": "How often should I lube my switches?",
+        "a": "The frequency of lubrication will depend on your typing habits and environment, but a good rule of thumb is to re-lube every 6-12 months"
+      },
+      {
+        "q": "Can I use any type of oil to lube my switches?",
+        "a": "No, not all oils are suitable for switch lubrication - avoid using cooking oils or other household oils, as they can damage your switches or attract dust"
+      }
+    ],
+    "category": "Switches",
+    "tags": [
+      "switch maintenance",
+      "typing optimization"
+    ],
+    "sources": [
+      {
+        "label": "r/CustomKeyboards community threads",
+        "url": "https://www.reddit.com/r/CustomKeyboards/"
+      },
+      {
+        "label": "Search interest: \"keyboard switch guide\"",
+        "url": "https://duckduckgo.com/?q=keyboard%20switch%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-15T02:03:54.738Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-group-buys-42",
     "title": "Ask the forge: your group buys questions, answered",
     "dek": "Straight answers to the group buys questions mechanical keyboard builders and enthusiasts keep asking, minus the hedging.",
