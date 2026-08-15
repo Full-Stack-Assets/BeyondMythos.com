@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reloading-film-like-a-pro",
+    "title": "Mastering Mid-Roll Film Changes",
+    "dek": "Shoot more, waste less",
+    "takeaway": "Learning to reload film mid-roll can save you time and money in the long run",
+    "whatHappened": "Many film photographers struggle with reloading film mid-roll, resulting in wasted shots and frustration. However, with a few simple techniques and practice, anyone can master this essential skill. By understanding how to properly unload and reload film, photographers can minimize waste and maximize their shooting time.",
+    "whyItMatters": "Knowing how to reload film mid-roll can make a big difference in your photography workflow, especially when shooting with limited or expensive film stocks. It can also help you to be more flexible and spontaneous with your shooting, as you won't be limited by the number of shots on a single roll. This can lead to more creative and productive shooting sessions.",
+    "howToThink": "To master mid-roll film changes, start by practicing with an empty camera and a spare roll of film. Get a feel for how the film loads and unloads, and pay attention to the sounds and sensations of the camera's mechanisms. Then, try reloading film mid-roll in a controlled environment, such as a darkroom or changing bag, to minimize the risk of exposure or damage.",
+    "pros": [
+      "Saves film",
+      "Increases flexibility",
+      "Improves workflow"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be tricky",
+      "May cause damage"
+    ],
+    "watchOut": "Always handle film in a completely dark environment to avoid exposure",
+    "faq": [
+      {
+        "q": "What is the best way to handle film in daylight?",
+        "a": "Use a changing bag or a darkroom to minimize exposure risk"
+      },
+      {
+        "q": "Can I reload film mid-roll with any camera?",
+        "a": "Most film cameras allow mid-roll reloads, but consult your camera's manual to confirm"
+      },
+      {
+        "q": "How often should I practice reloading film?",
+        "a": "Practice regularly to build muscle memory and confidence"
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "film photography",
+      "camera skills"
+    ],
+    "sources": [
+      {
+        "label": "r/AnalogCommunity community threads",
+        "url": "https://www.reddit.com/r/AnalogCommunity/"
+      },
+      {
+        "label": "Search interest: \"best film stocks 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20film%20stocks%202026"
+      }
+    ],
+    "publishedAt": "2026-08-15T09:02:15.843Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-developing-42",
     "title": "The quiet upgrade: small tweaks in developing with outsized returns",
     "dek": "No purchases, no overhauls — the modest developing adjustments that film photographers shooting analog report mattering most.",

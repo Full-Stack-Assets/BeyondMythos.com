@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Unlocking Hidden Flavors in Your Daily Grind</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-5.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor-5.html</guid>
+      <pubDate>Sat, 15 Aug 2026 09:02:09 GMT</pubDate>
+      <description>Get more from your beans</description>
+    </item>
+    <item>
       <title>Community pulse: what r/espresso is debating this week</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-7.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-7.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevate-your-espresso-game-2.html</guid>
       <pubDate>Thu, 13 Aug 2026 21:27:35 GMT</pubDate>
       <description>Get perfect espresso shots every time</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-24.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-24.html</guid>
-      <pubDate>Thu, 13 Aug 2026 20:21:07 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>

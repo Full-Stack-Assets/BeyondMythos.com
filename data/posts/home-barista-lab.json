@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-coffee-flavor-5",
+    "title": "Unlocking Hidden Flavors in Your Daily Grind",
+    "dek": "Get more from your beans",
+    "takeaway": "Small roasting tweaks can significantly impact flavor",
+    "whatHappened": "Recent experiments with home roasting have shown that even minor adjustments to temperature and time can drastically change the flavor profile of coffee beans. By tweaking these variables, enthusiasts have been able to bring out hidden notes and nuances in their favorite brews. This shift in approach has sparked a renewed interest in the art of roasting.",
+    "whyItMatters": "Understanding how to roast coffee beans effectively is crucial for home baristas looking to elevate their daily cup. It not only enhances the flavor but also allows for a deeper appreciation of the coffee's origin and characteristics. Moreover, mastering the roasting process can help reduce waste and save money by making the most out of every bean.",
+    "howToThink": "To start exploring the world of roasting, begin by investing in a quality grinder and a basic roasting setup. Experiment with small batches, paying close attention to the smell and sound of the beans as they roast. Keep a journal of your experiments to track what works and what doesn't, and don't be afraid to try new things and make mistakes.",
+    "pros": [
+      "Increased flavor control",
+      "Cost-effective",
+      "Enhanced coffee experience"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Equipment investment",
+      "Trial and error"
+    ],
+    "watchOut": "Be cautious not to over-roast, as this can quickly lead to a bitter taste and a wasted batch of beans",
+    "faq": [
+      {
+        "q": "What is the ideal roasting temperature?",
+        "a": "The ideal temperature varies depending on the bean and desired flavor, but a common range is between 400°F and 425°F"
+      },
+      {
+        "q": "How often should I roast my beans?",
+        "a": "It's recommended to roast in small batches and use them within a week or two for optimal freshness"
+      },
+      {
+        "q": "Can I roast coffee beans at home without special equipment?",
+        "a": "Yes, you can start with basic equipment like a skillet or oven, but investing in a dedicated roaster will yield better results"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "roasting tips",
+      "coffee flavor"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-15T09:02:09.888Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-espresso-7",
     "title": "Community pulse: what r/espresso is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

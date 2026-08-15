@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pruning-for-growth-2",
+    "title": "Cut Back to Grow Forward: Pruning Strategies for Planted Tanks",
+    "dek": "Prune your way to a healthier tank",
+    "takeaway": "Pruning is essential for maintaining a balanced and thriving planted tank ecosystem",
+    "whatHappened": "Many aquarium enthusiasts overlook the importance of pruning in their planted tanks, often resulting in overgrown and unbalanced ecosystems. Pruning helps control plant growth, promotes healthy root development, and maintains optimal water circulation. By incorporating pruning into your tank maintenance routine, you can prevent common issues such as algae blooms and plant die-off.",
+    "whyItMatters": "Pruning has a direct impact on the overall health and aesthetic appeal of your planted tank. By pruning your plants regularly, you can encourage bushy growth, prevent leggy stems, and maintain a balanced nutrient cycle. A well-pruned tank also provides a more stable environment for your livestock, reducing stress and promoting overall well-being.",
+    "howToThink": "To get the most out of pruning, consider the specific growth habits and needs of your plants. Research the best pruning techniques for each species, and invest in a good pair of aquatic plant clippers. Regular pruning sessions can be as short as 10-15 minutes, making it an easy and manageable task to incorporate into your weekly tank maintenance routine.",
+    "pros": [
+      "Promotes healthy plant growth",
+      "Encourages balanced ecosystems",
+      "Enhances aesthetic appeal"
+    ],
+    "cons": [
+      "Requires regular maintenance",
+      "Can be time-consuming for large tanks",
+      "May cause initial shock to plants"
+    ],
+    "watchOut": "Be cautious not to over-prune, as this can cause stress to your plants and lead to disease or pest issues",
+    "faq": [
+      {
+        "q": "How often should I prune my plants?",
+        "a": "Pruning frequency depends on plant species and growth rate, but aim for at least once a week"
+      },
+      {
+        "q": "What are the best tools for pruning aquatic plants?",
+        "a": "Invest in a good pair of aquatic plant clippers or scissors specifically designed for underwater use"
+      },
+      {
+        "q": "Can I prune my plants during water changes?",
+        "a": "Yes, pruning during water changes can help reduce stress on your plants and make the process more efficient"
+      }
+    ],
+    "category": "Plants",
+    "tags": [
+      "planted tank care",
+      "aquatic plant maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/PlantedTank community threads",
+        "url": "https://www.reddit.com/r/PlantedTank/"
+      },
+      {
+        "label": "Search interest: \"low tech planted tank\"",
+        "url": "https://duckduckgo.com/?q=low%20tech%20planted%20tank"
+      }
+    ],
+    "publishedAt": "2026-08-15T09:02:14.249Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-plants-43",
     "title": "A weekend project: level up your plants in two hours",
     "dek": "One contained, satisfying plants project for planted-tank keepers — start Saturday morning, done by lunch.",
