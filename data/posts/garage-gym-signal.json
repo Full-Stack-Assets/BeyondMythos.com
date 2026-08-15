@@ -1,5 +1,56 @@
 [
   {
+    "slug": "periodization-for-beginners",
+    "title": "Periodization 101: Boosting Gains with Strategic Planning",
+    "dek": "Maximize progress with periodized training",
+    "takeaway": "Periodization helps beginners avoid plateaus and increase overall fitness gains",
+    "whatHappened": "Traditional training methods often focus on single exercises or muscle groups, leading to stagnation and decreased motivation. Periodization offers a solution by dividing training into specific phases. This approach allows for varied intensity, volume, and frequency, keeping workouts engaging and effective.",
+    "whyItMatters": "Periodization matters because it helps prevent overtraining and mental burnout, common pitfalls for beginners. By incorporating different training phases, individuals can continue making progress while minimizing the risk of injury or exhaustion. This approach also promotes long-term adherence to a strength training program.",
+    "howToThink": "To implement periodization, start by identifying your goals and current fitness level. Then, divide your training into blocks or phases, each with a specific focus, such as hypertrophy or strength. Be sure to include deload weeks and active recovery strategies to maintain overall health and progress.",
+    "pros": [
+      "Increased motivation",
+      "Improved progress",
+      "Reduced injury risk"
+    ],
+    "cons": [
+      "Requires planning",
+      "Can be complex",
+      "Demands consistency"
+    ],
+    "watchOut": "Be cautious not to overcomplicate your periodization plan, as this can lead to frustration and decreased adherence",
+    "faq": [
+      {
+        "q": "What is periodization?",
+        "a": "Periodization is a training approach that involves dividing workouts into specific phases or blocks, each with a unique focus or goal."
+      },
+      {
+        "q": "How often should I periodize my training?",
+        "a": "The frequency of periodization depends on individual goals and progress, but a common approach is to periodize every 4-6 weeks."
+      },
+      {
+        "q": "Can I periodize my training on my own?",
+        "a": "While possible, it's recommended to consult with a qualified coach or trainer to ensure a well-structured and effective periodization plan."
+      }
+    ],
+    "category": "Programming",
+    "tags": [
+      "periodization",
+      "training"
+    ],
+    "sources": [
+      {
+        "label": "r/bodyweightfitness community threads",
+        "url": "https://www.reddit.com/r/bodyweightfitness/"
+      },
+      {
+        "label": "Search interest: \"adjustable dumbbells guide\"",
+        "url": "https://duckduckgo.com/?q=adjustable%20dumbbells%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-15T05:02:17.178Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-equipment-mistakes-30",
     "title": "Five mistakes everyone makes in their first month of equipment",
     "dek": "The most common early stumbles in equipment, and the cheap corrections that fix them for home gym builders and strength-training beginners.",

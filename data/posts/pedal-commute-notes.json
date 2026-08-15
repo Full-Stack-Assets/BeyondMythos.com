@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-intersections",
+    "title": "Taming the Urban Jungle: Intersection Mastery for Commuters",
+    "dek": "Stay safe at intersections with these expert tips.",
+    "takeaway": "Mastering intersections is key to a safe and stress-free bike commute.",
+    "whatHappened": "Recently, a surge in bike-commuter accidents at intersections has sparked a debate about safety measures. Many of these accidents can be attributed to a lack of understanding of intersection dynamics. By recognizing the risks and taking proactive steps, commuters can significantly reduce their chance of being involved in an accident.",
+    "whyItMatters": "Intersections are the most hazardous part of any bike commute, with cars, pedestrians, and other cyclists all vying for space. Knowing how to navigate these areas confidently can make a huge difference in a commuter's safety and overall commute experience. Moreover, being aware of one's surroundings and anticipating potential hazards can help prevent accidents.",
+    "howToThink": "To master intersections, commuters should always be aware of their surroundings, anticipate the actions of others, and follow traffic rules rigorously. Practicing defensive cycling and maintaining a safe speed can also help commuters react to unexpected situations. Additionally, staying visible and using appropriate hand signals can reduce the risk of accidents.",
+    "pros": [
+      "Increased safety",
+      "Improved confidence",
+      "Smarter commuting"
+    ],
+    "cons": [
+      "Requires practice",
+      "Demands constant vigilance",
+      "Can be stressful"
+    ],
+    "watchOut": "Always be cautious of vehicles turning from behind you at intersections.",
+    "faq": [
+      {
+        "q": "What is the most common cause of accidents at intersections?",
+        "a": "The most common cause is a collision with a vehicle turning from behind the cyclist."
+      },
+      {
+        "q": "How can I stay visible at intersections?",
+        "a": "Wear bright or reflective clothing and ensure your bike is equipped with proper lighting."
+      },
+      {
+        "q": "What is defensive cycling?",
+        "a": "Defensive cycling involves anticipating the actions of others and taking steps to avoid potential collisions."
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "urban cycling",
+      "commuter safety"
+    ],
+    "sources": [
+      {
+        "label": "r/bicycling community threads",
+        "url": "https://www.reddit.com/r/bicycling/"
+      },
+      {
+        "label": "Search interest: \"urban cycling safety\"",
+        "url": "https://duckduckgo.com/?q=urban%20cycling%20safety"
+      }
+    ],
+    "publishedAt": "2026-08-15T05:02:16.623Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-bikecommuting-10",
     "title": "Community pulse: what r/bikecommuting is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

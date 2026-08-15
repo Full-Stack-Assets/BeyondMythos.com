@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-sunday",
+    "title": "Finding hidden gems on local trains",
+    "dek": "Local trains reveal secret destinations",
+    "takeaway": "Slow travel by train can lead to unexpected discoveries",
+    "whatHappened": "While researching off-the-beaten-path destinations, we stumbled upon a local train line that wound through picturesque countryside. The train itself was a vintage gem, with wooden seats and large windows perfect for taking in the views. As we rode the train, we met fellow travelers who shared tips on hidden gems to visit along the way.",
+    "whyItMatters": "For slow-travel and low-impact explorers, local trains offer a unique way to experience the authentic culture of a region. By avoiding major tourist routes, travelers can discover unique landscapes, try local cuisine, and support small communities. This approach to travel also reduces carbon footprint and promotes sustainable tourism.",
+    "howToThink": "To make the most of local train travel, consider purchasing a regional rail pass, which can provide flexibility and cost savings. Research the route in advance to identify potential stops and plan your itinerary accordingly. Don't be afraid to strike up conversations with fellow travelers and locals, as they can offer valuable insights and recommendations.",
+    "pros": [
+      "Scenic routes",
+      "Authentic experiences",
+      "Sustainable"
+    ],
+    "cons": [
+      "Limited schedules",
+      "Language barriers",
+      "Crowds"
+    ],
+    "watchOut": "Be mindful of regional train rules and regulations, as they can vary significantly from country to country",
+    "faq": [
+      {
+        "q": "What is the best way to find local train schedules?",
+        "a": "Check the national rail website or visit a local train station for the most up-to-date information"
+      },
+      {
+        "q": "Can I use my Eurail pass on local trains?",
+        "a": "It depends on the specific pass and the country, so be sure to check the terms and conditions"
+      },
+      {
+        "q": "How can I meet other travelers on local trains?",
+        "a": "Join a travel group or use social media to connect with fellow travelers before your trip"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "local trains",
+      "slow travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-15T05:02:10.339Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-30",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",

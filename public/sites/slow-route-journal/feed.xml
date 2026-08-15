@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Finding hidden gems on local trains</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-sunday.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-sunday.html</guid>
+      <pubDate>Sat, 15 Aug 2026 05:02:10 GMT</pubDate>
+      <description>Local trains reveal secret destinations</description>
+    </item>
+    <item>
       <title>Ask the forge: your local questions, answered</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-30.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-30.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-revival-2.html</guid>
       <pubDate>Thu, 13 Aug 2026 17:40:57 GMT</pubDate>
       <description>Rediscover the joy of slow train travel</description>
-    </item>
-    <item>
-      <title>The packing checklist: run this before you spend</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/packing-pre-spend-checklist-22.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/packing-pre-spend-checklist-22.html</guid>
-      <pubDate>Thu, 13 Aug 2026 16:33:52 GMT</pubDate>
-      <description>Seven questions that separate a justified packing purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
