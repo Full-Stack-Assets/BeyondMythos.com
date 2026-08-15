@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-coffee-yield",
+    "title": "Squeeze Every Drop: Optimizing Your Coffee Yield",
+    "dek": "Get more from your beans",
+    "takeaway": "Optimizing coffee yield can significantly enhance flavor and reduce waste",
+    "whatHappened": "Home baristas often struggle to achieve the perfect balance between coffee and water, resulting in under or over-extraction. Recent experiments have shown that minor adjustments to pour-over techniques can drastically improve yield. By understanding the intricacies of pour-over, enthusiasts can unlock a more efficient brewing process.",
+    "whyItMatters": "Maximizing yield not only ensures that every cup tastes its best but also minimizes the environmental impact of coffee production and consumption. Moreover, optimizing yield can help home baristas save money by reducing coffee waste. This is particularly important for those who invest in high-quality, specialty beans.",
+    "howToThink": "To optimize yield, consider the ratio of coffee to water, the coarseness of the grind, and the pouring technique. Experimenting with these variables can help you find the sweet spot for your equipment and preferred flavor profile. Regularly cleaning and maintaining your gear is also crucial for consistent results.",
+    "pros": [
+      "Improved flavor",
+      "Reduced waste",
+      "Cost savings"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires precise measurements",
+      "Equipment maintenance"
+    ],
+    "watchOut": "Be cautious not to over-optimize, as this can lead to over-extraction and an unbalanced flavor",
+    "faq": [
+      {
+        "q": "What is the ideal coffee to water ratio?",
+        "a": "Generally, a 1:15 to 1:17 ratio is considered optimal for pour-over"
+      },
+      {
+        "q": "How often should I clean my pour-over equipment?",
+        "a": "Daily rinsing and weekly deep cleaning are recommended to prevent buildup and bacterial growth"
+      },
+      {
+        "q": "Can I use any type of coffee bean for pour-over?",
+        "a": "While any bean can be used, lighter roasts and single-origin beans tend to yield the best results due to their nuanced flavor profiles"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "pour-over tips",
+      "coffee yield"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-15T19:01:30.130Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-pour-over-technique-11",
     "title": "Myth vs. reality: pour over technique",
     "dek": "The persistent myths around pour over technique, stress-tested against what home coffee enthusiasts actually report.",

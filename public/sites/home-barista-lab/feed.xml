@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Squeeze Every Drop: Optimizing Your Coffee Yield</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-yield.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-yield.html</guid>
+      <pubDate>Sat, 15 Aug 2026 19:01:30 GMT</pubDate>
+      <description>Get more from your beans</description>
+    </item>
+    <item>
       <title>Myth vs. reality: pour over technique</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-pour-over-technique-11.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-pour-over-technique-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-26.html</guid>
       <pubDate>Fri, 14 Aug 2026 12:28:11 GMT</pubDate>
       <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
-    </item>
-    <item>
-      <title>&quot;budget grinder upgrade&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-8.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-8.html</guid>
-      <pubDate>Fri, 14 Aug 2026 11:26:57 GMT</pubDate>
-      <description>We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
