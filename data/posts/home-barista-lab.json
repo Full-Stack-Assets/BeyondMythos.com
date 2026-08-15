@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-matters-7",
+    "title": "The Tamping Effect: How Pressure Impacts Your Shot",
+    "dek": "Tamping technique affects flavor",
+    "takeaway": "Proper tamping is crucial for a well-balanced espresso shot",
+    "whatHappened": "Recent experiments have shown that tamping technique can significantly impact the flavor profile of an espresso shot. By applying the right amount of pressure, home baristas can improve the overall quality of their espresso. However, too much or too little pressure can lead to channeling or under-extraction.",
+    "whyItMatters": "A well-tamped shot ensures that water flows evenly through the coffee grounds, resulting in a balanced extraction. This, in turn, brings out the optimal flavors and aromas of the coffee. By mastering the tamping technique, home baristas can take their espresso game to the next level.",
+    "howToThink": "To achieve the perfect tamp, home baristas should focus on applying a consistent amount of pressure, using a level surface, and ensuring the portafilter is securely locked into place. It's also essential to experiment with different tamping techniques to find what works best for your equipment and coffee beans.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Better crema"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be tedious",
+      "May not work with all grinders"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to over-extraction and a bitter taste",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal tamping pressure is around 30-40 pounds, but this may vary depending on the equipment and coffee beans"
+      },
+      {
+        "q": "How often should I clean my tamper?",
+        "a": "You should clean your tamper after every use to prevent old coffee oils from affecting the flavor of your espresso"
+      },
+      {
+        "q": "Can I use a tamper with a built-in level?",
+        "a": "Yes, a tamper with a built-in level can help ensure that your portafilter is level and your tamp is even"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Tamping Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-15T13:16:39.813Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-31",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

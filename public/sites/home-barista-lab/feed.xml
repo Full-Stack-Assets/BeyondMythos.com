@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Tamping Effect: How Pressure Impacts Your Shot</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-matters-7.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-matters-7.html</guid>
+      <pubDate>Sat, 15 Aug 2026 13:16:39 GMT</pubDate>
+      <description>Tamping technique affects flavor</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-31.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-31.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-synergy-unlocked.html</guid>
       <pubDate>Fri, 14 Aug 2026 03:12:25 GMT</pubDate>
       <description>Upgrade your brew game with harmonious equipment pairing</description>
-    </item>
-    <item>
-      <title>Brewing Up Savings: The Hidden Cost of Neglecting Your Espresso Machine</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-17.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-17.html</guid>
-      <pubDate>Fri, 14 Aug 2026 00:42:41 GMT</pubDate>
-      <description>Regular maintenance saves you money</description>
     </item>
   </channel>
 </rss>

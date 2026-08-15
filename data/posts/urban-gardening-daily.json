@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reboot-your-herb-garden",
+    "title": "Spring Into Fresh Flavors: Revamping Your Herb Garden",
+    "dek": "Breathe new life into your herb garden with simple tweaks.",
+    "takeaway": "Revamping your herb garden can be as simple as introducing new varieties and optimizing your container setup.",
+    "whatHappened": "As the seasons change, our herb gardens can become stale, with the same old varieties dominating our planters. This not only limits the flavors we can experiment with in the kitchen but also neglects the potential for our balconies and apartments to become vibrant showcases of herbal diversity. By reassessing and revamping our herb gardens, we can introduce new scents, tastes, and textures to our culinary repertoire.",
+    "whyItMatters": "A revamped herb garden isn't just about aesthetics; it's about unlocking a world of flavors and aromas that can elevate any dish. From the bright zest of lemon balm to the earthy depth of thyme, each herb offers a unique dimension to cooking. Moreover, growing your own herbs ensures freshness and reduces reliance on packaged, often wilted, store-bought alternatives.",
+    "howToThink": "To give your herb garden a fresh start, consider grouping plants by their watering needs to simplify care. Next, explore companion planting to enhance growth and deter pests naturally. Finally, don't be afraid to experiment with vertical gardening solutions to maximize space, especially in compact apartment balconies.",
+    "pros": [
+      "Increased flavor variety",
+      "Improved garden aesthetics",
+      "Enhanced culinary creativity"
+    ],
+    "cons": [
+      "Initial setup costs",
+      "Requires ongoing maintenance",
+      "Potential for overwatering"
+    ],
+    "watchOut": "Be cautious not to overcrowd your containers, as this can lead to decreased air circulation and increased disease susceptibility among your herbs.",
+    "faq": [
+      {
+        "q": "What are the easiest herbs to grow for beginners?",
+        "a": "Basil, mint, and parsley are excellent choices for those new to herb gardening due to their hardiness and ease of care."
+      },
+      {
+        "q": "Can I grow herbs indoors year-round?",
+        "a": "Yes, with proper lighting, such as LED grow lights, and maintaining a stable indoor temperature, you can enjoy fresh herbs indoors throughout the year."
+      },
+      {
+        "q": "How often should I water my herbs?",
+        "a": "Herbs generally require watering when the top inch of soil feels dry to the touch, but this can vary depending on the herb variety and climate."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "HerbGardenTips",
+      "BalconyGardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-15T13:16:40.874Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-seasonal-34",
     "title": "Ask the forge: your seasonal questions, answered",
     "dek": "Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.",

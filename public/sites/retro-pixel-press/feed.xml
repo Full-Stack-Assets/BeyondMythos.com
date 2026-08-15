@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>SNES Reborn: The FPGA Revolution</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/reviving-snes-with-fpgas.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/reviving-snes-with-fpgas.html</guid>
+      <pubDate>Sat, 15 Aug 2026 13:16:41 GMT</pubDate>
+      <description>FPGA tech breathes new life into SNES</description>
+    </item>
+    <item>
       <title>Community pulse: what r/snes is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-10.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-10.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance-4.html</guid>
       <pubDate>Fri, 14 Aug 2026 03:12:24 GMT</pubDate>
       <description>Boost your retro console&apos;s performance.</description>
-    </item>
-    <item>
-      <title>Revolutionizing Speedruns with Custom Controller Mods</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/custom-controller-mods.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-controller-mods.html</guid>
-      <pubDate>Fri, 14 Aug 2026 00:42:42 GMT</pubDate>
-      <description>Upgrade your game with custom mods</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-train-stations",
+    "title": "Station Hacks: Mastering the Art of Arrival",
+    "dek": "Maximize your arrival experience",
+    "takeaway": "Understanding train station layouts can greatly enhance your travel experience",
+    "whatHappened": "During a recent trip, I found myself lost in an unfamiliar train station, struggling to find my way out. This experience highlighted the importance of understanding train station layouts. By knowing what to expect, travelers can save time and reduce stress upon arrival.",
+    "whyItMatters": "For slow-travel and low-impact explorers, arriving at a new destination can be a crucial part of the journey. A smooth arrival can set the tone for the entire trip, while a chaotic one can be overwhelming. By mastering the art of arrival, travelers can better immerse themselves in local cultures and environments.",
+    "howToThink": "To navigate train stations like a pro, research the station's layout before arrival, identify key amenities such as luggage storage and food options, and consider purchasing a station map or guide. By taking these steps, travelers can ensure a seamless transition from train to destination.",
+    "pros": [
+      "Reduced stress",
+      "Increased efficiency",
+      "Improved experience"
+    ],
+    "cons": [
+      "Requires research",
+      "May incur additional costs",
+      "Can be time-consuming"
+    ],
+    "watchOut": "Be cautious of pickpocketing and scams in crowded train stations",
+    "faq": [
+      {
+        "q": "What are the most important amenities to look for in a train station?",
+        "a": "Luggage storage, food options, and restrooms are essential amenities to look for in a train station"
+      },
+      {
+        "q": "How can I research a train station's layout before arrival?",
+        "a": "Use online resources such as station maps and traveler reviews to research a train station's layout before arrival"
+      },
+      {
+        "q": "Are station maps and guides worth the cost?",
+        "a": "Yes, station maps and guides can be valuable resources for navigating unfamiliar train stations and are often worth the cost"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "train travel",
+      "station hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-15T13:16:40.123Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-31",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",
