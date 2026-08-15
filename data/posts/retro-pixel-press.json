@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-nes-consoles-3",
+    "title": "Bringing Back the 8-Bit Beast: A Practical Guide to Restoring NES Consoles",
+    "dek": "Revive your NES console with these simple steps.",
+    "takeaway": "Restoring an NES console can be a fun and rewarding DIY project for retro gaming enthusiasts.",
+    "whatHappened": "The original NES console, released in the 80s, has become a beloved collector's item, but its age has taken a toll on its hardware. Many consoles are now in need of restoration to function properly. With the right tools and knowledge, anyone can bring their NES console back to life. This process not only preserves the console but also ensures that future generations can enjoy the classic games it offers.",
+    "whyItMatters": "Restoring NES consoles is crucial for preserving gaming history and making these classic consoles accessible to new players. It also allows collectors to maintain the value of their consoles and enjoy their favorite childhood games without the hassle of faulty hardware. By learning how to restore an NES console, enthusiasts can contribute to the preservation of retro gaming culture.",
+    "howToThink": "When approaching an NES console restoration, it's essential to start with a thorough cleaning of the console and its components. Next, identify and replace any faulty parts, such as capacitors or the 72-pin connector. Finally, test the console thoroughly to ensure all functions are working correctly. Patience and attention to detail are key to a successful restoration.",
+    "pros": [
+      "Cost-effective",
+      "Preserves gaming history",
+      "Fun DIY project"
+    ],
+    "cons": [
+      "Requires technical knowledge",
+      "Can be time-consuming",
+      "Risk of damaging components"
+    ],
+    "watchOut": "Be careful when handling electrical components to avoid damage or injury.",
+    "faq": [
+      {
+        "q": "What are the most common issues with old NES consoles?",
+        "a": "The most common issues include faulty 72-pin connectors, worn-out capacitors, and dirty or corroded components."
+      },
+      {
+        "q": "Do I need to be an expert to restore an NES console?",
+        "a": "While some technical knowledge is helpful, many restoration tasks can be learned through online tutorials and practice."
+      },
+      {
+        "q": "Where can I find replacement parts for my NES console?",
+        "a": "Replacement parts can be found online through retailers specializing in retro gaming hardware or through community forums and markets."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES restoration",
+      "Retro gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-15T22:57:36.028Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-retro-game-restoration-11",
     "title": "Myth vs. reality: retro game restoration",
     "dek": "The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.",

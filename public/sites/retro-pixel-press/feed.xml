@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Bringing Back the 8-Bit Beast: A Practical Guide to Restoring NES Consoles</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-3.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-3.html</guid>
+      <pubDate>Sat, 15 Aug 2026 22:57:36 GMT</pubDate>
+      <description>Revive your NES console with these simple steps.</description>
+    </item>
+    <item>
       <title>Myth vs. reality: retro game restoration</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-11.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-29.html</guid>
       <pubDate>Fri, 14 Aug 2026 17:36:35 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-9.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-9.html</guid>
-      <pubDate>Fri, 14 Aug 2026 16:30:13 GMT</pubDate>
-      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
