@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spring-hive-prep",
+    "title": "Bee Ready: Spring Hive Prep Essentials",
+    "dek": "Get your hive ready for spring",
+    "takeaway": "Proper spring hive preparation is crucial for a healthy and thriving bee colony",
+    "whatHappened": "As winter comes to an end, backyard beekeepers must prepare their hives for the upcoming spring season. This includes cleaning and inspecting the hive, replacing old frames, and ensuring the queen bee is healthy. A well-prepared hive will help the colony grow and produce a bountiful harvest.",
+    "whyItMatters": "A poorly prepared hive can lead to disease, pests, and even colony collapse. By taking the time to properly prepare the hive, beekeepers can help prevent these issues and set their colony up for success. A healthy and thriving colony is not only better for the bees, but also for the beekeeper, as it will produce more honey and be easier to manage.",
+    "howToThink": "When preparing your hive for spring, consider the specific needs of your colony and the conditions in your area. Think about the type of bees you have, the size of your hive, and the potential pests and diseases that may be present. By taking a thoughtful and proactive approach, you can help ensure a successful and productive spring season.",
+    "pros": [
+      "Increased honey production",
+      "Healthy queen bee",
+      "Reduced disease risk"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Expensive equipment",
+      "Physical demands"
+    ],
+    "watchOut": "Be cautious of pests and diseases when opening up the hive for spring preparation",
+    "faq": [
+      {
+        "q": "What is the best time to prepare my hive for spring?",
+        "a": "4-6 weeks before the last frost date in your area"
+      },
+      {
+        "q": "How often should I inspect my hive during spring preparation?",
+        "a": "Every 7-10 days to monitor for pests and diseases"
+      },
+      {
+        "q": "What are the most common spring hive preparation mistakes?",
+        "a": "Not cleaning and inspecting the hive thoroughly, not replacing old frames, and not ensuring the queen bee is healthy"
+      }
+    ],
+    "category": "Hives",
+    "tags": [
+      "beekeeping",
+      "hives"
+    ],
+    "sources": [
+      {
+        "label": "r/homestead community threads",
+        "url": "https://www.reddit.com/r/homestead/"
+      },
+      {
+        "label": "Search interest: \"first honey harvest\"",
+        "url": "https://duckduckgo.com/?q=first%20honey%20harvest"
+      }
+    ],
+    "publishedAt": "2026-08-15T16:59:21.123Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-health-43",
     "title": "The quiet upgrade: small tweaks in health with outsized returns",
     "dek": "No purchases, no overhauls — the modest health adjustments that backyard beekeepers report mattering most.",

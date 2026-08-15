@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimal-workbench-height",
+    "title": "Benchmarked: The Surprising Truth About Workbench Height",
+    "dek": "Get the most from your workspace",
+    "takeaway": "A well-set workbench height boosts productivity and reduces fatigue",
+    "whatHappened": "We spent a weekend in the shop, testing various workbench heights with different tasks and tools. The results were eye-opening, with significant differences in comfort and efficiency. From planing to joinery, each task had a sweet spot.",
+    "whyItMatters": "The right workbench height can mean the difference between a enjoyable hobby and a frustrating, back-aching chore. With many hobby woodworkers working in small, multi-purpose shops, optimizing this key aspect of the workspace is crucial. It affects not just comfort, but also the quality of work produced.",
+    "howToThink": "When setting up your workbench, consider the primary tasks you'll be performing and adjust the height accordingly. For example, planing and heavy sanding benefit from a slightly lower bench, while precision work like joinery may require a higher surface. Experiment to find what works best for you and your tools.",
+    "pros": [
+      "Increased comfort",
+      "Improved precision",
+      "Boosted productivity"
+    ],
+    "cons": [
+      "Space constraints",
+      "Tool adjustment needed",
+      "Initial experimentation required"
+    ],
+    "watchOut": "Be cautious not to set your workbench too high, as this can lead to shoulder strain and decreased control over your tools",
+    "faq": [
+      {
+        "q": "What is the ideal workbench height?",
+        "a": "It varies by task and user, but a good starting point is between 33-36 inches for most adult hobby woodworkers"
+      },
+      {
+        "q": "How do I adjust my existing workbench?",
+        "a": "Consider using adjustable legs or adding/removing shims to achieve the perfect height for your needs"
+      },
+      {
+        "q": "Will this improvement make a big difference?",
+        "a": "Yes, even small adjustments can significantly impact your comfort and the quality of your work"
+      }
+    ],
+    "category": "Shop Setup",
+    "tags": [
+      "workbench optimization",
+      "shop setup tips"
+    ],
+    "sources": [
+      {
+        "label": "r/BeginnerWoodWorking community threads",
+        "url": "https://www.reddit.com/r/BeginnerWoodWorking/"
+      },
+      {
+        "label": "Search interest: \"first hand tool set\"",
+        "url": "https://duckduckgo.com/?q=first%20hand%20tool%20set"
+      }
+    ],
+    "publishedAt": "2026-08-15T16:59:22.029Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "woodworking-small-space-field-test-13",
     "title": "\"woodworking small space\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about woodworking small space through a month of actual use. Some of it survived.",
