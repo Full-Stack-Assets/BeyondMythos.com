@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-retro-hardware-for-speed-2",
+    "title": "Turbocharging Your Retro Rig: Expert Tips for Speedrunners",
+    "dek": "Unlock faster load times and smoother gameplay",
+    "takeaway": "Optimizing your retro hardware can significantly improve speedrun performance",
+    "whatHappened": "Recent speedrunning competitions have highlighted the importance of optimized hardware for achieving record-breaking times. Top speedrunners have been sharing their tips and tricks for tweaking retro consoles and PCs to squeeze out every last bit of performance. From simple upgrades to complex modifications, the community is constantly pushing the boundaries of what's possible.",
+    "whyItMatters": "For retro game collectors and speedrunners, having the right hardware can mean the difference between a good run and a great one. Optimized hardware can also help to reduce glitches and crashes, making the gaming experience more enjoyable and reliable. By investing in the right upgrades, enthusiasts can take their gaming to the next level and stay competitive in the speedrunning community.",
+    "howToThink": "When it comes to optimizing your retro hardware, it's essential to think about the specific needs of your games and the types of speedruns you want to do. Consider upgrading your console's RAM or CPU, or investing in a high-quality upscaler to improve video output. Additionally, look into custom firmware and software tweaks that can help to unlock hidden features and improve performance.",
+    "pros": [
+      "Faster load times",
+      "Smoother gameplay",
+      "Improved overall performance"
+    ],
+    "cons": [
+      "Cost of upgrades",
+      "Technical complexity",
+      "Potential for hardware damage"
+    ],
+    "watchOut": "Be careful not to overload your system with too many upgrades, as this can lead to overheating and damage to your hardware",
+    "faq": [
+      {
+        "q": "What's the best way to upgrade my retro console's RAM?",
+        "a": "Check online forums and tutorials for specific guides on upgrading your console's RAM, as the process can vary depending on the model and type of console"
+      },
+      {
+        "q": "Can I use a modern PC to play retro games?",
+        "a": "Yes, but you may need to use emulation software or a retro game console emulator to play retro games on a modern PC"
+      },
+      {
+        "q": "How can I reduce input lag when playing retro games?",
+        "a": "Try using a high-quality controller or adapter, and consider upgrading your display to one with low input lag"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-15T07:15:33.609Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-hidden-snes-gems-10",
     "title": "Myth vs. reality: hidden snes gems",
     "dek": "The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.",
