@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-to-nowhere-2",
+    "title": "The Hidden Joys of Local Rail Passes",
+    "dek": "Ride the slow lane",
+    "takeaway": "Local rail passes can unlock affordable, immersive travel experiences for slow-travel enthusiasts",
+    "whatHappened": "I recently embarked on a journey using a local rail pass, which allowed me to explore remote areas and connect with fellow travelers. The pass granted me flexibility and freedom to create my own itinerary. As I traversed the countryside, I discovered hidden gems and unexpected delights",
+    "whyItMatters": "For slow-travel and low-impact explorers, local rail passes offer a unique opportunity to experience the authentic culture and natural beauty of a region. By avoiding high-speed trains and tourist hotspots, travelers can reduce their carbon footprint and support local economies. This approach also fosters a deeper connection with the local community and environment",
+    "howToThink": "When considering a local rail pass, think about your travel style and priorities. Research the available routes, schedules, and prices to find the best fit for your needs. Be flexible and open to spontaneity, as the slow train journey can be just as rewarding as the destination",
+    "pros": [
+      "affordable",
+      "flexible",
+      "immersive"
+    ],
+    "cons": [
+      "limited routes",
+      "slow pace",
+      "language barriers"
+    ],
+    "watchOut": "Be mindful of peak travel seasons and potential delays when using local rail passes",
+    "faq": [
+      {
+        "q": "What is a local rail pass?",
+        "a": "A local rail pass is a ticket that grants access to a specific region's rail network, often with flexible travel dates and routes"
+      },
+      {
+        "q": "How do I purchase a local rail pass?",
+        "a": "Local rail passes can be purchased online, at train stations, or through a travel agency, depending on the region and provider"
+      },
+      {
+        "q": "Can I use a local rail pass for international travel?",
+        "a": "Some local rail passes may be valid for international travel, but it's essential to check the terms and conditions before purchasing"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "slow travel",
+      "local rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-15T14:58:06.645Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-35",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",

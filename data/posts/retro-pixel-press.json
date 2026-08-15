@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-5",
+    "title": "Retro Console Modding 101",
+    "dek": "Upgrade your retro console",
+    "takeaway": "Modding your retro console can significantly improve performance and longevity",
+    "whatHappened": "The retro gaming community has seen a surge in console modding, with DIY kits and tutorials flooding online forums. This trend is driven by the desire for improved performance, added features, and increased durability. As a result, retro console modding has become more accessible and affordable for enthusiasts.",
+    "whyItMatters": "Console modding is crucial for retro gaming enthusiasts, as it enables them to breathe new life into their vintage systems. By upgrading their consoles, players can enjoy smoother gameplay, reduced lag, and enhanced graphics. Moreover, modding helps preserve the original hardware, ensuring that classic games remain playable for years to come.",
+    "howToThink": "When considering console modding, it's essential to research and choose reputable DIY kits or professional services. Enthusiasts should also weigh the costs and benefits, considering factors like improved performance, potential risks, and the console's overall value. By taking a thoughtful and informed approach, retro gaming enthusiasts can unlock their console's full potential and enjoy a more immersive gaming experience.",
+    "pros": [
+      "Improved performance",
+      "Increased durability",
+      "Enhanced graphics"
+    ],
+    "cons": [
+      "Potential risks",
+      "Costly upgrades",
+      "Voided warranties"
+    ],
+    "watchOut": "Be cautious of low-quality DIY kits or untrustworthy modding services, as they can damage your console or compromise its performance",
+    "faq": [
+      {
+        "q": "What is console modding?",
+        "a": "Console modding refers to the process of upgrading or modifying a retro gaming console to improve its performance, features, or durability."
+      },
+      {
+        "q": "Is console modding difficult?",
+        "a": "The difficulty of console modding varies depending on the specific modification and the individual's level of technical expertise. However, many DIY kits and tutorials are designed to be user-friendly and accessible."
+      },
+      {
+        "q": "Will modding my console void its warranty?",
+        "a": "Yes, modifying your console can void its warranty, so it's essential to weigh the risks and benefits before proceeding with any upgrades or modifications."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Console Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-15T14:58:06.145Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-crt-setup-guide-11",
     "title": "Myth vs. reality: crt setup guide",
     "dek": "The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.",
