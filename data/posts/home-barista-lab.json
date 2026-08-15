@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrating-your-grinder-2",
+    "title": "Grind Control: The Secret to Perfect Extraction",
+    "dek": "Get the most out of your beans",
+    "takeaway": "Proper grinder calibration is key to achieving optimal flavor in your daily cup",
+    "whatHappened": "Recently, we've seen a surge in home baristas upgrading their grinders, only to find that the default settings aren't quite right. This has led to inconsistent shots and a lack of clarity in the cup. By calibrating your grinder, you can ensure that your beans are being ground to the perfect size for your brewing method.",
+    "whyItMatters": "A well-calibrated grinder is essential for any home barista, as it allows for precise control over the grind size and distribution. This, in turn, affects the flavor and aroma of the final product. With a properly calibrated grinder, you can expect a more balanced and nuanced cup, with notes that are both bright and rich.",
+    "howToThink": "To calibrate your grinder, start by adjusting the burrs to the recommended setting for your brewing method. From there, make small adjustments and taste the results, taking note of any changes in flavor or aroma. It's also important to consider the type of beans you're using, as different roasts and origins may require slightly different grind settings.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Enhanced aroma"
+    ],
+    "cons": [
+      "Requires patience",
+      "Can be tricky to adjust",
+      "May require frequent recalibration"
+    ],
+    "watchOut": "Be careful not to over-tighten the burrs, as this can lead to channeling and a poor extraction",
+    "faq": [
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "The ideal grind size for espresso is typically around 200-250 microns"
+      },
+      {
+        "q": "How often should I calibrate my grinder?",
+        "a": "You should calibrate your grinder whenever you change brewing methods or beans"
+      },
+      {
+        "q": "Can I use a pre-calibrated grinder?",
+        "a": "While pre-calibrated grinders can be convenient, they may not be optimized for your specific brewing method or beans"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder calibration",
+      "coffee gear"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-15T20:58:27.697Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-32",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

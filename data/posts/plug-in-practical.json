@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-public-chargers",
+    "title": "Charging on the Go: Expert Tips for Public Stations",
+    "dek": "Get the most out of public EV chargers.",
+    "takeaway": "Optimizing your public charging routine can significantly enhance your electric vehicle ownership experience.",
+    "whatHappened": "The proliferation of public charging stations has been a boon for EV owners, offering convenience and flexibility. However, navigating different networks and technologies can be daunting. Recent advancements in charging technology have also introduced faster and more efficient charging options.",
+    "whyItMatters": "Efficient use of public chargers is crucial for long trips and daily commutes, especially for those without home charging options. Understanding how to maximize public charging can alleviate range anxiety and make EV ownership more practical. Moreover, optimizing charging habits can lead to significant cost savings over time.",
+    "howToThink": "To get the most out of public charging, consider planning your route around charger locations, utilizing apps to find the fastest and most convenient options, and understanding the different types of charging connectors and speeds available. Additionally, keeping track of charging costs and comparing rates among different networks can help in making informed decisions.",
+    "pros": [
+      "Convenience",
+      "Cost-effective",
+      "Wide availability"
+    ],
+    "cons": [
+      "Variable charging speeds",
+      "Network variability",
+      "Potential for high costs"
+    ],
+    "watchOut": "Be cautious of charging stations with reported issues or high fees to avoid unexpected complications or expenses.",
+    "faq": [
+      {
+        "q": "What is the fastest type of public charger?",
+        "a": "DC Fast Charging"
+      },
+      {
+        "q": "How do I find public charging stations?",
+        "a": "Using charging network apps or websites"
+      },
+      {
+        "q": "Can I charge my EV at any public station?",
+        "a": "Mostly, but check compatibility and network membership first"
+      }
+    ],
+    "category": "Charging",
+    "tags": [
+      "EV charging",
+      "Public stations"
+    ],
+    "sources": [
+      {
+        "label": "r/evcharging community threads",
+        "url": "https://www.reddit.com/r/evcharging/"
+      },
+      {
+        "label": "Search interest: \"EV road trip planning\"",
+        "url": "https://duckduckgo.com/?q=EV%20road%20trip%20planning"
+      }
+    ],
+    "publishedAt": "2026-08-15T20:58:34.545Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-charging-31",
     "title": "A weekend project: level up your charging in two hours",
     "dek": "One contained, satisfying charging project for EV owners — start Saturday morning, done by lunch.",

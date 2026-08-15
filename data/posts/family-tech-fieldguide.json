@@ -1,5 +1,56 @@
 [
   {
+    "slug": "screen-time-budgeting",
+    "title": "Raising kids who respect screen limits",
+    "dek": "Set screen time budgets that stick",
+    "takeaway": "Implementing a screen time budget helps kids develop self-regulation skills",
+    "whatHappened": "Parents struggle to limit their kids' screen time, with many children spending hours each day on devices. This can negatively impact physical and mental health, social skills, and academic performance. Excessive screen time can also lead to addiction and decreased attention span.",
+    "whyItMatters": "Teaching kids to manage screen time is crucial for their overall development and well-being. By setting limits and encouraging physical activity, socialization, and other hobbies, parents can help their children develop healthy habits and a balanced lifestyle. This, in turn, can improve their relationships, academic performance, and future prospects.",
+    "howToThink": "To implement an effective screen time budget, parents should set clear rules and consequences, monitor their child's device use, and encourage alternative activities. They should also lead by example, as kids often mimic their parents' behavior. By being consistent, open, and supportive, parents can help their kids develop a healthy relationship with screens and technology.",
+    "pros": [
+      "Improves focus",
+      "Enhances physical health",
+      "Boosts social skills"
+    ],
+    "cons": [
+      "Can be challenging to enforce",
+      "May lead to conflict",
+      "Requires ongoing monitoring"
+    ],
+    "watchOut": "Be cautious not to be too restrictive, as this can lead to rebellion and decreased motivation",
+    "faq": [
+      {
+        "q": "How much screen time is too much?",
+        "a": "The American Academy of Pediatrics recommends no more than 1-2 hours of screen time per day for children over 2 years old"
+      },
+      {
+        "q": "How can I monitor my child's screen time?",
+        "a": "Use built-in device features, such as Screen Time on iOS or Digital Wellbeing on Android, or third-party apps like Qustodio or Kaspersky Safe Kids"
+      },
+      {
+        "q": "What are some alternative activities to screen time?",
+        "a": "Encourage physical activities like sports or dance, creative pursuits like drawing or music, or social activities like reading or board games"
+      }
+    ],
+    "category": "Screen Time",
+    "tags": [
+      "screen time",
+      "parenting tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-15T20:58:34.411Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-mommit-12",
     "title": "Community pulse: what r/Mommit is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the devices community this week.",

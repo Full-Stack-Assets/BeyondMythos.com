@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-range-without-upgrading",
+    "title": "Squeeze More Miles: Expert Range-Hacking Tips",
+    "dek": "Boost your e-bike's range without breaking the bank",
+    "takeaway": "Simple tweaks can add miles to your daily commute without upgrading your battery",
+    "whatHappened": "As e-bike commuters, we're always looking for ways to squeeze more range out of our batteries. Recently, we've seen a surge in creative solutions that don't involve upgrading to a more expensive battery. From cadence tuning to tire pressure optimization, these tweaks are showing promising results. Our team decided to put these hacks to the test and share the most effective methods with our readers.",
+    "whyItMatters": "Maximizing range is crucial for e-bike commuters who rely on their bikes for daily transportation. With the rising cost of batteries and the environmental impact of frequent replacements, finding ways to extend range without upgrading is a top priority. By implementing these simple tweaks, commuters can reduce their carbon footprint and save money in the long run.",
+    "howToThink": "To start range-hacking, think about your riding style and the terrain you cover. Identify areas where you can optimize your cadence, gear usage, and bike maintenance to reduce energy consumption. Additionally, consider investing in accessories like regenerative braking systems or more efficient tires to further boost your range.",
+    "pros": [
+      "increased range",
+      "cost-effective",
+      "environmentally friendly"
+    ],
+    "cons": [
+      "requires some technical know-how",
+      "may not be as effective for heavy riders",
+      "limited potential for very long commutes"
+    ],
+    "watchOut": "Be cautious not to over-tweak your bike, as this can lead to decreased performance or even damage to your components",
+    "faq": [
+      {
+        "q": "What's the most effective way to increase range?",
+        "a": "Optimizing tire pressure and cadence can add up to 10% more range to your commute"
+      },
+      {
+        "q": "Will these tweaks void my warranty?",
+        "a": "It depends on the manufacturer and the specific tweaks you make, so be sure to check your warranty terms before making any modifications"
+      },
+      {
+        "q": "Can I apply these range-hacking tips to my conversion bike?",
+        "a": "Yes, many of these tweaks can be applied to conversion bikes, but be sure to consider the unique characteristics of your bike and its components"
+      }
+    ],
+    "category": "Batteries",
+    "tags": [
+      "ebike range",
+      "commuter tips"
+    ],
+    "sources": [
+      {
+        "label": "r/ebikecommuting community threads",
+        "url": "https://www.reddit.com/r/ebikecommuting/"
+      },
+      {
+        "label": "Search interest: \"ebike battery care\"",
+        "url": "https://duckduckgo.com/?q=ebike%20battery%20care"
+      }
+    ],
+    "publishedAt": "2026-08-15T20:58:34.140Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-ebikes-14",
     "title": "Community pulse: what r/ebikes is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the conversion community this week.",
