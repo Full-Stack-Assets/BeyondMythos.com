@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Community pulse: what r/snes is debating this week</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-10.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-10.html</guid>
+      <pubDate>Sat, 15 Aug 2026 11:54:52 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
+    </item>
+    <item>
       <title>Overclocking the Original: How to Breathe New Life into Your Retro Console&apos;s Optical Drive</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optical-drive-overclocking.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optical-drive-overclocking.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-controller-mods.html</guid>
       <pubDate>Fri, 14 Aug 2026 00:42:42 GMT</pubDate>
       <description>Upgrade your game with custom mods</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: hidden snes gems</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-9.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-9.html</guid>
-      <pubDate>Thu, 13 Aug 2026 23:23:24 GMT</pubDate>
-      <description>The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.</description>
     </item>
   </channel>
 </rss>

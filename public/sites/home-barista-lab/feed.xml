@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Ask the forge: your gear questions, answered</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-31.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-31.html</guid>
+      <pubDate>Sat, 15 Aug 2026 11:54:52 GMT</pubDate>
+      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>Sharpen Up: Why Burr Upgrades Matter for Home Baristas</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/upgrading-your-grinder-burrs.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/upgrading-your-grinder-burrs.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-17.html</guid>
       <pubDate>Fri, 14 Aug 2026 00:42:41 GMT</pubDate>
       <description>Regular maintenance saves you money</description>
-    </item>
-    <item>
-      <title>Tamping Technique Revisited: The Secret to Consistent Espresso</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-revisited-2.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-revisited-2.html</guid>
-      <pubDate>Thu, 13 Aug 2026 23:23:26 GMT</pubDate>
-      <description>Improve your espresso with proper tamping</description>
     </item>
   </channel>
 </rss>
