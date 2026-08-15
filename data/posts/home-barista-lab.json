@@ -1,5 +1,56 @@
 [
   {
+    "slug": "upgrading-your-grinder-burrs",
+    "title": "Sharpen Up: Why Burr Upgrades Matter for Home Baristas",
+    "dek": "Better flavor from a simple swap",
+    "takeaway": "Upgrading your grinder burrs can significantly improve the flavor of your home-brewed coffee",
+    "whatHappened": "Recently, advancements in burr technology have led to more efficient and flavorful grinding. Many home baristas are now looking to upgrade their grinders to take their coffee game to the next level. With the rise of specialty coffee, the demand for high-quality grinders has increased, driving innovation in the industry.",
+    "whyItMatters": "The quality of your grinder burrs can make or break the flavor of your coffee. Dull burrs can lead to inconsistent grinds, channeling, and a loss of flavor. Upgrading to sharper, more efficient burrs can result in a more balanced and nuanced cup. This is especially important for home baristas who are looking to experiment with different roast levels and brewing methods.",
+    "howToThink": "When considering a burr upgrade, think about your brewing habits and the type of coffee you typically drink. If you're a heavy espresso drinker, look for burrs that are optimized for fine grinds. For pour-over and drip brewing, a medium-coarse grind is often preferred. Be sure to research and compare different burr materials and designs to find the best fit for your needs and budget.",
+    "pros": [
+      "Improved flavor",
+      "Increased efficiency",
+      "Longer burr life"
+    ],
+    "cons": [
+      "Higher cost",
+      "Potential for overheating",
+      "Difficulty in installation"
+    ],
+    "watchOut": "Be cautious of cheap, low-quality burrs that can damage your grinder or compromise flavor",
+    "faq": [
+      {
+        "q": "What are the different types of burrs available?",
+        "a": "There are several types of burrs available, including steel, ceramic, and diamond-coated burrs, each with their own unique characteristics and benefits."
+      },
+      {
+        "q": "How often should I upgrade my burrs?",
+        "a": "The frequency of burr upgrades depends on usage, but a general rule of thumb is to replace them every 1-2 years or after a certain number of pounds of coffee have been ground."
+      },
+      {
+        "q": "Can I upgrade my burrs myself or do I need a professional?",
+        "a": "While it's possible to upgrade your burrs yourself, it's often recommended to have a professional do it, especially if you're not familiar with the inner workings of your grinder."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Coffee Gear",
+      "Grinder Upgrades"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-15T10:57:18.777Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-budget-grinder-upgrade-8",
     "title": "Myth vs. reality: budget grinder upgrade",
     "dek": "The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.",

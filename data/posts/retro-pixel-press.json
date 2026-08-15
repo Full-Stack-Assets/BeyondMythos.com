@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optical-drive-overclocking",
+    "title": "Overclocking the Original: How to Breathe New Life into Your Retro Console's Optical Drive",
+    "dek": "Unlock faster load times with these simple tweaks.",
+    "takeaway": "Overclocking your retro console's optical drive can significantly improve performance without breaking the bank.",
+    "whatHappened": "Recent experiments have shown that overclocking the optical drives in retro consoles can lead to substantial reductions in load times. This has sparked a wave of interest among speedrunners and collectors looking for an edge. By tweaking the drive's laser and motor speeds, enthusiasts have managed to squeeze out additional performance.",
+    "whyItMatters": "Faster load times can make all the difference in competitive speedrunning, allowing players to shave off precious seconds. Moreover, for collectors, the ability to enjoy games with improved performance enhances the overall gaming experience. This relatively simple and cost-effective upgrade can breathe new life into vintage consoles.",
+    "howToThink": "When considering overclocking your retro console's optical drive, it's crucial to research the specific model and its limitations. Understanding the technical capabilities and potential drawbacks is key to a successful upgrade. Start by identifying community-tested tweaks and gradually experiment with adjustments to find the optimal balance between performance and stability.",
+    "pros": [
+      "Improved Load Times",
+      "Cost-Effective",
+      "Enhanced Gaming Experience"
+    ],
+    "cons": [
+      "Potential for Drive Wear",
+      "Requires Technical Knowledge",
+      "Risk of Overheating"
+    ],
+    "watchOut": "Be cautious not to push the drive beyond its safe operational limits to avoid damaging your console or the drive itself.",
+    "faq": [
+      {
+        "q": "Is overclocking safe for my console?",
+        "a": "When done correctly and within reasonable limits, overclocking can be safe, but it always carries some risk of damage."
+      },
+      {
+        "q": "Do I need to be tech-savvy to overclock my optical drive?",
+        "a": "While some technical knowledge is helpful, there are many community resources and guides available to assist beginners."
+      },
+      {
+        "q": "Will overclocking void my console's warranty?",
+        "a": "For most vintage consoles, the warranty has already expired, but it's essential to check the specific terms and conditions if your console is still under warranty."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-15T10:57:18.540Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-speedruns-mistakes-30",
     "title": "Five mistakes everyone makes in their first month of speedruns",
     "dek": "The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.",
