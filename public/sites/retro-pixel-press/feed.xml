@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: crt setup guide</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-11.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-11.html</guid>
+      <pubDate>Sat, 15 Aug 2026 13:58:04 GMT</pubDate>
+      <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>SNES Reborn: The FPGA Revolution</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/reviving-snes-with-fpgas.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/reviving-snes-with-fpgas.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-12.html</guid>
       <pubDate>Fri, 14 Aug 2026 05:19:16 GMT</pubDate>
       <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Turbocharging Your Retro Console: Expert Tips</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance-4.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-console-performance-4.html</guid>
-      <pubDate>Fri, 14 Aug 2026 03:12:24 GMT</pubDate>
-      <description>Boost your retro console&apos;s performance.</description>
     </item>
   </channel>
 </rss>
