@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-hacks-6",
+    "title": "Retro Revival: Expert Hardware Hacks for Speed Demons",
+    "dek": "Upgrade your retro gear",
+    "takeaway": "With the right hardware hacks, you can significantly improve your speedrunning performance",
+    "whatHappened": "Recently, the speedrunning community has seen a surge in creative hardware modifications that have led to record-breaking runs. From custom controller designs to optimized console setups, enthusiasts are pushing the limits of what's possible. These innovations have sparked a new wave of interest in retro hardware hacking",
+    "whyItMatters": "For retro game collectors and speedrunners, having the right hardware can be a major competitive advantage. By modifying or upgrading their gear, players can achieve faster frame rates, reduce input lag, and gain a deeper understanding of the game's mechanics. This, in turn, can lead to faster completion times and a more satisfying gaming experience",
+    "howToThink": "When approaching retro hardware hacking, it's essential to consider the specific needs of your game or speedrun. Think about the areas where you can gain the most improvement, whether it's through a faster CPU, optimized memory, or improved controller response. By focusing on these key areas, you can create a customized setup that meets your unique requirements",
+    "pros": [
+      "Improved performance",
+      "Customization options",
+      "Community recognition"
+    ],
+    "cons": [
+      "Technical complexity",
+      "Cost of upgrades",
+      "Risk of damage"
+    ],
+    "watchOut": "Be cautious when modifying your hardware, as incorrect changes can damage your equipment or void your warranty",
+    "faq": [
+      {
+        "q": "What's the best way to get started with retro hardware hacking?",
+        "a": "Start by researching online communities and forums to learn about popular modifications and best practices"
+      },
+      {
+        "q": "How can I ensure my hardware upgrades are compatible with my console?",
+        "a": "Check the console's documentation and manufacturer guidelines to ensure compatibility and avoid any potential issues"
+      },
+      {
+        "q": "What are some essential tools for retro hardware hacking?",
+        "a": "A good soldering iron, a logic analyzer, and a programmer are essential tools for any serious retro hardware hacker"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-15T03:21:52.583Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-frame-rates",
     "title": "Faster Than Fast: The Quest for Perfect Frame Rates",
     "dek": "Unlock faster frame rates for record-breaking speedruns",
