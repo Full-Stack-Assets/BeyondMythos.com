@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-herb-container-care-5",
+    "title": "Summer Herb Survival Guide",
+    "dek": "Beat the heat with thriving herbs",
+    "takeaway": "Proper container care is crucial for summer herb survival",
+    "whatHappened": "As summer temperatures rise, apartment dwellers and balcony gardeners often struggle to keep their herb containers thriving. The heat can quickly lead to wilted leaves and poor growth. A well-designed container care routine can make all the difference in maintaining healthy and productive herbs.",
+    "whyItMatters": "Herbs are a staple in many urban gardens, providing fresh flavors and fragrances to countless dishes. However, their sensitivity to extreme temperatures and dryness makes them challenging to care for during the summer months. By understanding the importance of proper container care, gardeners can ensure their herbs continue to flourish despite the heat.",
+    "howToThink": "To keep your summer herbs happy, focus on providing adequate moisture, protection from intense sunlight, and sufficient nutrients. Consider using self-watering containers or implementing a regular watering schedule to prevent dehydration. Additionally, fertilize your herbs regularly to promote healthy growth and development.",
+    "pros": [
+      "Improved growth",
+      "Increased yields",
+      "Enhanced flavors"
+    ],
+    "cons": [
+      "Requires regular maintenance",
+      "May need additional shading",
+      "Can be prone to pests"
+    ],
+    "watchOut": "Be cautious not to overwater, as this can lead to root rot and other issues",
+    "faq": [
+      {
+        "q": "How often should I water my herb containers?",
+        "a": "Water your herbs when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I use regular potting soil for my herbs?",
+        "a": "It's recommended to use a well-draining potting mix specifically designed for containers"
+      },
+      {
+        "q": "What are some heat-tolerant herbs for summer containers?",
+        "a": "Basil, mint, and lemongrass are great options for summer containers"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herb care",
+      "summer gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-16T07:18:00.123Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-garden-ideas-field-test-12",
     "title": "\"balcony garden ideas\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about balcony garden ideas through a month of actual use. Some of it survived.",

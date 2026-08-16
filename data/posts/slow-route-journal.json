@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-stays-for-the-win",
+    "title": "Embracing the Liberation of Short-Term Rentals",
+    "dek": "Ditch long leases for flexibility",
+    "takeaway": "Short-term rentals offer slow travelers unparalleled freedom to explore without commitment",
+    "whatHappened": "The rise of short-term rental platforms has opened doors to a new way of experiencing destinations. No longer are travelers tied down to long, expensive leases. With the click of a button, adventurers can now find temporary homes in virtually any corner of the globe. This shift has particularly benefited slow travelers, who value flexibility and spontaneity",
+    "whyItMatters": "The ability to rent on a short-term basis matters because it allows travelers to immerse themselves in different neighborhoods and communities without the burden of a lengthy commitment. This approach fosters a deeper connection with local cultures and landscapes. Moreover, it enables travelers to adjust their plans as they see fit, reflecting the unpredictable nature of slow travel",
+    "howToThink": "When considering short-term rentals, think about your travel style and what kind of experience you're seeking. If flexibility and the freedom to change plans are paramount, then embracing the micro-stay could be your key to a more fulfilling journey. Always research the local rental market and understand the terms of your stay to avoid any unexpected surprises",
+    "pros": [
+      "Flexibility",
+      "Cultural Immersion",
+      "Budget Friendly"
+    ],
+    "cons": [
+      "Unpredictable Availability",
+      "Higher Daily Rates",
+      "Less Sense of Community"
+    ],
+    "watchOut": "Be cautious of areas with strict short-term rental regulations to avoid any legal issues",
+    "faq": [
+      {
+        "q": "What is a micro-stay?",
+        "a": "A micro-stay refers to a short-term rental, typically less than a month, that offers travelers flexibility and freedom"
+      },
+      {
+        "q": "How do I find short-term rentals?",
+        "a": "Utilize online platforms, local real estate agents, or community boards to find available short-term rentals"
+      },
+      {
+        "q": "Are short-term rentals more expensive?",
+        "a": "While daily rates might be higher, the overall cost can be lower due to the short duration of the stay"
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "Slow Travel",
+      "Local Living"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-16T07:18:00.974Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "train-travel-europe-tips-field-test-9",
     "title": "\"train travel europe tips\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about train travel europe tips through a month of actual use. Some of it survived.",
