@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-your-grinder-2",
+    "title": "Get the Grind Right: Calibration Tips for Home Baristas",
+    "dek": "Expert grind calibration for better espresso",
+    "takeaway": "Proper grinder calibration is crucial for optimal espresso extraction",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end grinders, but many are not utilizing them to their full potential. A well-calibrated grinder can make all the difference in the world of espresso. With the right grind, you can achieve a perfectly balanced shot, but with the wrong grind, you may end up with a subpar one.",
+    "whyItMatters": "The right grind size and distribution can significantly impact the flavor of your espresso. If the grind is too fine, it can lead to over-extraction, resulting in a bitter taste. On the other hand, if the grind is too coarse, it can lead to under-extraction, resulting in a weak and sour taste. Proper calibration ensures the ideal grind for your specific brewing method.",
+    "howToThink": "To fine-tune your grinder, start by adjusting the grind setting and observing the changes in your espresso's flavor and crema. Pay attention to the grind's texture and distribution, and make adjustments accordingly. It's also essential to consider the type of coffee beans you're using, as different beans may require different grind settings.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Better crema"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires patience",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be cautious not to over-adjust your grinder, as this can lead to inconsistent results and a decrease in overall performance",
+    "faq": [
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "The ideal grind size for espresso is typically between 200-250 microns"
+      },
+      {
+        "q": "How often should I calibrate my grinder?",
+        "a": "You should calibrate your grinder every 1-2 weeks, or whenever you notice a change in the flavor of your espresso"
+      },
+      {
+        "q": "Can I use a pre-ground coffee for espresso?",
+        "a": "While it's possible to use pre-ground coffee for espresso, it's not recommended, as the grind size and distribution may not be optimal for your specific brewing method"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso",
+      "grinding"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-16T02:10:41.224Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-coffee-8",
     "title": "Community pulse: what r/Coffee is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

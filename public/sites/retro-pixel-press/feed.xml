@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Game Emulation Without the Guilt</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-done-right.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-done-right.html</guid>
+      <pubDate>Sun, 16 Aug 2026 02:10:41 GMT</pubDate>
+      <description>Get authentic retro gaming without the clutter</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-28.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-28.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-2.html</guid>
       <pubDate>Fri, 14 Aug 2026 19:36:09 GMT</pubDate>
       <description>NES restoration made easy</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-31.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-31.html</guid>
-      <pubDate>Fri, 14 Aug 2026 18:31:20 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

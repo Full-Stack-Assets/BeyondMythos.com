@@ -1,5 +1,56 @@
 [
   {
+    "slug": "revisiting-the-old-fashioned",
+    "title": "The Old Fashioned: a classic reborn",
+    "dek": "Revamp your Old Fashioned game",
+    "takeaway": "A thoughtful approach to bitters and sugar can elevate this timeless cocktail",
+    "whatHappened": "The Old Fashioned, one of the most recognizable cocktails, has seen a resurgence in popularity, with many bartenders experimenting with unique twists. Despite its simplicity, the drink requires balance and harmony among its few ingredients. A deeper understanding of bitters and sugar can make all the difference.",
+    "whyItMatters": "As home bartenders, mastering the Old Fashioned is a rite of passage, allowing for endless creativity and experimentation. By focusing on the fundamentals, enthusiasts can develop a keen sense of flavor and technique. This, in turn, can inform and improve their approach to other classic cocktails.",
+    "howToThink": "When reworking the Old Fashioned, consider the type and amount of bitters, as well as the sugar's texture and dissolution. Think about how these elements interact with the whiskey and other components. Practice and patience are key to finding the perfect balance for your taste preferences.",
+    "pros": [
+      "Easy to experiment with",
+      "Endless flavor possibilities",
+      "Timeless appeal"
+    ],
+    "cons": [
+      "Sensitive to ingredient ratios",
+      "Can be overly sweet",
+      "Limited room for error"
+    ],
+    "watchOut": "Be cautious not to over-muddle or over-dilute, as this can quickly throw off the drink's delicate balance",
+    "faq": [
+      {
+        "q": "What type of bitters is best for an Old Fashioned?",
+        "a": "Aromatic bitters, such as Angostura or Peychaud's, are traditional choices"
+      },
+      {
+        "q": "Can I use simple syrup instead of sugar?",
+        "a": "Yes, but be mindful of the syrup's dilution effect and adjust the amount accordingly"
+      },
+      {
+        "q": "How do I prevent my Old Fashioned from becoming watered down?",
+        "a": "Use large, clear ice cubes and stir gently to avoid introducing excess water"
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "cocktail fundamentals",
+      "whiskey cocktails"
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "publishedAt": "2026-08-16T02:10:47.552Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-batching-43",
     "title": "Ask the forge: your batching questions, answered",
     "dek": "Straight answers to the batching questions home bartenders and cocktail hobbyists keep asking, minus the hedging.",

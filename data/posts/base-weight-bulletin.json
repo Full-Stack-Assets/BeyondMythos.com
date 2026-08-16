@@ -1,5 +1,56 @@
 [
   {
+    "slug": "streamlining-your-kitchen",
+    "title": "Lighten Your Load: The Case for a Single-Pot System",
+    "dek": "Ditch the extra gear and go single-pot",
+    "takeaway": "A single-pot system can save you up to a pound of pack weight and simplify your cooking routine",
+    "whatHappened": "Ultralight backpackers have long been looking for ways to reduce their pack weight without sacrificing nutrition. One often overlooked area is the kitchen, where multiple pots and pans can add up to a significant amount of weight. Recently, many thru-hikers have been adopting a single-pot system, where one pot is used for all cooking and eating needs. This approach has been shown to be highly effective, with many hikers reporting a significant reduction in pack weight and increased simplicity in their cooking routine.",
+    "whyItMatters": "For ultralight backpackers, every ounce counts, and adopting a single-pot system can make a big difference. By reducing the amount of gear you need to carry, you can move more efficiently and conserve energy for more important things, like enjoying the scenery and pushing through challenging terrain. Additionally, a single-pot system can also simplify your cooking routine, making it easier to prepare healthy and delicious meals on the go.",
+    "howToThink": "When considering a single-pot system, think about your specific cooking needs and how you can adapt your routine to use a single pot. Look for a pot that is durable, lightweight, and versatile, and consider investing in a pot support or windscreen to make cooking easier. Additionally, be mindful of food preparation and planning, as a single-pot system may require more careful planning to ensure you have enough food and can prepare it safely and efficiently.",
+    "pros": [
+      "Lightweight",
+      "Simplified cooking",
+      "Increased efficiency"
+    ],
+    "cons": [
+      "Limited cooking options",
+      "Potential for cross-contamination",
+      "Requires careful planning"
+    ],
+    "watchOut": "Be careful not to sacrifice nutrition or food safety when adopting a single-pot system, as this can have serious consequences on the trail",
+    "faq": [
+      {
+        "q": "What type of pot is best for a single-pot system?",
+        "a": "Look for a pot that is lightweight, durable, and has a secure lid"
+      },
+      {
+        "q": "How do I prevent cross-contamination with a single-pot system?",
+        "a": "Make sure to clean and sanitize your pot regularly, and consider using a small sponge or cloth to wipe down utensils and surfaces"
+      },
+      {
+        "q": "Can I still cook complex meals with a single-pot system?",
+        "a": "While a single-pot system may limit your cooking options, you can still prepare healthy and delicious meals with a little creativity and planning"
+      }
+    ],
+    "category": "Food",
+    "tags": [
+      "ultralight cooking",
+      "thru-hike food"
+    ],
+    "sources": [
+      {
+        "label": "r/AppalachianTrail community threads",
+        "url": "https://www.reddit.com/r/AppalachianTrail/"
+      },
+      {
+        "label": "Search interest: \"thru hike food planning\"",
+        "url": "https://duckduckgo.com/?q=thru%20hike%20food%20planning"
+      }
+    ],
+    "publishedAt": "2026-08-16T02:10:48.811Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-packs-44",
     "title": "A weekend project: level up your packs in two hours",
     "dek": "One contained, satisfying packs project for ultralight backpackers — start Saturday morning, done by lunch.",
