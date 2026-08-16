@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Blooming Brilliant: How Pre-Infusion Can Transform Your Pour-Overs</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/mastering-coffee-bloom.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/mastering-coffee-bloom.html</guid>
+      <pubDate>Sun, 16 Aug 2026 19:01:12 GMT</pubDate>
+      <description>Unlock better flavor with pre-infusion</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-32.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-32.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-matters-7.html</guid>
       <pubDate>Sat, 15 Aug 2026 13:16:39 GMT</pubDate>
       <description>Tamping technique affects flavor</description>
-    </item>
-    <item>
-      <title>Ask the forge: your gear questions, answered</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-31.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-31.html</guid>
-      <pubDate>Sat, 15 Aug 2026 11:54:52 GMT</pubDate>
-      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

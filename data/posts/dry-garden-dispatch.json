@@ -1,5 +1,56 @@
 [
   {
+    "slug": "succulent-summer-care",
+    "title": "Summer Lovin': How to Protect Your Succulents",
+    "dek": "Shield your succulents from harsh summer sun",
+    "takeaway": "Proper shading can prevent scorched succulents and promote healthy growth",
+    "whatHappened": "As summer approaches, many succulent growers face the challenge of protecting their plants from intense sunlight. Prolonged exposure to direct sunlight can cause discoloration, scorching, and even plant death. In recent years, growers have reported increased instances of sun damage due to climate change and shifting weather patterns.",
+    "whyItMatters": "Succulents are adapted to thrive in bright, indirect light, but excessive direct sunlight can be detrimental to their health. By taking proactive measures to shield your succulents, you can prevent damage and ensure they continue to flourish. This is especially crucial for sensitive species, such as aloe and echeveria, which are more prone to sunburn",
+    "howToThink": "To safeguard your succulents, consider using sheer curtains, shade cloth, or umbrellas to filter the sun's rays. You can also adjust the placement of your plants to receive morning or afternoon sun, which is generally less intense. Additionally, monitor your plants' responses to sunlight and adjust their positioning accordingly",
+    "pros": [
+      "Reduced risk of scorching",
+      "Healthier plant growth",
+      "Increased protection"
+    ],
+    "cons": [
+      "Potential for reduced photosynthesis",
+      "Additional equipment costs",
+      "Aesthetically pleasing but not essential"
+    ],
+    "watchOut": "Be cautious not to over-shade your succulents, as this can lead to weak and leggy growth",
+    "faq": [
+      {
+        "q": "What is the best material for shading succulents?",
+        "a": "Shade cloth or sheer curtains are effective options"
+      },
+      {
+        "q": "Can I use regular window screens for shading?",
+        "a": "No, regular window screens may not provide sufficient shade and can allow too much direct sunlight to pass through"
+      },
+      {
+        "q": "How often should I monitor my succulents' response to sunlight?",
+        "a": "Check on your succulents daily, adjusting their positioning as needed to ensure optimal light exposure"
+      }
+    ],
+    "category": "Light",
+    "tags": [
+      "succulent care",
+      "summer protection"
+    ],
+    "sources": [
+      {
+        "label": "r/succulents community threads",
+        "url": "https://www.reddit.com/r/succulents/"
+      },
+      {
+        "label": "Search interest: \"succulent soil mix\"",
+        "url": "https://duckduckgo.com/?q=succulent%20soil%20mix"
+      }
+    ],
+    "publishedAt": "2026-08-16T19:01:19.063Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-light-46",
     "title": "The quiet upgrade: small tweaks in light with outsized returns",
     "dek": "No purchases, no overhauls — the modest light adjustments that succulent and cactus growers report mattering most.",

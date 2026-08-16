@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of speedruns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-34.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-34.html</guid>
+      <pubDate>Sun, 16 Aug 2026 19:01:10 GMT</pubDate>
+      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-11.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/reviving-snes-with-fpgas.html</guid>
       <pubDate>Sat, 15 Aug 2026 13:16:41 GMT</pubDate>
       <description>FPGA tech breathes new life into SNES</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/snes is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-10.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-snes-10.html</guid>
-      <pubDate>Sat, 15 Aug 2026 11:54:52 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

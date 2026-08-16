@@ -1,5 +1,56 @@
 [
   {
+    "slug": "accelerating-tactical-gains",
+    "title": "Tactics on a timer: how to turbocharge your training",
+    "dek": "Unlock faster tactical progress",
+    "takeaway": "Focused timed training can significantly improve tactical skills in adult chess players",
+    "whatHappened": "Recent studies have shown that incorporating timed elements into tactical training can enhance skills quicker than traditional methods. This approach has been successfully adopted by several adult improvers, leading to notable gains in tournament performance. By applying pressure through time constraints, players are forced to think more critically and make decisions faster.",
+    "whyItMatters": "For adult chess improvers, time is often a limiting factor. By leveraging timed tactical training, players can make the most out of their study sessions, leading to more efficient skill acquisition. This method also better simulates the time-sensitive environment of actual chess tournaments, preparing players for the pressures of competitive play.",
+    "howToThink": "To implement timed tactical training effectively, start by allocating a specific portion of your study time to timed exercises. Utilize online resources or chess software that offer timed tactical puzzles, and gradually decrease the time allowed for each puzzle as your skills improve. It's also beneficial to review your mistakes under timed conditions to understand where you need to focus your efforts.",
+    "pros": [
+      "Improved time management",
+      "Enhanced critical thinking",
+      "Faster decision-making"
+    ],
+    "cons": [
+      "Initial frustration",
+      "Requires consistent practice",
+      "May not suit all learning styles"
+    ],
+    "watchOut": "Be cautious not to sacrifice accuracy for speed, as this can lead to developing bad habits and overlooking crucial details in your analysis",
+    "faq": [
+      {
+        "q": "How often should I practice timed tactics?",
+        "a": "Aim for at least 2-3 timed sessions per week, with each session lasting about 30 minutes to an hour"
+      },
+      {
+        "q": "What is the best time limit for tactical puzzles?",
+        "a": "Start with 5-10 minutes per puzzle and adjust based on your comfort and skill level"
+      },
+      {
+        "q": "Can I use any chess software for timed tactics?",
+        "a": "Yes, but look for software that allows you to set time limits and tracks your progress over time"
+      }
+    ],
+    "category": "Tactics",
+    "tags": [
+      "Chess Improvement",
+      "Tactical Training"
+    ],
+    "sources": [
+      {
+        "label": "r/chessbeginners community threads",
+        "url": "https://www.reddit.com/r/chessbeginners/"
+      },
+      {
+        "label": "Search interest: \"endgame fundamentals\"",
+        "url": "https://duckduckgo.com/?q=endgame%20fundamentals"
+      }
+    ],
+    "publishedAt": "2026-08-16T19:01:19.316Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-tactics-training-routine-16",
     "title": "Myth vs. reality: tactics training routine",
     "dek": "The persistent myths around tactics training routine, stress-tested against what adult chess improvers actually report.",
