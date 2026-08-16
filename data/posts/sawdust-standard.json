@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hand-tool-hack",
+    "title": "Unleash Your Hand Tools' Full Potential",
+    "dek": "Upgrade your hand tool game",
+    "takeaway": "Proper hand tool maintenance is key to efficient woodworking",
+    "whatHappened": "Many hobby woodworkers overlook the importance of maintaining their hand tools, leading to decreased performance and efficiency. A well-maintained hand tool can make all the difference in the quality of the work produced. Regular maintenance can also extend the lifespan of the tool, saving money in the long run.",
+    "whyItMatters": "Hand tools are a significant investment for any woodworker, and proper maintenance is crucial to getting the most out of them. With the right techniques and habits, woodworkers can ensure their tools remain in top condition, allowing for better control and precision. This, in turn, can lead to higher quality work and a more enjoyable woodworking experience.",
+    "howToThink": "To get the most out of your hand tools, develop a maintenance routine that includes regular sharpening, cleaning, and storage. Consider dedicating a specific area of your shop to tool maintenance, making it easier to stay on top of tasks. By doing so, you'll be able to work more efficiently and effectively, achieving the results you want with your projects.",
+    "pros": [
+      "Improved tool performance",
+      "Increased efficiency",
+      "Cost savings"
+    ],
+    "cons": [
+      "Initial time investment",
+      "Learning curve",
+      "Space requirements"
+    ],
+    "watchOut": "Neglecting hand tool maintenance can lead to accidents and decreased productivity",
+    "faq": [
+      {
+        "q": "How often should I sharpen my hand tools?",
+        "a": "It depends on usage, but as a rule of thumb, sharpening every 1-3 months is a good starting point"
+      },
+      {
+        "q": "What is the best way to clean my hand tools?",
+        "a": "Use a soft brush and mild soap, avoiding harsh chemicals or abrasive materials"
+      },
+      {
+        "q": "How should I store my hand tools?",
+        "a": "Store them in a dry, secure location, away from direct sunlight and moisture"
+      }
+    ],
+    "category": "Hand Tools",
+    "tags": [
+      "hand tools",
+      "woodworking"
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "publishedAt": "2026-08-16T05:05:12.096Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-handtools-16",
     "title": "Community pulse: what r/handtools is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the shop setup community this week.",

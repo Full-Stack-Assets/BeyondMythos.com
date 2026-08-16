@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-nes-controllers",
+    "title": "From Drift to Dominance: The Ultimate NES Controller Refresh Guide",
+    "dek": "Breathe new life into your NES gamepad",
+    "takeaway": "A well-restored NES controller can shave seconds off speedruns and enhance gameplay",
+    "whatHappened": "NES controllers, known for their durability, still fall victim to wear and tear over the years. Drift, sticky buttons, and poor connectivity are common issues that can hinder both casual and competitive play. Restoring these controllers can be a cost-effective and rewarding process for retro gaming enthusiasts.",
+    "whyItMatters": "For speedrunners, the precision and reliability of a well-maintained controller can be the difference between a world record and a disappointing run. For collectors, restoring controllers can enhance the overall gaming experience and preserve the original hardware. Additionally, a restored controller reduces the need for replacement, supporting sustainability in the retro gaming community.",
+    "howToThink": "When approaching NES controller restoration, it's essential to start with a thorough cleaning, followed by the replacement of worn-out components such as the directional pad and buttons. Utilizing original parts when possible maintains authenticity, but modern alternatives can offer improved performance and durability.",
+    "pros": [
+      "Improved precision",
+      "Enhanced durability",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Requires technical skill",
+      "Sourcing original parts can be challenging",
+      "Potential for further damage if not done correctly"
+    ],
+    "watchOut": "Be cautious of using harsh chemicals that can damage the controller's casing or harm the electrical components",
+    "faq": [
+      {
+        "q": "What are the most common parts to replace in an NES controller?",
+        "a": "The directional pad, buttons, and the connector are the most frequently replaced parts"
+      },
+      {
+        "q": "Can I use a modern controller as a substitute?",
+        "a": "While possible, using a modern controller can alter the gameplay feel and may not be ideal for speedrunning or achieving an authentic retro experience"
+      },
+      {
+        "q": "Are there any health risks associated with restoring old electronics?",
+        "a": "Yes, old electronics can contain hazardous materials like lead and cadmium; proper handling and protection are recommended"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Restoration"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-16T05:05:08.820Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-33",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",

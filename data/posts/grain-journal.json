@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-push-processing",
+    "title": "Pushing the limits: a deep dive into mastering push processing",
+    "dek": "Get more from your film with expert push processing techniques",
+    "takeaway": "Mastering push processing can greatly expand your creative possibilities with film photography",
+    "whatHappened": "Push processing has long been a technique used by film photographers to achieve unique and dramatic effects. By increasing the development time, photographers can coax more detail out of the shadows and add depth to their images. However, this technique requires careful planning and execution to avoid overdeveloping the film.",
+    "whyItMatters": "Understanding how to effectively use push processing is crucial for film photographers looking to add an extra layer of control to their workflow. It allows for greater flexibility when shooting in low-light conditions and can help to create images with a distinctive aesthetic. By mastering push processing, photographers can set themselves apart and develop a unique visual style.",
+    "howToThink": "To get started with push processing, it's essential to experiment with different development times and film stocks. Keeping detailed records of your development process and the resulting images will help you refine your technique and identify the optimal approach for your specific needs. Start by pushing your film by one stop and then adjust from there, carefully evaluating the impact on your images.",
+    "pros": [
+      "Increased shadow detail",
+      "Improved low-light performance",
+      "Unique aesthetic"
+    ],
+    "cons": [
+      "Risk of overdevelopment",
+      "Potential for increased grain",
+      "Requires careful planning"
+    ],
+    "watchOut": "Be cautious not to overdevelop your film, as this can lead to blown-out highlights and a loss of image detail",
+    "faq": [
+      {
+        "q": "What is push processing?",
+        "a": "Push processing involves increasing the development time to achieve a specific aesthetic or to compensate for underexposure"
+      },
+      {
+        "q": "Which film stocks are best suited for push processing?",
+        "a": " Films with high silver content, such as those from Kodak and Ilford, tend to respond well to push processing"
+      },
+      {
+        "q": "How do I determine the optimal development time for push processing?",
+        "a": "This will depend on the specific film stock and your desired outcome, so it's essential to consult the manufacturer's guidelines and experiment to find the best approach"
+      }
+    ],
+    "category": "Developing",
+    "tags": [
+      "Film Development",
+      "Push Processing"
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"home developing guide\"",
+        "url": "https://duckduckgo.com/?q=home%20developing%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-16T05:05:13.632Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-film-stocks-mistakes-44",
     "title": "Five mistakes everyone makes in their first month of film stocks",
     "dek": "The most common early stumbles in film stocks, and the cheap corrections that fix them for film photographers shooting analog.",
