@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-hive-prep-2",
+    "title": "Get Your Hives Ready for Winter",
+    "dek": "Prepare for cold weather now",
+    "takeaway": "Proper winter preparation is crucial for the survival of your bee colony",
+    "whatHappened": "As the seasons change, beekeepers must adapt to ensure their colonies thrive during the cold winter months. A well-prepared hive can withstand harsh weather conditions, while a poorly prepared one may struggle to survive. By taking a few simple steps, backyard beekeepers can help their bees make it through the winter.",
+    "whyItMatters": "A strong and healthy colony in the winter sets the stage for a successful harvest in the spring. Weak or struggling colonies may not produce as much honey or may even die off, resulting in a significant loss for the beekeeper. By prioritizing winter hive preparation, beekeepers can help ensure a bountiful harvest and a thriving colony.",
+    "howToThink": "To prepare your hive for winter, start by inspecting the colony for any signs of disease or pests, and take action to address any issues you find. Next, ensure the hive is well-insulated and protected from the elements, and consider providing supplemental food sources to help the bees survive the winter. Finally, be prepared to monitor the colony closely and take action if you notice any signs of distress.",
+    "pros": [
+      "Increased colony survival",
+      "Healthier bees",
+      "Better harvest"
+    ],
+    "cons": [
+      "Additional upfront cost",
+      "Time-consuming preparation",
+      "Potential for disease"
+    ],
+    "watchOut": "Be cautious not to over-insulate the hive, as this can lead to moisture buildup and disease",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for a winter hive?",
+        "a": "Between 35-40°F (2-4°C)"
+      },
+      {
+        "q": "How often should I inspect my hive during the winter?",
+        "a": "Every 4-6 weeks, or as needed"
+      },
+      {
+        "q": "Can I still harvest honey during the winter?",
+        "a": "No, it's generally recommended to avoid harvesting honey during the winter to ensure the colony has enough food to survive"
+      }
+    ],
+    "category": "Health",
+    "tags": [
+      "bee health",
+      "winter prep"
+    ],
+    "sources": [
+      {
+        "label": "r/homestead community threads",
+        "url": "https://www.reddit.com/r/homestead/"
+      },
+      {
+        "label": "Search interest: \"first honey harvest\"",
+        "url": "https://duckduckgo.com/?q=first%20honey%20harvest"
+      }
+    ],
+    "publishedAt": "2026-08-16T09:02:08.982Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-varroa-treatment-options-16",
     "title": "Myth vs. reality: varroa treatment options",
     "dek": "The persistent myths around varroa treatment options, stress-tested against what backyard beekeepers actually report.",

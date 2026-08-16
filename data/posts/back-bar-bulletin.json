@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-gin",
+    "title": "Gin Revival: New Twists on the Classic Gin Martini",
+    "dek": "Revamp the gin martini with modern twists",
+    "takeaway": "Experimenting with different gin styles can elevate the classic martini",
+    "whatHappened": "The gin martini, a staple in many a home bar, has seen a resurgence in popularity with the rise of craft gin. With so many unique gin styles now available, the possibilities for reinventing this classic cocktail are vast. From botanicals to barrel-aged, the variety of gin can significantly alter the flavor profile of the martini.",
+    "whyItMatters": "Understanding the differences in gin styles allows home bartenders to tailor their martinis to specific tastes, whether that's a crisp, juniper-forward flavor or a more complex, nuanced taste experience. This customization can make the classic martini feel new again. Moreover, exploring various gins can inspire creativity and encourage experimentation with other classic cocktails.",
+    "howToThink": "When approaching the gin martini, consider the flavor profile you aim to achieve and select a gin that aligns with those notes. For a traditional taste, a London Dry Gin might be the best choice, while for something more adventurous, a modern or experimental gin could be preferable. Don't be afraid to try different vermouths and garnishes to further enhance the drink.",
+    "pros": [
+      "Customizable to taste",
+      "Encourages creativity",
+      "Easy to make"
+    ],
+    "cons": [
+      "Can be expensive",
+      "Overwhelming options",
+      "Quality varies"
+    ],
+    "watchOut": "Be cautious of over-dilution when stirring the martini, as it can dilute the flavors of the gin and vermouth",
+    "faq": [
+      {
+        "q": "What's the best gin for a beginner?",
+        "a": "A London Dry Gin is a good starting point due to its balanced flavor profile"
+      },
+      {
+        "q": "Can I use any vermouth?",
+        "a": "No, the type of vermouth can significantly affect the taste; dry vermouth is traditional but sweet vermouth can add interesting depth"
+      },
+      {
+        "q": "How do I prevent my martini from getting watered down?",
+        "a": "Stir the mixture briefly and gently, and consider using a chilled glass to minimize dilution"
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "Gin Martini",
+      "Cocktail Classics"
+    ],
+    "sources": [
+      {
+        "label": "r/bartenders community threads",
+        "url": "https://www.reddit.com/r/bartenders/"
+      },
+      {
+        "label": "Search interest: \"cocktail tools essentials\"",
+        "url": "https://duckduckgo.com/?q=cocktail%20tools%20essentials"
+      }
+    ],
+    "publishedAt": "2026-08-16T09:02:11.518Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-ingredients-44",
     "title": "The quiet upgrade: small tweaks in ingredients with outsized returns",
     "dek": "No purchases, no overhauls — the modest ingredients adjustments that home bartenders and cocktail hobbyists report mattering most.",
