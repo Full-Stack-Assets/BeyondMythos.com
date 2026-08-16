@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-care-4",
+    "title": "Herbs in the Cold: Winter Care for Apartment Gardeners",
+    "dek": "Protect your herbs from frost",
+    "takeaway": "With proper care, herbs can thrive year-round in indoor containers",
+    "whatHappened": "As winter approaches, many apartment gardeners worry about their herb plants. Frost can be devastating to delicate herbs, causing them to wither and die. However, with the right techniques, you can keep your herbs healthy and thriving throughout the cold months.",
+    "whyItMatters": "Having a continuous supply of fresh herbs can elevate your cooking and add flavor to your meals. Moreover, nurturing your plants through the winter can be a fulfilling hobby, providing a sense of connection to nature even in the dead of winter. By learning how to care for your herbs in the cold, you can enjoy the benefits of indoor gardening all year round.",
+    "howToThink": "To keep your herbs thriving, bring them indoors before the first frost, and place them in a sunny spot with good air circulation. Use a well-draining potting mix and water sparingly, as the plants require less moisture during the winter. You can also consider using grow lights to supplement the limited natural light.",
+    "pros": [
+      "Year-round harvesting",
+      "Improved air quality",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Limited natural light",
+      "Higher energy costs",
+      "Space constraints"
+    ],
+    "watchOut": "Be cautious not to overwater your herbs, as this can lead to root rot and other problems",
+    "faq": [
+      {
+        "q": "Can I still grow herbs on my balcony during winter?",
+        "a": "Yes, but choose cold-hardy varieties and provide protection from extreme winds and frost"
+      },
+      {
+        "q": "How often should I water my herbs in the winter?",
+        "a": "Water sparingly, as the plants require less moisture during the cold months"
+      },
+      {
+        "q": "Can I use regular potting soil for my winter herbs?",
+        "a": "No, use a well-draining potting mix to prevent waterlogged soil and root rot"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "indoor gardening",
+      "winter care"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-16T16:59:26.942Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-40",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

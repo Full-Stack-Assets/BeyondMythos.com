@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Community pulse: what r/pourover is debating this week</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-11.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-11.html</guid>
+      <pubDate>Sun, 16 Aug 2026 16:59:25 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-37.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-37.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/upgrading-your-grinder-burrs.html</guid>
       <pubDate>Sat, 15 Aug 2026 10:57:18 GMT</pubDate>
       <description>Better flavor from a simple swap</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: budget grinder upgrade</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade-8.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade-8.html</guid>
-      <pubDate>Sat, 15 Aug 2026 09:57:32 GMT</pubDate>
-      <description>The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.</description>
     </item>
   </channel>
 </rss>

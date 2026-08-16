@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-game-night-layouts",
+    "title": "Game Night Hacks: Table Layouts for Maximum Fun",
+    "dek": "Boost game night fun with smart layouts",
+    "takeaway": "Optimizing your game night layout can significantly enhance the overall gaming experience for you and your guests",
+    "whatHappened": "Recent gatherings have shown that a well-organized game night layout can make all the difference in player engagement and enjoyment. By strategically placing games, seating, and snacks, hosts can create an immersive experience. This approach has been observed to foster a sense of community and camaraderie among players.",
+    "whyItMatters": "A well-designed game night layout matters because it influences the flow of the evening, ensuring that all guests can participate comfortably and that the host can manage the event with ease. It also sets the tone for the type of games that can be played and how they are perceived by the participants. Moreover, an optimized layout can help in minimizing downtime between games and maximizing the playtime.",
+    "howToThink": "When planning your game night, consider the space available, the number of guests, and the types of games to be played. Think about creating zones for different activities, such as a main gaming area, a snack bar, and a lounge for socializing. Additionally, leave some space for spontaneity and flexibility to accommodate different preferences and unexpected moments.",
+    "pros": [
+      "Enhances player experience",
+      "Fosters community",
+      "Efficient use of space"
+    ],
+    "cons": [
+      "Requires planning",
+      "Space constraints",
+      "Not all games fit"
+    ],
+    "watchOut": "Be mindful of clutter and ensure that the layout does not obstruct movement or visibility during gameplay",
+    "faq": [
+      {
+        "q": "What is the ideal table size for a game night?",
+        "a": "It depends on the game, but a table that can comfortably seat 4-6 players with enough room for game components is a good starting point"
+      },
+      {
+        "q": "How can I ensure good lighting for my game night?",
+        "a": "Use a combination of overhead lighting and tabletop lamps to create a well-lit and cozy atmosphere"
+      },
+      {
+        "q": "What are some essentials to have near the gaming area?",
+        "a": "Snacks, drinks, and a trash can are must-haves to keep the area tidy and convenient for players"
+      }
+    ],
+    "category": "Party Games",
+    "tags": [
+      "Game Night",
+      "Tabletop Gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/boardgames community threads",
+        "url": "https://www.reddit.com/r/boardgames/"
+      },
+      {
+        "label": "Search interest: \"best gateway board games\"",
+        "url": "https://duckduckgo.com/?q=best%20gateway%20board%20games"
+      }
+    ],
+    "publishedAt": "2026-08-16T16:59:31.524Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-storage-46",
     "title": "Ask the forge: your storage questions, answered",
     "dek": "Straight answers to the storage questions tabletop gamers and game-night hosts keep asking, minus the hedging.",

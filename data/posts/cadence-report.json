@@ -1,5 +1,56 @@
 [
   {
+    "slug": "indoor-cycling-on-a-budget",
+    "title": "Ride like a pro without the pro price tag",
+    "dek": "Get the most out of your indoor ride without breaking the bank",
+    "takeaway": "You don't need to spend a fortune to have a high-quality indoor cycling setup",
+    "whatHappened": "The cost of high-end indoor cycling equipment can be prohibitively expensive for many enthusiasts. However, with a little creativity and research, it's possible to create a top-notch setup without overspending. From refurbished trainers to DIY pain cave builds, the options for affordable indoor cycling are expanding.",
+    "whyItMatters": "Indoor cycling is a significant investment, and the cost can be a barrier to entry for many riders. By exploring affordable options, riders can focus on what matters most: training, improvement, and the joy of the ride. A budget-friendly setup can also allow riders to experiment with different equipment and configurations without financial risk.",
+    "howToThink": "When building an indoor cycling setup on a budget, consider prioritizing the essentials: a reliable trainer, a comfortable bike, and a solid computer or tablet for virtual rides. From there, you can add accessories and upgrades as you go, allowing you to refine your setup without blowing your budget. Don't be afraid to think outside the box and get creative with DIY solutions.",
+    "pros": [
+      "Cost-effective",
+      "Flexible",
+      "Customizable"
+    ],
+    "cons": [
+      "Limited features",
+      "Potential for lower quality",
+      "More research required"
+    ],
+    "watchOut": "Be cautious of extremely cheap or used equipment that may compromise performance or safety",
+    "faq": [
+      {
+        "q": "What's the best budget trainer option?",
+        "a": "Consider refurbished or last-year's model trainers from reputable brands"
+      },
+      {
+        "q": "Can I use a DIY pain cave setup?",
+        "a": "Yes, with some creativity and DIY skills, you can build a effective pain cave on a budget"
+      },
+      {
+        "q": "How can I save money on a virtual cycling platform?",
+        "a": "Look for promotions, discounts, or bundle deals that include platform subscriptions and equipment"
+      }
+    ],
+    "category": "Setup",
+    "tags": [
+      "indoor cycling",
+      "budget setup"
+    ],
+    "sources": [
+      {
+        "label": "r/indoorcycling community threads",
+        "url": "https://www.reddit.com/r/indoorcycling/"
+      },
+      {
+        "label": "Search interest: \"zwift training plans\"",
+        "url": "https://duckduckgo.com/?q=zwift%20training%20plans"
+      }
+    ],
+    "publishedAt": "2026-08-16T16:59:33.473Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-setup-45",
     "title": "Ask the forge: your setup questions, answered",
     "dek": "Straight answers to the setup questions indoor cyclists and virtual racers keep asking, minus the hedging.",
