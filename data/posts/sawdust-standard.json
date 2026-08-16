@@ -1,5 +1,56 @@
 [
   {
+    "slug": "essential-sharpener",
+    "title": "Sharpening on a Budget: A Beginner's Guide to Essential Tools",
+    "dek": "Get sharp results without breaking the bank",
+    "takeaway": "A basic sharpening setup can greatly improve your hand tool performance",
+    "whatHappened": "I recently set out to create a sharpening station in my small shop, and was surprised by how much of a difference it made in my work. With a few key tools, I was able to achieve razor-sharp edges on my hand planes and chisels. The improvement in performance was noticeable, and it's now a crucial part of my workflow.",
+    "whyItMatters": "Having sharp tools is essential for achieving professional-looking results, and it's especially important for hobby woodworkers who may not have the budget for expensive machinery. A good sharpening setup can help you get the most out of your hand tools, and can even help to extend their lifespan. By investing in a few key sharpening tools, you can take your woodworking to the next level",
+    "howToThink": "When setting up your sharpening station, consider the types of tools you use most often, and prioritize those. Start with a basic sharpening stone and a simple honing guide, and gradually add more tools to your setup as you become more comfortable with the process. Remember to always follow proper safety protocols when sharpening, and don't be afraid to practice and experiment until you get the results you want",
+    "pros": [
+      "Improved tool performance",
+      "Increased efficiency",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Initial investment required",
+      "Steep learning curve",
+      "Space requirements"
+    ],
+    "watchOut": "Be careful not to over-sharpen your tools, as this can lead to damage and reduced lifespan",
+    "faq": [
+      {
+        "q": "What is the best type of sharpening stone for beginners?",
+        "a": "A water stone or ceramic stone is a good starting point"
+      },
+      {
+        "q": "How often should I sharpen my hand tools?",
+        "a": "It depends on usage, but as a general rule, sharpen your tools whenever you notice a decrease in performance"
+      },
+      {
+        "q": "Can I sharpen my tools without a honing guide?",
+        "a": "Yes, but it's not recommended, as a honing guide can help you achieve more consistent results"
+      }
+    ],
+    "category": "Hand Tools",
+    "tags": [
+      "hand tools",
+      "sharpening"
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "publishedAt": "2026-08-16T10:58:29.173Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-joinery-mistakes-45",
     "title": "Five mistakes everyone makes in their first month of joinery",
     "dek": "The most common early stumbles in joinery, and the cheap corrections that fix them for hobby woodworkers in small shops.",

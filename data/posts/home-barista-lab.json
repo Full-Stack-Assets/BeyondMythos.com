@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-hacks-5",
+    "title": "Brewing Up Savings: DIY Espresso Machine Maintenance",
+    "dek": "Save money with simple maintenance",
+    "takeaway": "Regular cleaning and maintenance can extend the life of your espresso machine and improve its performance",
+    "whatHappened": "Many home baristas overlook the importance of regular maintenance for their espresso machines, leading to decreased performance and a shorter lifespan. A well-maintained machine can produce better-tasting espresso and save you money in the long run. By following a few simple maintenance hacks, you can keep your machine in top condition",
+    "whyItMatters": "A poorly maintained espresso machine can lead to a range of problems, from clogged brew heads to faulty pumps. Regular maintenance can help prevent these issues and ensure that your machine continues to produce high-quality espresso. By taking care of your machine, you can also reduce the risk of expensive repairs and replacements",
+    "howToThink": "To keep your espresso machine in top condition, think about maintenance as a regular part of your coffee routine. Set aside a few minutes each week to clean and descale your machine, and consider investing in a maintenance kit to make the process easier. By staying on top of maintenance, you can enjoy better-tasting espresso and extend the life of your machine",
+    "pros": [
+      "Saves money",
+      "Improves performance",
+      "Extends machine life"
+    ],
+    "cons": [
+      "Requires regular effort",
+      "Can be messy",
+      "May require additional costs"
+    ],
+    "watchOut": "Be careful not to damage your machine's internal components when cleaning or maintaining it",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "At least once a week, or after every 100 shots"
+      },
+      {
+        "q": "What is the best way to descale my machine?",
+        "a": "Use a mixture of water and white vinegar, or a commercial descaling solution"
+      },
+      {
+        "q": "Can I use a dishwasher to clean my machine's parts?",
+        "a": "No, as the high heat and harsh detergents can damage the materials"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso maintenance",
+      "coffee hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-16T10:58:23.952Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-31",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

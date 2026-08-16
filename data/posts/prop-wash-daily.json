@@ -1,5 +1,56 @@
 [
   {
+    "slug": "custom-fpv-frames",
+    "title": "Bending the rules: how custom frames supercharge your builds",
+    "dek": "Take your builds to the next level",
+    "takeaway": "Custom frames can significantly enhance flight performance and durability",
+    "whatHappened": "Recent advancements in materials and design tools have made it easier for pilots to create custom FPV frames tailored to their specific needs. This has led to a proliferation of unique and innovative designs, from ultra-durable freestyle frames to sleek, high-speed racing frames. As a result, pilots are now able to optimize their builds for specific flying styles and environments.",
+    "whyItMatters": "Custom frames matter because they allow pilots to fine-tune their builds for optimal performance, taking into account factors such as weight, aerodynamics, and component placement. This level of customization can significantly improve flight characteristics, making it easier for pilots to push their skills to the next level. Furthermore, custom frames can also enhance durability, reducing the risk of damage from crashes and other impacts.",
+    "howToThink": "When considering a custom frame, think about your specific flying needs and goals. Consider the type of flying you'll be doing most often, as well as the components you'll be using. It's also essential to research and selects a reputable designer or manufacturer, ensuring that your custom frame is both high-quality and safe to fly. By taking a thoughtful and informed approach, you can create a truly optimized build that takes your flying to new heights.",
+    "pros": [
+      "Improved performance",
+      "Enhanced durability",
+      "Increased customization"
+    ],
+    "cons": [
+      "Higher cost",
+      "Steep learning curve",
+      "Limited compatibility"
+    ],
+    "watchOut": "Be cautious when selecting a custom frame designer or manufacturer, as poor quality control can lead to safety issues and reduced performance",
+    "faq": [
+      {
+        "q": "What is the best material for a custom FPV frame?",
+        "a": "The best material depends on your specific needs, but popular options include carbon fiber, aluminum, and nylon"
+      },
+      {
+        "q": "How much does a custom FPV frame cost?",
+        "a": "Prices vary widely, but expect to pay anywhere from $50 to $500 or more, depending on the complexity of the design and the materials used"
+      },
+      {
+        "q": "Can I design my own custom FPV frame?",
+        "a": "Yes, with the right software and expertise, you can design your own custom frame, but be sure to follow safety guidelines and best practices to ensure a safe and functional build"
+      }
+    ],
+    "category": "Builds",
+    "tags": [
+      "fpv builds",
+      "custom frames"
+    ],
+    "sources": [
+      {
+        "label": "r/drones community threads",
+        "url": "https://www.reddit.com/r/drones/"
+      },
+      {
+        "label": "Search interest: \"drone build guide 2026\"",
+        "url": "https://duckduckgo.com/?q=drone%20build%20guide%202026"
+      }
+    ],
+    "publishedAt": "2026-08-16T10:58:27.470Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-simulators-47",
     "title": "The quiet upgrade: small tweaks in simulators with outsized returns",
     "dek": "No purchases, no overhauls — the modest simulators adjustments that FPV drone pilots and builders report mattering most.",
