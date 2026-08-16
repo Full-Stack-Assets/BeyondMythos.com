@@ -1,5 +1,56 @@
 [
   {
+    "slug": "self-watering-containers-101",
+    "title": "Revolutionize Your Balcony: Self-Watering Containers",
+    "dek": "Water less, grow more with self-watering containers",
+    "takeaway": "Self-watering containers can increase plant yield by up to 30% with less maintenance",
+    "whatHappened": "Apartment dwellers are turning to self-watering containers to solve the eternal problem of under or overwatering their balcony gardens. These innovative planters use a built-in water reservoir to supply plants with a consistent level of moisture, reducing the need for daily watering. As a result, even the busiest urban gardeners can now enjoy a lush and thriving garden.",
+    "whyItMatters": "Self-watering containers are a game-changer for balcony gardeners, especially during hot summer months when plants are more prone to drying out. By providing a steady supply of water, these containers help prevent root rot, nutrient deficiency, and other common problems associated with over or underwatering. This means healthier plants, more abundant harvests, and a reduced risk of pest and disease issues.",
+    "howToThink": "When selecting self-watering containers, consider the size and type of plants you want to grow, as well as the amount of sunlight and wind your balcony receives. Look for containers with built-in water indicators and a well-draining potting mix to prevent waterlogged soil. With a little planning and the right equipment, you can create a low-maintenance, high-yielding balcony garden that thrives with minimal upkeep.",
+    "pros": [
+      "Increased plant yield",
+      "Reduced watering frequency",
+      "Improved plant health"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Limited container sizes",
+      "May require more frequent fertilization"
+    ],
+    "watchOut": "Be cautious not to overfill the water reservoir, as this can lead to waterlogged soil and root rot",
+    "faq": [
+      {
+        "q": "How often should I water my self-watering container?",
+        "a": "Water your self-watering container when the built-in indicator shows that the reservoir is empty"
+      },
+      {
+        "q": "Can I use regular potting soil in a self-watering container?",
+        "a": "No, use a well-draining potting mix specifically designed for self-watering containers"
+      },
+      {
+        "q": "Are self-watering containers suitable for all types of plants?",
+        "a": "Most plants can thrive in self-watering containers, but some plants like cacti and succulents may require less water and more drainage"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "container gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-16T13:17:56.100Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-composting-36",
     "title": "The quiet upgrade: small tweaks in composting with outsized returns",
     "dek": "No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.",

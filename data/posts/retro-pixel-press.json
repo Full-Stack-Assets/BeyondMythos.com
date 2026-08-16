@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-nes-consoles-4",
+    "title": "Bringing Back the NES: A Restorer's Dream Guide",
+    "dek": "NES restoration made easy",
+    "takeaway": "With the right tools, anyone can restore a NES console to its former glory",
+    "whatHappened": "The NES has seen a resurgence in popularity, with collectors and speedrunners seeking to restore original consoles to their former glory. Restoration can be a daunting task, but with the right approach, it can be a rewarding experience. A well-restored NES console can provide hours of entertainment and a sense of nostalgia",
+    "whyItMatters": "Restoring a NES console is not just about preserving a piece of gaming history, but also about ensuring that these classic games can be played for years to come. A restored NES console can also increase in value, making it a worthwhile investment for collectors. Moreover, the process of restoration can be a fun and educational experience",
+    "howToThink": "When approaching a NES restoration project, it's essential to start with a clear plan and a thorough assessment of the console's condition. This includes identifying any damaged or worn-out components, such as the 72-pin connector or the cartridge slot. With the right tools and a bit of patience, anyone can restore a NES console to its former glory",
+    "pros": [
+      "Increased console value",
+      "Improved performance",
+      "Nostalgic appeal"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires technical expertise",
+      "Cost of replacement parts"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronic components to avoid damaging the console",
+    "faq": [
+      {
+        "q": "What is the most common issue with old NES consoles?",
+        "a": "The 72-pin connector is often the main culprit, causing games to not load or load incorrectly"
+      },
+      {
+        "q": "Do I need to be an expert to restore a NES console?",
+        "a": "While technical expertise can be helpful, it's not necessary, and many restoration guides are available online"
+      },
+      {
+        "q": "Can I use a restored NES console with modern TVs?",
+        "a": "Yes, with the use of an RCA to HDMI converter or a retro gaming console with HDMI output"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES restoration",
+      "Retro gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-16T13:17:54.929Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-34",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",
