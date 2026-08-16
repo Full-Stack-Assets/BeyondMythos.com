@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-matters-8",
+    "title": "The Tamping Truth: Unlocking Perfect Espresso Shots",
+    "dek": "Improve your espresso with better tamping",
+    "takeaway": "Proper tamping technique is essential for perfect espresso shots",
+    "whatHappened": "Recent studies have shown that inconsistent tamping can lead to uneven extraction, affecting the flavor of your espresso. This is often due to improper technique or lack of practice. As a result, many home baristas struggle to achieve the perfect shot.",
+    "whyItMatters": "Even extraction is crucial for bringing out the unique flavors of your coffee beans. By mastering the tamping technique, you can significantly improve the quality of your espresso. This, in turn, enhances your overall coffee experience and allows you to appreciate the nuances of different roasts and brewing methods.",
+    "howToThink": "To achieve the perfect tamp, focus on using the right amount of pressure and ensuring the coffee grounds are evenly distributed in the portafilter. Practice makes perfect, so don't be discouraged if it takes a few attempts to get it just right. Experiment with different tamping tools and techniques to find what works best for you.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Enhanced crema"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be frustrating",
+      "May need specialized tools"
+    ],
+    "watchOut": "Be careful not to over-tamp, as this can lead to channeling and a poor shot",
+    "faq": [
+      {
+        "q": "What is the ideal tamping pressure?",
+        "a": "The ideal pressure is around 30-40 pounds, but this may vary depending on the equipment and personal preference"
+      },
+      {
+        "q": "Can I use a manual or automatic tamper?",
+        "a": "Both options are available, and the choice ultimately comes down to personal preference and the type of equipment you're using"
+      },
+      {
+        "q": "How often should I clean and maintain my tamper?",
+        "a": "Regular cleaning and maintenance are crucial to prevent any buildup or damage, and it's recommended to clean your tamper after each use"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "tamping technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-16T03:31:45.095Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tuning-your-grinder-2",
     "title": "Get the Grind Right: Calibration Tips for Home Baristas",
     "dek": "Expert grind calibration for better espresso",
