@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-coffee-flavor-6",
+    "title": "Unlocking Hidden Flavors: The Power of Water Temperature",
+    "dek": "Elevate your pour-overs with precision temperature control",
+    "takeaway": "Using the right water temperature can significantly improve the flavor of your pour-overs",
+    "whatHappened": "Recent experiments have shown that water temperature plays a crucial role in extracting the perfect cup. Different coffee beans respond uniquely to temperature variations, making it a key factor in optimizing flavor. By adjusting the temperature, home baristas can tailor their brewing process to suit specific roasts and brewing methods.",
+    "whyItMatters": "The optimal water temperature can bring out the full potential of high-quality coffee beans, resulting in a more nuanced and balanced flavor profile. Conversely, incorrect temperatures can lead to under or over-extraction, negatively impacting the overall taste experience. As such, understanding and controlling water temperature is essential for home coffee enthusiasts seeking to refine their brewing skills.",
+    "howToThink": "To maximize coffee flavor, consider investing in a thermometer or a pour-over device with built-in temperature control. Experiment with different temperatures to find the sweet spot for your favorite coffee beans, and don't be afraid to adjust your brewing technique accordingly. By doing so, you'll be able to coax out the unique characteristics of each roast and elevate your pour-overs to new heights.",
+    "pros": [
+      "Improved flavor",
+      "Increased nuance",
+      "Enhanced control"
+    ],
+    "cons": [
+      "Additional cost",
+      "Steep learning curve",
+      "More complex brewing process"
+    ],
+    "watchOut": "Be cautious not to overheat your water, as this can lead to burnt or bitter flavors",
+    "faq": [
+      {
+        "q": "What is the ideal water temperature for pour-overs?",
+        "a": "Between 195°F and 205°F"
+      },
+      {
+        "q": "Can I use a regular thermometer to measure water temperature?",
+        "a": "Yes, but a thermometer specifically designed for coffee brewing is recommended"
+      },
+      {
+        "q": "Will adjusting water temperature affect my coffee's crema?",
+        "a": "Yes, optimal temperature can help create a more stable and velvety crema"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "pour-over",
+      "temperature control"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-16T22:57:02.991Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pour-over-technique-field-test-10",
     "title": "\"pour over technique\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.",
