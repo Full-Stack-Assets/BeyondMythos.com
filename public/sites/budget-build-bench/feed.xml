@@ -5,6 +5,13 @@
     <link>https://storeforge-budget-build-bench.vercel.app/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>Ask the forge: your benchmarks questions, answered</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/ask-the-forge-benchmarks-50.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/ask-the-forge-benchmarks-50.html</guid>
+      <pubDate>Sun, 16 Aug 2026 23:55:11 GMT</pubDate>
+      <description>Straight answers to the benchmarks questions PC builders on a budget keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in upgrades with outsized returns</title>
       <link>https://storeforge-budget-build-bench.vercel.app/posts/quiet-upgrade-upgrades-50.html</link>
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/quiet-upgrade-upgrades-50.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/upgrades-pre-spend-checklist-46.html</guid>
       <pubDate>Sat, 15 Aug 2026 17:56:33 GMT</pubDate>
       <description>Seven questions that separate a justified upgrades purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of used parts</title>
-      <link>https://storeforge-budget-build-bench.vercel.app/posts/five-used-parts-mistakes-46.html</link>
-      <guid>https://storeforge-budget-build-bench.vercel.app/posts/five-used-parts-mistakes-46.html</guid>
-      <pubDate>Sat, 15 Aug 2026 16:59:15 GMT</pubDate>
-      <description>The most common early stumbles in used parts, and the cheap corrections that fix them for PC builders on a budget.</description>
     </item>
   </channel>
 </rss>
