@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Famicom Fine-Tuning: Unlock Crystal-Clear AV</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-famicom-av-mods.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-famicom-av-mods.html</guid>
+      <pubDate>Sun, 16 Aug 2026 14:57:49 GMT</pubDate>
+      <description>Upgrade your Famicom&apos;s AV output</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-34.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-34.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test-13.html</guid>
       <pubDate>Sat, 15 Aug 2026 09:02:07 GMT</pubDate>
       <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your indie questions, answered</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-26.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-26.html</guid>
-      <pubDate>Sat, 15 Aug 2026 07:58:40 GMT</pubDate>
-      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

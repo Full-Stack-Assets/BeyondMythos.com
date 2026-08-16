@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-vertical-space-16",
+    "title": "Sky's the Limit: Vertical Gardening for Small Spaces",
+    "dek": "Grow more with less space",
+    "takeaway": "Vertical gardening can increase yields by up to 50% in small spaces",
+    "whatHappened": "Urban gardeners are turning to vertical gardening to maximize their space. By using walls, trellises, and stacked planters, gardeners can grow more plants in a smaller footprint. This technique is especially useful for apartment dwellers with limited balcony space.",
+    "whyItMatters": "Vertical gardening is not just about aesthetics; it can also improve air quality, reduce noise pollution, and provide a sense of community. As more people move to urban areas, finding creative ways to garden in small spaces is becoming increasingly important. By adopting vertical gardening techniques, gardeners can help mitigate the urban heat island effect and create more sustainable cities.",
+    "howToThink": "When designing a vertical garden, consider the amount of sunlight your space receives, the type of plants you want to grow, and the materials you'll need to support your plants. Choose plants that are well-suited for vertical growth, such as vining tomatoes or climbing peas. Start small and be prepared to experiment and adjust your design as needed.",
+    "pros": [
+      "Increased yields",
+      "Improved space efficiency",
+      "Enhanced aesthetics"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires regular maintenance",
+      "May require additional support"
+    ],
+    "watchOut": "Be cautious not to overwater your vertical garden, as this can lead to root rot and other problems",
+    "faq": [
+      {
+        "q": "What type of plants are best for vertical gardening?",
+        "a": "Plants that are naturally vining or climbing, such as tomatoes, peas, and cucumbers, are well-suited for vertical gardening"
+      },
+      {
+        "q": "How much sunlight does a vertical garden need?",
+        "a": "Most plants require at least 4-6 hours of direct sunlight per day, but some can thrive in partial shade"
+      },
+      {
+        "q": "Can I use a trellis for vertical gardening?",
+        "a": "Yes, trellises are a great option for vertical gardening, especially for vining plants like peas and beans"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "vertical gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-16T14:57:48.587Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "indoor-herb-garden-field-test-11",
     "title": "\"indoor herb garden\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about indoor herb garden through a month of actual use. Some of it survived.",

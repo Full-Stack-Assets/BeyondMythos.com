@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-famicom-av-mods",
+    "title": "Famicom Fine-Tuning: Unlock Crystal-Clear AV",
+    "dek": "Upgrade your Famicom's AV output",
+    "takeaway": "A well-executed AV mod can breathe new life into your Famicom console",
+    "whatHappened": "Recently, a surge of interest in Famicom restoration has led to the development of innovative AV mods, allowing for crystal-clear video and audio output. Enthusiasts have been experimenting with various modification techniques to improve the console's overall visual fidelity. As a result, a plethora of DIY guides and tutorials have emerged, catering to the growing demand for high-quality Famicom restorations.",
+    "whyItMatters": "The importance of a good AV mod cannot be overstated, as it directly impacts the overall gaming experience. A properly upgraded Famicom console can transport players back to the 8-bit era, with vibrant visuals and immersive audio. Furthermore, a well-restored console can significantly increase its value, making it a worthwhile investment for collectors and enthusiasts.",
+    "howToThink": "When considering an AV mod for your Famicom, it's essential to research and choose a reputable guide or tutorial. Ensure that the modification is compatible with your console's region and model, and carefully follow the instructions to avoid damaging the hardware. Additionally, consider consulting with experienced restorers or joining online forums to learn from others and stay up-to-date with the latest developments.",
+    "pros": [
+      "Improved video quality",
+      "Enhanced audio output",
+      "Increased console value"
+    ],
+    "cons": [
+      "Potential hardware damage",
+      "Cost of components",
+      "Technical difficulty"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics and follow proper safety precautions to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What is the most common AV mod for Famicom?",
+        "a": "The most popular AV mod is the RGB mod, which provides a significant improvement in video quality"
+      },
+      {
+        "q": "Do I need to be an expert to perform an AV mod?",
+        "a": "While technical expertise is helpful, many DIY guides and tutorials are available to assist beginners"
+      },
+      {
+        "q": "Can I use a universal AV mod kit for my Famicom?",
+        "a": "It's recommended to use a kit specifically designed for the Famicom console to ensure compatibility and optimal results"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Famicom restoration",
+      "AV mods"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-16T14:57:49.319Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-34",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",

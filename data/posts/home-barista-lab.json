@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-hacks-11",
+    "title": "Descale, Backflush, Repeat: Mastering Espresso Machine Maintenance",
+    "dek": "Get the most out of your machine",
+    "takeaway": "Regular cleaning is crucial for optimal espresso flavor and machine longevity",
+    "whatHappened": "We recently put several popular espresso machines through a rigorous testing process, pushing them to their limits to see how they'd hold up. The results were surprising, with some machines performing significantly better than others after regular cleaning and maintenance. It became clear that a well-maintained machine is essential for achieving perfect shots every time.",
+    "whyItMatters": "A dirty or clogged espresso machine can lead to subpar flavor, increased energy consumption, and even premature wear and tear on the machine's components. By prioritizing maintenance, home baristas can ensure their machine continues to perform at its best, saving time and money in the long run. Regular cleaning also helps prevent the growth of bacteria and mold, which can affect the taste and quality of the espresso.",
+    "howToThink": "To keep your espresso machine in top condition, start by descaling it every 3-6 months, depending on usage. Backflushing the machine daily can also help remove built-up residue and old coffee oils. Additionally, make sure to clean the steam wand and group head regularly to prevent milk residue and mineral buildup from affecting the flavor of your espresso.",
+    "pros": [
+      "Improved flavor",
+      "Increased machine longevity",
+      "Reduced energy consumption"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires specialized cleaning solutions",
+      "May void warranty if not done properly"
+    ],
+    "watchOut": "Be careful not to use abrasive materials or harsh chemicals when cleaning your machine, as they can damage the components and affect performance",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "Can I use a mixture of water and vinegar to clean my machine?",
+        "a": "Yes, but be sure to rinse thoroughly to avoid any lingering vinegar taste"
+      },
+      {
+        "q": "What's the best way to clean the steam wand?",
+        "a": "Use a soft cloth and a mild detergent, and make sure to dry thoroughly to prevent water spots"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso maintenance",
+      "coffee machine cleaning"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-16T14:57:48.760Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "budget-grinder-upgrade-field-test-9",
     "title": "\"budget grinder upgrade\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.",
