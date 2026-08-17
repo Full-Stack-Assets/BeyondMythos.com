@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Community pulse: what r/retrogaming is debating this week</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-14.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-14.html</guid>
+      <pubDate>Mon, 17 Aug 2026 06:04:26 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
+    </item>
+    <item>
       <title>Squeezing Every Frame: The Ultimate Guide to Optimizing FPS for Retro Games</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-fps-for-retro-games.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-fps-for-retro-games.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-3.html</guid>
       <pubDate>Sat, 15 Aug 2026 22:57:36 GMT</pubDate>
       <description>Revive your NES console with these simple steps.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: retro game restoration</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-11.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-11.html</guid>
-      <pubDate>Sat, 15 Aug 2026 21:55:17 GMT</pubDate>
-      <description>The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.</description>
     </item>
   </channel>
 </rss>
