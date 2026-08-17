@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-hacks-7",
+    "title": "Retro Console Hardware Hacks for Speedrunners",
+    "dek": "Boost your retro gaming performance",
+    "takeaway": "Simple hardware hacks can significantly improve retro gaming performance for speedrunners",
+    "whatHappened": "Recent speedrunning competitions have highlighted the importance of optimized hardware for achieving record-breaking times. Many speedrunners are now turning to hardware hacks to gain a competitive edge. By modifying their retro consoles, speedrunners can reduce lag and improve overall performance.",
+    "whyItMatters": "For speedrunners, every frame counts, and hardware hacks can make all the difference. By optimizing their hardware, speedrunners can improve their reaction times and execute complex maneuvers with greater precision. This can be especially crucial in highly competitive speedrunning communities where marginal gains can separate the best from the rest.",
+    "howToThink": "When considering hardware hacks for your retro console, it's essential to research and understand the specific modifications that will benefit your speedrunning goals. Look for tutorials and guides from experienced speedrunners and hardware enthusiasts, and always prioritize safety and preservation of your original hardware. Start with simple modifications and gradually move on to more complex hacks as you become more confident.",
+    "pros": [
+      "Improved performance",
+      "Increased competitiveness",
+      "Customization options"
+    ],
+    "cons": [
+      "Voiding warranties",
+      "Potential damage",
+      "Cost of modifications"
+    ],
+    "watchOut": "Be cautious when applying hardware hacks to avoid damaging your console or voiding its warranty",
+    "faq": [
+      {
+        "q": "What is the most common hardware hack for retro consoles?",
+        "a": "Replacing the original capacitor with a high-quality alternative"
+      },
+      {
+        "q": "Can hardware hacks damage my console?",
+        "a": "Yes, if not done correctly, hardware hacks can potentially damage your console or its components"
+      },
+      {
+        "q": "Are hardware hacks worth the cost?",
+        "a": "For serious speedrunners, the benefits of hardware hacks can far outweigh the costs"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "speedrunning",
+      "retro hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-17T07:37:57.294Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-retrogaming-14",
     "title": "Community pulse: what r/retrogaming is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",

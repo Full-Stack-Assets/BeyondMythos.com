@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Console Hardware Hacks for Speedrunners</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-7.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-hacks-7.html</guid>
+      <pubDate>Mon, 17 Aug 2026 07:37:57 GMT</pubDate>
+      <description>Boost your retro gaming performance</description>
+    </item>
+    <item>
       <title>Community pulse: what r/retrogaming is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-14.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-14.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-28.html</guid>
       <pubDate>Sat, 15 Aug 2026 23:55:50 GMT</pubDate>
       <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>Bringing Back the 8-Bit Beast: A Practical Guide to Restoring NES Consoles</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-3.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles-3.html</guid>
-      <pubDate>Sat, 15 Aug 2026 22:57:36 GMT</pubDate>
-      <description>Revive your NES console with these simple steps.</description>
     </item>
   </channel>
 </rss>

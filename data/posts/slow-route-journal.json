@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-rail-cards-13",
+    "title": "Busting the Myth of Rail Cards for Slow Travel",
+    "dek": "Rail cards: worth it?",
+    "takeaway": "Rail cards can be a cost-effective option for slow travelers, but only if used strategically",
+    "whatHappened": "On a recent trip, I found myself weighing the benefits of purchasing a rail card against the cost of individual tickets. After crunching the numbers, I realized that the rail card was the better option, but only because I had planned my itinerary carefully. This experience got me thinking about the value of rail cards for slow travelers. With the rise of budget airlines and ride-sharing services, it's easy to overlook the humble rail card, but it can still be a valuable tool for those who want to explore a region in depth.",
+    "whyItMatters": "For slow travelers, rail cards can offer a convenient and cost-effective way to explore a region without being tied to a rigid schedule. By allowing travelers to hop on and off trains at will, rail cards can be a great way to experience the local culture and scenery. However, with so many different types of rail cards available, it can be difficult to know which one to choose, and whether the cost is justified.",
+    "howToThink": "To get the most out of a rail card, it's essential to plan your itinerary carefully and research the different types of cards available. Consider the number of trips you plan to take, the distance you'll be traveling, and the class of service you require. It's also important to factor in any additional costs, such as reservation fees or supplements for high-speed trains. By doing your research and choosing the right rail card for your needs, you can enjoy a convenient and affordable way to explore a region without breaking the bank.",
+    "pros": [
+      "convenient",
+      "cost-effective",
+      "flexible"
+    ],
+    "cons": [
+      "limited routes",
+      "supplements for high-speed trains",
+      "reservation fees"
+    ],
+    "watchOut": "Be sure to read the fine print and understand any restrictions or limitations on your rail card before making a purchase",
+    "faq": [
+      {
+        "q": "What types of rail cards are available?",
+        "a": "There are several types of rail cards available, including Eurail, InterRail, and national rail cards"
+      },
+      {
+        "q": "How do I know which rail card is right for me?",
+        "a": "Consider the number of trips you plan to take, the distance you'll be traveling, and the class of service you require"
+      },
+      {
+        "q": "Can I use my rail card on high-speed trains?",
+        "a": "It depends on the type of rail card you have, but some high-speed trains may require a supplement or reservation fee"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail travel",
+      "slow travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-17T07:37:57.781Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-34",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",
