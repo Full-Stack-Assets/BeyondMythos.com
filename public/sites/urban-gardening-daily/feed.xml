@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Beating the Heat: Summer Shade Solutions for Balcony Gardens</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/balcony-summer-shade.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/balcony-summer-shade.html</guid>
+      <pubDate>Mon, 17 Aug 2026 03:32:01 GMT</pubDate>
+      <description>Keep your balcony garden thriving in summer</description>
+    </item>
+    <item>
       <title>Maximizing Herb Production in Winter</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/boosting-winter-herb-yields.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/boosting-winter-herb-yields.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-35.html</guid>
       <pubDate>Sat, 15 Aug 2026 19:54:12 GMT</pubDate>
       <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in composting with outsized returns</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-34.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-34.html</guid>
-      <pubDate>Sat, 15 Aug 2026 19:01:28 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.</description>
     </item>
   </channel>
 </rss>
