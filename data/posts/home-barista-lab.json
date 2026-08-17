@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-grinder-burr-spacing",
+    "title": "The Burr Spacing Breakthrough: Unlocking Perfect Grind Distribution",
+    "dek": "Optimize your grind with these simple steps.",
+    "takeaway": "Adjusting your grinder's burr spacing can significantly improve the flavor and consistency of your coffee.",
+    "whatHappened": "Recent experiments have shown that even the slightest adjustment in burr spacing can have a profound impact on the grind's distribution and, subsequently, the flavor of the brew. Home baristas are now experimenting with different settings to find their sweet spot. This has led to a surge in community discussions about the best practices for adjusting burr spacing.",
+    "whyItMatters": "Achieving the perfect grind is crucial for extracting the optimal amount of flavor from your coffee beans. Incorrect burr spacing can lead to channeling, over-extraction, or under-extraction, resulting in a subpar cup. By fine-tuning the burr spacing, home baristas can ensure a more consistent grind, which directly translates to a better-tasting coffee.",
+    "howToThink": "To approach burr spacing adjustments, start by understanding your grinder's specifications and the type of coffee beans you're using. Generally, a good starting point is to set the burrs as close as possible without causing the grinder to produce excessive heat or noise. From there, make small adjustments based on the grind's distribution and the flavor profile you're aiming for.",
+    "pros": [
+      "Improved grind consistency",
+      "Enhanced flavor extraction",
+      "Customizable to bean type"
+    ],
+    "cons": [
+      "Requires patience and trial",
+      "May involve additional cost for calibration tools",
+      "Not all grinders allow for adjustment"
+    ],
+    "watchOut": "Be cautious not to set the burrs too close, as this can lead to overheating and potentially damage your grinder.",
+    "faq": [
+      {
+        "q": "What is the ideal burr spacing for espresso?",
+        "a": "The ideal spacing varies by grinder and bean, but a common starting point is around 0.8 to 1.2 mm."
+      },
+      {
+        "q": "How often should I adjust my burr spacing?",
+        "a": "Adjustments should be made as needed based on the grind's appearance and the flavor of your coffee, typically after changing bean types or noticing inconsistencies in the grind."
+      },
+      {
+        "q": "Can I use any tool to adjust the burr spacing?",
+        "a": "It's recommended to use the manufacturer's adjustment tool or a high-precision tool to avoid damaging the grinder's internal mechanisms."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "coffee grind",
+      "grinder calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-17T02:08:25.918Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-38",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
