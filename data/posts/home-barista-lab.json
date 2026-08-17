@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-technique-optimized",
+    "title": "Tamping Like a Pro: Boosting Flavor with the Right Touch",
+    "dek": "Get the perfect tamp for better espresso",
+    "takeaway": "Proper tamping technique can significantly enhance the flavor of your home espresso",
+    "whatHappened": "The art of tamping has long been a cornerstone of great espresso. Recently, home baristas have been experimenting with various tamping techniques to optimize their espresso shots. From applying the right amount of pressure to ensuring even distribution, the details matter.",
+    "whyItMatters": "A well-tamped puck allows for the ideal flow of water, ensuring that all the flavors in your coffee are extracted evenly. This not only enhances the taste but also the overall experience of drinking espresso at home. Proper tamping can be the difference between a good shot and a great one.",
+    "howToThink": "To improve your tamping technique, start by investing in a good tamper that fits your hand well. Practice applying consistent pressure, and pay attention to the sound and feel of the coffee as you tamp. It's also beneficial to explore different tamping patterns to find what works best for your specific equipment and coffee beans.",
+    "pros": [
+      "Improved flavor",
+      "Better extraction",
+      "Easier brewing"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be time-consuming",
+      "Needs the right tool"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to channeling and a poor extraction, negatively affecting your espresso's quality",
+    "faq": [
+      {
+        "q": "What is the best material for a tamper?",
+        "a": "Stainless steel and aluminum are popular choices for their durability and ease of cleaning."
+      },
+      {
+        "q": "How often should I clean my tamper?",
+        "a": "It's recommended to wipe down your tamper after each use and perform a deeper clean every week to prevent any buildup of old coffee oils."
+      },
+      {
+        "q": "Can I use a tamper for other coffee brewing methods?",
+        "a": "While tamping is most commonly associated with espresso, some pour-over methods also benefit from a light tamp or press to ensure even extraction."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Home Barista"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-17T05:20:45.881Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-espresso-dial-in-9",
     "title": "Myth vs. reality: home espresso dial in",
     "dek": "The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.",

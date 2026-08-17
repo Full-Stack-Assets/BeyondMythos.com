@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-fps-for-retro-games",
+    "title": "Squeezing Every Frame: The Ultimate Guide to Optimizing FPS for Retro Games",
+    "dek": "Boost your retro gaming performance",
+    "takeaway": "Simple hardware tweaks can significantly improve your retro gaming FPS",
+    "whatHappened": "Retro game enthusiasts have long struggled with frame rate issues, particularly when playing classic games on modern hardware. Recently, advancements in emulation technology and community-driven forums have shed light on practical solutions to this problem. By optimizing hardware settings and utilizing specialized software, gamers can now achieve smoother gameplay",
+    "whyItMatters": "A higher frame rate can greatly enhance the overall gaming experience, reducing lag and stuttering that can be frustrating for both casual players and speedrunners. Furthermore, optimizing FPS can also help to preserve the original intent and feel of classic games, which is essential for retro gaming enthusiasts",
+    "howToThink": "When optimizing FPS for retro games, consider the specific hardware and software requirements of each game, and be prepared to experiment with different settings to find the perfect balance between performance and visual fidelity. It's also crucial to stay up-to-date with the latest developments in emulation technology and community-driven forums to stay ahead of the curve",
+    "pros": [
+      "Improved gameplay experience",
+      "Enhanced visual fidelity",
+      "Increased performance"
+    ],
+    "cons": [
+      "Requires technical knowledge",
+      "May not be compatible with all games",
+      "Can be time-consuming"
+    ],
+    "watchOut": "Be cautious when overclocking your hardware, as it can potentially damage your system",
+    "faq": [
+      {
+        "q": "What is the ideal FPS for retro games?",
+        "a": "The ideal FPS varies depending on the game, but generally, 60 FPS is considered the gold standard"
+      },
+      {
+        "q": "Can I use any emulator to optimize FPS?",
+        "a": "No, some emulators are more optimized for FPS than others, so it's essential to choose the right one for your specific needs"
+      },
+      {
+        "q": "Will optimizing FPS affect the game's original feel?",
+        "a": "When done correctly, optimizing FPS should enhance the original gaming experience without altering its core characteristics"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "FPS Optimization"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-17T05:20:45.611Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-speedruns-mistakes-35",
     "title": "Five mistakes everyone makes in their first month of speedruns",
     "dek": "The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.",
