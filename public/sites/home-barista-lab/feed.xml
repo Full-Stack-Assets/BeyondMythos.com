@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of pour-over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-34.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-34.html</guid>
+      <pubDate>Tue, 18 Aug 2026 09:14:15 GMT</pubDate>
+      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
+    </item>
+    <item>
       <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-14.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-14.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-33.html</guid>
       <pubDate>Mon, 17 Aug 2026 03:32:00 GMT</pubDate>
       <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>The Burr Spacing Breakthrough: Unlocking Perfect Grind Distribution</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/fine-tuning-grinder-burr-spacing.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/fine-tuning-grinder-burr-spacing.html</guid>
-      <pubDate>Mon, 17 Aug 2026 02:08:25 GMT</pubDate>
-      <description>Optimize your grind with these simple steps.</description>
     </item>
   </channel>
 </rss>
