@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Community pulse: what r/espresso is debating this week</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-10.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-10.html</guid>
+      <pubDate>Tue, 18 Aug 2026 11:01:25 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
+    </item>
+    <item>
       <title>The roasting checklist: run this before you spend</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-42.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-42.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-optimized.html</guid>
       <pubDate>Mon, 17 Aug 2026 05:20:45 GMT</pubDate>
       <description>Get the perfect tamp for better espresso</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: home espresso dial in</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-home-espresso-dial-in-9.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-home-espresso-dial-in-9.html</guid>
-      <pubDate>Mon, 17 Aug 2026 04:24:56 GMT</pubDate>
-      <description>The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.</description>
     </item>
   </channel>
 </rss>
