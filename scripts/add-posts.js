@@ -3,7 +3,6 @@
 
 const registry = require("../lib/registry");
 const content = require("../lib/content-generator");
-const vercel = require("../lib/vercel-deployer");
 const { getBaseUrl } = require("../lib/config");
 const { mapWithConcurrency } = require("../lib/concurrency");
 
@@ -22,7 +21,7 @@ function nicheForSite(site, niches) {
   );
 }
 
-async function processSite(site, { deploy, baseUrl, niches }) {
+async function processSite(site, { baseUrl, niches }) {
   const niche = nicheForSite(site, niches);
   let archive = content.loadPostArchive(site.slug);
   if (archive.length === 0) {
@@ -34,36 +33,21 @@ async function processSite(site, { deploy, baseUrl, niches }) {
 
   site.postCount = posts.length;
   site.lastPostAt = post.publishedAt;
-  const siteDir = content.writeSiteFiles(site, posts, baseUrl);
-  const result = { slug: site.slug, title: post.title, postCount: posts.length, deployUrl: null };
-
-  if (deploy && vercel.isConfigured()) {
-    try {
-      const deployment = await vercel.deploySiteToVercel(site, siteDir);
-      site.vercel = deployment;
-      site.url = deployment.url;
-      result.deployUrl = deployment.url;
-    } catch (error) {
-      console.warn(`  ${site.slug} deploy failed: ${error.message}`);
-    }
-  }
-
-  return result;
+  content.writeSiteFiles(site, posts, baseUrl);
+  return { slug: site.slug, title: post.title, postCount: posts.length };
 }
 
 async function main() {
-  const deploy = process.argv.includes("--deploy") || vercel.isConfigured();
   const baseUrl = getBaseUrl();
   const data = registry.loadRegistry();
   const niches = content.loadNiches();
 
   const results = await mapWithConcurrency(data.sites, SITE_CONCURRENCY, (site) =>
-    processSite(site, { deploy, baseUrl, niches })
+    processSite(site, { baseUrl, niches })
   );
 
   for (const result of results) {
     console.log(`${result.slug}: +"${result.title}" (${result.postCount} posts)`);
-    if (result.deployUrl) console.log(`  deployed → ${result.deployUrl}`);
   }
 
   data.lastPostRunAt = new Date().toISOString();

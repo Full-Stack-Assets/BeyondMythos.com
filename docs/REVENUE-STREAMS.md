@@ -20,7 +20,6 @@ Recommended funnel:
 
 ## Cross-project revenue map
 
-Accessible Vercel projects reviewed from the team inventory:
 
 | Project | Likely monetization path |
 | --- | --- |

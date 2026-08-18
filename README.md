@@ -6,7 +6,6 @@ Blog forge + storefront API. BeyondMythos continuously deploys new niche blog si
 
 - **`/`** — live dashboard of all deployed blog sites (auto-refreshes every 60s)
 - **`/sites/{slug}/`** — generated niche blog sites with starter posts
-- **Standalone Vercel deployments** — each new site is deployed to its own Vercel project (e.g. `beyondmythos-{slug}.vercel.app`) when `VERCEL_TOKEN` is set
 - **Hourly site generation** — `.github/workflows/hourly-blog-site.yml` creates a brand-new niche site every hour at :15
 - **Hourly posts** — `.github/workflows/hourly-posts.yml` adds one fresh post to *every* existing site at :45 and redeploys its standalone project, so sites keep publishing continuously
 - **No API key required** — template mode works out of the box; optional AI via Groq (free), OpenRouter, OpenAI, or Gemini
@@ -35,9 +34,6 @@ cp .env.example .env
 |----------|----------|---------|
 | `BEYONDMYTHOS_URL` | Recommended | Public URL used in generated blog links |
 | `STOREFORGE_URL` | Legacy alias | Same as `BEYONDMYTHOS_URL` (backward compatible) |
-| `VERCEL_TOKEN` | For standalone deploys | Deploys each new site to its own Vercel project |
-| `VERCEL_TEAM_ID` | Team scopes only | Vercel team the per-site projects belong to |
-| `VERCEL_PROJECT_PREFIX` | No | Per-site project name prefix (default `beyondmythos`) |
 | `CRON_SECRET` | For manual API trigger | Protects `POST /api/blog-sites/generate` |
 | `CONTENT_PROVIDER` | No | `auto` (default), `groq`, `openrouter`, `openai`, `gemini`, or `template` |
 | `GROQ_API_KEY` | Optional | **Recommended** free AI alternative — [console.groq.com](https://console.groq.com/) |
@@ -68,13 +64,11 @@ Generate a blog site manually:
 npm run generate:blog-site
 ```
 
-Rebuild every existing site with the current templates/themes (add `-- --deploy` to also redeploy each to its Vercel project):
 
 ```bash
 npm run regenerate:sites
 ```
 
-Add one new post to every site (what the hourly workflow runs; deploys automatically when `VERCEL_TOKEN` is set):
 
 ```bash
 npm run add:posts
@@ -148,7 +142,6 @@ Runs at **:15 every hour** (staggered from on-the-hour jobs). Each run:
 
 1. Picks an unused niche from `data/niches.json`
 2. Writes static HTML to `public/sites/{slug}/`
-3. Deploys the new site to **its own Vercel project** (`{prefix}-{slug}.vercel.app`)
 4. Updates `data/blog-sites.json` with the standalone URL
 5. Commits and pushes → main dashboard redeploys
 
@@ -156,35 +149,24 @@ Runs at **:15 every hour** (staggered from on-the-hour jobs). Each run:
 
 | Secret | Required | Purpose |
 |--------|----------|---------|
-| `BEYONDMYTHOS_URL` or `STOREFORGE_URL` | Yes | e.g. `https://your-project.vercel.app` |
-| `VERCEL_TOKEN` | For standalone deploys | Vercel API token used to create one project per site |
-| `VERCEL_TEAM_ID` | Team scopes only | Vercel team ID for the per-site projects |
 | `GROQ_API_KEY` | No | **Recommended** — free AI at [console.groq.com](https://console.groq.com/) |
 | `OPENROUTER_API_KEY` | No | Optional OpenRouter key |
 | `OPENAI_API_KEY` | No | Optional OpenAI key |
 | `GEMINI_API_KEY` | No | Optional Gemini key |
-| `VERCEL_DEPLOY_HOOK_URL` | No | Force immediate dashboard redeploy after commit |
 
-**GitHub variables (optional):** `VERCEL_PROJECT_PREFIX` — prefix for per-site project names (default `beyondmythos`).
 
-Without `VERCEL_TOKEN`, generation still works: sites are only served from `public/sites/{slug}/` on the main deployment, as before.
 
 Trigger manually: **Actions → Hourly blog site deployment → Run workflow**
 
 ### On-demand via API
 
 ```bash
-curl -X POST https://YOUR-PROJECT.vercel.app/api/blog-sites/generate \
   -H "Authorization: Bearer YOUR_CRON_SECRET"
 ```
 
-Set `CRON_SECRET` in Vercel env vars.
 
-## Deploy to Vercel
 
-BeyondMythos uses [Vercel zero-config Express](https://vercel.com/docs/frameworks/backend/express). Static blog sites in `public/sites/` are served by the Vercel CDN.
 
-1. Import `Full-Stack-Assets/StoreForge` at [vercel.com/new](https://vercel.com/new)
 2. Set `BEYONDMYTHOS_URL` (or `STOREFORGE_URL`) to your production URL
 3. Enable GitHub Actions on the repo for hourly site generation
 4. Deploy
@@ -192,10 +174,6 @@ BeyondMythos uses [Vercel zero-config Express](https://vercel.com/docs/framework
 ### Verify
 
 ```bash
-curl -I https://YOUR-PROJECT.vercel.app/
-curl https://YOUR-PROJECT.vercel.app/api/blog-sites
-curl https://YOUR-PROJECT.vercel.app/sites/retro-pixel-press/
-curl https://YOUR-PROJECT.vercel.app/api/status
 ```
 
 ## Endpoints
@@ -228,7 +206,6 @@ curl https://YOUR-PROJECT.vercel.app/api/status
 
 ## Standalone deployments per site
 
-With `VERCEL_TOKEN` set, every generated site is deployed to its own Vercel project named `{VERCEL_PROJECT_PREFIX}-{slug}` (default prefix `beyondmythos`), reachable at `https://{project-name}.vercel.app`. The dashboard links to the standalone URL and keeps a "Local copy" link to the `/sites/{slug}/` copy on the main deployment. The generated HTML uses only relative links, so the same files work in both places. You can attach a custom domain to any per-site project from the Vercel dashboard.
 
 ## Code layout
 
@@ -242,6 +219,5 @@ Core modules under `lib/`:
 | `renderer.js` | HTML/CSS site rendering |
 | `products.js` | Server-side store catalog |
 | `checkout.js` | Checkout validation |
-| `config.js` | Shared URL and Vercel config |
 
 Run tests with `npm test`.

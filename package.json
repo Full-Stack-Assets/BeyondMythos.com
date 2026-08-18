@@ -7,14 +7,12 @@
     "test": "node --test tests/*.test.js",
     "generate:blog-site": "node scripts/generate-blog-site.js",
     "regenerate:sites": "node scripts/regenerate-sites.js",
-    "add:posts": "node scripts/add-posts.js",
-    "vercel-build": "echo 'No build step required'"
+    "add:posts": "node scripts/add-posts.js"
   },
   "engines": {
     "node": ">=18"
   },
   "dependencies": {
-    "@vercel/analytics": "^2.0.1",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "stripe": "^14.16.0"
