@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of pour-over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-35.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-35.html</guid>
+      <pubDate>Tue, 18 Aug 2026 17:02:58 GMT</pubDate>
+      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
+    </item>
+    <item>
       <title>&quot;budget grinder upgrade&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-11.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-34.html</guid>
       <pubDate>Mon, 17 Aug 2026 11:01:49 GMT</pubDate>
       <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/espresso is debating this week</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-9.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-9.html</guid>
-      <pubDate>Mon, 17 Aug 2026 10:14:59 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
     </item>
   </channel>
 </rss>
