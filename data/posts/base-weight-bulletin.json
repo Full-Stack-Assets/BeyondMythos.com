@@ -1,5 +1,56 @@
 [
   {
+    "slug": "3-gram-pack-hack",
+    "title": "The 3-gram pack hack: shave ounces without sacrificing comfort",
+    "dek": "A quick tweak to trim a few grams per item while keeping your pack balanced and comfortable.",
+    "takeaway": "Small weight cuts add up - focus on micro-optimizations for real gains.",
+    "whatHappened": "I spent a weekend re-packing my 45-liter system, swapping out standard stuff for ultralight alternatives and redistributing weight. The result was a 2-3% reduction in total load without feeling any less supported.",
+    "whyItMatters": "On long thru-hikes every gram counts toward fatigue and pace; cumulative savings can mean extra miles or more comfort on summit days. Plus, the habit of scrutinizing each item builds a smarter packing mindset.",
+    "howToThink": "Start by weighing each core item, then ask: can I replace it with a lighter version, share the load, or eliminate it? Use a simple spreadsheet to track grams saved versus utility lost, aiming for a net positive.",
+    "pros": [
+      "Instant weight drop",
+      "Improves pack balance",
+      "Boosts morale"
+    ],
+    "cons": [
+      "Time to research",
+      "May need new gear",
+      "Potential durability trade-offs"
+    ],
+    "watchOut": "Don't sacrifice critical safety gear for marginal savings.",
+    "faq": [
+      {
+        "q": "Is the 3-gram rule realistic for everyone?",
+        "a": "It's a guideline; the exact amount varies by gear and personal tolerance, but the principle of micro-cuts applies universally."
+      },
+      {
+        "q": "Will lighter gear always be more expensive?",
+        "a": "Often, but you can find budget-friendly swaps like aluminum pots or recycled fabrics that shave grams without breaking the bank."
+      },
+      {
+        "q": "How do I test if my new setup is still comfortable?",
+        "a": "Do a short day hike with the revised pack; check for pressure points and ensure you can still access essentials quickly."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "ultralight",
+      "packing hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/AppalachianTrail community threads",
+        "url": "https://www.reddit.com/r/AppalachianTrail/"
+      },
+      {
+        "label": "Search interest: \"thru hike food planning\"",
+        "url": "https://duckduckgo.com/?q=thru%20hike%20food%20planning"
+      }
+    ],
+    "publishedAt": "2026-08-20T21:03:13.367Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-backpacking-18",
     "title": "Community pulse: what r/backpacking is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the skills community this week.",

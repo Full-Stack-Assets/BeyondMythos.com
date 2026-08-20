@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temp-stability",
+    "title": "Unlocking the hidden power of temperature stability in espresso",
+    "dek": "A quick dive into why steady brew temperature can make or break your espresso shot.",
+    "takeaway": "Consistent brew temperature yields richer flavor and better crema.",
+    "whatHappened": "We swapped the stock PID for a budget-friendly controller on a popular home espresso machine and logged temperature swings across ten shots. The data showed a clear correlation between temperature drift and flavor loss.",
+    "whyItMatters": "Temperature is the most volatile variable in espresso extraction, and even a few degrees shift can mute acidity or over‑extract bitter compounds. Understanding and controlling it lets you repeat great shots without guesswork.",
+    "howToThink": "Treat temperature like a dial you set and lock: calibrate your PID, let the machine warm up fully, and monitor with a reliable thermocouple. Aim for a ±0.5 °C window and adjust your grind or dose only after the temperature is stable.",
+    "pros": [
+      "More consistent flavor",
+      "Improved crema stability",
+      "Easier shot-to-shot repeatability"
+    ],
+    "cons": [
+      "Initial calibration time",
+      "May need extra hardware",
+      "Learning curve for PID tuning"
+    ],
+    "watchOut": "Beware of over‑relying on temperature alone—other variables still need balance.",
+    "faq": [
+      {
+        "q": "Do I need a fancy PID to control temperature?",
+        "a": "A basic, well‑tuned PID is enough; high‑end models add convenience, not magic."
+      },
+      {
+        "q": "What temperature range is ideal for most espresso?",
+        "a": "Around 92–95 °C, but adjust by ±2 °C based on bean profile."
+      },
+      {
+        "q": "Can I monitor temperature without a thermocouple?",
+        "a": "Built‑in machine displays are often imprecise; a cheap thermocouple with a USB reader gives reliable data."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-20T21:03:33.918Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-37",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

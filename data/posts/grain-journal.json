@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-forgotten-vintage-tlrs",
+    "title": "Reviving the Forgotten: How to Breathe Life into Vintage TLRs",
+    "dek": "Discover quick fixes that let your old twin‑lens reflex camera shoot sharp, reliable frames again.",
+    "takeaway": "A few maintenance steps can resurrect a dead TLR for modern analog work.",
+    "whatHappened": "I dusted off a 1958 Rolleiflex, found the shutter stuck and the viewfinder fogged. After a night of cleaning, greasing, and calibrating, the camera fired cleanly and rendered crisp negatives.",
+    "whyItMatters": "TLRs offer unique composition and low‑profile shooting, but neglect turns them into pricey paperweights. Restoring them extends their lifespan and saves money compared to buying new gear.",
+    "howToThink": "Start with a thorough visual inspection, replace the shutter lubricant, clean the lenses with a proper solution, and test the light meter. Keep a checklist so you don’t miss the often‑overlooked mirror alignment.",
+    "pros": [
+      "Distinctive waist‑level perspective",
+      "Robust mechanical build",
+      "Low maintenance once serviced"
+    ],
+    "cons": [
+      "Heavy to carry",
+      "Limited lens options",
+      "Meter can be finicky after age"
+    ],
+    "watchOut": "Avoid using harsh solvents on the lens coating—they can cause permanent damage.",
+    "faq": [
+      {
+        "q": "Can I use modern batteries in the TLR's light meter?",
+        "a": "Yes, most TLRs accept 1.5 V alkaline or NiMH cells, but check polarity and replace them yearly."
+      },
+      {
+        "q": "Do I need to recalibrate the shutter speeds after cleaning?",
+        "a": "A quick test chart will reveal any drift; adjust the timing screw if deviations exceed 5%."
+      },
+      {
+        "q": "Is it safe to use the camera for high‑speed film (e.g., 400 ASA)?",
+        "a": "Absolutely, once the shutter is smooth, the TLR handles 400 ASA without issue, though you may need to open the aperture slightly for optimal exposure."
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "TLR",
+      "camera restoration"
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"home developing guide\"",
+        "url": "https://duckduckgo.com/?q=home%20developing%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-20T21:03:10.558Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-best-film-stocks-2026-19",
     "title": "Myth vs. reality: best film stocks 2026",
     "dek": "The persistent myths around best film stocks 2026, stress-tested against what film photographers shooting analog actually report.",

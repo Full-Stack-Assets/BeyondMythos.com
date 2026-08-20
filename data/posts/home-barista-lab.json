@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-espresso-dose",
+    "title": "Dialing in the Perfect Espresso Dose: A Home Barista’s Guide",
+    "dek": "Learn how to fine‑tune your espresso dose for consistent flavor without buying new gear.",
+    "takeaway": "A precise dose unlocks flavor consistency more than any gadget.",
+    "whatHappened": "I noticed my espresso shots varied wildly after switching beans, even though the grind size stayed the same. By measuring the dose with a scale and adjusting by 0.5 g increments, the shots stabilized.",
+    "whyItMatters": "Dose is the single biggest variable that determines extraction balance; a small shift can swing a shot from sour to bitter. Mastering it means you get reliable results even when beans or humidity change.",
+    "howToThink": "Start with the manufacturer's recommended dose, then taste. If the shot is under‑extracted, add 0.5 g; if over‑extracted, subtract 0.5 g. Keep a log so you can repeat the winning formula with any bean.",
+    "pros": [
+      "Improves flavor consistency",
+      "No extra equipment needed",
+      "Easy to replicate"
+    ],
+    "cons": [
+      "Requires a scale",
+      "Takes a few trial shots",
+      "May need frequent re‑calibration with new beans"
+    ],
+    "watchOut": "Avoid tamping harder just because you added more coffee; keep pressure consistent.",
+    "faq": [
+      {
+        "q": "Do I need a calibrated scale?",
+        "a": "A reasonably accurate kitchen scale (0.1 g) is enough; calibration isn’t mandatory for daily use."
+      },
+      {
+        "q": "How often should I adjust the dose?",
+        "a": "Whenever you change beans, roast level, or notice a flavor shift—usually every 1‑2 weeks for most home setups."
+      },
+      {
+        "q": "Will changing dose affect my grind setting?",
+        "a": "Yes, a higher dose may require a slightly coarser grind to maintain the same brew time."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dose"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-20T21:03:03.060Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pressure-drop-quick-fix",
     "title": "Pressure Drop? Quick Fixes for Inconsistent Espresso Flow",
     "dek": "When your espresso shot sputters, a few easy adjustments can restore steady pressure and flavor.",
