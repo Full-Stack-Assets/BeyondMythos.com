@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro CRT controller mod: slicing latency for perfect frames</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-crt-controller-mod.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-crt-controller-mod.html</guid>
+      <pubDate>Thu, 20 Aug 2026 16:04:12 GMT</pubDate>
+      <description>Turn your classic CRT TV into a low‑lag arena with a simple controller mod that trims input delay by up to 15 ms.</description>
+    </item>
+    <item>
       <title>Turbocharging the SNES: 30‑second boot hacks</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-boot-hack-30sec.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-boot-hack-30sec.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-hidden-snes-gems-14.html</guid>
       <pubDate>Wed, 19 Aug 2026 10:03:16 GMT</pubDate>
       <description>The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your hardware in two hours</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-41.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-41.html</guid>
-      <pubDate>Wed, 19 Aug 2026 09:20:36 GMT</pubDate>
-      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

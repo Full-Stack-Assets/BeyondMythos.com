@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
     <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
     <item>
+      <title>Zero‑trust browsing: isolating tabs for privacy</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/zero-trust-browsing-isolate-tabs.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/zero-trust-browsing-isolate-tabs.html</guid>
+      <pubDate>Thu, 20 Aug 2026 16:04:24 GMT</pubDate>
+      <description>Turn each tab into a sandbox so trackers can’t hop between sites, without sacrificing speed.</description>
+    </item>
+    <item>
       <title>Ask the forge: your threats questions, answered</title>
       <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-47.html</link>
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-47.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-cybersecurity-15.html</guid>
       <pubDate>Wed, 19 Aug 2026 10:03:28 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the threats community this week.</description>
-    </item>
-    <item>
-      <title>The devices checklist: run this before you spend</title>
-      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/devices-pre-spend-checklist-43.html</link>
-      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/devices-pre-spend-checklist-43.html</guid>
-      <pubDate>Wed, 19 Aug 2026 09:20:48 GMT</pubDate>
-      <description>Seven questions that separate a justified devices purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
