@@ -1,6 +1,6 @@
 # BeyondMythos
 
-Blog forge + storefront API. BeyondMythos continuously deploys new niche blog sites and serves a live stream dashboard at `/`.
+Portfolio hub, governed publishing engine, and storefront API. The public hub is statically deployed through GitHub Pages; generation workflows update the tracked site catalog and content, while `server.js` remains the separately operated API surface.
 
 ## What you get
 
@@ -76,6 +76,24 @@ npm run add:posts
 
 Post content is persisted per site in `data/posts/{slug}.json`, so the archive grows hour over hour and survives regeneration.
 
+## Production deployment contract
+
+- **Public frontend:** `.github/workflows/pages.yml` tests the repository,
+  assembles `public/`, verifies the Pages tree, and deploys it through GitHub
+  Pages. Successful hourly publication runs trigger that workflow through
+  `workflow_run`, so bot-authored content reaches the static production surface.
+- **Backend API:** `server.js` is not part of the static Pages artifact. When a
+  backend is operated, set the repository variable `BEYONDMYTHOS_BACKEND_URL`
+  to its approved public origin so the generated hub links to it.
+- **Decision gate:** this repository no longer declares a backend hosting
+  provider. Selecting or changing that provider requires an explicit production
+  decision; do not infer one from historical deployment files.
+- **Verified server contract:** `npm test` starts the Express application on an
+  ephemeral port and proves that `/healthz`, `/store`, `/portfolio`,
+  `/api/portfolio/strategy`, and `/api/portfolio/dashboard` are available on a
+  fresh process. This verifies the application boundary, not the live domain;
+  the current Pages origin cannot serve these routes.
+
 ## Store catalog
 
 Products are defined server-side in `lib/products.js` and sold via Stripe Checkout. Clients send only `{ id, quantity }` — prices are never trusted from the browser.
@@ -94,7 +112,7 @@ Digital products are limited to one per order. Stripe line items include fulfill
 
 ## Monetization surfaces
 
-StoreForge now exposes revenue primitives on the live dashboard and every generated site:
+BeyondMythos exposes revenue primitives on the API dashboard and generated sites:
 
 - Affiliate disclosure and per-niche affiliate search links (`AMAZON_ASSOCIATE_TAG` or `AFFILIATE_SEARCH_URL`)
 - Sponsor slot (`SPONSOR_NAME`, `SPONSOR_URL`, `SPONSOR_TAGLINE`, `SPONSOR_LABEL`)
@@ -103,7 +121,7 @@ StoreForge now exposes revenue primitives on the live dashboard and every genera
 - External digital download storefront links: Etsy, Gumroad, Shopify, Payhip, Lemon Squeezy, and Ko-fi
 - Customer self-serve delivery access (`/api/customer/access/request` + `/api/customer/access`)
 - Revenue telemetry for checkout starts, completed purchases, refunds, and top funnels (`/api/revenue/dashboard`)
-- Optional per-site ElevenLabs conversational agent embed for autonomous visitor assistance
+- Optional per-site ElevenLabs conversational assistant embed
 
 Useful storefront env vars: `ETSY_SHOP_URL`, `GUMROAD_PROFILE_URL`, `SHOPIFY_STORE_URL`, `PAYHIP_STORE_URL`, `LEMONSQUEEZY_STORE_URL`, `KOFI_SHOP_URL`.
 
@@ -142,8 +160,8 @@ Runs at **:15 every hour** (staggered from on-the-hour jobs). Each run:
 
 1. Picks an unused niche from `data/niches.json`
 2. Writes static HTML to `public/sites/{slug}/`
-4. Updates `data/blog-sites.json` with the standalone URL
-5. Commits and pushes → main dashboard redeploys
+3. Updates `data/blog-sites.json` with the site URL
+4. Commits and pushes; the successful workflow then triggers the Pages deploy
 
 **GitHub secrets:**
 
@@ -161,19 +179,22 @@ Trigger manually: **Actions → Hourly blog site deployment → Run workflow**
 ### On-demand via API
 
 ```bash
-  -H "Authorization: Bearer YOUR_CRON_SECRET"
+curl -X POST "$BEYONDMYTHOS_BACKEND_URL/api/blog-sites/generate" \
+  -H "Authorization: Bearer $CRON_SECRET" \
+  -H "Content-Type: application/json" \
+  -d '{}'
 ```
 
-
-
-
-2. Set `BEYONDMYTHOS_URL` (or `STOREFORGE_URL`) to your production URL
-3. Enable GitHub Actions on the repo for hourly site generation
-4. Deploy
+The API command applies only when the separate backend has an approved,
+configured production origin.
 
 ### Verify
 
 ```bash
+npm test
+node scripts/build-pages-index.js
+node scripts/inject-pages-analytics.js public
+test -f public/index.html -a -f public/CNAME -a -d public/sites
 ```
 
 ## Endpoints
@@ -203,9 +224,6 @@ Trigger manually: **Actions → Hourly blog site deployment → Run workflow**
 | `GET` | `/api/digital-access/{purchaseId}/{productId}` | Validate tokenized access to a digital product |
 | `POST` | `/api/purchases/refund` | Mark purchase refunded for analytics/recovery updates (auth required) |
 | `GET` | `/api/revenue/dashboard` | Cross-site funnel KPIs (conversion, refunds, top funnels, product performance) |
-
-## Standalone deployments per site
-
 
 ## Code layout
 

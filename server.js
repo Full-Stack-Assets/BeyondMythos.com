@@ -193,25 +193,25 @@ app.get("/api/blog-sites", (req, res) => {
     lastGeneratedAt: registry.loadRegistry().lastGeneratedAt,
     sites: registry.listSites()
   });
+});
 
-  app.get("/api/portfolio/strategy", (req, res) => {
-    res.set("Cache-Control", "public, max-age=300, stale-while-revalidate=120");
-    const strategy = loadPortfolioStrategy();
-    res.json({
-      strategy,
-      summary: summarizePortfolio(strategy)
-    });
+app.get("/api/portfolio/strategy", (req, res) => {
+  res.set("Cache-Control", "public, max-age=300, stale-while-revalidate=120");
+  const strategy = loadPortfolioStrategy();
+  res.json({
+    strategy,
+    summary: summarizePortfolio(strategy)
   });
+});
 
-  app.get("/api/portfolio/dashboard", (req, res) => {
-    res.set("Cache-Control", "no-store");
-    const strategy = loadPortfolioStrategy();
-    res.json({
-      updatedAt: new Date().toISOString(),
-      summary: summarizePortfolio(strategy),
-      domainCount: listPortfolioDomains(strategy).length,
-      revenue: revenueDashboard()
-    });
+app.get("/api/portfolio/dashboard", (req, res) => {
+  res.set("Cache-Control", "no-store");
+  const strategy = loadPortfolioStrategy();
+  res.json({
+    updatedAt: new Date().toISOString(),
+    summary: summarizePortfolio(strategy),
+    domainCount: listPortfolioDomains(strategy).length,
+    revenue: revenueDashboard()
   });
 });
 
