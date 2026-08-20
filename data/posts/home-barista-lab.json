@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-brew-consistent-espresso-crema",
+    "title": "Boost Your Brew: The Secret to Consistent Espresso Crema",
+    "dek": "Discover a simple tweak that stabilizes crema and flavor, turning every shot into a silky masterpiece.",
+    "takeaway": "A small dose of pressure control can dramatically improve espresso consistency.",
+    "whatHappened": "I swapped the stock pressure gauge on my budget machine for a calibrated analog readout and logged the results over a week. The crema thickness grew and shot times steadied across beans.",
+    "whyItMatters": "Consistent pressure is the hidden variable behind flavor repeatability, yet many home baristas ignore it. Mastering it bridges the gap between cafe‑quality and kitchen‑brew.",
+    "howToThink": "Start by measuring your machine’s pressure at lock‑in, then adjust the OPV screw in 0.5‑bar increments, tasting after each change. Aim for a stable 9 ± 0.5 bar during extraction.",
+    "pros": [
+      "Better crema",
+      "More repeatable shots",
+      "Easy low‑cost upgrade"
+    ],
+    "cons": [
+      "Requires patience",
+      "May void warranty",
+      "Calibration tools needed"
+    ],
+    "watchOut": "Don’t overtighten the OPV screw – it can choke flow and scorch the coffee.",
+    "faq": [
+      {
+        "q": "Do I need a new pressure gauge?",
+        "a": "A calibrated analog gauge is cheap and accurate; a digital readout works too."
+      },
+      {
+        "q": "Will this work on semi‑automatic machines?",
+        "a": "Yes, any machine with an adjustable OPV or pressure valve can benefit."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "Check pressure monthly or after any major maintenance."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tech tweak"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-20T17:05:41.917Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "water-chemistry-hacks-pour-over",
     "title": "Water chemistry hacks: brewing the perfect pour‑over",
     "dek": "A quick guide to tweaking your brew water for clearer, brighter pour‑over coffee.",

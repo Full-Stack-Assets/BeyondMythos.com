@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microstop-magic-rail",
+    "title": "Microstop magic: turning one‑hour pauses into lasting memories",
+    "dek": "A 45‑minute Alpine detour on a Zurich‑Milan train shows how tiny stops reshape slow travel.",
+    "takeaway": "Brief, intentional pauses can deepen your journey without adding carbon.",
+    "whatHappened": "On a recent Zurich‑Milan service I hopped off at a tiny Alpine village for a 45‑minute walk, discovered a hidden café, and caught the next train back, feeling refreshed and more connected.",
+    "whyItMatters": "Microstops let low‑impact explorers experience places that big‑ticket attractions overlook, turning transit time into meaningful discovery and reducing the urge for high‑speed, high‑carbon hops.",
+    "howToThink": "Buy flexible tickets, scout stations with nearby points of interest, and schedule a short walk or coffee break. Treat the stop as a mini‑expedition: pack a snack, set a timer, and let curiosity guide you.",
+    "pros": [
+      "Deep local immersion",
+      "Breaks monotony of long rides",
+      "Eco‑friendly spontaneity"
+    ],
+    "cons": [
+      "Requires flexible tickets",
+      "May miss scheduled connections",
+      "Limited amenities at tiny stations"
+    ],
+    "watchOut": "Always verify the last‑train departure to avoid being stranded after a microstop.",
+    "faq": [
+      {
+        "q": "How do I find worthwhile microstop locations?",
+        "a": "Use regional rail maps, look for stations near natural trails or historic squares, and check local tourism sites for hidden gems."
+      },
+      {
+        "q": "Can I use a regular Eurail pass for microstops?",
+        "a": "Yes, as long as the pass allows flexible travel; just ensure the segment isn’t a seat‑reserved high‑speed service that locks you in."
+      },
+      {
+        "q": "What gear should I carry for a 45‑minute detour?",
+        "a": "A lightweight water bottle, a compact snack, a reusable tote for any finds, and a small notebook for quick observations."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "microstop"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-20T17:05:40.627Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-43",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",

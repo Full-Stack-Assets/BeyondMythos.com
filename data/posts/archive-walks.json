@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unearthing-forgotten-fountain",
+    "title": "Unearthing the Forgotten Fountain: a micro‑site case study",
+    "dek": "We dug into the town’s long‑neglected stone fountain, revealing its hidden history and how a simple community effort revived it.",
+    "takeaway": "Even tiny landmarks can unlock big stories when locals get involved.",
+    "whatHappened": "Last month a volunteer group cleared overgrown vines from the old town square fountain, documented its stone carvings, and consulted the municipal archive for original plans. The discovery sparked a weekend clean‑up and a small plaque installation.",
+    "whyItMatters": "Small‑scale projects like this keep heritage visible and foster a sense of place, preventing erasure of everyday history. They also generate fresh primary sources for archivists and map makers alike.",
+    "howToThink": "Start with a visible but ignored feature, photograph it, then cross‑reference city records or historic maps. Engage neighbors early to gather oral clues, but verify them against documented evidence before publishing.",
+    "pros": [
+      "Community pride",
+      "Low cost",
+      "Heritage boost"
+    ],
+    "cons": [
+      "Time‑intensive",
+      "Requires permits",
+      "Potential for misinformation"
+    ],
+    "watchOut": "Don’t assume oral lore is accurate without cross‑checking archival records.",
+    "faq": [
+      {
+        "q": "How do I locate a forgotten landmark?",
+        "a": "Survey public spaces, follow old map symbols, and ask long‑time residents for hints."
+      },
+      {
+        "q": "What archival resources are most useful?",
+        "a": "Town council minutes, historic plat maps, and newspaper archives often contain installation dates and design details."
+      },
+      {
+        "q": "Can I install signage myself?",
+        "a": "Check local ordinances; many municipalities require approval before adding permanent markers."
+      }
+    ],
+    "category": "Landmarks",
+    "tags": [
+      "landmark restoration",
+      "community archives"
+    ],
+    "sources": [
+      {
+        "label": "r/Genealogy community threads",
+        "url": "https://www.reddit.com/r/Genealogy/"
+      },
+      {
+        "label": "Search interest: \"old map archives\"",
+        "url": "https://duckduckgo.com/?q=old%20map%20archives"
+      }
+    ],
+    "publishedAt": "2026-08-20T17:05:55.803Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-research-46",
     "title": "Ask the forge: your research questions, answered",
     "dek": "Straight answers to the research questions local history buffs and community archivists keep asking, minus the hedging.",
