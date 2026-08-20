@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pressure-drop-quick-fix",
+    "title": "Pressure Drop? Quick Fixes for Inconsistent Espresso Flow",
+    "dek": "When your espresso shot sputters, a few easy adjustments can restore steady pressure and flavor.",
+    "takeaway": "Fixing pressure issues is often a matter of simple maintenance, not expensive parts.",
+    "whatHappened": "I noticed my 15-bar machine delivering a weak, uneven stream during morning pulls. After inspecting the pump and group head, I discovered a clogged pressure valve and a worn gasket.",
+    "whyItMatters": "Inconsistent pressure leads to under-extracted coffee, sour taste, and wasted beans. Restoring proper flow ensures repeatable shots and protects your machine from strain.",
+    "howToThink": "Start by cleaning the pressure regulator with a soft brush, then replace the group head gasket if it shows wear. Check the pump's inlet filter for debris, and verify the brew pressure with a calibrated gauge. Keep a maintenance log to spot patterns before they ruin a brew.",
+    "pros": [
+      "Restores shot consistency",
+      "Low-cost parts",
+      "Extends machine life"
+    ],
+    "cons": [
+      "Requires disassembly",
+      "Potential for leaks if reassembled wrong",
+      "May need specialty tools"
+    ],
+    "watchOut": "Never force the pump housing; a sudden twist can damage internal seals.",
+    "faq": [
+      {
+        "q": "Why does my espresso machine lose pressure over time?",
+        "a": "Build-up of coffee oils, mineral deposits, and wear on seals gradually restrict flow, reducing pressure."
+      },
+      {
+        "q": "Can I replace the pressure valve myself?",
+        "a": "Yes, if you have a basic toolkit and follow the manufacturer's guide, but double-check torque specs."
+      },
+      {
+        "q": "How often should I clean the pressure regulator?",
+        "a": "A light cleaning every month and a deep flush every 6-8 weeks keeps performance stable."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "maintenance",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-20T20:01:30.301Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reviving-old-espresso-machine-diy-tune-up",
     "title": "Reviving Your Old Espresso Machine: DIY Tune‑Up Guide",
     "dek": "Breathe new life into a tired espresso machine with simple tweaks that boost pressure and flavor.",

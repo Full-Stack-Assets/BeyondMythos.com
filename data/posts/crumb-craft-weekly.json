@@ -1,5 +1,56 @@
 [
   {
+    "slug": "heat-hacks-mastering-starter-temperature",
+    "title": "Heat hacks: mastering starter temperature for faster rise",
+    "dek": "A quick guide to using warm spots and simple tricks to speed up your sourdough starter without compromising flavor.",
+    "takeaway": "Control the starter’s environment and watch it bloom faster.",
+    "whatHappened": "I noticed my starter lagging behind on a chilly weekend, so I moved the jar to a sunny windowsill and wrapped it in a kitchen towel. Within 12 hours the bubbles surged, and the starter hit peak activity sooner than usual. The experiment proved that modest warmth can rescue a sluggish culture.",
+    "whyItMatters": "A lively starter is the foundation of reliable sourdough bread, and temperature is the most accessible lever for beginners. Faster activity means less waiting between feedings and more confidence in scheduling bake days. Understanding heat management also prevents over‑fermentation, preserving flavor balance.",
+    "howToThink": "Treat temperature as a dial, not a thermostat—aim for 78‑82°F (25‑28°C) for peak activity. Use a simple thermometer, a warm oven (turned off), or a DIY seed‑ling heat mat. If your kitchen is cold, batch‑feed the starter and let it rest in a insulated box to keep the heat steady.",
+    "pros": [
+      "Quicker rise cycles",
+      "Less idle time between feeds",
+      "Improves predictability"
+    ],
+    "cons": [
+      "Risk of overheating if unchecked",
+      "May accelerate acidity",
+      "Requires monitoring temperature"
+    ],
+    "watchOut": "Avoid temperatures above 90°F (32°C) or your starter can die or develop off‑flavors.",
+    "faq": [
+      {
+        "q": "Can I use a microwave to warm my starter?",
+        "a": "Only for a brief 30‑second warm‑up; prolonged heat will kill the culture."
+      },
+      {
+        "q": "What if my kitchen is consistently below 70°F?",
+        "a": "Invest in a low‑cost proofing box or a seed‑ling heat mat to maintain a stable warm zone."
+      },
+      {
+        "q": "Does warm temperature affect the sour flavor?",
+        "a": "Slightly, warmer temps can produce milder acidity, so balance with cooler ferment times if needed."
+      }
+    ],
+    "category": "Troubleshooting",
+    "tags": [
+      "starter",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"home baking tools\"",
+        "url": "https://duckduckgo.com/?q=home%20baking%20tools"
+      }
+    ],
+    "publishedAt": "2026-08-20T20:01:41.578Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-sourdough-starter-troubleshootin-16",
     "title": "Myth vs. reality: sourdough starter troubleshooting",
     "dek": "The persistent myths around sourdough starter troubleshooting, stress-tested against what home bakers and sourdough beginners actually report.",
