@@ -1,5 +1,56 @@
 [
   {
+    "slug": "color-grading-laptop-tricks",
+    "title": "Color grading on a shoestring: laptop tricks for indie filmmakers",
+    "dek": "Turn your modest laptop into a color grading workstation without breaking the bank.",
+    "takeaway": "You can achieve professional‑grade looks using free software and a few smart calibration steps.",
+    "whatHappened": "A filmmaker on a $500 budget needed to finish a short film fast and discovered that their everyday laptop could double as a grading suite. After installing a free LUT editor and calibrating the display, they graded the entire project in under a day.",
+    "whyItMatters": "Indie creators often assume color grading requires pricey monitors and expensive plugins, which stalls post‑production. Proving a low‑cost path keeps momentum and preserves the film’s visual intent.",
+    "howToThink": "Start with a calibrated monitor using a cheap USB colorimeter, use free tools like DaVinci Resolve’s Lite version, apply LUTs sparingly, and export using optimized codecs to retain quality without taxing the CPU.",
+    "pros": [
+      "Zero‑cost software",
+      "Minimal hardware investment",
+      "Fast turnaround for short projects"
+    ],
+    "cons": [
+      "Limited color depth on consumer screens",
+      "Long rendering times on older CPUs",
+      "Less precise control than high‑end panels"
+    ],
+    "watchOut": "Don’t rely on the laptop’s built‑in display for final delivery—always double‑check on a calibrated external monitor.",
+    "faq": [
+      {
+        "q": "Can I use free DaVinci Resolve for full‑length features?",
+        "a": "Yes, the free version supports most grading tools; you’ll only hit a limit if you need advanced HDR workflows."
+      },
+      {
+        "q": "Do I need a hardware colorimeter?",
+        "a": "A cheap USB‑type calibrator (under $50) is enough for accurate sRGB grading on a laptop."
+      },
+      {
+        "q": "Will grading on a laptop affect export quality?",
+        "a": "Export quality depends on codec settings, not the workstation; just ensure your render settings match your delivery specs."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "color grading",
+      "budget"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-08-20T23:59:01.765Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-distribution-39",
     "title": "The quiet upgrade: small tweaks in distribution with outsized returns",
     "dek": "No purchases, no overhauls — the modest distribution adjustments that indie filmmakers and short-film creators report mattering most.",

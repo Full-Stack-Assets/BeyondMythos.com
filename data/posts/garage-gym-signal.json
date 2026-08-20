@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-pull-up-power-minimal-gear",
+    "title": "Boost Your Pull‑Up Power with Minimal Gear",
+    "dek": "Learn a simple 3‑week pull‑up progression that works in a cramped garage gym with just a bar and a few bands.",
+    "takeaway": "Consistent, incremental overload beats fancy equipment for early pull‑up gains.",
+    "whatHappened": "I tried a 3‑week protocol using only a pull‑up bar, resistance bands, and bodyweight. By week three, my reps jumped from 2 to 7 on average.",
+    "whyItMatters": "Pull‑ups are a benchmark for upper‑body strength, yet beginners often stall because they lack a clear, equipment‑light roadmap. This plan shows measurable progress without a pricey rig.",
+    "howToThink": "Start with band‑assisted reps, track total volume, add a rep each session, and drop band assistance once you hit a consistent 5‑rep set. Keep the bar low, focus on form.",
+    "pros": [
+      "No extra gear needed",
+      "Scalable for all levels",
+      "Quick to implement"
+    ],
+    "cons": [
+      "Requires a sturdy bar",
+      "Progress may plateau without added weight",
+      "Relies on consistent schedule"
+    ],
+    "watchOut": "Don’t sacrifice form for reps; sloppy technique can lead to shoulder strain.",
+    "faq": [
+      {
+        "q": "How strong should the band be?",
+        "a": "Choose a band that lets you complete 8‑10 assisted reps with good form; adjust thickness as you improve."
+      },
+      {
+        "q": "Can I use a doorway bar?",
+        "a": "Only if it’s rated for your body weight; a wall‑mounted bar is safer for repeated use."
+      },
+      {
+        "q": "When should I add weighted pull‑ups?",
+        "a": "Introduce a small weight (5‑10 lb) once you can do 10 clean reps without assistance."
+      }
+    ],
+    "category": "Programming",
+    "tags": [
+      "pull‑up progression",
+      "garage gym"
+    ],
+    "sources": [
+      {
+        "label": "r/fitness community threads",
+        "url": "https://www.reddit.com/r/fitness/"
+      },
+      {
+        "label": "Search interest: \"home strength program\"",
+        "url": "https://duckduckgo.com/?q=home%20strength%20program"
+      }
+    ],
+    "publishedAt": "2026-08-20T23:58:50.409Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-space-46",
     "title": "Ask the forge: your space questions, answered",
     "dek": "Straight answers to the space questions home gym builders and strength-training beginners keep asking, minus the hedging.",

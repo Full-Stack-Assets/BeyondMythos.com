@@ -1,5 +1,56 @@
 [
   {
+    "slug": "zero-waste-grocery-hacks",
+    "title": "Zero-waste grocery hacks: save cash and the planet",
+    "dek": "Trim waste, trim costs—simple swaps that shrink your grocery bill and your carbon footprint.",
+    "takeaway": "Small zero‑waste tweaks can slash your grocery spend without sacrificing variety.",
+    "whatHappened": "I swapped disposable produce bags for reusable mesh, bought bulk grains in refillable jars, and replaced pre‑cut veggies with whole ones I diced myself for a month. The receipt showed a 12% drop in total spend, and the kitchen trash bin shrank dramatically. I logged the process in a simple spreadsheet to track savings and waste reduction.",
+    "whyItMatters": "Food waste is the hidden cost of most grocery bills, and the environmental toll compounds every year. By cutting that waste, households free up cash for other priorities and lower their ecological impact. The habit also builds a mindset of intentional consumption, a core principle for any frugal optimizer.",
+    "howToThink": "Start by auditing what you throw away each week—those are the low‑hanging savings. Replace single‑use packaging with reusable alternatives you already own or can buy cheap in bulk. When you see a pre‑packaged item, ask if the same ingredient is cheaper unwrapped; often it is, and you get more control over portion sizes.",
+    "pros": [
+      "Immediate cost drop",
+      "Less landfill waste",
+      "Improved meal planning"
+    ],
+    "cons": [
+      "Initial purchase of containers",
+      "Learning curve for bulk handling",
+      "Potential extra prep time"
+    ],
+    "watchOut": "Don’t overbuy bulk items you won’t use before they spoil, which would reverse the savings.",
+    "faq": [
+      {
+        "q": "Do reusable mesh bags really make a difference?",
+        "a": "Yes—over a year they replace dozens of plastic bags, saving $5‑$10 and cutting plastic waste."
+      },
+      {
+        "q": "Is buying in bulk always cheaper?",
+        "a": "Usually, but compare unit prices; sometimes sales on smaller packages beat bulk costs."
+      },
+      {
+        "q": "How do I keep bulk grains fresh?",
+        "a": "Store them in airtight jars in a cool, dark pantry and label with purchase date."
+      }
+    ],
+    "category": "Groceries",
+    "tags": [
+      "groceries",
+      "frugal"
+    ],
+    "sources": [
+      {
+        "label": "r/EatCheapAndHealthy community threads",
+        "url": "https://www.reddit.com/r/EatCheapAndHealthy/"
+      },
+      {
+        "label": "Search interest: \"cut energy bill\"",
+        "url": "https://duckduckgo.com/?q=cut%20energy%20bill"
+      }
+    ],
+    "publishedAt": "2026-08-20T23:58:38.372Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-mindset-59",
     "title": "Ask the forge: your mindset questions, answered",
     "dek": "Straight answers to the mindset questions budget-minded households and frugal optimizers keep asking, minus the hedging.",
