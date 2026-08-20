@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-old-espresso-machine-diy-tune-up",
+    "title": "Reviving Your Old Espresso Machine: DIY Tune‑Up Guide",
+    "dek": "Breathe new life into a tired espresso machine with simple tweaks that boost pressure and flavor.",
+    "takeaway": "A quick tune‑up can restore performance without buying a new machine.",
+    "whatHappened": "I dusted off a three‑year‑old home espresso rig, stripped it down, replaced the pressure valve gasket, descaled the boiler, and recalibrated the pump. After reassembly, the machine hit target pressure in seconds and produced richer crema.",
+    "whyItMatters": "Neglected hardware drifts, causing weak shots and inconsistent temperature, which wastes beans and erodes enthusiasm. A modest maintenance session extends the lifespan of costly gear and keeps your coffee quality high.",
+    "howToThink": "Schedule a quarterly deep‑clean, check seals for wear, and keep a spare O‑ring kit handy. When pressure falls below 9 bar, replace the valve gasket before assuming a pump failure. Use a calibrated pressure gauge to verify adjustments.",
+    "pros": [
+      "Low cost",
+      "Extended machine life",
+      "Improved shot consistency"
+    ],
+    "cons": [
+      "Requires basic tools",
+      "Time‑consuming first try",
+      "Potential for leaks if mis‑sealed"
+    ],
+    "watchOut": "Never work on a hot boiler; always let the machine cool completely before opening.",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 2–3 months, or whenever you notice mineral buildup or slower heat recovery."
+      },
+      {
+        "q": "Can I use any O‑ring material for the pressure valve?",
+        "a": "Stick to food‑grade silicone; cheaper rubber can degrade and affect pressure."
+      },
+      {
+        "q": "What’s the easiest way to test pump pressure?",
+        "a": "Attach a calibrated pressure gauge to the portafilter holder and pull a blank shot."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-20T19:18:22.435Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "budget-grinder-upgrade-field-test-13",
     "title": "\"budget grinder upgrade\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.",

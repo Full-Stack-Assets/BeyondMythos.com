@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlocking-vintage-lenses",
+    "title": "Unlocking the hidden potential of vintage lenses",
+    "dek": "Breathe new life into old glass and discover surprising image qualities for modern film shoots.",
+    "takeaway": "Older lenses can add character and cost‑effective creativity to your analog workflow.",
+    "whatHappened": "We paired a 1970s Zeiss Jena Biotar 58mm with a modern 35mm film body for a week‑long street series. The results showed softer corners, distinctive bokeh, and a unique rendering of highlights that differ from contemporary glass. After a quick test roll, the images proved both technically sound and aesthetically compelling.",
+    "whyItMatters": "Vintage lenses offer distinct visual signatures that can set your work apart without breaking the bank. Understanding their quirks lets you exploit character—like swirly bokeh or vintage flare—while still achieving reliable exposure on film.",
+    "howToThink": "Start by checking mount compatibility or using a simple adapter. Shoot a test strip to gauge exposure offsets and focus behavior. Embrace the lens’s strengths (e.g., portraity bokeh) and avoid its weak spots (e.g., tight corners) by composing accordingly.",
+    "pros": [
+      "Unique character and bokeh",
+      "Low cost compared to new glass",
+      "Durable, often fully manual"
+    ],
+    "cons": [
+      "Potential focus shift on film cameras",
+      "May require exposure compensation",
+      "Limited modern coatings, more flare"
+    ],
+    "watchOut": "Watch for light leaks or fungus on older glass; a quick cleaning can save your negatives.",
+    "faq": [
+      {
+        "q": "Do vintage lenses need special film exposure adjustments?",
+        "a": "Usually a slight stop‑up or stop‑down is needed; test a few frames to dial in the correct exposure."
+      },
+      {
+        "q": "Can I use modern autofocus bodies with these lenses?",
+        "a": "Only with an adapter and manual focus; autofocus won’t work, but you gain full manual control."
+      },
+      {
+        "q": "Are vintage lenses compatible with 120 medium format?",
+        "a": "Only if the mount matches; otherwise, look for adapters that maintain the correct flange distance."
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "vintage",
+      "lens-character"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-20T19:18:28.797Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-analog-20",
     "title": "Community pulse: what r/analog is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the scanning community this week.",

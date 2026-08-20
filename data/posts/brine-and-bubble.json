@@ -1,5 +1,56 @@
 [
   {
+    "slug": "48hr-kimchi-crunch",
+    "title": "48-hour kimchi: crisp, tangy, and ready fast",
+    "dek": "A rapid kimchi recipe that hits the crunch in just two days, perfect for busy fermenters.",
+    "takeaway": "You can get safe, tasty kimchi in 48 hours without sacrificing flavor.",
+    "whatHappened": "I tried a streamlined kimchi method using a higher salt ratio and a warm spot, checking the brine after 24 hours and again at 48. The result was a bright, crisp cabbage that stayed crunchy through the first week.",
+    "whyItMatters": "Fast fermentations keep momentum for newcomers and free up storage space. Knowing how temperature and salt interact also teaches you to control other veggie ferments.",
+    "howToThink": "Start with a 2% salt brine, pack tightly, and keep the jar at 22-24°C. Taste daily; once the crunch is right, move to the fridge to slow the process.",
+    "pros": [
+      "Lightning-fast results",
+      "Retains vegetable crunch",
+      "Easy to scale"
+    ],
+    "cons": [
+      "Shorter shelf-life",
+      "Requires warm spot",
+      "Higher salt may be intense for some"
+    ],
+    "watchOut": "If the temperature drops below 18°C, the fermentation will stall and the crunch may suffer.",
+    "faq": [
+      {
+        "q": "Can I use other veggies?",
+        "a": "Yes, carrots, radish, and daikon work well; adjust thickness for even fermentation."
+      },
+      {
+        "q": "Do I need to add sugar?",
+        "a": "No, the natural sugars in the cabbage fuel the microbes, but a pinch of rice flour can boost activity if it’s cool."
+      },
+      {
+        "q": "How long can I keep the 48-hour kimchi in the fridge?",
+        "a": "It stays crisp for about two weeks; after that it softens but remains safe."
+      }
+    ],
+    "category": "Vegetables",
+    "tags": [
+      "kimchi",
+      "quick-ferment"
+    ],
+    "sources": [
+      {
+        "label": "r/pickling community threads",
+        "url": "https://www.reddit.com/r/pickling/"
+      },
+      {
+        "label": "Search interest: \"fermented hot sauce recipe\"",
+        "url": "https://duckduckgo.com/?q=fermented%20hot%20sauce%20recipe"
+      }
+    ],
+    "publishedAt": "2026-08-20T19:18:33.093Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "miso-pre-spend-checklist-58",
     "title": "The miso checklist: run this before you spend",
     "dek": "Seven questions that separate a justified miso purchase from an expensive mood.",

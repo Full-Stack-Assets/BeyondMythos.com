@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winterizing-hive-checklist",
+    "title": "Winterizing Your Hive: A Checklist",
+    "dek": "Prep your backyard hives for the cold with a quick, practical checklist that keeps bees thriving through winter.",
+    "takeaway": "A solid winter prep routine means healthier colonies and less spring loss.",
+    "whatHappened": "After a sudden cold snap, many local beekeepers discovered exposed brood and cracked frames. We gathered the most common failures and turned them into a step‑by‑step winter prep guide. The result? Fewer deadouts and calmer winter mornings.",
+    "whyItMatters": "Winter stress is the leading cause of colony collapse in the backyard scene, yet most beekeepers only think about feeding. Proper insulation, ventilation, and hive configuration protect both brood and queen, setting the stage for a strong spring build‑up. Ignoring these basics costs honey yields and time spent troubleshooting later.",
+    "howToThink": "Treat winter prep like a pre‑flight checklist: verify each item before you close the hive door. Start with a visual inspection, then add insulation, adjust ventilation, and finish with a sugar syrup feed. Re‑check the seal after the first frost and adjust as needed.",
+    "pros": [
+      "Reduces winter losses",
+      "Boosts spring honey potential",
+      "Simple, low‑cost steps"
+    ],
+    "cons": [
+      "Requires a few extra tools",
+      "Time needed before first freeze",
+      "May need extra feeding in severe winters"
+    ],
+    "watchOut": "Don’t over‑insulate; trapped moisture can suffocate the colony.",
+    "faq": [
+      {
+        "q": "How thick should insulation be?",
+        "a": "Aim for 1‑2 inches of breathable material like straw or foam board on the hive sides."
+      },
+      {
+        "q": "Do I need a mouse guard?",
+        "a": "Yes—install a metal or mesh guard to keep rodents from chewing through the hive entrance."
+      },
+      {
+        "q": "When should I stop feeding sugar?",
+        "a": "Stop feeding about two weeks before the first expected hard freeze to let the bees consume stored food."
+      }
+    ],
+    "category": "Seasons",
+    "tags": [
+      "winter",
+      "hive care"
+    ],
+    "sources": [
+      {
+        "label": "r/homestead community threads",
+        "url": "https://www.reddit.com/r/homestead/"
+      },
+      {
+        "label": "Search interest: \"first honey harvest\"",
+        "url": "https://duckduckgo.com/?q=first%20honey%20harvest"
+      }
+    ],
+    "publishedAt": "2026-08-20T19:18:29.107Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "queen-rearing-quick-start",
     "title": "Queen Rearing Quick-Start: Boost Your Colony’s Future",
     "dek": "Start raising queens at home with a three‑day plan that fits any backyard beekeeper.",

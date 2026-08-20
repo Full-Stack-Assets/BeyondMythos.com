@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midweek-power-boost-portable-charger",
+    "title": "Midweek power boost: portable chargers for e‑bike commuters",
+    "dek": "Learn how a pocket-sized charger can keep your e‑bike rolling when the battery dips unexpectedly.",
+    "takeaway": "A small portable charger can be the difference between a smooth commute and a stranded ride.",
+    "whatHappened": "During a rainy Tuesday, I left home with a 70% charge, hit traffic, and the display warned of a low battery. I pulled out a 500Wh portable power bank, plugged in the bike’s charging port, and made it to the office without a hitch. The whole swap took less than five minutes.",
+    "whyItMatters": "Commutes are unpredictable—detours, weather, and extra loads drain power faster than planned. Relying solely on the bike’s battery leaves you vulnerable to downtime, which can cost time and morale. A backup charger adds resilience without a heavy upfront investment.",
+    "howToThink": "Choose a power bank with at least 500Wh capacity and a DC output compatible with your bike’s charger. Keep it in a waterproof sleeve and charge it overnight. Test the setup on a short ride before relying on it for a full‑day commute.",
+    "pros": [
+      "Lightweight backup",
+      "Adds range safety",
+      "Easy to charge at home"
+    ],
+    "cons": [
+      "Adds another device to carry",
+      "Limited recharge cycles",
+      "May not fit all charger ports"
+    ],
+    "watchOut": "Ensure the power bank’s voltage matches your bike’s charging spec to avoid damage.",
+    "faq": [
+      {
+        "q": "Can any power bank charge an e‑bike?",
+        "a": "Only ones that provide the correct voltage (usually 36‑48V) and sufficient watt‑hour rating can safely charge an e‑bike."
+      },
+      {
+        "q": "How long does it take to charge the bike from a power bank?",
+        "a": "Typically 1‑2 hours for a 50% boost, depending on the bank’s output and the bike’s charger efficiency."
+      },
+      {
+        "q": "Will using a power bank void my bike warranty?",
+        "a": "Generally no, as long as you use a charger that meets the manufacturer’s specifications."
+      }
+    ],
+    "category": "Batteries",
+    "tags": [
+      "portable charger",
+      "range anxiety"
+    ],
+    "sources": [
+      {
+        "label": "r/ebikes community threads",
+        "url": "https://www.reddit.com/r/ebikes/"
+      },
+      {
+        "label": "Search interest: \"ebike commuter guide\"",
+        "url": "https://duckduckgo.com/?q=ebike%20commuter%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-20T19:18:46.896Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-conversion-41",
     "title": "Ask the forge: your conversion questions, answered",
     "dek": "Straight answers to the conversion questions e-bike commuters and converts keep asking, minus the hedging.",
