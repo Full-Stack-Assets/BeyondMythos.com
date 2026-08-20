@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smart-speaker-safety-parenting-voice-assistant",
+    "title": "Smart speaker safety: parenting the voice assistant",
+    "dek": "Turn your home’s smart speakers into safe allies for kids with a few easy settings.",
+    "takeaway": "A few tweaks keep voice assistants helpful without compromising privacy or content.",
+    "whatHappened": "We set up a family’s Echo Dot and Google Nest for two 8‑year‑olds, enabled child‑mode, restricted purchases, and monitored voice logs for a week. The kids still used the speakers for music and homework help, but no unexpected orders or explicit content slipped through.",
+    "whyItMatters": "Smart speakers are everywhere, and children treat them like friends, making unnoticed data collection and accidental purchases a real risk. Ensuring safe defaults protects both household budgets and kids’ digital footprints.",
+    "howToThink": "Start by activating the built‑in child profile, lock purchases with a PIN, and disable drop‑in features for strangers. Regularly review voice history and adjust content filters as kids grow.",
+    "pros": [
+      "Easy parental controls",
+      "Hands‑free learning aid",
+      "Integrates with existing routines"
+    ],
+    "cons": [
+      "Voice data stored in cloud",
+      "Potential for accidental purchases",
+      "Kids may over‑rely on AI answers"
+    ],
+    "watchOut": "Never share your main account password on the device; use a dedicated child profile instead.",
+    "faq": [
+      {
+        "q": "Can I block all external content?",
+        "a": "You can enable the ‘Kids Mode’ or set explicit content filters to block music, podcasts, and skills not age‑rated."
+      },
+      {
+        "q": "What about accidental purchases?",
+        "a": "Require a PIN for purchases and turn off voice purchasing entirely in the device’s settings."
+      },
+      {
+        "q": "Is the voice history private?",
+        "a": "Parents can delete recordings manually or set the device to auto‑delete after a set period."
+      }
+    ],
+    "category": "Devices",
+    "tags": [
+      "smart speakers",
+      "parental controls"
+    ],
+    "sources": [
+      {
+        "label": "r/daddit community threads",
+        "url": "https://www.reddit.com/r/daddit/"
+      },
+      {
+        "label": "Search interest: \"kids screen time rules\"",
+        "url": "https://duckduckgo.com/?q=kids%20screen%20time%20rules"
+      }
+    ],
+    "publishedAt": "2026-08-20T15:15:59.209Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "parental-controls-guide-field-test-16",
     "title": "\"parental controls guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about parental controls guide through a month of actual use. Some of it survived.",

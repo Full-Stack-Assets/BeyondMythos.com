@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Turbocharging the SNES: 30‑second boot hacks</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-boot-hack-30sec.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-boot-hack-30sec.html</guid>
+      <pubDate>Thu, 20 Aug 2026 15:15:50 GMT</pubDate>
+      <description>A quick mod cuts SNES boot time to under half a minute, letting you jump straight into runs.</description>
+    </item>
+    <item>
       <title>Zero‑lag NES controller mod: faster inputs for speedrunning</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/low-latency-nes-controller-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/low-latency-nes-controller-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-41.html</guid>
       <pubDate>Wed, 19 Aug 2026 09:20:36 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/retrogaming is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-retrogaming-16.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-retrogaming-16.html</guid>
-      <pubDate>Wed, 19 Aug 2026 08:07:32 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

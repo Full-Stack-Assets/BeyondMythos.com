@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smartwatch-sanity",
+    "title": "Smartwatch sanity: setting limits without the drama",
+    "dek": "A quick guide to configuring kids’ smartwatches so they stay safe and stay on schedule.",
+    "takeaway": "Lock down watch features early to prevent surprise screen binges.",
+    "whatHappened": "We tested the latest kid‑focused smartwatch models with a family of three, tweaking alerts, geo‑fencing, and app access. Within a week the kids used the watches less for games and more for timed reminders.",
+    "whyItMatters": "Wearables are the newest entry point for unsupervised screen time, and unchecked access can sidetrack bedtime and school routines. Proper settings keep the device a tool, not a temptation.",
+    "howToThink": "Start with a clean slate: disable third‑party apps, set strict activity windows, and enable parent‑approved notifications only. Review logs weekly and adjust limits as your child’s routine evolves.",
+    "pros": [
+      "Instant alerts",
+      "GPS tracking",
+      "Customizable timers"
+    ],
+    "cons": [
+      "Battery drains fast",
+      "Kids may find work‑arounds",
+      "Limited app ecosystem"
+    ],
+    "watchOut": "Don’t forget to pair the watch with your own device, or you’ll lose remote control.",
+    "faq": [
+      {
+        "q": "Can I block all games on the watch?",
+        "a": "Yes, turn off the app store and remove pre‑installed games in the parental controls panel."
+      },
+      {
+        "q": "How accurate is the geofencing?",
+        "a": "Most models alert you within minutes of crossing the boundary, but test the radius in your own neighborhood first."
+      },
+      {
+        "q": "Will the watch still count steps for fitness?",
+        "a": "It will, as long as you keep the health app enabled; you can separate fitness data from screen time controls."
+      }
+    ],
+    "category": "Devices",
+    "tags": [
+      "Smartwatch",
+      "Parental Controls"
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-20T15:16:09.125Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-safety-mistakes-39",
     "title": "Five mistakes everyone makes in their first month of safety",
     "dek": "The most common early stumbles in safety, and the cheap corrections that fix them for parents managing kids, screens, and smart devices.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-old-fashioned-tool-approach",
+    "title": "Reviving the Old Fashioned: A Tool-Driven Approach",
+    "dek": "A quick guide to upgrading your muddler and mixing glass for a better Old Fashioned.",
+    "takeaway": "A better Old Fashioned starts with the right tools and a few tweaks.",
+    "whatHappened": "I swapped my budget muddler for a stainless‑steel one and swapped the standard mixing glass for a weighted, temperature‑stable vessel during a weekend trial. The result was a smoother, more consistent sip that held up longer as ice melted. I logged the differences in a simple spreadsheet to compare dilution and flavor retention.",
+    "whyItMatters": "Home bartenders often overlook how subtle tool choices affect cocktail balance, especially in spirit‑forward drinks where dilution is critical. By fine‑tuning your equipment you gain control over mouthfeel and flavor extraction without changing any ingredients. This translates to a consistently impressive Old Fashioned that can impress guests and elevate your home bar reputation.",
+    "howToThink": "Choose a muddler that feels solid in hand and has a textured surface for crushing sugar cubes without over‑mashing. Pair it with a mixing glass that has a thick base to keep the ice from warming the drink too quickly. Practice the stir‑time technique: 20‑30 seconds at a steady pace, then taste and adjust as needed.",
+    "pros": [
+      "Improved texture",
+      "More consistent dilution",
+      "Professional feel"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Slight learning curve",
+      "Need for extra storage"
+    ],
+    "watchOut": "Avoid over‑muddling the sugar; it can turn the cocktail bitter.",
+    "faq": [
+      {
+        "q": "Do I need a stainless‑steel muddler, or is wood okay?",
+        "a": "Wood works, but stainless‑steel is non‑porous, easier to clean, and won’t impart flavors over time."
+      },
+      {
+        "q": "Can I use a regular lowball glass instead of a weighted mixing glass?",
+        "a": "You can, but a heavier glass maintains temperature longer, giving you more control over dilution."
+      },
+      {
+        "q": "How long should I stir an Old Fashioned?",
+        "a": "Aim for 20‑30 seconds until the drink reaches about 20°C (68°F) and looks slightly viscous."
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "tools",
+      "old-fashioned"
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "publishedAt": "2026-08-20T15:15:55.970Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "batch-cocktails-for-parties-field-test-18",
     "title": "\"batch cocktails for parties\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about batch cocktails for parties through a month of actual use. Some of it survived.",

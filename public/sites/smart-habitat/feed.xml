@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Community pulse: what r/homeassistant is debating this week</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeassistant-19.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeassistant-19.html</guid>
+      <pubDate>Thu, 20 Aug 2026 15:15:54 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the lighting community this week.</description>
+    </item>
+    <item>
       <title>The local control checklist: run this before you spend</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/local-control-pre-spend-checklist-54.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/local-control-pre-spend-checklist-54.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-53.html</guid>
       <pubDate>Wed, 19 Aug 2026 09:20:46 GMT</pubDate>
       <description>No purchases, no overhauls — the modest local control adjustments that smart-home tinkerers and privacy-minded automators report mattering most.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: home assistant beginner guide</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/myth-vs-reality-home-assistant-beginner-guide-18.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/myth-vs-reality-home-assistant-beginner-guide-18.html</guid>
-      <pubDate>Wed, 19 Aug 2026 08:07:41 GMT</pubDate>
-      <description>The persistent myths around home assistant beginner guide, stress-tested against what smart-home tinkerers and privacy-minded automators actually report.</description>
     </item>
   </channel>
 </rss>
