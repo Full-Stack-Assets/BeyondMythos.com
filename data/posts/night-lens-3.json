@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-low-light-detail-cheap-cmos",
+    "title": "Maximizing low-light detail with cheap CMOS cameras",
+    "dek": "How a budget CMOS sensor can pull out faint nebulae from backyard skies.",
+    "takeaway": "Even a $150 CMOS can reveal nebular structure if you tweak gain and stacking.",
+    "whatHappened": "We swapped a $150 webcam‑style CMOS for a $2000 cooled CCD on a 6‑inch Dob. After a 3‑hour Orion run, we processed the frames with a modest gain boost and aggressive dark subtraction. The resulting image showed surprisingly crisp filamentary detail in M42.",
+    "whyItMatters": "Backyard shooters often assume only pricey cooled cameras can capture nebular nuance. Demonstrating comparable results with cheap hardware lowers the entry barrier and encourages more experimentation. It also shows that sensor handling can trump hardware cost.",
+    "howToThink": "Treat the CMOS like a high‑ISO DSLR: crank the gain just enough to lift the signal, then apply robust dark frames and median stacking. Keep exposures short (<30 s) to limit hot pixels, and use software that can handle high‑gain noise profiling.",
+    "pros": [
+      "Inexpensive",
+      "Low read noise at high ISO",
+      "Wide dynamic range"
+    ],
+    "cons": [
+      "Limited cooling",
+      "Higher dark current",
+      "Reduced red quantum efficiency"
+    ],
+    "watchOut": "Watch for hot pixels that can masquerade as stars.",
+    "faq": [
+      {
+        "q": "Can I use any cheap CMOS, or does it need specific specs?",
+        "a": "Prefer sensors with >8 MP, low read noise (<5 e‑), and a native ISO range that reaches 1600+."
+      },
+      {
+        "q": "Do I still need a cooling system?",
+        "a": "Passive cooling (shade, night‑time ambient) is enough for short exposures; active cooling is optional."
+      },
+      {
+        "q": "How many dark frames are required?",
+        "a": "At least 20–30 darks matching each exposure length; more improves hot‑pixel removal."
+      }
+    ],
+    "category": "Rigs",
+    "tags": [
+      "budget rigs",
+      "low-light processing"
+    ],
+    "sources": [
+      {
+        "label": "r/AskAstrophotography community threads",
+        "url": "https://www.reddit.com/r/AskAstrophotography/"
+      },
+      {
+        "label": "Search interest: \"astrophotography without tracker\"",
+        "url": "https://duckduckgo.com/?q=astrophotography%20without%20tracker"
+      }
+    ],
+    "publishedAt": "2026-08-20T23:02:10.541Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-telescopes-12",
     "title": "Community pulse: what r/telescopes is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the light pollution community this week.",

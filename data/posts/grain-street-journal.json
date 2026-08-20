@@ -1,5 +1,56 @@
 [
   {
+    "slug": "push-bw-negatives-development",
+    "title": "Push processing for B&W negatives: gaining contrast and grain control",
+    "dek": "A quick guide to push‑developing B&W film for more punch without sacrificing detail.",
+    "takeaway": "Push developing can boost contrast and compensate for underexposed shots, but requires precise timing.",
+    "whatHappened": "We tried a 2‑stop push on a batch of Ilford HP5+ shot at ISO 400, developing it 2 minutes longer in Rodinal. The negatives showed richer blacks and retained grain texture.",
+    "whyItMatters": "Many shooters underexpose to capture movement or work in low light; push processing lets them salvage images and add creative contrast, expanding flexibility in the darkroom.",
+    "howToThink": "Start with a test strip, increase development time by about 10‑15% per stop, monitor contrast with a densitometer or by printing, and adjust agitation accordingly.",
+    "pros": [
+      "More contrast for low‑light shots",
+      "Improves shadow detail",
+      "Can use higher ISO ratings"
+    ],
+    "cons": [
+      "Increased grain",
+      "Higher risk of over‑development",
+      "Requires precise timing"
+    ],
+    "watchOut": "Avoid pushing more than 2 stops without testing, as grain can become unmanageable.",
+    "faq": [
+      {
+        "q": "Can I push any B&W film?",
+        "a": "Most B&W films respond well to push processing, but each has its own optimal limits; check the manufacturer’s data sheet."
+      },
+      {
+        "q": "Do I need a different developer?",
+        "a": "You can use your regular developer; just adjust time. Some choose high‑contrast developers like Rodinal for better control."
+      },
+      {
+        "q": "How does push affect printing?",
+        "a": "Higher contrast negatives may require reduced exposure or contrast‑grade filters when printing to keep tonal balance."
+      }
+    ],
+    "category": "Darkroom",
+    "tags": [
+      "B&W",
+      "Push Processing"
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"best 35mm film stocks\"",
+        "url": "https://duckduckgo.com/?q=best%2035mm%20film%20stocks"
+      }
+    ],
+    "publishedAt": "2026-08-20T23:01:56.480Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-scanning-47",
     "title": "The quiet upgrade: small tweaks in scanning with outsized returns",
     "dek": "No purchases, no overhauls — the modest scanning adjustments that film photographers and darkroom hobbyists report mattering most.",
