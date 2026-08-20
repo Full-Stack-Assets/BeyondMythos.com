@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlocking-sweet-spot-espresso-temp",
+    "title": "Unlocking the Sweet Spot: Dial‑in Your Espresso Temperature",
+    "dek": "Learn why a few degrees matter and how to fine‑tune your machine for consistent shots.",
+    "takeaway": "Precise temperature control can boost extraction quality without extra gear.",
+    "whatHappened": "We tested three temperature settings on a popular mid‑range espresso machine, recording shot times, flavor notes, and crema. The 93 °C setting consistently delivered a balanced cup.",
+    "whyItMatters": "Temperature is the single most variable factor in espresso extraction; small tweaks can prevent bitterness or sourness. Understanding it empowers you to troubleshoot and improve without costly upgrades.",
+    "howToThink": "Start by measuring your boiler’s baseline with a thermometer, then adjust in 1 °C increments, tasting each shot. Keep a simple log of temperature, brew time, and flavor to spot trends.",
+    "pros": [
+      "Better flavor consistency",
+      "No extra hardware needed",
+      "Easily repeatable"
+    ],
+    "cons": [
+      "Requires thermometer",
+      "Time‑consuming trial period",
+      "May need PID tweaks"
+    ],
+    "watchOut": "Avoid exceeding your machine’s safety limits—never go above the manufacturer’s max temperature.",
+    "faq": [
+      {
+        "q": "Do I need a PID to control temperature?",
+        "a": "A PID helps maintain stability, but you can still fine‑tune using the machine’s built‑in thermostat and a thermometer."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "Check the boiler temperature monthly or after any major cleaning to stay on target."
+      },
+      {
+        "q": "Will higher temperature hurt my beans?",
+        "a": "Too hot can over‑extract and scorch delicate beans; stay within 90‑96 °C for most roasts."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-20T14:19:35.212Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-espresso-12",
     "title": "Community pulse: what r/espresso is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

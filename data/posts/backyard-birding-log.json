@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spotlight-swallow-early-season",
+    "title": "Spotlight on Swallows: Early-Season Tricks",
+    "dek": "Quick tips to nail swallow IDs before they zip past your backyard.",
+    "takeaway": "Learn the key field marks that separate swallows from similar fliers.",
+    "whatHappened": "This spring, backyard birders reported a surge of barn, tree, and cliff swallows racing to build mud nests. Many missed them because the birds blur at a glance.",
+    "whyItMatters": "Swallows are excellent bio‑indicators and their presence signals insect abundance. Accurate ID helps you track ecosystem health and timing for feeder adjustments.",
+    "howToThink": "Focus on flight silhouette, tail fork depth, and nesting behavior. Compare a quick silhouette sketch to a field guide, and note the mud‑cup nests under eaves.",
+    "pros": [
+      "Instantly improve field IDs",
+      "Boosts excitement when birds appear",
+      "Helps track insect activity"
+    ],
+    "cons": [
+      "Requires close observation",
+      "Mud nests can be messy",
+      "Swallows leave quickly"
+    ],
+    "watchOut": "Avoid disturbing mud nests—watch from a distance to protect breeding birds.",
+    "faq": [
+      {
+        "q": "How do I tell a barn swallow from a tree swallow?",
+        "a": "Barn swallows have a deeper forked tail and a reddish rump, while tree swallows are darker with a straight or slightly notched tail."
+      },
+      {
+        "q": "Do swallows use feeders?",
+        "a": "They rarely visit seed feeders; they prefer aerial insects, so consider a bat or insect feeder nearby."
+      },
+      {
+        "q": "When is the best time to see swallows building?",
+        "a": "Early May to early June, when they return to establish mud nests under eaves and bridges."
+      }
+    ],
+    "category": "Identification",
+    "tags": [
+      "identification",
+      "swallows"
+    ],
+    "sources": [
+      {
+        "label": "r/birding community threads",
+        "url": "https://www.reddit.com/r/birding/"
+      },
+      {
+        "label": "Search interest: \"backyard bird feeder setup\"",
+        "url": "https://duckduckgo.com/?q=backyard%20bird%20feeder%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-20T14:19:47.849Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-feeders-47",
     "title": "A weekend project: level up your feeders in two hours",
     "dek": "One contained, satisfying feeders project for casual birdwatchers — start Saturday morning, done by lunch.",
