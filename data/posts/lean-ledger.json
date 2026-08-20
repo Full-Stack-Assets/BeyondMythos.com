@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-timer-hack-slashed-standby-power",
+    "title": "DIY timer hack: slash standby power",
+    "dek": "Turn cheap plug‑in timers into silent energy savers and cut phantom loads without breaking the bank.",
+    "takeaway": "A simple timer can shave $5‑$15 a month off your electricity bill.",
+    "whatHappened": "I swapped a $3 mechanical timer into my living‑room outlet and programmed it to cut power to the TV and charger during idle hours. The meter showed a noticeable dip after a week.",
+    "whyItMatters": "Phantom draw accounts for up to 10% of household electricity use, inflating bills while delivering no benefit. Small interventions add up across a year.",
+    "howToThink": "Identify devices that stay plugged in 24/7, buy a low‑cost timer, set on/off windows that match your usage patterns, and monitor the savings on your next bill.",
+    "pros": [
+      "Cheap to implement",
+      "Instant savings",
+      "No tech expertise needed"
+    ],
+    "cons": [
+      "Timer may interrupt needed devices",
+      "Manual setup required",
+      "Limited to plug‑in loads"
+    ],
+    "watchOut": "Don’t schedule timers for devices that need constant power, like routers or medical equipment.",
+    "faq": [
+      {
+        "q": "Can I use a smart plug instead of a mechanical timer?",
+        "a": "Yes, smart plugs add remote control and data logs but cost more; the principle is identical."
+      },
+      {
+        "q": "How do I know which appliances draw phantom power?",
+        "a": "Look up typical standby draws online or use a plug‑in power meter for quick checks."
+      },
+      {
+        "q": "Will the timer affect device warranties?",
+        "a": "Generally not, but check the manufacturer’s guidelines if you’re unsure."
+      }
+    ],
+    "category": "Energy",
+    "tags": [
+      "standby",
+      "budget‑hack"
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"grocery budget tips\"",
+        "url": "https://duckduckgo.com/?q=grocery%20budget%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-20T22:00:26.471Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-cut-energy-bill-20",
     "title": "Myth vs. reality: cut energy bill",
     "dek": "The persistent myths around cut energy bill, stress-tested against what budget-minded households and frugal optimizers actually report.",

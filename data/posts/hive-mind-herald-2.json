@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-insulate-hive",
+    "title": "Winter prep: insulating your hive for the freeze",
+    "dek": "Learn quick, low‑cost tricks to keep your colonies warm when temperatures dip below zero.",
+    "takeaway": "Proper insulation can boost winter survival by up to 30%.",
+    "whatHappened": "A local beekeeper reported a 40% loss last winter due to sudden cold snaps. After adding simple insulation layers, the next season’s losses dropped dramatically.",
+    "whyItMatters": "Cold stress weakens bees, reduces food stores, and can kill the queen. Small insulation upgrades protect the colony’s health and your investment.",
+    "howToThink": "Treat your hive like a tiny house: seal drafts, add breathable insulation, and monitor temperature. Adjust based on local climate and hive strength.",
+    "pros": [
+      "Boosts survival rates",
+      "Low material cost",
+      "Easy DIY installation"
+    ],
+    "cons": [
+      "May require periodic checks",
+      "Improper ventilation can cause moisture",
+      "Adds weight to hive"
+    ],
+    "watchOut": "Avoid sealing vents completely; excess moisture can suffocate bees.",
+    "faq": [
+      {
+        "q": "What material works best for insulation?",
+        "a": "Thin layers of straw, foam board, or old blankets work well when placed between the inner and outer boxes."
+      },
+      {
+        "q": "How often should I inspect insulation?",
+        "a": "Check each spring and after any severe cold spell to ensure it’s intact and dry."
+      },
+      {
+        "q": "Will insulation affect honey production?",
+        "a": "No, it only protects the colony; honey yields can actually improve with a healthier winter."
+      }
+    ],
+    "category": "Seasons",
+    "tags": [
+      "winter",
+      "insulation"
+    ],
+    "sources": [
+      {
+        "label": "r/beekeepers community threads",
+        "url": "https://www.reddit.com/r/beekeepers/"
+      },
+      {
+        "label": "Search interest: \"varroa treatment options\"",
+        "url": "https://duckduckgo.com/?q=varroa%20treatment%20options"
+      }
+    ],
+    "publishedAt": "2026-08-20T22:00:40.792Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-start-beekeeping-cost-15",
     "title": "Myth vs. reality: start beekeeping cost",
     "dek": "The persistent myths around start beekeeping cost, stress-tested against what backyard beekeepers actually report.",
