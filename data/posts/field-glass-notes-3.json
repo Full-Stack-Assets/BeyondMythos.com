@@ -1,5 +1,56 @@
 [
   {
+    "slug": "twitcher-tips-quick-fix",
+    "title": "Quick optics tweak: Boost night vision in 5 minutes",
+    "dek": "A simple lens cleaning hack that sharpens your view for those dusk feeders.",
+    "takeaway": "Clean lenses = clearer birds.",
+    "whatHappened": "I noticed blurry silhouettes at my feeder after a rainstorm, so I tried a quick microfiber wipe and a few drops of lens cleaner. The difference was immediate.",
+    "whyItMatters": "Blurred optics waste observation time and can lead to missed IDs, especially during low-light migrations. A clear view keeps you confident and engaged.",
+    "howToThink": "Always keep a small cleaning kit by the binoculars; wipe gently, avoid harsh chemicals, and re‑coat lenses with a protective spray after each session.",
+    "pros": [
+      "Instant clarity",
+      "Low cost",
+      "Easy to carry"
+    ],
+    "cons": [
+      "Requires extra gear",
+      "Potential for over‑cleaning",
+      "May need frequent re‑application"
+    ],
+    "watchOut": "Don't use household glass cleaners—they can damage lens coatings.",
+    "faq": [
+      {
+        "q": "Can I use regular tissue to clean lenses?",
+        "a": "No, use a lint‑free microfiber cloth to avoid scratches."
+      },
+      {
+        "q": "How often should I clean my optics?",
+        "a": "After any wet weather or when you notice haze—usually once a week in active seasons."
+      },
+      {
+        "q": "Is lens cleaning safe for all birding optics?",
+        "a": "Yes, as long as you use optics‑approved cleaners and follow the manufacturer’s instructions."
+      }
+    ],
+    "category": "Optics",
+    "tags": [
+      "optics",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/whatsthisbird community threads",
+        "url": "https://www.reddit.com/r/whatsthisbird/"
+      },
+      {
+        "label": "Search interest: \"backyard feeder setup\"",
+        "url": "https://duckduckgo.com/?q=backyard%20feeder%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-20T18:02:00.332Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-optics-43",
     "title": "A weekend project: level up your optics in two hours",
     "dek": "One contained, satisfying optics project for backyard birders — start Saturday morning, done by lunch.",

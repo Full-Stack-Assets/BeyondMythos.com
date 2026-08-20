@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-joinery-dovetail-pins",
+    "title": "Micro-joinery: mastering dovetail pins with a single chisel",
+    "dek": "Turn a single chisel into a dovetail pin‑making powerhouse in your cramped shop.",
+    "takeaway": "One well‑placed chisel can replace a whole set of specialty pins.",
+    "whatHappened": "I tried cutting a series of 1/8\" dovetail pins using only my bench chisel and a wooden mallet. After a few adjustments to angle and depth, the pins fit snugly into a test joint.",
+    "whyItMatters": "Small shops often lack space for a full pin set, yet precise pins are critical for strength and aesthetics. Demonstrating a minimalist technique keeps the bench clear and the budget low.",
+    "howToThink": "Set the chisel at a shallow angle, tap gently, and let the wood grain do the work. Incrementally deepen the cut, checking fit each time, and use a scrap block to stabilize the workpiece.",
+    "pros": [
+      "Minimal tool count",
+      "Low cost",
+      "Easy to learn"
+    ],
+    "cons": [
+      "Slower than a pin set",
+      "Requires careful angle control",
+      "Limited to small pins"
+    ],
+    "watchOut": "Avoid over‑driving the chisel; it can split the workpiece.",
+    "faq": [
+      {
+        "q": "Can I use a beveled chisel?",
+        "a": "A flat‑back chisel gives the cleanest edge, but a beveled one works if you keep the angle consistent."
+      },
+      {
+        "q": "What wood works best?",
+        "a": "Straight‑grain hardwoods like maple or oak hold the pins tight; softwoods may crush."
+      },
+      {
+        "q": "Do I need a stop block?",
+        "a": "A simple stop block ensures uniform depth across multiple pins."
+      }
+    ],
+    "category": "Joinery",
+    "tags": [
+      "dovetail",
+      "minimalism"
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "publishedAt": "2026-08-20T18:01:46.455Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hand-tools-57",
     "title": "A weekend project: level up your hand tools in two hours",
     "dek": "One contained, satisfying hand tools project for hobby woodworkers in small shops — start Saturday morning, done by lunch.",

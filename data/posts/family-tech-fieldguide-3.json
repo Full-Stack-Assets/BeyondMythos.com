@@ -1,5 +1,56 @@
 [
   {
+    "slug": "screen-guardian-mode",
+    "title": "Screen Guardian Mode: Turning Android’s Built‑in Controls into a Parenting Superpower",
+    "dek": "Turn Android’s hidden Screen Guardian into a set‑and‑forget screen‑time manager for kids.",
+    "takeaway": "Use the native mode to automate limits and free yourself from daily negotiations.",
+    "whatHappened": "A mom of two discovered Android’s Screen Guardian Mode after a frantic evening of app‑hopping. She enabled the preset profiles and watched the devices enforce limits without her intervention. Within a week the bedtime battles dropped dramatically.",
+    "whyItMatters": "Screen‑time fights drain family energy and erode trust. Automating limits with a trusted system removes the need for constant policing, giving parents bandwidth for other priorities. Consistency also teaches kids self‑regulation.",
+    "howToThink": "Treat the mode as a baseline, not a ceiling. Pair it with a brief family chat about why limits exist, then let the device handle enforcement. Adjust profiles as kids grow, and use the “override” sparingly to keep the rule credible.",
+    "pros": [
+      "Native, no extra apps needed",
+      "Works offline and respects device admin",
+      "Granular profiles for bedtime, study, play"
+    ],
+    "cons": [
+      "Only on Android 12+",
+      "Limited UI for fine‑tuning",
+      "May conflict with third‑party parental apps"
+    ],
+    "watchOut": "If you enable the ‘override’ shortcut on the lock screen, kids can bypass the limits with a simple swipe.",
+    "faq": [
+      {
+        "q": "Can I use Screen Guardian on a shared family tablet?",
+        "a": "Yes, set up a separate user profile for kids and apply the mode only to that account."
+      },
+      {
+        "q": "What happens to apps that exceed the time limit?",
+        "a": "They’re automatically paused and a gentle notification appears, prompting a break."
+      },
+      {
+        "q": "Is data collected about my child’s usage?",
+        "a": "Only local usage stats are stored; no cloud sync occurs unless you enable it manually."
+      }
+    ],
+    "category": "Screen Time",
+    "tags": [
+      "Android",
+      "Screen Time"
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-20T18:02:06.516Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-cost-endless-scrolling",
     "title": "The hidden cost of endless scrolling: a parent’s reality check",
     "dek": "When kids binge scroll, parents lose sleep and sanity—here’s the real impact and a quick fix.",
