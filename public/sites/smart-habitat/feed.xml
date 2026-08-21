@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Local voice: building a privacy‑first voice assistant on the edge</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/local-voice-privacy-assistant.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/local-voice-privacy-assistant.html</guid>
+      <pubDate>Fri, 21 Aug 2026 09:19:35 GMT</pubDate>
+      <description>Turn your Raspberry Pi into a local, offline voice hub that respects privacy while controlling lights, locks, and sensors.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/smarthome is debating this week</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-smarthome-20.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-smarthome-20.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-54.html</guid>
       <pubDate>Thu, 20 Aug 2026 03:28:47 GMT</pubDate>
       <description>Straight answers to the lighting questions smart-home tinkerers and privacy-minded automators keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in local control with outsized returns</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-55.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-55.html</guid>
-      <pubDate>Thu, 20 Aug 2026 02:06:35 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest local control adjustments that smart-home tinkerers and privacy-minded automators report mattering most.</description>
     </item>
   </channel>
 </rss>

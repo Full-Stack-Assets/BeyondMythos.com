@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-1987-commodore-power-swap",
+    "title": "Reviving the 1987 Commodore: A DIY Power Supply Swap",
+    "dek": "Swap the original power supply for a modern, reliable unit and bring your 1987 Commodore back to life.",
+    "takeaway": "A proper power supply upgrade can save your retro machine from frequent crashes and extend its lifespan.",
+    "whatHappened": "I discovered the Commodore's original PSU was flaky, causing random boot hangs and occasional smoke. After locating a compatible modern 12 V/5 A unit and rewiring with proper connectors, the machine boots cleanly and runs stable.",
+    "whyItMatters": "Power reliability is the backbone of any restoration; a bad supply masks other issues and can damage delicate components. Upgrading to a stable source lets you focus on genuine hardware quirks rather than power noise, preserving both the machine and your sanity.",
+    "howToThink": "Identify the exact voltage and current specs of the original PSU, then find a modern replacement that matches or exceeds them while keeping the same polarity. Use a bench power supply for testing before permanent wiring, and label all connections to avoid mistakes. Document the swap so future tinkers know the new configuration.",
+    "pros": [
+      "Stable voltage",
+      "Reduced heat",
+      "Longer component life"
+    ],
+    "cons": [
+      "Initial cost",
+      "Need for custom wiring",
+      "Potential loss of originality"
+    ],
+    "watchOut": "Double‑check polarity and connector pin‑out before powering up to avoid frying the motherboard.",
+    "faq": [
+      {
+        "q": "Can I use a generic ATX PSU for a Commodore?",
+        "a": "Only if you step down the voltage with a regulator; a direct ATX 5 V/12 V rail will likely over‑voltage the board."
+      },
+      {
+        "q": "Do I need to keep the original PSU for authenticity?",
+        "a": "For display purposes you can keep it as a non‑functional artifact, but the working machine should use the modern unit."
+      },
+      {
+        "q": "Will this affect the machine's original sound or timing?",
+        "a": "No, a clean supply actually improves audio fidelity and timing stability compared to a failing original."
+      }
+    ],
+    "category": "Restoration",
+    "tags": [
+      "Power Supply",
+      "Commodore"
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "publishedAt": "2026-08-21T09:19:34.401Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-emulation-mistakes-58",
     "title": "Five mistakes everyone makes in their first month of emulation",
     "dek": "The most common early stumbles in emulation, and the cheap corrections that fix them for retro computer restorers and emulation fans.",

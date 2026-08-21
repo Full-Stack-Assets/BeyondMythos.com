@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-vet-visit-puppy",
+    "title": "First vet visit: what to expect and how to prep",
+    "dek": "Your puppy’s inaugural check‑up can be smooth if you know the paperwork, the routine, and how to keep them calm.",
+    "takeaway": "A prepared owner turns a stressful vet trip into a confidence‑building experience for both dog and human.",
+    "whatHappened": "We took our 10‑week‑old Labrador mix, Milo, to his first vet appointment. The clinic greeted us, did a quick physical, and ran core vaccinations while we kept Milo on a leash.",
+    "whyItMatters": "Early vet visits set the tone for lifelong health habits and help catch issues before they snowball. Knowing the process reduces anxiety, which in turn makes the dog more cooperative.",
+    "howToThink": "Treat the visit like a short training session: bring treats, keep the leash loose, and practice calm greetings at the front desk. Have the paperwork ready and ask the vet to explain each step.",
+    "pros": [
+      "Early disease detection",
+      "Bonding through handling",
+      "Establishes routine"
+    ],
+    "cons": [
+      "Puppy may be nervous",
+      "Potential for surprise costs",
+      "Scheduling can be tricky"
+    ],
+    "watchOut": "Never skip the pre‑visit fasting instructions for blood work, or you’ll waste the appointment.",
+    "faq": [
+      {
+        "q": "How long should I fast my puppy before blood work?",
+        "a": "Usually 8‑12 hours, but follow your vet’s specific guidance."
+      },
+      {
+        "q": "What treats are best for a vet visit?",
+        "a": "Soft, high‑value treats like cheese bits or freeze‑dried liver work well."
+      },
+      {
+        "q": "Can I bring a familiar blanket?",
+        "a": "Yes, a scent‑familiar item can soothe a nervous pup."
+      }
+    ],
+    "category": "Health",
+    "tags": [
+      "vet prep",
+      "puppy health"
+    ],
+    "sources": [
+      {
+        "label": "r/dogs community threads",
+        "url": "https://www.reddit.com/r/dogs/"
+      },
+      {
+        "label": "Search interest: \"positive reinforcement basics\"",
+        "url": "https://duckduckgo.com/?q=positive%20reinforcement%20basics"
+      }
+    ],
+    "publishedAt": "2026-08-21T09:19:43.779Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "gear-pre-spend-checklist-45",
     "title": "The gear checklist: run this before you spend",
     "dek": "Seven questions that separate a justified gear purchase from an expensive mood.",

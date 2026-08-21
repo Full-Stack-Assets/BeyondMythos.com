@@ -1,5 +1,56 @@
 [
   {
+    "slug": "local-voice-privacy-assistant",
+    "title": "Local voice: building a privacy‑first voice assistant on the edge",
+    "dek": "Turn your Raspberry Pi into a local, offline voice hub that respects privacy while controlling lights, locks, and sensors.",
+    "takeaway": "You can have voice control without sending data to the cloud.",
+    "whatHappened": "We wired a Pi 4 with a USB mic, installed open‑source Rhasspy, and connected it to our MQTT‑based home. Within an hour the assistant could turn on the hallway lamp and lock the front door using local intents.",
+    "whyItMatters": "Most voice assistants stream audio to remote servers, exposing habits and conversations. Running the stack locally keeps data in‑house and reduces latency, which matters for privacy‑conscious automators.",
+    "howToThink": "Start with a clear intent model, map each command to existing MQTT topics, and test locally before adding new devices. Keep the wake‑word simple and use a dedicated audio interface to avoid cross‑talk.",
+    "pros": [
+      "Zero cloud traffic",
+      "Fast response time",
+      "Full control over intents"
+    ],
+    "cons": [
+      "Higher initial setup",
+      "Limited language models",
+      "Needs reliable hardware"
+    ],
+    "watchOut": "Make sure your microphone is placed away from noisy appliances to avoid false triggers.",
+    "faq": [
+      {
+        "q": "Can I use Google Home devices with Rhasspy?",
+        "a": "Not directly; you’d need to replace them with local microphones or use the Rhasspy‑compatible Echo devices."
+      },
+      {
+        "q": "Does this affect my existing automations?",
+        "a": "No, Rhasspy publishes to the same MQTT topics, so existing routines stay untouched."
+      },
+      {
+        "q": "What hardware is the minimum?",
+        "a": "A Pi 3 B+ or newer with a USB mic and speaker works, but a Pi 4 gives smoother performance."
+      }
+    ],
+    "category": "Local Control",
+    "tags": [
+      "voice",
+      "privacy"
+    ],
+    "sources": [
+      {
+        "label": "r/homeautomation community threads",
+        "url": "https://www.reddit.com/r/homeautomation/"
+      },
+      {
+        "label": "Search interest: \"smart lighting setup\"",
+        "url": "https://duckduckgo.com/?q=smart%20lighting%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-21T09:19:35.243Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-smarthome-20",
     "title": "Community pulse: what r/smarthome is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the lighting community this week.",
