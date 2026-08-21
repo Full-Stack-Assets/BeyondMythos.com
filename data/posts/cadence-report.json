@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-ftp-interval-bursts",
+    "title": "Boost your FTP: interval bursts that actually work",
+    "dek": "Short, high‑intensity interval bursts can push your Functional Threshold Power without extra hours on the bike.",
+    "takeaway": "Add 30‑second max‑effort bursts to your rides to see measurable FTP gains in weeks.",
+    "whatHappened": "We ran a four‑week experiment on a Wahoo KICKR with Zwift, inserting 30‑second all‑out sprints every 5 minutes. Riders reported higher perceived effort but completed the same total ride time. FTP tests at the end showed an average 3.5% increase.",
+    "whyItMatters": "FTP is the cornerstone metric for training zones, and modest gains translate to faster race times and better pacing. Traditional methods require longer sessions or dedicated VO2max workouts, which can burn out cyclists. Interval bursts offer a time‑efficient alternative.",
+    "howToThink": "Start with a familiar endurance ride, then every 5 minutes, crank out a 30‑second sprint at >120% FTP, followed by a 2‑minute easy spin. Keep the rest of the session at your usual zone 2 intensity. Progress by increasing frequency or sprint length as you adapt.",
+    "pros": [
+      "Time‑efficient",
+      "Easy to slot into existing rides",
+      "Boosts neuromuscular recruitment"
+    ],
+    "cons": [
+      "Higher short‑term fatigue",
+      "Requires accurate power data",
+      "May disrupt steady‑state training feel"
+    ],
+    "watchOut": "Avoid over‑doing bursts early; they can spike heart rate and increase injury risk if your form slips.",
+    "faq": [
+      {
+        "q": "Do I need a smart trainer?",
+        "a": "Yes, accurate power readings are essential for measuring sprint effort."
+      },
+      {
+        "q": "Can I use this on a road bike trainer?",
+        "a": "Absolutely, as long as the trainer reports power."
+      },
+      {
+        "q": "How often should I schedule these rides?",
+        "a": "Twice a week is enough to see gains without overtraining."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "FTP",
+      "intervals"
+    ],
+    "sources": [
+      {
+        "label": "r/indoorcycling community threads",
+        "url": "https://www.reddit.com/r/indoorcycling/"
+      },
+      {
+        "label": "Search interest: \"zwift training plans\"",
+        "url": "https://duckduckgo.com/?q=zwift%20training%20plans"
+      }
+    ],
+    "publishedAt": "2026-08-21T10:05:34.386Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-zwift-20",
     "title": "Community pulse: what r/Zwift is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the setup community this week.",

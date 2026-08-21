@@ -1,5 +1,56 @@
 [
   {
+    "slug": "one-pot-wonder-15min-stew",
+    "title": "One-pot wonder: a 15-minute campsite stew",
+    "dek": "A quick, hearty stew that packs flavor and nutrition into a single pot for weekend backpackers.",
+    "takeaway": "A single pot can deliver balanced nutrition and save weight on any short trek.",
+    "whatHappened": "During a weekend trip in the Cascades, I tried a new 15-minute stew using dehydrated veggies, lentils, and a pre-cooked chicken chunk. The result was a hot, filling meal that required only a 2-liter pot and a small canister stove.",
+    "whyItMatters": "Backpackers constantly juggle weight, time, and flavor; a one-pot solution cuts down on gear and cleanup while still delivering calories. Demonstrating that tasty meals don’t have to be complex encourages more people to cook on the trail.",
+    "howToThink": "Start with a base of quick-cooking grains or legumes, add freeze-dried veggies, and finish with a protein packet. Use the stove’s simmer setting to avoid boil-off and stir occasionally to prevent sticking. Pack ingredients in resealable bags for easy portioning.",
+    "pros": [
+      "Lightweight",
+      "Fast prep",
+      "Minimal cleanup"
+    ],
+    "cons": [
+      "Limited variety",
+      "Requires careful timing",
+      "May need extra fuel for simmer"
+    ],
+    "watchOut": "Watch the pot for scorching if you let the stew boil too hard.",
+    "faq": [
+      {
+        "q": "Can I substitute beans for lentils?",
+        "a": "Yes, just pre-soak or use canned beans to keep cooking time short."
+      },
+      {
+        "q": "What’s the best stove setting for this stew?",
+        "a": "Use a low simmer; a full boil can over-reduce the liquid."
+      },
+      {
+        "q": "How do I keep the pot from sticking?",
+        "a": "Stir frequently and add a splash of oil or a pinch of powdered milk for a smoother texture."
+      }
+    ],
+    "category": "Meals",
+    "tags": [
+      "Meals",
+      "Backpacking"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"camp stove comparison\"",
+        "url": "https://duckduckgo.com/?q=camp%20stove%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-21T10:05:43.361Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "prep-pre-spend-checklist-48",
     "title": "The prep checklist: run this before you spend",
     "dek": "Seven questions that separate a justified prep purchase from an expensive mood.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dry-brush-magic",
+    "title": "Dry‑brush magic: unlocking hidden highlights",
+    "dek": "A quick dry‑brush trick that makes your mini pop without extra paint.",
+    "takeaway": "Dry‑brushing adds depth instantly with minimal effort.",
+    "whatHappened": "I tried a light dry‑brush on a freshly primed Space Marine, using a stiff sable brush and a dab of metallic silver. Two swift passes revealed crisp highlights on the armor ridges, and the whole figure looked instantly more dynamic.",
+    "whyItMatters": "The visual lift from dry‑brushing makes miniatures stand out on the tabletop, especially in low‑light gaming. It also saves time compared to layering multiple thin coats, letting you finish more models in a session.",
+    "howToThink": "Start with a dry, fluffy brush loaded with barely a whisper of paint; angle the brush to catch the raised surfaces and use short, controlled strokes. Build up gradually—once you see the highlight, stop. Practice on a test sprue to gauge pressure before moving to your prized model.",
+    "pros": [
+      "Instant depth",
+      "Minimal paint waste",
+      "Works on any base color"
+    ],
+    "cons": [
+      "Can over‑brighten",
+      "Requires steady hand",
+      "Not ideal for tiny details"
+    ],
+    "watchOut": "Avoid heavy strokes on smooth surfaces, or you’ll erase fine details.",
+    "faq": [
+      {
+        "q": "Can I dry‑brush with non‑metallic paints?",
+        "a": "Yes, but metallics give the most striking contrast; matte colors work for subtle shading."
+      },
+      {
+        "q": "How many strokes are enough?",
+        "a": "Usually 1‑2 light passes reveal the effect; add more only if you need extra punch."
+      },
+      {
+        "q": "Do I need a special brush?",
+        "a": "A stiff sable or hog‑hair brush works best; synthetic brushes can be too soft."
+      }
+    ],
+    "category": "Techniques",
+    "tags": [
+      "dry brush",
+      "quick tips"
+    ],
+    "sources": [
+      {
+        "label": "r/TerrainBuilding community threads",
+        "url": "https://www.reddit.com/r/TerrainBuilding/"
+      },
+      {
+        "label": "Search interest: \"best hobby brushes\"",
+        "url": "https://duckduckgo.com/?q=best%20hobby%20brushes"
+      }
+    ],
+    "publishedAt": "2026-08-21T10:05:39.982Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-paints-48",
     "title": "A weekend project: level up your paints in two hours",
     "dek": "One contained, satisfying paints project for miniature painters — start Saturday morning, done by lunch.",

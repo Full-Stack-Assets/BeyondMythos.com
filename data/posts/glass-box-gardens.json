@@ -1,5 +1,56 @@
 [
   {
+    "slug": "light-cycle-mastery",
+    "title": "Boost growth: mastering light cycles for thriving plants",
+    "dek": "Fine‑tune your photoperiod to keep seedlings happy and mature foliage lush—no extra equipment required.",
+    "takeaway": "A consistent, species‑appropriate light cycle is the simplest lever for healthier, faster‑growing plants.",
+    "whatHappened": "After a month of 24‑hour lighting, the community noticed leggier stems and algae spikes. Switching to a 10‑hour on/14‑hour off schedule revived compact growth and reduced unwanted algae.",
+    "whyItMatters": "Plants rely on a dark period to process hormones; without it, they stretch and waste energy. Proper photoperiod balances photosynthesis with respiration, leading to stronger roots and less maintenance.",
+    "howToThink": "Start with a 10‑hour light window matching your LED intensity, then adjust by 30‑minute increments based on plant response. Keep the off‑time uninterrupted and avoid sudden shifts that stress the tank.",
+    "pros": [
+      "Improved plant compactness",
+      "Reduced algae outbreaks",
+      "Lower energy bill"
+    ],
+    "cons": [
+      "Requires timer setup",
+      "May need species‑specific tweaks",
+      "Initial observation period"
+    ],
+    "watchOut": "Never exceed 14 hours of continuous light; even high‑quality LEDs will cause stretching.",
+    "faq": [
+      {
+        "q": "Can I use a sunrise/sunset simulation?",
+        "a": "Yes—gradual ramp‑up/down mimics natural cues and further reduces shock."
+      },
+      {
+        "q": "What if I have both low‑light and high‑light species?",
+        "a": "Group plants by light needs or use adjustable spotlights for the high‑light section."
+      },
+      {
+        "q": "Do I need to change the cycle for a planted shrimp tank?",
+        "a": "Shrimp thrive on the same cycle; just keep the dark period consistent for their molting rhythm."
+      }
+    ],
+    "category": "Plants",
+    "tags": [
+      "light",
+      "growth"
+    ],
+    "sources": [
+      {
+        "label": "r/Aquascape community threads",
+        "url": "https://www.reddit.com/r/Aquascape/"
+      },
+      {
+        "label": "Search interest: \"aquascape hardscape ideas\"",
+        "url": "https://duckduckgo.com/?q=aquascape%20hardscape%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-21T10:05:30.957Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-livestock-61",
     "title": "Ask the forge: your livestock questions, answered",
     "dek": "Straight answers to the livestock questions planted-tank keepers and aquascapers keep asking, minus the hedging.",

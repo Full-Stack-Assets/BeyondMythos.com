@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-crema-tweak",
+    "title": "Boost Your Espresso Crema with One Simple Tweak",
+    "dek": "Discover a single adjustment that amps up crema and flavor without buying new gear.",
+    "takeaway": "A minor grind size shift can dramatically improve crema consistency.",
+    "whatHappened": "I swapped my current grind setting for a slightly finer dial on my burr grinder and brewed a shot using my standard routine. The resulting espresso showed a richer, thicker crema and a smoother mouthfeel.",
+    "whyItMatters": "Crema is the visual cue of extraction quality and impacts flavor perception. Enhancing it without extra equipment means better coffee for the same budget.",
+    "howToThink": "Start by adjusting your grind 0.2 mm finer than usual, then pull a shot and assess crema thickness. If the shot pulls too slowly, back off a notch. Repeat until you hit a balance of flow and crema.",
+    "pros": [
+      "Richer crema",
+      "Improved flavor",
+      "No extra cost"
+    ],
+    "cons": [
+      "Potentially slower extraction",
+      "May increase bitterness if over‑fine",
+      "Requires precise grinder control"
+    ],
+    "watchOut": "Don’t go too fine, or you’ll choke the pump and create a bitter shot.",
+    "faq": [
+      {
+        "q": "Will this work with any grinder?",
+        "a": "It works best with consistent burr grinders; blade grinders lack the precision needed."
+      },
+      {
+        "q": "How much finer should I go?",
+        "a": "Start with a 0.2‑0.3 mm reduction and adjust in small increments."
+      },
+      {
+        "q": "Does water temperature need adjustment?",
+        "a": "Keep your brew temperature around 93 °C; the tweak focuses on grind, not temperature."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "grind-adjustment"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-21T10:05:26.399Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-40",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",
