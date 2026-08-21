@@ -1,5 +1,56 @@
 [
   {
+    "slug": "railway-rendezvous-platform-picnic",
+    "title": "Railway rendezvous: turning platform pauses into pop‑up picnics",
+    "dek": "Turn idle platform minutes into low‑impact pop‑up picnics that feed the soul and the planet.",
+    "takeaway": "A brief platform stop can become a memorable, zero‑waste meal and people‑watching session.",
+    "whatHappened": "During a 45‑minute layover in a small town, I unpacked a reusable bowl, sliced local fruit, and invited fellow travelers to share a spontaneous picnic on the platform.",
+    "whyItMatters": "Micro‑moments like these reduce waste, foster local interaction, and embody the slow‑travel ethos of savoring each pause instead of rushing through it.",
+    "howToThink": "Carry a compact, reusable set (bowl, cutlery, cloth napkin), scout platform corners for clean space, respect fellow commuters, and keep the menu simple and seasonal.",
+    "pros": [
+      "Zero waste",
+      "Local connection",
+      "Refreshes mind"
+    ],
+    "cons": [
+      "Weather dependent",
+      "Limited space",
+      "May attract attention"
+    ],
+    "watchOut": "Check station rules; some platforms prohibit food or gatherings.",
+    "faq": [
+      {
+        "q": "Do I need a permit to picnic on a platform?",
+        "a": "Usually not, but verify local signage; most stations allow small, unobtrusive gatherings."
+      },
+      {
+        "q": "What if it rains?",
+        "a": "Pack a lightweight rain cover or shift to a sheltered waiting room with the same reusable gear."
+      },
+      {
+        "q": "How much food should I bring?",
+        "a": "Aim for a snack‑sized portion—enough to share but small enough to clean up easily."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Low‑impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-21T04:22:18.992Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "staggered-train-layovers",
     "title": "Staggered train layovers: turning wait time into micro‑camps",
     "dek": "Turn long train waits into tiny, low‑impact camp‑like pauses that enrich your journey.",

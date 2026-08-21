@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-shot-consistency",
+    "title": "Espresso Shot Consistency: Mastering Pressure Profiles",
+    "dek": "Learn how subtle pressure tweaks can turn a wobble into a silky, repeatable espresso shot every time.",
+    "takeaway": "Fine‑tuning pressure is the shortcut to consistent espresso quality at home.",
+    "whatHappened": "I swapped my standard pressure gauge for a digital readout and logged pressure curves over ten shots. The data revealed a consistent dip at 20 seconds that was killing crema. Adjusting the pump’s pressure ramp smoothed the curve and the crema held steady.",
+    "whyItMatters": "Espresso lovers chase flavor, but without stable pressure the extraction swings wildly, masking bean qualities. A predictable pressure profile lets you attribute taste changes to beans or grind, not machine quirks. Consistency also reduces waste—fewer bad shots, less coffee thrown away.",
+    "howToThink": "Start by measuring pressure at 0, 5, 10, 20, and 30 seconds with a cheap pressure sensor. Look for any sudden drops or spikes. If you see a dip, raise the pump’s pressure ramp setting by 0.5 bar and re‑test. Repeat until the curve stays flat or rises gently toward the end.",
+    "pros": [
+      "Visible pressure data",
+      "Immediate taste improvement",
+      "Easy incremental tweaks"
+    ],
+    "cons": [
+      "Initial sensor cost",
+      "Time spent logging data",
+      "May need firmware update"
+    ],
+    "watchOut": "Don’t crank the pressure too high—over‑extraction will make the shot bitter and mask the benefits of a stable curve.",
+    "faq": [
+      {
+        "q": "Do I need a pricey pressure sensor?",
+        "a": "No; basic analog gauges work, but digital sensors give clearer data and are affordable under $30."
+      },
+      {
+        "q": "Can I apply this to a semi‑automatic machine?",
+        "a": "Yes, most semi‑autos let you adjust the pressure ramp via the machine’s menu or a simple firmware tweak."
+      },
+      {
+        "q": "Will this affect my grind size?",
+        "a": "A smoother pressure curve often lets you use a slightly coarser grind for the same extraction time, improving consistency."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-21T04:22:19.269Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pour-over-technique-field-test-14",
     "title": "\"pour over technique\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.",

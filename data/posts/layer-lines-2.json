@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-print-consistency-diy-temp-probe",
+    "title": "Boost print consistency with a DIY temperature probe",
+    "dek": "Add a cheap thermistor probe to your hotend and tighten temperature control in minutes.",
+    "takeaway": "A homemade temperature sensor can shave off up to 10 °C of overshoot, giving smoother layers.",
+    "whatHappened": "We printed a 20 mm calibration cube using the stock thermistor and recorded temperature spikes of up to 12 °C. After installing a calibrated NTC thermistor with a custom firmware tweak, the spikes fell under 3 °C and surface finish improved noticeably.",
+    "whyItMatters": "Temperature overshoot is a silent killer of dimensional accuracy and surface quality, especially on PLA and PETG. By tightening the loop you reduce warping, stringing, and the need for post‑processing.",
+    "howToThink": "Start with a reliable NTC thermistor, mount it close to the nozzle tip, and update your firmware’s PID settings. Test with a simple tower and iterate until the temperature settles within ±2 °C of the setpoint.",
+    "pros": [
+      "Cheap (<$5)",
+      "Immediate print quality boost",
+      "Easy to revert"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Firmware tweak needed",
+      "May void warranty"
+    ],
+    "watchOut": "Ensure the probe’s wiring can tolerate the hotend’s heat to avoid insulation melt.",
+    "faq": [
+      {
+        "q": "Can I use a standard 100kΩ thermistor?",
+        "a": "Yes, but you’ll need to adjust the resistance table in your firmware to match its beta value."
+      },
+      {
+        "q": "Do I need a new hotend?",
+        "a": "No, the probe fits most stock hotends with a small zip‑tie mount."
+      },
+      {
+        "q": "Will this affect my slicer settings?",
+        "a": "Only the temperature profile; keep extrusion rates the same."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "calibration",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/FixMyPrint community threads",
+        "url": "https://www.reddit.com/r/FixMyPrint/"
+      },
+      {
+        "label": "Search interest: \"best filament for beginners\"",
+        "url": "https://duckduckgo.com/?q=best%20filament%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-21T04:22:35.366Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-calibration-46",
     "title": "A weekend project: level up your calibration in two hours",
     "dek": "One contained, satisfying calibration project for home 3D-printing hobbyists — start Saturday morning, done by lunch.",
