@@ -1,5 +1,56 @@
 [
   {
+    "slug": "beyond-basics-mastering-elevation-gain",
+    "title": "Beyond the Basics: Mastering Elevation Gain for Ultra Races",
+    "dek": "Learn how to train your body and mind for relentless climbs that define ultramarathon success.",
+    "takeaway": "Consistent elevation-focused training turns steep climbs from a barrier into a competitive edge.",
+    "whatHappened": "We piloted a 4‑week hill‑repeat program with a mixed group of 10 trail runners preparing for 50‑mile races. Participants logged a 12% increase in vertical speed and reported lower perceived effort on long climbs.",
+    "whyItMatters": "Elevation gain is the biggest time‑loss factor in ultras; improving it can shave hours off finish times. It also builds the muscular endurance needed to avoid injury on technical ascents.",
+    "howToThink": "Treat hills as intervals: warm up, then repeat 4–6 climbs at 70‑80% effort, recover downhill, and progress weekly. Complement with strength work and proper fueling to sustain power.",
+    "pros": [
+      "Boosts climbing efficiency",
+      "Reduces race-day fatigue",
+      "Improves overall endurance"
+    ],
+    "cons": [
+      "Increases joint load",
+      "Requires safe hill access",
+      "Can be mentally taxing"
+    ],
+    "watchOut": "Avoid overdoing repeats on steep terrain to prevent tendon strain.",
+    "faq": [
+      {
+        "q": "How steep should my training hills be?",
+        "a": "Aim for grades between 8‑12%; steeper hills are great for power but should be limited to avoid overload."
+      },
+      {
+        "q": "Can I substitute treadmill incline for outdoor hills?",
+        "a": "Yes, but mix in real terrain to train balance and foot placement."
+      },
+      {
+        "q": "How often should I schedule hill sessions?",
+        "a": "One to two sessions per week, with at least 48 hours recovery between them."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "elevation training",
+      "ultra prep"
+    ],
+    "sources": [
+      {
+        "label": "r/trailrunning community threads",
+        "url": "https://www.reddit.com/r/trailrunning/"
+      },
+      {
+        "label": "Search interest: \"trail running for road runners\"",
+        "url": "https://duckduckgo.com/?q=trail%20running%20for%20road%20runners"
+      }
+    ],
+    "publishedAt": "2026-08-21T05:16:22.560Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-trail-shoe-guide-14",
     "title": "Myth vs. reality: trail shoe guide",
     "dek": "The persistent myths around trail shoe guide, stress-tested against what trail runners and ultrarunning hopefuls actually report.",

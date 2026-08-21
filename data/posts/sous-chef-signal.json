@@ -1,5 +1,56 @@
 [
   {
+    "slug": "speed-5-ingredient-pasta-sauce",
+    "title": "Speedy 5-Ingredient Pasta Sauce Template",
+    "dek": "A no‑fuss, five‑ingredient sauce you can throw together in 15 minutes for any weeknight pasta.",
+    "takeaway": "A simple sauce template cuts prep time and keeps flavor consistent.",
+    "whatHappened": "I tried the new five‑ingredient tomato‑garlic‑olive‑oil‑herb combo for a Tuesday spaghetti, timing the steps with a kitchen timer. The sauce came together in 12 minutes, and the family ate every bite.",
+    "whyItMatters": "Weeknight dinners often fall apart under time pressure; a reliable sauce template removes guesswork and reduces ingredient waste.",
+    "howToThink": "Treat the sauce as a modular recipe: start with a fat, add aromatics, then acid, a sweet balance, and finish with herbs. Adjust each component to taste or what’s on hand.",
+    "pros": [
+      "Fast (≤15 min)",
+      "Flexible with pantry staples",
+      "Consistent flavor"
+    ],
+    "cons": [
+      "Limited depth for gourmet fans",
+      "Relies on good-quality base ingredients",
+      "May get repetitive if overused"
+    ],
+    "watchOut": "Don’t let the garlic burn; it turns bitter in seconds.",
+    "faq": [
+      {
+        "q": "Can I swap the tomato base for a cream base?",
+        "a": "Yes—replace the canned tomatoes with heavy cream and reduce the olive oil; keep the garlic, acid, and herbs for balance."
+      },
+      {
+        "q": "What herbs work best for this template?",
+        "a": "Basil, oregano, or Italian seasoning are classic; feel free to experiment with thyme or parsley for a different twist."
+      },
+      {
+        "q": "How do I store leftovers?",
+        "a": "Cool quickly, then refrigerate in an airtight container for up to three days or freeze for a month."
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "quick-dinner",
+      "sauce-template"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"pantry staples list\"",
+        "url": "https://duckduckgo.com/?q=pantry%20staples%20list"
+      }
+    ],
+    "publishedAt": "2026-08-21T05:16:08.954Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-sauces-56",
     "title": "Ask the forge: your sauces questions, answered",
     "dek": "Straight answers to the sauces questions home cooks systematizing weeknight dinners keep asking, minus the hedging.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Edge detection: boosting motion sensors with local AI</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/edge-detection-local-ai.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/edge-detection-local-ai.html</guid>
+      <pubDate>Fri, 21 Aug 2026 05:16:09 GMT</pubDate>
+      <description>Run a tiny TensorFlow Lite model on your hub to filter false alarms and cut battery drain.</description>
+    </item>
+    <item>
       <title>Ask the forge: your lighting questions, answered</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-57.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-57.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeautomation-19.html</guid>
       <pubDate>Wed, 19 Aug 2026 21:59:10 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the lighting community this week.</description>
-    </item>
-    <item>
-      <title>The local control checklist: run this before you spend</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/local-control-pre-spend-checklist-52.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/local-control-pre-spend-checklist-52.html</guid>
-      <pubDate>Wed, 19 Aug 2026 21:01:08 GMT</pubDate>
-      <description>Seven questions that separate a justified local control purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

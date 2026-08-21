@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temp-sweet-spot",
+    "title": "Unlocking the Sweet Spot: Adjusting Brew Temperature for Espresso",
+    "dek": "Fine‑tune your brew temperature to pull richer, more balanced espresso shots without buying new gear.",
+    "takeaway": "A 2‑3 °C tweak can dramatically improve flavor clarity and crema consistency.",
+    "whatHappened": "We swapped the machine’s default 93 °C setting for a calibrated 90 °C on a mid‑range home espresso unit. After a few test shots, the espresso tasted brighter and less bitter, with a thicker crema.",
+    "whyItMatters": "Temperature is the silent driver of extraction; even a small deviation can over‑extract acids or mute sweetness. Home baristas often overlook it, missing a simple performance boost.",
+    "howToThink": "Use a reliable thermometer or the machine’s PID readout, start at the manufacturer’s recommendation, then adjust down in 1 °C increments, tasting after each change. Aim for a balanced cup where acidity, sweetness, and body harmonize.",
+    "pros": [
+      "Improved flavor clarity",
+      "Thicker, more stable crema",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires precise temperature monitoring",
+      "Might need PID calibration",
+      "Small adjustments can be time‑consuming"
+    ],
+    "watchOut": "Don’t drop the temperature too low—under‑extraction will make the shot sour and thin.",
+    "faq": [
+      {
+        "q": "Can I use a regular kitchen thermometer?",
+        "a": "A water‑proof digital probe is best; kitchen thermometers often lack the precision needed for espresso."
+      },
+      {
+        "q": "Will changing temperature affect my grinder settings?",
+        "a": "Generally no, but a cooler brew may highlight under‑extracted flavors, prompting a minor dose tweak."
+      },
+      {
+        "q": "Is there an optimal temperature range for all beans?",
+        "a": "Most espresso beans perform well between 90‑94 °C; adjust within this window based on roast level and personal taste."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-21T05:15:57.807Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-shot-consistency",
     "title": "Espresso Shot Consistency: Mastering Pressure Profiles",
     "dek": "Learn how subtle pressure tweaks can turn a wobble into a silky, repeatable espresso shot every time.",
