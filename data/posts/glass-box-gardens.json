@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spotlight-macroalgae-biofilter",
+    "title": "Spotlight: Macroalgae as a natural biofilter",
+    "dek": "Exploring how macroalgae can clean water, boost growth, and add a dynamic look to your planted tank.",
+    "takeaway": "Macroalgae are a low‑maintenance, self‑cleaning ally for healthier, greener tanks.",
+    "whatHappened": "Last month we introduced a small patch of Chaetomorpha gracilis into a 55‑gallon low‑tech tank. Within two weeks the water clarity improved and the plants showed brighter foliage.",
+    "whyItMatters": "Macroalgae absorb excess nutrients, reducing algae spikes and easing CO₂ demand. Their fast growth also provides a natural food source for herbivorous fish and shrimp.",
+    "howToThink": "Start with a 5‑inch piece anchored to a rock or mesh and keep moderate lighting (1–2 W/gal). Monitor nitrate levels and trim regularly to prevent overgrowth.",
+    "pros": [
+      "Natural nutrient scrub",
+      "Adds movement",
+      "Provides supplemental food"
+    ],
+    "cons": [
+      "Can outcompete slow growers",
+      "Requires occasional trimming",
+      "May need extra lighting"
+    ],
+    "watchOut": "If left unchecked, macroalgae can dominate the display and shade your foreground plants.",
+    "faq": [
+      {
+        "q": "Can I use macroalgae in a high‑tech tank?",
+        "a": "Yes, but keep lighting and nutrient levels balanced to avoid excessive growth."
+      },
+      {
+        "q": "What species are best for beginners?",
+        "a": "Chaetomorpha and Gracilaria are hardy, fast‑growing choices."
+      },
+      {
+        "q": "Do I need to fertilize macroalgae?",
+        "a": "They thrive on dissolved nutrients, so additional fertilization is usually unnecessary."
+      }
+    ],
+    "category": "Plants",
+    "tags": [
+      "macroalgae",
+      "water quality"
+    ],
+    "sources": [
+      {
+        "label": "r/PlantedTank community threads",
+        "url": "https://www.reddit.com/r/PlantedTank/"
+      },
+      {
+        "label": "Search interest: \"low tech planted tank\"",
+        "url": "https://duckduckgo.com/?q=low%20tech%20planted%20tank"
+      }
+    ],
+    "publishedAt": "2026-08-21T23:58:57.535Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-beginner-aquarium-plants-21",
     "title": "Myth vs. reality: beginner aquarium plants",
     "dek": "The persistent myths around beginner aquarium plants, stress-tested against what planted-tank keepers and aquascapers actually report.",

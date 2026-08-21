@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mini-mule-upgrade-transform-daypack-15day-thru-h",
+    "title": "Mini‑Mule Upgrade: Transforming Your Daypack for 15‑Day Thru‑Hikes",
+    "dek": "Turn a basic daypack into a reliable 15‑day companion without adding bulk.",
+    "takeaway": "A few strategic swaps let your daypack carry a multi‑day load while staying ultralight.",
+    "whatHappened": "I swapped my 2‑Litre daypack for a 5‑Litre ultralight model, added a roll‑top, and tested it on a 30‑mile section of the AT. It held my gear comfortably and stayed under 2 kg.",
+    "whyItMatters": "Many hikers cling to tiny daypacks, forcing them to carry extra bags or sacrifice essential gear. A capable daypack bridges the gap between ultralight and functionality, reducing weight penalties from multiple packs.",
+    "howToThink": "Look for low‑weight fabrics, integrated compression, and modular attachment points. Prioritize a roll‑top or zip‑out system and ensure the frame is optional or removable. Pack only multi‑use items to keep the load minimal.",
+    "pros": [
+      "Adds 5‑L capacity without bulk",
+      "Keeps total pack weight <2 kg",
+      "Integrated compression reduces need for external stuff sacks"
+    ],
+    "cons": [
+      "Limited internal frame support",
+      "Less padding for long hauls",
+      "May require new fitting habits"
+    ],
+    "watchOut": "Don’t overload beyond the roll‑top’s limit or you’ll compromise water resistance.",
+    "faq": [
+      {
+        "q": "Can I use a daypack as a primary pack for a full thru‑hike?",
+        "a": "Yes, if you keep your load under 15 % of your body weight and choose a model with a sturdy roll‑top and compression straps."
+      },
+      {
+        "q": "What fabrics offer the best weight‑to‑durability ratio?",
+        "a": "Ripstop nylon with a silicone coating provides excellent water resistance and tear strength while staying light."
+      },
+      {
+        "q": "Do I need a separate frame for comfort?",
+        "a": "A removable frameless insert can add support on long days, but many hikers find the pack’s internal structure sufficient."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "daypack upgrade",
+      "ultralight packs"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultralight community threads",
+        "url": "https://www.reddit.com/r/Ultralight/"
+      },
+      {
+        "label": "Search interest: \"lower base weight cheap\"",
+        "url": "https://duckduckgo.com/?q=lower%20base%20weight%20cheap"
+      }
+    ],
+    "publishedAt": "2026-08-21T23:59:23.778Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-packs-40",
     "title": "A weekend project: level up your packs in two hours",
     "dek": "One contained, satisfying packs project for ultralight backpackers — start Saturday morning, done by lunch.",

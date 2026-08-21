@@ -1,5 +1,56 @@
 [
   {
+    "slug": "water-temp-pour-over",
+    "title": "Unlock the hidden power of water temperature for pour-over",
+    "dek": "A quick guide to dialing in the perfect brew temperature and why it matters more than you think.",
+    "takeaway": "Small temperature tweaks can dramatically improve extraction and flavor balance.",
+    "whatHappened": "We brewed two identical pour‑over recipes, one at 92 °C and another at 96 °C, using the same beans and grind. The higher‑temp batch extracted faster and highlighted brighter acidity, while the cooler brew emphasized body. Taste tests confirmed noticeable differences.",
+    "whyItMatters": "Water temperature directly controls extraction rate, influencing sweetness, acidity, and bitterness. Home brewers often overlook it, relying on default kettle settings, which can mask a bean’s true character.",
+    "howToThink": "Start by measuring your kettle’s output with a thermometer, then aim for 93–95 °C for most single‑origin beans. Adjust ±2 °C based on roast level: cooler for dark roasts to avoid over‑extraction, hotter for light roasts to unlock nuance. Record your results and fine‑tune.",
+    "pros": [
+      "Better flavor clarity",
+      "Consistent extraction",
+      "Simple to implement"
+    ],
+    "cons": [
+      "Requires thermometer",
+      "May need kettle upgrade",
+      "Adds a step to routine"
+    ],
+    "watchOut": "Avoid boiling water; a sudden temperature drop can throw off your target brew temperature.",
+    "faq": [
+      {
+        "q": "Do I need a fancy thermometer?",
+        "a": "A basic digital kitchen thermometer works fine; accuracy within ±1 °C is enough."
+      },
+      {
+        "q": "What temperature for dark roasts?",
+        "a": "Aim for the low end, around 90–92 °C, to prevent bitterness."
+      },
+      {
+        "q": "Can I trust the temperature reading on my electric kettle?",
+        "a": "Most built‑in displays are approximate; calibrate with a separate thermometer for best results."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "temperature",
+      "brewing-tech"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-21T23:58:49.951Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-46",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

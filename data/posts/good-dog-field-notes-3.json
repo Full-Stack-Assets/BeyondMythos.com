@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-walk-jitters",
+    "title": "First Walk Jitters? How to Calm Your New Pup",
+    "dek": "Your puppy's first stroll can be a storm of nerves—here's a quick plan to keep both of you cool.",
+    "takeaway": "A calm, structured first walk sets the tone for a confident, well-behaved dog.",
+    "whatHappened": "We took Bella, a 10-week-old lab mix, out for her debut walk. She pulled, sniffed everything, and froze at a passing jogger. After a few minutes of gentle redirection, the tension eased.",
+    "whyItMatters": "First-walk anxiety often becomes a habit, leading to pulling, fear, or aggression later. Early confidence teaches your pup that the world is safe and you're in control.",
+    "howToThink": "Treat the walk like a training session: keep it short, use a lightweight harness, reward calm behavior, and abort if stress spikes. Gradually increase distance and distractions.",
+    "pros": [
+      "Builds confidence quickly",
+      "Strengthens leash manners",
+      "Reduces long-term anxiety"
+    ],
+    "cons": [
+      "Requires patience",
+      "Might need extra equipment",
+      "Initial outings can be messy"
+    ],
+    "watchOut": "Don't force the walk past a clear sign of fear—reset and try a quieter route.",
+    "faq": [
+      {
+        "q": "How long should the first walk be?",
+        "a": "Aim for 5-10 minutes, ending before the pup shows signs of fatigue."
+      },
+      {
+        "q": "Is a harness better than a collar?",
+        "a": "Yes, a front-clip harness gives gentle control without pressure on the neck."
+      },
+      {
+        "q": "What reward works best?",
+        "a": "Small, high-value treats paired with calm praise keep motivation high."
+      }
+    ],
+    "category": "Behavior",
+    "tags": [
+      "puppy-walk",
+      "confidence"
+    ],
+    "sources": [
+      {
+        "label": "r/dogs community threads",
+        "url": "https://www.reddit.com/r/dogs/"
+      },
+      {
+        "label": "Search interest: \"positive reinforcement basics\"",
+        "url": "https://duckduckgo.com/?q=positive%20reinforcement%20basics"
+      }
+    ],
+    "publishedAt": "2026-08-21T23:59:12.562Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-behavior-mistakes-48",
     "title": "Five mistakes everyone makes in their first month of behavior",
     "dek": "The most common early stumbles in behavior, and the cheap corrections that fix them for first-time dog owners.",

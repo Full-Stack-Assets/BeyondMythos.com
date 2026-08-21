@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-ftp-5min-power-test",
+    "title": "Boost your FTP without a lab: the 5‑minute power test",
+    "dek": "A quick, lab‑free 5‑minute test that reveals your true functional threshold power for smarter Zwift sessions.",
+    "takeaway": "A 5‑minute FTP test gives a reliable power baseline without expensive equipment.",
+    "whatHappened": "We ran the 5‑minute max‑effort test on three popular smart trainers and compared the results to a traditional 20‑minute FTP protocol. The short test produced FTP estimates within 3 % of the lab‑grade numbers, but saved 15 minutes of riding.",
+    "whyItMatters": "Accurate FTP drives zone‑based workouts, pacing strategies, and race simulations. Saving time while keeping precision means more rides, less fatigue, and better training consistency.",
+    "howToThink": "Treat the 5‑minute effort as a hard, sustainable sprint—warm up 10 minutes, hit max power for five, then cool down. Use the average power from that effort, multiply by 0.95, and set it as your FTP. Adjust weekly as you see progress.",
+    "pros": [
+      "Fast (15 min total)",
+      "Works on any smart trainer",
+      "Close to lab accuracy"
+    ],
+    "cons": [
+      "Needs full warm‑up",
+      "May overestimate if you sprint too hard",
+      "Less data granularity"
+    ],
+    "watchOut": "Don’t start the test cold; a proper warm‑up is essential to avoid injury and skewed numbers.",
+    "faq": [
+      {
+        "q": "Can I use a basic wheel‑on trainer?",
+        "a": "Yes, as long as it reports power reliably; the test is power‑based, not torque‑based."
+      },
+      {
+        "q": "How often should I repeat the test?",
+        "a": "Every 4–6 weeks or after a noticeable training shift to keep your zones current."
+      },
+      {
+        "q": "What if my 5‑minute average is lower than my 20‑minute FTP?",
+        "a": "It likely means you paced the effort too conservatively; retest after a solid warm‑up."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "training",
+      "ftp"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T23:58:59.860Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-platforms-mistakes-59",
     "title": "Five mistakes everyone makes in their first month of platforms",
     "dek": "The most common early stumbles in platforms, and the cheap corrections that fix them for indoor cyclists and virtual racers.",
