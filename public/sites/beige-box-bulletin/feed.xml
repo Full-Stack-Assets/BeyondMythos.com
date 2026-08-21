@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/beige-box-bulletin/</link>
     <description>Fresh takes for retro computer restorers and emulation fans.</description>
     <item>
+      <title>Bootstrapping a 1990s PC: From dead to demo in a day</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/bootstrapping-1990s-pc.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/bootstrapping-1990s-pc.html</guid>
+      <pubDate>Fri, 21 Aug 2026 07:28:06 GMT</pubDate>
+      <description>Revive a dead early‑90s desktop with a simple power‑check, capacitor swap, and a fresh floppy – all in under 8 hours.</description>
+    </item>
+    <item>
       <title>Ask the forge: your software questions, answered</title>
       <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/ask-the-forge-software-58.html</link>
       <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/ask-the-forge-software-58.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/community-pulse-emulation-18.html</guid>
       <pubDate>Wed, 19 Aug 2026 23:57:28 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the software community this week.</description>
-    </item>
-    <item>
-      <title>The upgrades checklist: run this before you spend</title>
-      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/upgrades-pre-spend-checklist-53.html</link>
-      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/upgrades-pre-spend-checklist-53.html</guid>
-      <pubDate>Wed, 19 Aug 2026 22:59:36 GMT</pubDate>
-      <description>Seven questions that separate a justified upgrades purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

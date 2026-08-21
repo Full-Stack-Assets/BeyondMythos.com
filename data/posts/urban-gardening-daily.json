@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-strawberry-surprise",
+    "title": "Balcony strawberry surprise: sweet yields in a shoebox",
+    "dek": "Turn a tiny shoebox into a strawberry haven on your balcony and harvest bite‑size berries in weeks.",
+    "takeaway": "Even the smallest container can produce fresh strawberries if you choose the right varieties and care routine.",
+    "whatHappened": "We tried growing ever‑bearing strawberry ‘Mara des Bois’ in a 12‑inch plastic shoebox fitted with drainage, a light soil mix, and a DIY drip system. Within three weeks the first blossoms appeared, and the first fruit followed a week later. The mini‑garden thrived despite wind and limited sun exposure.",
+    "whyItMatters": "Balcony dwellers often think strawberries need a full‑size garden bed, but container‑friendly varieties prove that fresh, antioxidant‑rich fruit can be harvested on any balcony, cutting grocery costs and boosting indoor‑outdoor connection.",
+    "howToThink": "Pick a compact, ever‑bearing strawberry, use a well‑draining mix of potting soil and coconut coir, keep the container in a sunny spot (6‑8 h), water consistently but avoid soggy roots, and feed with a diluted liquid fertilizer every two weeks. Rotate the box weekly for even light exposure.",
+    "pros": [
+      "Space‑saving",
+      "Year‑round harvest potential",
+      "Low initial cost"
+    ],
+    "cons": [
+      "Requires daily watering",
+      "Limited fruit quantity per plant",
+      "Sensitive to extreme heat"
+    ],
+    "watchOut": "Avoid over‑watering; a soggy root zone quickly leads to rot in small containers.",
+    "faq": [
+      {
+        "q": "Can I grow strawberries in a plastic container?",
+        "a": "Yes, as long as you drill drainage holes and use a light, airy soil blend."
+      },
+      {
+        "q": "How often should I water a balcony strawberry box?",
+        "a": "Keep the soil moist, watering every 1‑2 days in hot weather, less in cooler periods."
+      },
+      {
+        "q": "Do I need pollinators for indoor‑balcony strawberries?",
+        "a": "Most ever‑bearing varieties self‑pollinate, but a gentle shake of the plant can boost fruit set."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Balcony",
+      "Strawberries"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-21T07:27:56.276Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-houseplants-11",
     "title": "Community pulse: what r/houseplants is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",

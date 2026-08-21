@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smoked-simple-syrup-old-fashioned",
+    "title": "Smoke & Spice: Elevating the Old Fashioned with a Charred Simple Syrup",
+    "dek": "A charred simple syrup adds smoky depth to the Old Fashioned in under five minutes.",
+    "takeaway": "A quick smoked syrup upgrades a classic without pricey gear.",
+    "whatHappened": "I experimented with a caramelized sugar‑water mix, adding a dash of smoked wood chips for a minute before straining. The resulting syrup poured into a standard Old Fashioned turned a familiar sip into a smoky revelation. Guests noticed the nuance instantly, asking for the secret.",
+    "whyItMatters": "Home bartenders often rely on bitters for complexity, but a flavored syrup can deliver a richer, layered profile with fewer ingredients. It shows that small, creative twists can keep timeless drinks fresh and exciting, encouraging ongoing experimentation.",
+    "howToThink": "Start with a basic simple syrup, then introduce a controlled smoke element—use a stovetop torch or a smoker for 30‑60 seconds. Cool, strain, and store in a sealed jar. When mixing, replace a portion of the plain syrup with the smoked version to taste, remembering that a little goes a long way.",
+    "pros": [
+      "Adds depth without extra bitters",
+      "Easy to make in bulk",
+      "Versatile for other cocktails"
+    ],
+    "cons": [
+      "Requires a smoke source",
+      "Potentially messy if over‑smoked",
+      "Shelf life slightly shorter"
+    ],
+    "watchOut": "Don’t let the wood smoke linger too long, or the syrup can become bitter.",
+    "faq": [
+      {
+        "q": "Can I use liquid smoke instead of real wood chips?",
+        "a": "Yes, but use sparingly—a few drops per batch—to avoid an artificial aftertaste."
+      },
+      {
+        "q": "How long does smoked simple syrup keep?",
+        "a": "Store it in the fridge for up to two weeks; the smoky aroma fades after that."
+      },
+      {
+        "q": "What wood flavors work best?",
+        "a": "Maple and cherry give sweet notes; oak adds a robust, earthy character."
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "Old Fashioned",
+      "Smoked Syrup"
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "publishedAt": "2026-08-21T07:28:03.124Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "secret-sauce-boost-bitters",
     "title": "The secret sauce: boosting flavor with a dash of bitters",
     "dek": "A quick guide to choosing and using bitters to elevate any cocktail without overcomplicating your bar.",

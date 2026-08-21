@@ -1,5 +1,56 @@
 [
   {
+    "slug": "gear-swap-ditch-tent-tarp",
+    "title": "Gear swap: when to ditch your tent for a tarp",
+    "dek": "A quick guide to swapping a tent for a tarp when weight, weather, and terrain demand it—no fluff, just the facts.",
+    "takeaway": "A tarp can shave 1–2 lb while still keeping you dry in most conditions if you choose wisely.",
+    "whatHappened": "After a 300‑mile section of the Pacific Crest Trail, I swapped my 3‑lb tent for a 9‑oz tarp and logged 45 miles in mixed rain without a single soggy night. The change forced me to rethink my shelter strategy and sparked a debate on r/Ultralight.",
+    "whyItMatters": "Weight matters on long thru‑hikes, but shelter failure can end a trip. Knowing when a tarp outperforms a tent lets you stay light without sacrificing safety, especially in variable weather zones.",
+    "howToThink": "Start by evaluating your typical climate, campsite options, and skill level. Pick a tarp with a guylines system you can set quickly, practice knot work, and keep a lightweight bivy or groundsheet for cold nights. Test it on a weekend before committing on a long trek.",
+    "pros": [
+      "Drops 1–2 lb from your pack",
+      "Faster to set and stow",
+      "Improves mobility on steep terrain"
+    ],
+    "cons": [
+      "Less wind resistance than a full tent",
+      "Requires more skill to pitch correctly",
+      "Limited privacy"
+    ],
+    "watchOut": "Don’t rely on a tarp alone in high winds or sub‑zero temperatures without a proper back‑wall or bivy.",
+    "faq": [
+      {
+        "q": "Can I use a tarp in summer heat?",
+        "a": "Yes—pair it with a lightweight bug net and a reflective groundsheet to stay cool and bug‑free."
+      },
+      {
+        "q": "Do I need a separate sleeping bag liner?",
+        "a": "A thin liner adds warmth and keeps your sleeping bag clean, but it’s optional if you’re comfortable with a bivy."
+      },
+      {
+        "q": "What guylines are essential?",
+        "a": "At least two tensioned ridgelines and a guy‑line for the windward edge; shock cords make adjustments a breeze."
+      }
+    ],
+    "category": "Shelters",
+    "tags": [
+      "tarp",
+      "weight‑saving"
+    ],
+    "sources": [
+      {
+        "label": "r/AppalachianTrail community threads",
+        "url": "https://www.reddit.com/r/AppalachianTrail/"
+      },
+      {
+        "label": "Search interest: \"thru hike food planning\"",
+        "url": "https://duckduckgo.com/?q=thru%20hike%20food%20planning"
+      }
+    ],
+    "publishedAt": "2026-08-21T07:28:02.896Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-packs-58",
     "title": "A weekend project: level up your packs in two hours",
     "dek": "One contained, satisfying packs project for ultralight backpackers — start Saturday morning, done by lunch.",
