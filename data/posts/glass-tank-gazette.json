@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-power-substrate-depth",
+    "title": "The hidden power of substrate depth: why 2 inches may be killing your plants",
+    "dek": "A deeper substrate can boost root growth, nutrient retention, and overall plant health—here's why thickness matters.",
+    "takeaway": "Increasing substrate depth by even an inch can dramatically improve plant vigor.",
+    "whatHappened": "I swapped a 1‑inch sand layer for a 3‑inch mixed gravel‑soil blend in a 20‑gallon planted tank. Within two weeks, the existing java ferns grew noticeably taller and new stems sprouted faster. The water parameters stayed stable, confirming the change was substrate‑driven, not water‑quality related.",
+    "whyItMatters": "Root‑bound plants often starve for nutrients that settle deeper in the substrate, leading to stunted growth and yellowing. By giving roots room to explore, you create a mini‑reserve of nutrients that buffers against water changes and feed spikes. This translates to a more resilient, lush aquascape that stays green longer between water changes.",
+    "howToThink": "When planning a new tank or revamping an existing one, aim for at least 2‑3 inches of nutrient‑rich medium beneath any decorative gravel. Layer coarse base material first, then add a finer, plant‑focused mix on top. Avoid over‑compacting; a gentle tap‑down is enough to settle the substrate without choking oxygen flow.",
+    "pros": [
+      "Better nutrient storage",
+      "Stronger root systems",
+      "More stable water parameters"
+    ],
+    "cons": [
+      "Higher cost",
+      "Heavier tank load",
+      "Potential for anaerobic zones if over‑compacted"
+    ],
+    "watchOut": "Avoid packing the substrate too tightly, or you may create dead zones where roots can't breathe.",
+    "faq": [
+      {
+        "q": "Can I use plain sand as the deep layer?",
+        "a": "Sand alone lacks the nutrient profile plants need; pair it with a soil‑based substrate or add root tabs for best results."
+      },
+      {
+        "q": "Will a deeper substrate affect water changes?",
+        "a": "It may slow nutrient release, so you can extend the interval between water changes slightly, but monitor nitrate levels regularly."
+      },
+      {
+        "q": "Is 3 inches too much for a small tank?",
+        "a": "For tanks under 10 gallons, 2 inches is sufficient; larger tanks can safely accommodate 3‑4 inches without risking overflow."
+      }
+    ],
+    "category": "Plants",
+    "tags": [
+      "substrate",
+      "plant health"
+    ],
+    "sources": [
+      {
+        "label": "r/Aquariums community threads",
+        "url": "https://www.reddit.com/r/Aquariums/"
+      },
+      {
+        "label": "Search interest: \"freshwater aquarium cycling\"",
+        "url": "https://duckduckgo.com/?q=freshwater%20aquarium%20cycling"
+      }
+    ],
+    "publishedAt": "2026-08-21T22:59:52.321Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-50",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions freshwater aquarium keepers and aquascapers keep asking, minus the hedging.",

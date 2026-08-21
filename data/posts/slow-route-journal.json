@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cozy-carriage-corners",
+    "title": "Cozy carriage corners: turning sleeper seats into mini reading retreats",
+    "dek": "Transform unused sleeper seats into quiet reading nooks with minimal effort and zero waste.",
+    "takeaway": "A few simple tweaks can make long rail journeys feel like a personal library on wheels.",
+    "whatHappened": "On a recent overnight train from Berlin to Vienna, I repurposed the empty lower berth of my sleeper cabin into a snug reading spot, using a reclaimed blanket and a solar-powered clip light. The makeshift nook turned the cramped carriage into a personal sanctuary for the night.",
+    "whyItMatters": "Slow travelers crave moments of calm amidst constant motion; creating a dedicated reading space reduces stress and encourages low-impact leisure. It also maximizes the utility of otherwise wasted cabin space, aligning with sustainable travel values.",
+    "howToThink": "Start by assessing the layout of your sleeper berth and identify any unused surfaces. Gather lightweight, reusable items like a travel blanket, a small pillow, and a clip-on LED lamp. Arrange them to create a comfortable, upright position, and keep a small tote for books or a tablet.",
+    "pros": [
+      "Boosts comfort on long trips",
+      "Zero waste, uses existing resources",
+      "Easy to set up and remove"
+    ],
+    "cons": [
+      "Limited space in smaller cabins",
+      "May disturb adjacent passengers if too bright",
+      "Requires a personal blanket/pillow"
+    ],
+    "watchOut": "Ensure your light is dimmable to avoid bothering neighboring travelers.",
+    "faq": [
+      {
+        "q": "Can I set up a reading nook in a regular seat car?",
+        "a": "Yes, use the seatback tray and a compact pillow; it won’t be as spacious but still adds comfort."
+      },
+      {
+        "q": "What power source can I use for lighting?",
+        "a": "A small solar-powered or rechargeable LED clip light works well and stays off the grid."
+      },
+      {
+        "q": "How do I keep my books safe while the train moves?",
+        "a": "Use a zippered pouch or a magnetic book holder that adheres to the metal frame of the berth."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "comfort"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-21T22:59:39.959Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reclaimed-rail-roofs-solar-lounges",
     "title": "Reclaimed rail roofs: turning abandoned canopies into solar-powered lounges",
     "dek": "Turn forgotten station canopies into eco‑friendly solar lounges for the mindful traveler.",

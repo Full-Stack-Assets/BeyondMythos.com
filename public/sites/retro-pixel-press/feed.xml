@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Boosting Game Boy Advance: 3‑V to 5‑V Mod for Consistent Frame Delivery</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boost-gba-3v-to-5v-mod.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boost-gba-3v-to-5v-mod.html</guid>
+      <pubDate>Fri, 21 Aug 2026 22:59:37 GMT</pubDate>
+      <description>A simple voltage tweak revives sluggish GBA runs, delivering steady frames for marathon speedruns.</description>
+    </item>
+    <item>
       <title>Unlocking the SNES: Low‑Lag HDMI Mod for Ultra‑Fast Frame Delivery</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-low-lag-hdmi-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-low-lag-hdmi-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-rgb-mod-game-boy.html</guid>
       <pubDate>Thu, 20 Aug 2026 17:05:41 GMT</pubDate>
       <description>Turn your original Game Boy’s monochrome screen into a vivid RGB display with a cheap, solder‑free kit.</description>
-    </item>
-    <item>
-      <title>Retro CRT controller mod: slicing latency for perfect frames</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-crt-controller-mod.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-crt-controller-mod.html</guid>
-      <pubDate>Thu, 20 Aug 2026 16:04:12 GMT</pubDate>
-      <description>Turn your classic CRT TV into a low‑lag arena with a simple controller mod that trims input delay by up to 15 ms.</description>
     </item>
   </channel>
 </rss>

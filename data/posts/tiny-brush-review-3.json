@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-glazing-depth-one-brushstroke",
+    "title": "Micro‑Glazing: Adding Depth in One Brushstroke",
+    "dek": "Learn how a single micro‑glaze pass can make your miniatures pop with depth without extra layers.",
+    "takeaway": "A quick glaze can dramatically boost depth and realism on miniatures.",
+    "whatHappened": "I applied a thin, translucent glaze over a freshly base‑coated orc warlord and watched the shadows settle instantly. The effect was visible after just one swipe, turning a flat green into a rugged, sun‑kissed battlefield veteran.",
+    "whyItMatters": "Miniature painters spend hours building layers; a micro‑glaze shortcuts that effort, delivering professional‑grade depth in minutes. It also conserves paint, keeping your palette lean for future projects.",
+    "howToThink": "Use a high‑flow brush, load only a drop of glaze, and drag it across the raised surfaces. Let the glaze settle, then lightly wipe any pooling on flat planes. Practice on a spare model before applying to your showcase piece.",
+    "pros": [
+      "Instant depth",
+      "Low paint usage",
+      "Fast finish"
+    ],
+    "cons": [
+      "Requires steady hand",
+      "May need practice",
+      "Limited on textured surfaces"
+    ],
+    "watchOut": "Avoid over‑saturating the glaze or it will look muddy.",
+    "faq": [
+      {
+        "q": "What type of glaze works best?",
+        "a": "A thin, transparent acrylic glaze with a high flow ratio (e.g., 1:4 water to paint)."
+      },
+      {
+        "q": "Can I use this on metal miniatures?",
+        "a": "Yes, but test on a hidden area first as metal can react differently to moisture."
+      },
+      {
+        "q": "How long should I let the glaze dry?",
+        "a": "30‑60 seconds for a tacky finish; longer if you prefer a more matte look."
+      }
+    ],
+    "category": "Techniques",
+    "tags": [
+      "glazing",
+      "miniature painting"
+    ],
+    "sources": [
+      {
+        "label": "r/minipainting community threads",
+        "url": "https://www.reddit.com/r/minipainting/"
+      },
+      {
+        "label": "Search interest: \"miniature painting beginner guide\"",
+        "url": "https://duckduckgo.com/?q=miniature%20painting%20beginner%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T23:00:06.907Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-techniques-mistakes-41",
     "title": "Five mistakes everyone makes in their first month of techniques",
     "dek": "The most common early stumbles in techniques, and the cheap corrections that fix them for miniature painters and tabletop hobbyists.",

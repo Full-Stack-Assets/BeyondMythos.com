@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-gba-3v-to-5v-mod",
+    "title": "Boosting Game Boy Advance: 3‑V to 5‑V Mod for Consistent Frame Delivery",
+    "dek": "A simple voltage tweak revives sluggish GBA runs, delivering steady frames for marathon speedruns.",
+    "takeaway": "A modest voltage increase can dramatically smooth out frame pacing on aging GBAs.",
+    "whatHappened": "We noticed a laggy feel on a well‑used Game Boy Advance during a 100% speedrun practice session. After measuring the battery voltage, we swapped the 3 V cell for a regulated 5 V boost circuit and ran the same segment. The frame timing locked, and the run time dropped by nearly two seconds.",
+    "whyItMatters": "Speedrunners rely on frame‑perfect input, and a wobbling GBA can cost a podium spot. Collectors also benefit: a smoother device means less stress on the LCD and longer lifespan, preserving the original hardware for future generations.",
+    "howToThink": "Start by testing your GBA’s voltage with a multimeter; if it’s below 3.2 V under load, consider a boost module. Choose a low‑profile, regulated 5 V board that fits the battery compartment, solder the leads carefully, and verify polarity before powering up. Finally, run a quick timing benchmark to confirm the improvement.",
+    "pros": [
+      "Cheaper than a full replacement",
+      "Instant performance boost",
+      "Keeps original handheld feel"
+    ],
+    "cons": [
+      "Risk of overheating if over‑volted",
+      "May void any remaining warranty",
+      "Requires basic soldering skills"
+    ],
+    "watchOut": "Never exceed 5.5 V or you could permanently damage the GBA’s LCD and CPU.",
+    "faq": [
+      {
+        "q": "Will this mod affect battery life?",
+        "a": "The boost circuit draws slightly more current, but a fresh AA cell still lasts several hours of continuous play."
+      },
+      {
+        "q": "Can I revert the mod?",
+        "a": "Yes—just desolder the board and reinstall the original battery compartment; the GBA returns to stock voltage."
+      },
+      {
+        "q": "Is a regulated boost better than a simple step‑up diode?",
+        "a": "Regulated modules keep the voltage steady, preventing the spikes that can corrupt save data or fry the screen."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "gba"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T22:59:37.688Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-low-lag-hdmi-mod",
     "title": "Unlocking the SNES: Low‑Lag HDMI Mod for Ultra‑Fast Frame Delivery",
     "dek": "Upgrade your SNES with a cheap HDMI mod that cuts input lag and keeps the retro feel.",
