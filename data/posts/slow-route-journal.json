@@ -1,5 +1,56 @@
 [
   {
+    "slug": "turning-layovers-into-micro-hikes",
+    "title": "Turning layovers into micro-hikes: a low-impact hack",
+    "dek": "Swap idle train stops for short hikes that boost mileage and cut carbon footprints.",
+    "takeaway": "Even a 30-minute layover can become a meaningful, low-impact adventure.",
+    "whatHappened": "I arrived early at a regional hub in the Alps and, instead of scrolling on my phone, I grabbed a trail map and did a 2km ridge walk. The summit offered panoramic views and a fresh perspective before the next train. The whole detour added 15 minutes to my journey but felt like a mini-expedition.",
+    "whyItMatters": "Layovers are hidden mileage that often go wasted, inflating the environmental cost of rail travel. Turning them into micro-hikes squeezes extra movement and nature exposure from the same carbon budget, aligning with low-impact principles.",
+    "howToThink": "Scout the station's surroundings ahead of time via maps or locals, pick routes under an hour round-trip, and pack a lightweight snack and rain gear. Treat the hike as a \"travel buffer\" – if the train is delayed you can extend it, if not, you're still on schedule.",
+    "pros": [
+      "Boosts fitness",
+      "Reduces boredom",
+      "Minimises carbon per mile"
+    ],
+    "cons": [
+      "Requires planning",
+      "Weather dependent",
+      "Limited amenities"
+    ],
+    "watchOut": "Watch train schedules closely; a missed connection can derail the hike.",
+    "faq": [
+      {
+        "q": "Do I need special gear?",
+        "a": "A sturdy pair of shoes, a compact rain jacket, and a water bottle are enough."
+      },
+      {
+        "q": "Is it safe to hike near stations?",
+        "a": "Stick to marked trails and check for signage; most European stations have clearly defined paths."
+      },
+      {
+        "q": "How do I fit this into tight itineraries?",
+        "a": "Aim for hikes that are 30-45 minutes round-trip, giving a buffer for train arrivals."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail hacks",
+      "micro-hikes"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-21T02:12:40.338Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-44",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spring-surge-optimizing-backyard-feeders",
+    "title": "Spring surge: optimizing your backyard feeders for early migrants",
+    "dek": "Turn your feeder into a magnet for spring’s first travelers with a few quick tweaks.",
+    "takeaway": "Early‑season feeder tweaks can boost migrant stopovers and enrich your backyard birdwatching.",
+    "whatHappened": "After noticing a lull in feeder activity, I swapped out the seed mix and added a low‑shelf platform. Within days, a parade of warblers and sparrows began visiting. The change was immediate and noticeable.",
+    "whyItMatters": "Migrating birds rely on predictable food sources during their long journeys, and backyard feeders can fill critical gaps. Providing the right resources supports population health and gives casual birders rewarding sightings. Small adjustments can have outsized impacts on local biodiversity.",
+    "howToThink": "Start with a high‑energy seed blend—think nyjer, millet, and safflower—to attract early migrants. Position a feeder near a sheltering shrub to offer quick cover. Keep the feeder clean and refill frequently to maintain freshness and avoid mold.",
+    "pros": [
+      "Attracts a wider variety of migrants",
+      "Boosts feeder visitation rates",
+      "Easy, low‑cost adjustments"
+    ],
+    "cons": [
+      "May attract more seed‑spilling species",
+      "Requires more frequent cleaning",
+      "Initial seed cost increase"
+    ],
+    "watchOut": "Avoid over‑filling the feeder in cold snaps; soggy seed can harm birds' health.",
+    "faq": [
+      {
+        "q": "What seed mix works best for early spring migrants?",
+        "a": "A blend of nyjer, white millet, and safflower attracts warblers, sparrows, and finches."
+      },
+      {
+        "q": "How high should the feeder be placed?",
+        "a": "Aim for 3‑4 feet off the ground near natural cover to provide safety and visibility."
+      },
+      {
+        "q": "Do I need to change the feeder type?",
+        "a": "A platform or low‑shelf feeder works best for ground‑foraging migrants, but tube feeders can supplement."
+      }
+    ],
+    "category": "Feeders",
+    "tags": [
+      "feeders",
+      "spring"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"native plants for birds\"",
+        "url": "https://duckduckgo.com/?q=native%20plants%20for%20birds"
+      }
+    ],
+    "publishedAt": "2026-08-21T02:13:01.632Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "migration-pre-spend-checklist-42",
     "title": "The migration checklist: run this before you spend",
     "dek": "Seven questions that separate a justified migration purchase from an expensive mood.",

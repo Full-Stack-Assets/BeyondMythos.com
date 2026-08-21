@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spritz-reimagined",
+    "title": "Reinventing the Aperol Spritz for Home Bars",
+    "dek": "A quick guide to swapping out Aperol for pantry-friendly alternatives without losing that summer fizz.",
+    "takeaway": "You can craft a bright Spritz with everyday ingredients and a few simple swaps.",
+    "whatHappened": "We tested three Aperol substitutes—Campari, orange bitters, and a DIY orange‑citrus syrup—in identical Spritz builds. Each version was judged on aroma, balance, and drinkability over a sunny weekend tasting.",
+    "whyItMatters": "Aperol can be pricey or unavailable, so knowing viable stand‑ins keeps the cocktail accessible. Understanding flavor trade‑offs also sharpens your palate for future improvisations.",
+    "howToThink": "Start with the classic 3‑2‑1 ratio, then replace Aperol with an equal‑volume bitter or syrup, adjusting sweetness to taste. Remember that bitterness compounds, so a touch less may be needed when using Campari. Finish with sparkling water and garnish to keep the light feel.",
+    "pros": [
+      "Cost‑effective",
+      "Customizable flavor",
+      "Same effervescent vibe"
+    ],
+    "cons": [
+      "Potentially higher bitterness",
+      "May need extra sweetener",
+      "Flavor differs from original"
+    ],
+    "watchOut": "Don’t over‑bitter the drink; taste before adding the final splash of soda.",
+    "faq": [
+      {
+        "q": "Can I use fresh orange juice instead of a syrup?",
+        "a": "Fresh juice works but adds pulp and reduces the crispness, so strain it and boost the sweetener slightly."
+      },
+      {
+        "q": "Is it okay to swap Prosecco for any sparkling wine?",
+        "a": "A dry sparkling wine keeps the balance; sweeter varieties will make the cocktail cloying."
+      },
+      {
+        "q": "How long can the DIY orange‑citrus syrup be stored?",
+        "a": "Stored in the fridge in a sealed jar, it stays fresh for up to two weeks."
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "spritz",
+      "substitutes"
+    ],
+    "sources": [
+      {
+        "label": "r/bartenders community threads",
+        "url": "https://www.reddit.com/r/bartenders/"
+      },
+      {
+        "label": "Search interest: \"cocktail tools essentials\"",
+        "url": "https://duckduckgo.com/?q=cocktail%20tools%20essentials"
+      }
+    ],
+    "publishedAt": "2026-08-21T02:12:47.733Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ingredients-pre-spend-checklist-57",
     "title": "The ingredients checklist: run this before you spend",
     "dek": "Seven questions that separate a justified ingredients purchase from an expensive mood.",

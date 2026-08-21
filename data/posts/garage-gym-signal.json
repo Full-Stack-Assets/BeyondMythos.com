@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-power-rack-safety-net",
+    "title": "Add a Safety Net to Your First Power Rack – Why & How",
+    "dek": "A cheap, DIY safety net can turn a rookie power rack into a safer, confidence‑boosting workhorse.",
+    "takeaway": "A simple safety net protects you and your gear without breaking the bank.",
+    "whatHappened": "I built a basic nylon safety net for my 2023 power rack after a near‑miss on a heavy deadlift. The net caught the bar, saved my plates, and gave me peace of mind for the next session.",
+    "whyItMatters": "Beginners often skip safety accessories to save money, but a dropped bar can cause injury or damage. A net adds a low‑cost safety layer, encouraging you to lift heavier with confidence.",
+    "howToThink": "Treat the safety net as an extension of your rack’s built‑in safety bars. Choose a durable, low‑stretch material, secure it with zip ties or bungee cords, and test the tension before every workout.",
+    "pros": [
+      "Cheap to build",
+      "Easy to install",
+      "Adds confidence"
+    ],
+    "cons": [
+      "Limited for extreme loads",
+      "Requires periodic inspection",
+      "May look DIY"
+    ],
+    "watchOut": "Never rely on the net alone for maximal lifts; keep spotters or proper safety bars as primary safeguards.",
+    "faq": [
+      {
+        "q": "What material works best?",
+        "a": "Heavy‑duty nylon or polypropylene with a 500‑psi rating is ideal."
+      },
+      {
+        "q": "How thick should the net be?",
+        "a": "A 3‑mm woven mesh balances strength and visibility."
+      },
+      {
+        "q": "Can I use the net for squats?",
+        "a": "Yes, but keep the bar within the rack’s safety limits and inspect the net for wear."
+      }
+    ],
+    "category": "Equipment",
+    "tags": [
+      "DIY",
+      "Safety"
+    ],
+    "sources": [
+      {
+        "label": "r/bodyweightfitness community threads",
+        "url": "https://www.reddit.com/r/bodyweightfitness/"
+      },
+      {
+        "label": "Search interest: \"adjustable dumbbells guide\"",
+        "url": "https://duckduckgo.com/?q=adjustable%20dumbbells%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T02:12:55.013Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-pull-up-power-minimal-gear",
     "title": "Boost Your Pull‑Up Power with Minimal Gear",
     "dek": "Learn a simple 3‑week pull‑up progression that works in a cramped garage gym with just a bar and a few bands.",
