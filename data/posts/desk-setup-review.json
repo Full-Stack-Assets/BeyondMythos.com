@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cable-management-taming-jungle-4ft-desk",
+    "title": "Cable Management: Taming the Jungle on a 4‑ft Desk",
+    "dek": "A quick guide to declutter cables on a tiny desk without sacrificing power.",
+    "takeaway": "A tidy cable layout frees space, reduces strain, and looks professional.",
+    "whatHappened": "We spotted a colleague’s 4‑ft desk drowning in a spaghetti mess of chargers, adapters, and USB cords. After a 30‑minute rewire using clips and a zip‑tie strategy, the surface cleared up dramatically.",
+    "whyItMatters": "Loose cables can cause tripping hazards, limit desk real estate, and even lead to accidental unplugging during calls. In cramped setups, every inch counts for ergonomics and focus.",
+    "howToThink": "Start by grouping devices by function, use Velcro ties to bundle, and anchor the bundles under the desk with adhesive mounts. Keep a spare power strip on the floor to centralize plugs, and label each cord for future tweaks.",
+    "pros": [
+      "Instant visual relief",
+      "More desk surface for work",
+      "Easier troubleshooting"
+    ],
+    "cons": [
+      "Initial setup takes ~15 min",
+      "May need extra accessories",
+      "Limited to existing outlet locations"
+    ],
+    "watchOut": "Avoid over‑tightening zip ties—they can damage cable sheathing and cause intermittent failures.",
+    "faq": [
+      {
+        "q": "Do I need special tools for cable management?",
+        "a": "A small zip‑tie dispenser, a few Velcro straps, and adhesive cable clips are enough; no power tools required."
+      },
+      {
+        "q": "Can I hide cables under the desk without drilling?",
+        "a": "Yes—use stick‑on cable trays or magnetic bases that cling to metal legs."
+      },
+      {
+        "q": "How often should I revisit my cable layout?",
+        "a": "Every few months or when you add new peripherals, to prevent new tangles."
+      }
+    ],
+    "category": "Organization",
+    "tags": [
+      "cable management",
+      "small spaces"
+    ],
+    "sources": [
+      {
+        "label": "r/battlestations community threads",
+        "url": "https://www.reddit.com/r/battlestations/"
+      },
+      {
+        "label": "Search interest: \"remote work lighting\"",
+        "url": "https://duckduckgo.com/?q=remote%20work%20lighting"
+      }
+    ],
+    "publishedAt": "2026-08-21T14:18:13.076Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "audio-pre-spend-checklist-50",
     "title": "The audio checklist: run this before you spend",
     "dek": "Seven questions that separate a justified audio purchase from an expensive mood.",

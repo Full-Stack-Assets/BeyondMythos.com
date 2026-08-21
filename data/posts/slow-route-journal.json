@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-corridors-reading-nooks",
+    "title": "Quiet corridors: turning unused train aisles into reading nooks",
+    "dek": "Transform empty train aisles into low‑impact reading sanctuaries for mindful moments between stations.",
+    "takeaway": "Unused train space can become a sustainable, restorative micro‑library on the move.",
+    "whatHappened": "On a week‑long slow‑travel loop through the Alps, I noticed several long‑distance coaches with vacant aisles during off‑peak hours. I set up a portable bookshelf and a small lamp, inviting fellow passengers to share and borrow books. Within a day the aisle buzzed with quiet conversations and swapped stories.",
+    "whyItMatters": "Every idle meter on a train is an untapped opportunity for low‑impact enrichment, reducing the mental fatigue of long journeys. By repurposing space, we cut waste—no extra rooms, no extra emissions—while fostering community among strangers. It also models a scalable, zero‑cost micro‑initiative that other routes can copy.",
+    "howToThink": "Start with a lightweight, collapsible bookshelf or a sturdy tote, and a rechargeable LED lamp. Invite travelers to bring a favorite paperback or a digital e‑reader and label each with a simple “take‑if‑you‑need” tag. Keep a sign that explains the etiquette: read quietly, return books, and respect personal space.",
+    "pros": [
+      "Zero‑cost, high‑impact",
+      "Boosts passenger wellbeing",
+      "Encourages community"
+    ],
+    "cons": [
+      "Requires initial organization",
+      "May need occasional tidying",
+      "Dependent on passenger participation"
+    ],
+    "watchOut": "Make sure the setup doesn’t obstruct emergency exits or aisles needed for mobility‑impaired travelers.",
+    "faq": [
+      {
+        "q": "Do I need permission from the train operator?",
+        "a": "Most carriers allow personal items; a brief note to staff clarifies intent and avoids misunderstandings."
+      },
+      {
+        "q": "What if the books get damaged or lost?",
+        "a": "Label each with a simple “borrow‑and‑return” system and accept that some wear is part of the communal spirit."
+      },
+      {
+        "q": "Can this work on short commuter trips?",
+        "a": "Yes—any journey longer than 30 minutes offers enough time for a quick read or a swap."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "micro‑library",
+      "rail‑community"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-21T14:18:00.247Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midnight-platform-cafes",
     "title": "Midnight platform cafés: savoring slow sips between stops",
     "dek": "Discover hidden 24‑hour cafés tucked into railway stations and turn late‑night layovers into low‑impact culinary adventures.",

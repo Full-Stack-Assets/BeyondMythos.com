@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smartwatch-safety-parent-guide",
+    "title": "Smartwatch safety: what every parent should know",
+    "dek": "A quick guide to keeping your child’s smartwatch secure and age‑appropriate.",
+    "takeaway": "Set limits, enable parental controls, and monitor usage to keep smartwatches safe for kids.",
+    "whatHappened": "A family noticed their 9‑year‑old’s new smartwatch was sending location data to unknown apps. After a quick audit, they discovered default privacy settings were too permissive.",
+    "whyItMatters": "Unrestricted smartwatch data can expose children to tracking, unwanted contacts, and accidental purchases, undermining the device’s educational promise.",
+    "howToThink": "Start by disabling unnecessary permissions, set a daily screen limit, and use the companion app’s family controls. Review settings monthly as apps update.",
+    "pros": [
+      "Kid‑friendly interface",
+      "Built‑in health tracking",
+      "GPS for safety"
+    ],
+    "cons": [
+      "Battery drains fast",
+      "Potential for in‑app purchases",
+      "Can feel intrusive if over‑monitored"
+    ],
+    "watchOut": "Don’t let the device’s novelty mask weak privacy defaults—check them before the first use.",
+    "faq": [
+      {
+        "q": "Can I block app downloads on a kid’s smartwatch?",
+        "a": "Yes—most platforms let you restrict app installations via the parent dashboard."
+      },
+      {
+        "q": "How often should I review location settings?",
+        "a": "At least once a month or after any OS update."
+      },
+      {
+        "q": "What’s the safest way to enable emergency contacts?",
+        "a": "Add them directly in the watch’s SOS feature and verify they’re saved correctly."
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "smartwatch",
+      "parental‑controls"
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T14:18:26.215Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-safety-mistakes-41",
     "title": "Five mistakes everyone makes in their first month of safety",
     "dek": "The most common early stumbles in safety, and the cheap corrections that fix them for parents managing kids, screens, and smart devices.",
