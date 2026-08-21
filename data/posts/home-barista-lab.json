@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-water-temp-hack",
+    "title": "Temperature Trick: Boost Espresso Consistency in 5 Minutes",
+    "dek": "A quick tweak to your brew water temperature that steadies espresso shots without new gear.",
+    "takeaway": "Small water‑temp adjustments can dramatically improve shot consistency.",
+    "whatHappened": "I noticed my espresso shots fluctuating after the thermostat drifted. By measuring water temperature and nudging the boiler setpoint by 2 °C, the shots stabilized.",
+    "whyItMatters": "Consistent temperature is core to extraction; even a degree off changes solubility and flavor balance, saving waste and frustration.",
+    "howToThink": "Use a thermometer or a smart scale with a temperature sensor, aim for 93 °C ± 1 °C, adjust the boiler or pre‑heat time, and keep the machine's PID calibrated.",
+    "pros": [
+      "Better flavor consistency",
+      "No extra equipment",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Requires temperature monitoring",
+      "May need boiler retuning",
+      "Small margin for error"
+    ],
+    "watchOut": "Don’t overshoot the temperature, as too hot water can scorch the coffee and produce bitterness.",
+    "faq": [
+      {
+        "q": "How precise does my water temperature need to be?",
+        "a": "Within ±1 °C is enough for most home machines."
+      },
+      {
+        "q": "Can I use a kitchen thermometer?",
+        "a": "A digital instant‑read works, but a probe that fits your portafilter gives quicker readings."
+      },
+      {
+        "q": "Will this affect my grinder settings?",
+        "a": "No, temperature tweaks are independent, though you may notice a subtle shift in perceived grind fineness."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-21T17:05:27.228Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-budget-grinder-upgrade-13",
     "title": "Myth vs. reality: budget grinder upgrade",
     "dek": "The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.",

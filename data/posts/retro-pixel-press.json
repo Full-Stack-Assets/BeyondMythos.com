@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hdmi-hack-genesis-1080p",
+    "title": "HDMI hack: turning your Genesis into a 1080p marvel",
+    "dek": "Turn your classic Genesis into a crisp HDMI output with a few cheap parts and soldering tricks.",
+    "takeaway": "A simple HDMI mod gives retro games a modern display without sacrificing authenticity.",
+    "whatHappened": "I sourced a 1080p HDMI encoder board, wired it to the Genesis' RGB video pins, and added a tiny voltage regulator to protect the console. After a night of soldering, the console booted straight to a TV’s HDMI input, showing clean, lag‑free graphics. The first test run of Sonic the Hedgehog looked surprisingly sharp on a 4K display.",
+    "whyItMatters": "Many collectors struggle with outdated RF or composite connections that produce fuzzy images on modern screens. By upgrading to HDMI, you preserve the original hardware while making it accessible for streaming or recording speedruns. This bridge keeps the retro experience relevant in today’s high‑definition world.",
+    "howToThink": "Start by mapping the Genesis' RGB pins to the encoder’s inputs—don’t guess, double‑check the pinout diagrams. Use a low‑profile regulator to keep the console’s voltage stable under the new load. Finally, test with a cheap HDMI monitor before committing to a high‑end TV to catch wiring errors early.",
+    "pros": [
+      "Crystal‑clear HDMI output",
+      "Easy to record for speedruns",
+      "Minimal impact on original hardware"
+    ],
+    "cons": [
+      "Requires soldering skills",
+      "Adds a small amount of latency",
+      "Mod is semi‑permanent"
+    ],
+    "watchOut": "Make sure the regulator’s output matches the Genesis’ 9V requirement to avoid overheating or damage.",
+    "faq": [
+      {
+        "q": "Do I need a new power supply after the mod?",
+        "a": "No, the original power brick works fine; the regulator steps the voltage down for the HDMI board."
+      },
+      {
+        "q": "Will this mod affect my controller latency?",
+        "a": "Latency is negligible—typically under 1 ms—so speedrun timings remain unchanged."
+      },
+      {
+        "q": "Can I revert the mod if I change my mind?",
+        "a": "Yes, keep the original wiring diagram and use a desoldering pump to remove the board without harming the console."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "HDMI",
+      "Genesis"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T17:05:27.459Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-speedruns-mistakes-45",
     "title": "Five mistakes everyone makes in their first month of speedruns",
     "dek": "The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.",

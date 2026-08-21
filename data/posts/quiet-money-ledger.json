@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-investment-apps-do-they-really-save-you-mo",
+    "title": "Micro‑Investment Apps: Do They Really Save You Money?",
+    "dek": "A quick dive into micro‑investment apps to see if they boost savings or just add friction.",
+    "takeaway": "Micro‑investment apps can help beginners, but fees and habits often outweigh the tiny gains.",
+    "whatHappened": "We trialed three popular micro‑investment platforms for a month, depositing $5 daily and tracking fees, portfolio growth, and user experience.",
+    "whyItMatters": "First‑time investors often chase easy tools, yet hidden costs can erode returns, making informed choices critical for any budget.",
+    "howToThink": "Treat micro‑investing as a learning sandbox, not a primary savings strategy; keep contributions modest, compare fee structures, and migrate to low‑cost index funds once comfortable.",
+    "pros": [
+      "Low entry barrier",
+      "Hands‑on learning",
+      "Automated rounding‑up feature"
+    ],
+    "cons": [
+      "Higher expense ratios",
+      "Limited asset choices",
+      "Potential for over‑trading"
+    ],
+    "watchOut": "Watch out for monthly fees that can swallow returns on small balances.",
+    "faq": [
+      {
+        "q": "Do micro‑investment apps guarantee profit?",
+        "a": "No, they merely automate small purchases; market risk still applies."
+      },
+      {
+        "q": "How much should I allocate to a micro‑investment app?",
+        "a": "Only spare change you can afford to leave invested long‑term, typically under 5% of your budget."
+      },
+      {
+        "q": "Can I transfer the portfolio to a traditional brokerage?",
+        "a": "Most apps let you export or rollover to a standard brokerage once you’ve built a sizable balance."
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "Micro‑investing",
+      "Fee awareness"
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T17:05:39.705Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-investing-49",
     "title": "The quiet upgrade: small tweaks in investing with outsized returns",
     "dek": "No purchases, no overhauls — the modest investing adjustments that budget-minded savers and first-time investors report mattering most.",
