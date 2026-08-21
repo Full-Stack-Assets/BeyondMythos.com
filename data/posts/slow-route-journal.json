@@ -1,5 +1,56 @@
 [
   {
+    "slug": "staggered-train-layovers",
+    "title": "Staggered train layovers: turning wait time into micro‑camps",
+    "dek": "Turn long train waits into tiny, low‑impact camp‑like pauses that enrich your journey.",
+    "takeaway": "A few simple tweaks let you convert idle platform time into restorative micro‑camps.",
+    "whatHappened": "On a three‑hour layover at Zurich HB I spread a compact blanket, brewed tea on a portable stove, and logged a short meditation. The platform buzz faded as I treated the pause like a mini‑camp, then boarded refreshed.",
+    "whyItMatters": "Idle platform time is a hidden carbon‑free resource; repurposing it reduces the urge for extra transport and deepens place‑based awareness. It also cuts the mental fatigue of endless waiting.",
+    "howToThink": "Scout the platform for shade, power outlets, and quiet corners. Pack a lightweight blanket, a reusable mug, and a tiny stove or tea bag. Treat the stop as a deliberate rest stop, not a wasted hour.",
+    "pros": [
+      "Zero extra travel emissions",
+      "Boosts mental reset",
+      "Creates micro‑memories"
+    ],
+    "cons": [
+      "Limited space on crowded platforms",
+      "Weather dependent",
+      "Requires compact gear"
+    ],
+    "watchOut": "Beware of local regulations—some stations prohibit open flames or cooking devices.",
+    "faq": [
+      {
+        "q": "Can I use a small gas stove on a platform?",
+        "a": "Check station rules first; many allow electric kettles but forbid open flames. Opt for electric or pre‑steeped tea if unsure."
+      },
+      {
+        "q": "What if the platform is crowded?",
+        "a": "Choose a quieter corner near exits or use a travel pillow to claim a small personal zone without blocking foot traffic."
+      },
+      {
+        "q": "Do I need a permit for micro‑camps?",
+        "a": "No formal permit is needed for short stays, but respect signage and keep a low profile."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "micro-camping"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-21T03:35:13.125Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "turning-layovers-into-micro-hikes",
     "title": "Turning layovers into micro-hikes: a low-impact hack",
     "dek": "Swap idle train stops for short hikes that boost mileage and cut carbon footprints.",

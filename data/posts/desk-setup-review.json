@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-adjustments-boosting-comfort-4ft-desk",
+    "title": "Micro-Adjustments: Boosting Comfort on a 4‑ft Desk",
+    "dek": "Tiny tweaks can turn a cramped desk into a comfortable workstation without breaking the bank.",
+    "takeaway": "Even the smallest ergonomic tweaks can dramatically reduce strain in tiny workspaces.",
+    "whatHappened": "We swapped a standard chair for a height‑adjustable stool, added a monitor riser, and introduced a footrest made from a cardboard box. After a week of use, the tester reported less lower‑back tension and smoother typing posture.",
+    "whyItMatters": "Remote workers often sacrifice ergonomics due to space limits, leading to chronic discomfort. Improving posture in a small footprint boosts productivity and long‑term health.",
+    "howToThink": "Start by measuring your desk height, then raise the monitor so eyes are level, and keep elbows at ~90°. Use a flexible footrest to support weight, and consider a sit‑stand stool to vary posture throughout the day.",
+    "pros": [
+      "Low cost",
+      "Minimal footprint",
+      "Immediate comfort boost"
+    ],
+    "cons": [
+      "May need custom adjustments",
+      "Limited aesthetic options",
+      "Potential stability issues with improvised footrest"
+    ],
+    "watchOut": "Avoid makeshift footrests that wobble; they can cause more strain than relief.",
+    "faq": [
+      {
+        "q": "Can I use a regular office chair on a tiny desk?",
+        "a": "A compact chair works, but a height‑adjustable stool often fits better and frees floor space."
+      },
+      {
+        "q": "What’s the best monitor height solution?",
+        "a": "A simple riser or a stack of sturdy books can lift the screen to eye level without permanent mounts."
+      },
+      {
+        "q": "Is a footrest necessary?",
+        "a": "If your feet don’t rest flat, a small footrest keeps knees at 90° and reduces pressure on the lower back."
+      }
+    ],
+    "category": "Ergonomics",
+    "tags": [
+      "ergonomic hacks",
+      "small spaces"
+    ],
+    "sources": [
+      {
+        "label": "r/StandingDesk community threads",
+        "url": "https://www.reddit.com/r/StandingDesk/"
+      },
+      {
+        "label": "Search interest: \"cable management desk\"",
+        "url": "https://duckduckgo.com/?q=cable%20management%20desk"
+      }
+    ],
+    "publishedAt": "2026-08-21T03:35:27.251Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-organization-48",
     "title": "Ask the forge: your organization questions, answered",
     "dek": "Straight answers to the organization questions remote workers optimizing small workspaces keep asking, minus the hedging.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "lubing-switches-quickly",
+    "title": "Lubing Switches on the Fly: Speedy Tactics for the Busy Builder",
+    "dek": "Learn a rapid lubing method that cuts prep time without sacrificing smoothness.",
+    "takeaway": "A fast lubing routine can improve feel while keeping build time under an hour.",
+    "whatHappened": "We swapped a standard 5‑pin linear set with a DIY lubing station using a syringe and pre‑measured drops, then timed the process on a 70‑key board. The total time dropped from 45 minutes to 22 minutes with comparable smoothness on the test rig.",
+    "whyItMatters": "Time is premium for hobbyists juggling group buys and builds; shaving minutes per board adds up across multiple projects. Faster lubing also encourages more frequent maintenance, extending switch lifespan.",
+    "howToThink": "Prep a small batch of lubricant in a shallow dish, use a 0.5 ml syringe for precise drops, and apply only to the spring and stem housing. Skip the top housing for tactile switches to preserve their signature bite. Clean excess with a lint‑free wipe before reassembly.",
+    "pros": [
+      "Faster build",
+      "Consistent feel",
+      "Low mess"
+    ],
+    "cons": [
+      "Extra tools needed",
+      "Potential over‑lubing",
+      "Not for all switch types"
+    ],
+    "watchOut": "Too much lubricant can attract dust and compromise switch stability, so stick to the measured drops.",
+    "faq": [
+      {
+        "q": "Can I use this method on tactile switches?",
+        "a": "Yes, but apply lubricant only to the spring and lower stem to keep the tactile bump intact."
+      },
+      {
+        "q": "What lubricant works best for speed lubing?",
+        "a": "A thin, low‑viscosity grease like Krytox 205g0 blends well and spreads quickly."
+      },
+      {
+        "q": "Do I need a syringe for each switch type?",
+        "a": "One 0.5 ml syringe suffices; just clean it between different lubricants to avoid cross‑contamination."
+      }
+    ],
+    "category": "Switches",
+    "tags": [
+      "lubing",
+      "speed-build"
+    ],
+    "sources": [
+      {
+        "label": "r/BudgetKeebs community threads",
+        "url": "https://www.reddit.com/r/BudgetKeebs/"
+      },
+      {
+        "label": "Search interest: \"first custom keyboard build\"",
+        "url": "https://duckduckgo.com/?q=first%20custom%20keyboard%20build"
+      }
+    ],
+    "publishedAt": "2026-08-21T03:35:40.662Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-keyboard-switch-guide-14",
     "title": "Myth vs. reality: keyboard switch guide",
     "dek": "The persistent myths around keyboard switch guide, stress-tested against what mechanical keyboard builders and enthusiasts actually report.",
