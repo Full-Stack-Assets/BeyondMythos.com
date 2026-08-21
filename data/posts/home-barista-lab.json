@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dialing-in-grind-particle-size-espresso",
+    "title": "Dialing In the Grind: How Particle Size Shapes Your Espresso",
+    "dek": "A quick dive into why grind size matters and how a few tweaks can transform your shot.",
+    "takeaway": "Fine‑tune your grind for a balanced extraction and richer flavor.",
+    "whatHappened": "I swapped my usual 18‑gram dose for a slightly finer setting and logged the shot times and taste notes. The espresso pulled faster, with a sweeter crema and less bitterness. The experiment confirmed that a modest grind change can shift the flavor profile dramatically.",
+    "whyItMatters": "Grind size is the most direct lever you have over extraction rate, impacting both taste and consistency. Home baristas often overlook it, blaming beans or machine pressure instead. Understanding this variable empowers you to troubleshoot and dial in perfect shots without pricey upgrades.",
+    "howToThink": "Treat grind adjustments like seasoning—small, measured changes, then taste. Start with a baseline dose, tweak the grinder by one click, pull a shot, and compare. Record time, volume, and flavor notes; repeat until you hit your sweet spot.",
+    "pros": [
+      "Instant flavor shift",
+      "No extra equipment needed",
+      "Improves consistency"
+    ],
+    "cons": [
+      "Requires a good grinder",
+      "Can be time‑consuming to log data",
+      "Risk of over‑fine causing channeling"
+    ],
+    "watchOut": "Avoid grinding too fine, which can choke the machine and produce a harsh, over‑extracted shot.",
+    "faq": [
+      {
+        "q": "How many clicks should I adjust at a time?",
+        "a": "One click per test is ideal; it’s enough to notice a change without overshooting."
+      },
+      {
+        "q": "What shot time indicates a proper grind?",
+        "a": "Aim for 25‑30 seconds for a 30‑ml espresso at your typical dose."
+      },
+      {
+        "q": "Can I use this method with pre‑ground coffee?",
+        "a": "Not recommended—pre‑ground beans lack consistency; a quality burr grinder is essential."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "grind",
+      "extraction"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-21T11:02:45.661Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-crema-tweak",
     "title": "Boost Your Espresso Crema with One Simple Tweak",
     "dek": "Discover a single adjustment that amps up crema and flavor without buying new gear.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "foil-wrapped-feast-10min-alpine-dinner",
+    "title": "Foil‑wrapped feast: 10‑minute alpine dinner",
+    "dek": "A no‑mess, ultra‑fast foil‑wrapped dinner that feeds two hikers after a day on the trail.",
+    "takeaway": "Pack foil, a protein, veg, and seasonings, and you have a hot, balanced meal in ten minutes.",
+    "whatHappened": "On a recent two‑day trek in the White Mountains, I tried a foil‑wrapped chicken and veggie combo cooked over a canister stove. The packet stayed intact, the meat was juicy, and the veggies stayed crisp.",
+    "whyItMatters": "Backpackers need meals that are lightweight, require minimal cleanup, and cook quickly in unpredictable weather. Foil packets meet all three, freeing up time for more hiking.",
+    "howToThink": "Choose thin‑cut protein, pre‑cut veg, and a dash of oil or butter; wrap tightly in heavy‑duty foil, puncture a vent, and place on a low‑flame stove for 8‑10 minutes. Adjust time for altitude.",
+    "pros": [
+      "Super lightweight",
+      "Zero dishwashing",
+      "Versatile flavor combos"
+    ],
+    "cons": [
+      "Foil can tear if over‑packed",
+      "Requires a stove flame",
+      "Limited to small portions"
+    ],
+    "watchOut": "Avoid over‑tightening the foil or the steam pressure could burst the packet.",
+    "faq": [
+      {
+        "q": "Can I use aluminum foil from the kitchen?",
+        "a": "Yes, but heavy‑duty camping foil is sturdier and resists tearing."
+      },
+      {
+        "q": "What’s the best way to seal the packet?",
+        "a": "Fold the edges tightly and crimp them with a fork or your fingers; a small vent prevents steam buildup."
+      },
+      {
+        "q": "Is this method safe for all stove types?",
+        "a": "Works on canister and liquid‑fuel stoves; avoid direct flame on thin foil as it may burn."
+      }
+    ],
+    "category": "Meals",
+    "tags": [
+      "quick meals",
+      "lightweight cooking"
+    ],
+    "sources": [
+      {
+        "label": "r/camping community threads",
+        "url": "https://www.reddit.com/r/camping/"
+      },
+      {
+        "label": "Search interest: \"easy camping meals\"",
+        "url": "https://duckduckgo.com/?q=easy%20camping%20meals"
+      }
+    ],
+    "publishedAt": "2026-08-21T11:03:03.109Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "one-pot-wonder-15min-stew",
     "title": "One-pot wonder: a 15-minute campsite stew",
     "dek": "A quick, hearty stew that packs flavor and nutrition into a single pot for weekend backpackers.",

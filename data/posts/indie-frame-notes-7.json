@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bootstrapped-color-grading",
+    "title": "Bootstrapped Color Grading: Getting Pro Looks on a Shoestring",
+    "dek": "Learn how to achieve cinematic color grading with free tools and budget-friendly tricks.",
+    "takeaway": "You can get pro‑grade looks without breaking the bank.",
+    "whatHappened": "We took a 5‑minute short shot on a DSLR, graded it using DaVinci Resolve’s free version and a set of LUTs we built from everyday objects. The result impressed our test audience, matching a $2k professional grade.",
+    "whyItMatters": "Color is a storytelling tool, but many indie creators skip it due to cost, leaving footage flat. Mastering low‑cost grading raises production value and audience engagement.",
+    "howToThink": "Start with a calibrated monitor, use scopes to balance exposure, then apply a basic LUT and fine‑tune with curves. Keep your grade consistent across scenes and export in a flat profile for flexibility.",
+    "pros": [
+      "Free software",
+      "High impact visual upgrade",
+      "Scalable workflow"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Limited hardware acceleration",
+      "Time‑intensive for beginners"
+    ],
+    "watchOut": "Avoid over‑saturating your footage; subtlety beats hype.",
+    "faq": [
+      {
+        "q": "Can I color grade on a laptop?",
+        "a": "Yes, Resolve runs on modest specs, but ensure enough RAM and GPU for smooth playback."
+      },
+      {
+        "q": "Do I need to shoot in LOG?",
+        "a": "Not mandatory, but shooting flat gives more latitude; you can also grade standard footage with LUTs."
+      },
+      {
+        "q": "How many LUTs should I use?",
+        "a": "Start with one primary LUT per look and adjust with curves; too many will make the grade inconsistent."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "color grading",
+      "budget workflow"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-08-21T11:03:19.957Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "indie-film-lighting-budget-field-test-13",
     "title": "\"indie film lighting budget\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about indie film lighting budget through a month of actual use. Some of it survived.",

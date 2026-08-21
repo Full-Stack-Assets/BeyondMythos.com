@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel-perfect timing: tweaking your Mega Drive controller for sub-10 ms input</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-mega-drive-controller.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-mega-drive-controller.html</guid>
+      <pubDate>Fri, 21 Aug 2026 11:02:49 GMT</pubDate>
+      <description>A quick guide to shaving milliseconds off your Mega Drive controller latency for faster runs.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/retrogaming is debating this week</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-retrogaming-18.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-retrogaming-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-38.html</guid>
       <pubDate>Thu, 20 Aug 2026 05:14:51 GMT</pubDate>
       <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-40.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-40.html</guid>
-      <pubDate>Thu, 20 Aug 2026 04:20:46 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>
