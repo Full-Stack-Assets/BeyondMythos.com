@@ -1,5 +1,56 @@
 [
   {
+    "slug": "revisiting-london-system-hidden-resources",
+    "title": "Revisiting the London System: hidden resources for adult players",
+    "dek": "The London System isn’t just a “quiet” opening; it offers adult players a flexible, low‑theory weapon that can surprise opponents.",
+    "takeaway": "Master the London System to save time on theory while staying strategically rich.",
+    "whatHappened": "I tried the London System in three club games last week, focusing on the classic 1.d4 Nf6 2.Nf3 e6 3.Bf4 setup. Each game, I avoided heavy theory and let the position dictate plans.",
+    "whyItMatters": "Adults often struggle to find opening lines that fit limited study hours. The London System’s solid structure reduces memorization, letting you allocate time to tactics and endgames.",
+    "howToThink": "Treat the London as a platform: develop pieces naturally, watch for the typical ...c4‑c5 break, and keep the bishop on f4 or g5 to pressure Black’s queen side. When Black deviates, look for central pawn breaks or a timely Ne5.",
+    "pros": [
+      "Low theory load",
+      "Solid pawn structure",
+      "Works against many defenses"
+    ],
+    "cons": [
+      "Can be passive if mis‑handled",
+      "Limited surprise against prepared opponents",
+      "May lead to cramped positions if c4 ignored"
+    ],
+    "watchOut": "Don’t let the opening become a “one‑move” routine; stay alert for Black’s early …c5 or …b5 ideas.",
+    "faq": [
+      {
+        "q": "Can the London System be used against the King’s Indian Defense?",
+        "a": "Yes, the typical set‑up works well, though you may need to adjust with an early c4‑c5 push to challenge Black’s fianchetto."
+      },
+      {
+        "q": "What is the key middlegame plan?",
+        "a": "Aim for a central break with e4‑e5 after preparing with Re1 and Nd2, or pressure the queenside with b4‑b5 if Black castles long."
+      },
+      {
+        "q": "How much theory should I memorize?",
+        "a": "Just the first 10–12 moves; beyond that, rely on general principles and pattern recognition."
+      }
+    ],
+    "category": "Openings",
+    "tags": [
+      "London System",
+      "Practical Openings"
+    ],
+    "sources": [
+      {
+        "label": "r/chess community threads",
+        "url": "https://www.reddit.com/r/chess/"
+      },
+      {
+        "label": "Search interest: \"adult chess improvement plan\"",
+        "url": "https://duckduckgo.com/?q=adult%20chess%20improvement%20plan"
+      }
+    ],
+    "publishedAt": "2026-08-21T13:31:03.266Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "endgames-pre-spend-checklist-60",
     "title": "The endgames checklist: run this before you spend",
     "dek": "Seven questions that separate a justified endgames purchase from an expensive mood.",

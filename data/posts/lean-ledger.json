@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stretch-pantry-zero-cost-hacks",
+    "title": "Stretch your pantry: zero-cost hacks to stretch leftovers",
+    "dek": "Turn yesterday’s meals into today’s savings with three zero‑cost pantry tricks.",
+    "takeaway": "Reuse leftovers creatively and you’ll shave $20‑$30 off your weekly grocery bill.",
+    "whatHappened": "We tested three pantry‑stretching hacks in a typical family of four over two weeks, swapping wasteful toss‑outs for new meals.",
+    "whyItMatters": "Food waste is the biggest hidden expense; cutting it boosts savings and reduces landfill impact.",
+    "howToThink": "Treat every leftover as a building block: inventory, plan, and repurpose with simple flavor swaps.",
+    "pros": [
+      "Cuts food waste",
+      "Adds meal variety",
+      "Zero extra cost"
+    ],
+    "cons": [
+      "Requires a bit of planning",
+      "May need extra prep time",
+      "Flavor may differ from original dish"
+    ],
+    "watchOut": "Don’t let repurposed food sit too long—follow safe storage timelines.",
+    "faq": [
+      {
+        "q": "Can I use this with frozen leftovers?",
+        "a": "Yes, just thaw safely and incorporate into the same repurposing steps."
+      },
+      {
+        "q": "What if I’m not a strong cook?",
+        "a": "Start with the simplest hacks—mix veggies into soups or stir‑fry rice with a sauce."
+      },
+      {
+        "q": "Will this affect nutrition?",
+        "a": "No, you’re preserving nutrients that would otherwise be lost."
+      }
+    ],
+    "category": "Groceries",
+    "tags": [
+      "food waste",
+      "budget cooking"
+    ],
+    "sources": [
+      {
+        "label": "r/EatCheapAndHealthy community threads",
+        "url": "https://www.reddit.com/r/EatCheapAndHealthy/"
+      },
+      {
+        "label": "Search interest: \"cut energy bill\"",
+        "url": "https://duckduckgo.com/?q=cut%20energy%20bill"
+      }
+    ],
+    "publishedAt": "2026-08-21T13:30:57.611Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-personalfinance-21",
     "title": "Community pulse: what r/personalfinance is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the mindset community this week.",

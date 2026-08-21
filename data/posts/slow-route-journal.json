@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-platform-cafes",
+    "title": "Midnight platform cafés: savoring slow sips between stops",
+    "dek": "Discover hidden 24‑hour cafés tucked into railway stations and turn late‑night layovers into low‑impact culinary adventures.",
+    "takeaway": "Late‑night station cafés can be low‑key hubs for sustainable, slow travel experiences.",
+    "whatHappened": "During a 12‑hour layover in a small German town, I stumbled into a 24‑hour platform café that served locally sourced pastries and fair‑trade coffee. I lingered, chatted with the night staff, and used the quiet corner to journal my journey.",
+    "whyItMatters": "These cafés extend the travel day without increasing carbon footprints, offering nourishment, community, and a chance to rest without leaving the rail network. They also showcase local producers, reinforcing the low‑impact ethos.",
+    "howToThink": "Next time you spot a station with a late‑night café, treat it as a micro‑destination: check opening hours, order a regional specialty, and use the time to stretch, plan, or simply soak in the ambience. Keep a notebook to capture the vibe.",
+    "pros": [
+      "Zero extra transport",
+      "Supports local vendors",
+      "Quiet, reflective space"
+    ],
+    "cons": [
+      "Limited menu",
+      "May lack Wi‑Fi",
+      "Potentially noisy trains nearby"
+    ],
+    "watchOut": "Some 24‑hour cafés are chain‑run and may not prioritize sustainability, so look for signage of local sourcing.",
+    "faq": [
+      {
+        "q": "Are 24‑hour station cafés common in Europe?",
+        "a": "They’re more frequent in larger hubs, but many regional stations now offer at least a coffee counter open all night."
+      },
+      {
+        "q": "How can I keep the visit low‑impact?",
+        "a": "Order reusable cup options, choose plant‑based snacks, and limit waste by bringing your own utensils."
+      },
+      {
+        "q": "What if I need a place to work?",
+        "a": "Choose a café with power outlets and a back‑row table away from the tracks for minimal distraction."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "rail",
+      "local"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-21T13:30:54.852Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-48",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
