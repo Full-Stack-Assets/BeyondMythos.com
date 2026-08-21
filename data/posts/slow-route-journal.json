@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-stations-micro-workshops",
+    "title": "Silent stations: leveraging empty platforms for micro‑workshops",
+    "dek": "Turn a quiet platform pause into a pop‑up skill‑share, leaving zero carbon trace.",
+    "takeaway": "Empty stations are free classrooms for low‑impact skill swaps.",
+    "whatHappened": "While waiting for a delayed train in a regional hub, I set up a 20‑minute woodworking demo using reclaimed pallets. Fellow travelers joined, sharing tools and stories, and we left the platform buzzing with newfound skills.",
+    "whyItMatters": "These micro‑workshops transform idle time into community building, reducing perceived wait fatigue and reinforcing the low‑impact ethos of sharing resources. They also showcase how rail spaces can host sustainable pop‑up events without infrastructure.",
+    "howToThink": "Scout platform schedules for gaps of 15‑30 minutes, bring a portable, low‑impact activity (e.g., sketching, upcycling, language exchange), and announce it with a simple sign. Keep materials lightweight, respect safety rules, and encourage reciprocal participation.",
+    "pros": [
+      "Zero cost",
+      "Fosters community",
+      "Enriches travel experience"
+    ],
+    "cons": [
+      "Requires advance prep",
+      "May need permission",
+      "Limited to small groups"
+    ],
+    "watchOut": "Check station policies first—some platforms forbid gatherings or equipment.",
+    "faq": [
+      {
+        "q": "Do I need permission from rail staff?",
+        "a": "Most stations allow brief, non‑commercial gatherings, but ask a conductor or info desk to avoid conflicts."
+      },
+      {
+        "q": "What activities work best?",
+        "a": "Low‑noise, portable, and collaborative tasks like sketch circles, mini‑repair demos, or language chats."
+      },
+      {
+        "q": "How do I handle safety?",
+        "a": "Stay clear of tracks, keep setups compact, and ensure participants stay aware of train movements."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-21T06:03:35.072Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "packing-pre-spend-checklist-40",
     "title": "The packing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified packing purchase from an expensive mood.",

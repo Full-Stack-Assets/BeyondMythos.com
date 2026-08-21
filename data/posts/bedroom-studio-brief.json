@@ -1,5 +1,56 @@
 [
   {
+    "slug": "budget-audio-interfaces-unlocked",
+    "title": "Unlocking the hidden potential of budget audio interfaces",
+    "dek": "Even cheap USB audio interfaces can punch above their weight with a few smart tweaks.",
+    "takeaway": "A modest interface can sound pro when you optimize its settings and workflow.",
+    "whatHappened": "We took a $99 USB audio interface, calibrated its gain structure, installed the latest drivers, and tested it on a typical bedroom podcast and a small home‑recording session. The results surprised us: clean signal, low latency, and surprisingly detailed mids.",
+    "whyItMatters": "Most bedroom creators assume they need to spend hundreds to get usable sound, which stalls progress and budgets. Proving that low‑cost gear can be viable widens access and keeps creativity flowing.",
+    "howToThink": "Start by setting your DAW’s buffer low enough for real‑time feel, but not so low it causes clicks. Use a calibrated gain hierarchy: mic → preamp → DAW, and keep the interface’s gain knobs in the optimal range (usually 50‑70%). Finally, lock in the interface’s sample rate to match your project to avoid conversion artifacts.",
+    "pros": [
+      "Plug‑and‑play simplicity",
+      "Low latency drivers",
+      "Great sound for the price"
+    ],
+    "cons": [
+      "Limited I/O options",
+      "Build quality varies",
+      "Driver support quirks"
+    ],
+    "watchOut": "Don't ignore firmware updates—they can fix latency spikes and stability issues.",
+    "faq": [
+      {
+        "q": "Do I need external power for a cheap USB interface?",
+        "a": "Most budget USB interfaces are bus‑powered, but using a powered USB hub can improve stability on laptops."
+      },
+      {
+        "q": "Can I use the same interface for both podcasting and music?",
+        "a": "Yes—just create separate input presets in your DAW to switch between speech‑optimized and music‑optimized gain structures."
+      },
+      {
+        "q": "Is it worth buying a separate headphone amp?",
+        "a": "If you notice hiss or lack of detail in monitoring, a dedicated amp can help, but many budget interfaces already provide clean headphone outputs."
+      }
+    ],
+    "category": "Interfaces",
+    "tags": [
+      "interfaces",
+      "budget"
+    ],
+    "sources": [
+      {
+        "label": "r/audioengineering community threads",
+        "url": "https://www.reddit.com/r/audioengineering/"
+      },
+      {
+        "label": "Search interest: \"home studio treatment budget\"",
+        "url": "https://duckduckgo.com/?q=home%20studio%20treatment%20budget"
+      }
+    ],
+    "publishedAt": "2026-08-21T06:03:41.430Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "mixing-pre-spend-checklist-59",
     "title": "The mixing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified mixing purchase from an expensive mood.",

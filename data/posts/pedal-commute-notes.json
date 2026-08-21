@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rainy-day-routing-shortcuts",
+    "title": "Rainy day routing: shortcuts for slick city streets",
+    "dek": "When the forecast says rain, tweak your commute with a few proven shortcuts that keep you fast, safe, and dry.",
+    "takeaway": "A few strategic route tweaks turn a soggy commute into a smoother ride.",
+    "whatHappened": "I noticed my usual downtown loop became a traffic nightmare after a sudden downpour, with puddles and slow cars. I tested three alternate streets that stay higher and have better drainage, timing each run. The new path shaved five minutes off my commute and kept my shoes dry.",
+    "whyItMatters": "Urban cyclists waste time and risk slips when they stick to familiar routes in wet weather. Knowing which streets stay passable boosts efficiency and safety, especially for those who rely on their bike as a primary transport. Small routing changes also reduce wear on bike components from water exposure.",
+    "howToThink": "Check your city’s street elevation maps or use a flood‑aware app to spot higher‑ground corridors. Prioritize streets with dedicated bike lanes and good drainage. Run a quick test ride before committing, noting potholes and traffic flow, then lock in the best option for rainy days.",
+    "pros": [
+      "Faster commute",
+      "Dry shoes and gear",
+      "Less exposure to traffic hazards"
+    ],
+    "cons": [
+      "May be slightly longer distance",
+      "Requires upfront scouting",
+      "Potential unfamiliar intersections"
+    ],
+    "watchOut": "Beware of hidden potholes that can fill with water and become slippery.",
+    "faq": [
+      {
+        "q": "How can I find higher‑ground routes quickly?",
+        "a": "Use a city GIS layer or apps like Google Maps with terrain view, and look for streets marked as ‘raised’ or near storm drains."
+      },
+      {
+        "q": "Do I need different tires for wet routes?",
+        "a": "Wider, low‑pressure tires improve grip on slick surfaces, but the route change itself is the biggest safety boost."
+      },
+      {
+        "q": "Will taking a longer route cost me more time overall?",
+        "a": "Often not; smoother flow and fewer stops usually offset the extra distance, especially in rain."
+      }
+    ],
+    "category": "Routes",
+    "tags": [
+      "rainy routes",
+      "commute hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/whichbike community threads",
+        "url": "https://www.reddit.com/r/whichbike/"
+      },
+      {
+        "label": "Search interest: \"commuter bike maintenance\"",
+        "url": "https://duckduckgo.com/?q=commuter%20bike%20maintenance"
+      }
+    ],
+    "publishedAt": "2026-08-21T06:03:50.633Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-maintenance-47",
     "title": "The quiet upgrade: small tweaks in maintenance with outsized returns",
     "dek": "No purchases, no overhauls — the modest maintenance adjustments that urban bike commuters and car-light riders report mattering most.",

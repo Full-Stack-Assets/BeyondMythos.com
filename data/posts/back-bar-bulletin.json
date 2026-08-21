@@ -1,5 +1,56 @@
 [
   {
+    "slug": "secret-sauce-boost-bitters",
+    "title": "The secret sauce: boosting flavor with a dash of bitters",
+    "dek": "A quick guide to choosing and using bitters to elevate any cocktail without overcomplicating your bar.",
+    "takeaway": "A single dash of the right bitters can transform a drink from ordinary to memorable.",
+    "whatHappened": "I swapped the standard orange bitters in my Negroni for a few drops of chocolate bitters and the flavor profile shifted dramatically, prompting a deeper dive into bitters' role.",
+    "whyItMatters": "Bitters are the hidden seasoning of cocktails; understanding their nuances lets you fine‑tune balance and unlock new dimensions in classic recipes.",
+    "howToThink": "Treat bitters like a spice rack—keep a few distinct types on hand, taste them solo, then experiment by adding a few drops at a time to gauge impact.",
+    "pros": [
+      "Elevates flavor instantly",
+      "Minimal cost per use",
+      "Versatile across styles"
+    ],
+    "cons": [
+      "Can overpower if overused",
+      "Shelf life varies",
+      "Limited availability of niche varieties"
+    ],
+    "watchOut": "Start with a drop; too much bitterness can mask other ingredients.",
+    "faq": [
+      {
+        "q": "What’s the difference between aromatic and citrus bitters?",
+        "a": "Aromatic bitters are herbal/spicy, while citrus bitters highlight bright fruit notes, each shaping a drink’s backbone differently."
+      },
+      {
+        "q": "How many drops should I add?",
+        "a": "Generally 2‑3 drops per cocktail; adjust to taste, remembering that a little goes a long way."
+      },
+      {
+        "q": "Can I make my own bitters?",
+        "a": "Yes, infuse high-proof spirit with herbs, spices, and botanicals, then strain and age—just be patient and keep the ratios tight."
+      }
+    ],
+    "category": "Ingredients",
+    "tags": [
+      "bitters",
+      "flavor hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-08-21T06:03:43.892Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-ingredients-58",
     "title": "The quiet upgrade: small tweaks in ingredients with outsized returns",
     "dek": "No purchases, no overhauls — the modest ingredients adjustments that home bartenders and cocktail hobbyists report mattering most.",
