@@ -1,5 +1,56 @@
 [
   {
+    "slug": "platform-planting",
+    "title": "Green platform pauses: turning idle stations into seed swaps",
+    "dek": "We turned a sleepy regional station into a pop‑up seed swap, proving slow travel can sprout community.",
+    "takeaway": "Even a brief stop can seed lasting local connections.",
+    "whatHappened": "During a layover at the small town of Brünn, we set up a temporary seed‑swap table beside the platform bench. Travelers and locals gathered, trading heirloom beans, kale, and stories while the train idled.",
+    "whyItMatters": "Seed swaps revive local biodiversity and give travelers a tangible way to contribute low‑impact goodwill. Turning idle time into community action reinforces the slow‑travel ethos of presence over speed.",
+    "howToThink": "Next time you spot an empty platform, bring a small pouch of native seeds and a simple sign. Invite fellow passengers to trade or donate, and coordinate with station staff for a quick clearance. Keep it low‑key, recyclable, and let the exchange be brief but meaningful.",
+    "pros": [
+      "Boosts local ecology",
+      "Fosters traveler‑resident connections",
+      "Zero cost, minimal setup"
+    ],
+    "cons": [
+      "Requires permission from staff",
+      "Weather dependent",
+      "Limited space for large crowds"
+    ],
+    "watchOut": "Make sure seeds are legal to transport and not invasive in the region.",
+    "faq": [
+      {
+        "q": "Can I do a seed swap at any station?",
+        "a": "Ideally choose smaller, less‑busy stations and get a quick nod from station personnel."
+      },
+      {
+        "q": "What kinds of seeds are safe to share?",
+        "a": "Stick to non‑invasive, locally adapted varieties and avoid regulated species."
+      },
+      {
+        "q": "How do I keep the setup low‑impact?",
+        "a": "Use reusable trays, biodegradable bags, and pack everything out when you leave."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "seed-swap",
+      "slow-travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-21T18:02:04.213Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-46",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",

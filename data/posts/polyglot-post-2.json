@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-drills-5min-vocab",
+    "title": "Micro‑drills: sharpening vocab in 5‑minute bursts",
+    "dek": "Boost word recall with ultra‑short, repeatable drills you can slot into any break.",
+    "takeaway": "Consistent 5‑minute vocab bursts outpace marathon sessions.",
+    "whatHappened": "I set a timer for five minutes each morning, pulling ten target words from my spaced‑repetition deck and quizzing myself with rapid flashcards. After two weeks the retention curve flattened dramatically compared to my previous 30‑minute study blocks.",
+    "whyItMatters": "Busy learners often skip practice because it feels too time‑intensive. Short, focused drills lower the activation barrier, turning idle moments into productive language exposure, which compounds over weeks.",
+    "howToThink": "Treat each micro‑drill as a sprint, not a marathon. Choose a tiny subset of words, use active recall only, and reset the timer. Consistency beats duration, so schedule them alongside coffee, commutes, or waiting rooms.",
+    "pros": [
+      "Easy to fit into any schedule",
+      "High focus improves recall",
+      "Minimal fatigue"
+    ],
+    "cons": [
+      "Limited depth per session",
+      "May feel repetitive",
+      "Requires strict timing"
+    ],
+    "watchOut": "Don’t let the brevity become an excuse to skim without true retrieval effort.",
+    "faq": [
+      {
+        "q": "How many words should I include per 5‑minute drill?",
+        "a": "Aim for 8‑12 words; enough to stay challenging but not overwhelm the timer."
+      },
+      {
+        "q": "Can I use this method for grammar points?",
+        "a": "Yes—swap words for short sentence transformations or rule recall."
+      },
+      {
+        "q": "What if I miss a day?",
+        "a": "Skip ahead; the habit is built on regularity, not perfection."
+      }
+    ],
+    "category": "Methods",
+    "tags": [
+      "micro‑learning",
+      "vocab retention"
+    ],
+    "sources": [
+      {
+        "label": "r/languagelearning community threads",
+        "url": "https://www.reddit.com/r/languagelearning/"
+      },
+      {
+        "label": "Search interest: \"comprehensible input method\"",
+        "url": "https://duckduckgo.com/?q=comprehensible%20input%20method"
+      }
+    ],
+    "publishedAt": "2026-08-21T18:02:14.794Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-language-learning-plateau-15",
     "title": "Myth vs. reality: language learning plateau",
     "dek": "The persistent myths around language learning plateau, stress-tested against what self-taught language learners actually report.",

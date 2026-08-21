@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-green-burst-3day-harvest",
+    "title": "Micro‑green burst: 3‑day harvest on a windowsill",
+    "dek": "Turn a sunny windowsill into a 3‑day micro‑green kitchen with minimal space and zero fuss.",
+    "takeaway": "You can grow fresh micro‑greens in under a week using a simple tray.",
+    "whatHappened": "I set up a shallow tray with a cotton pad, sprinkled a mix of radish and mustard seeds, and placed it on my east‑facing window. Within 48 hours the seedlings cracked open, and by day three they were ready to snip and toss into salads.",
+    "whyItMatters": "Fast, nutrient‑dense greens cut grocery trips and boost indoor air quality, a win for apartment living. The quick turnaround keeps momentum high, encouraging even beginners to keep the habit alive.",
+    "howToThink": "Use a reusable tray, keep the medium consistently damp but not soggy, and rotate the tray for even light. Harvest by cutting just above the pad to let the next batch grow. Experiment with different seed blends for flavor variety.",
+    "pros": [
+      "Fast harvest",
+      "Nutrient boost",
+      "Space‑saving"
+    ],
+    "cons": [
+      "Daily watering needed",
+      "Limited to light‑loving varieties",
+      "Tray must stay clean"
+    ],
+    "watchOut": "Avoid over‑watering; soggy media invites mold and stunts growth.",
+    "faq": [
+      {
+        "q": "Can I use any seed?",
+        "a": "Stick to small, fast‑germinating seeds like radish, mustard, broccoli, or basil for best results."
+      },
+      {
+        "q": "How much light do they need?",
+        "a": "At least 4–6 hours of direct sunlight or a 12‑hour LED grow light per day."
+      },
+      {
+        "q": "Do I need fertilizer?",
+        "a": "No – the seed reserves provide enough nutrients for the first week; add a light feed if you extend growth."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "microgreens",
+      "windowsill"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-21T18:02:02.979Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-composting-49",
     "title": "The quiet upgrade: small tweaks in composting with outsized returns",
     "dek": "No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.",
