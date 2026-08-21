@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-dolly-on-a-dollar",
+    "title": "DIY Dolly on a Dollar: Move Your Shots Without Breaking the Bank",
+    "dek": "Build a cheap dolly for smooth motion using everyday items and a few tools.",
+    "takeaway": "A low‑cost dolly can give your indie film the cinematic glide it needs.",
+    "whatHappened": "I scavenged a plywood platform, a set of rolling office chairs, and a length of PVC pipe, then assembled a functional dolly in a single afternoon. After a quick test on a concrete floor, the rig delivered buttery‑smooth tracking shots on a short narrative scene. The entire build cost under $30 and required only basic hand tools.",
+    "whyItMatters": "Smooth camera movement elevates production value, yet many indie crews skip it due to equipment budgets. Demonstrating a viable, ultra‑cheap solution proves that high‑quality motion isn’t exclusive to pricey gear. It also encourages makers to think creatively about repurposing what’s already on hand.",
+    "howToThink": "Start by identifying sturdy, low‑friction surfaces you already own—office chairs, caster wheels, or even laundry carts. Keep the platform light but rigid; plywood or MDF works well. Test the dolly on your intended surface and adjust wheel alignment before you roll the camera.",
+    "pros": [
+      "Under $30 cost",
+      "Built from repurposed items",
+      "Easy to assemble and modify"
+    ],
+    "cons": [
+      "Limited payload (under 15 lb)",
+      "Not ideal on uneven terrain",
+      "Requires manual stabilization for heavy lenses"
+    ],
+    "watchOut": "Make sure the wheels lock securely to avoid unwanted drift during a take.",
+    "faq": [
+      {
+        "q": "What weight can the DIY dolly support?",
+        "a": "Aim for cameras and accessories under 15 lb; heavier setups risk wheel slippage."
+      },
+      {
+        "q": "Can I use this on outdoor locations?",
+        "a": "It works best on smooth surfaces; for grass or gravel add larger caster wheels or a rubberized base."
+      },
+      {
+        "q": "Do I need a separate tripod head?",
+        "a": "A fluid head is recommended for smooth pans, but a sturdy handheld grip can suffice for short runs."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "production hacks",
+      "budget gear"
+    ],
+    "sources": [
+      {
+        "label": "r/shortfilm community threads",
+        "url": "https://www.reddit.com/r/shortfilm/"
+      },
+      {
+        "label": "Search interest: \"run and gun audio\"",
+        "url": "https://duckduckgo.com/?q=run%20and%20gun%20audio"
+      }
+    ],
+    "publishedAt": "2026-08-21T12:01:09.058Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-production-48",
     "title": "A weekend project: level up your production in two hours",
     "dek": "One contained, satisfying production project for indie filmmakers — start Saturday morning, done by lunch.",

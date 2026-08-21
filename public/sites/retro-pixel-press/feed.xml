@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>CRT‑friendly Master System: tweaking video for authentic glow</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-friendly-master-system.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-friendly-master-system.html</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:52 GMT</pubDate>
+      <description>Get your Master System looking like it did in 1990 with simple resistor tweaks for CRT bliss.</description>
+    </item>
+    <item>
       <title>Pixel-perfect timing: tweaking your Mega Drive controller for sub-10 ms input</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-mega-drive-controller.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-mega-drive-controller.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-15.html</guid>
       <pubDate>Thu, 20 Aug 2026 06:02:26 GMT</pubDate>
       <description>We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your indie questions, answered</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-38.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-38.html</guid>
-      <pubDate>Thu, 20 Aug 2026 05:14:51 GMT</pubDate>
-      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

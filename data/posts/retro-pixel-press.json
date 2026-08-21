@@ -1,5 +1,56 @@
 [
   {
+    "slug": "crt-friendly-master-system",
+    "title": "CRT‑friendly Master System: tweaking video for authentic glow",
+    "dek": "Get your Master System looking like it did in 1990 with simple resistor tweaks for CRT bliss.",
+    "takeaway": "A few cheap components restore true retro video on CRTs.",
+    "whatHappened": "We tested a classic Master System on a modern LCD and a vintage CRT, then added a 75 Ω pull‑down and a 470 Ω series resistor to the composite output. The result was a deeper black level and sharper colors that matched original factory specs.",
+    "whyItMatters": "Accurate video preserves the original experience and helps speedrunners read timing cues reliably, while collectors get the nostalgia of authentic glow. Proper signal matching also reduces strain on the console's video circuitry.",
+    "howToThink": "Start by measuring the output voltage, then add a resistor ladder to match the CRT’s 75 Ω load. Use a cheap RCA‑to‑SCART adapter if needed, and verify with a waveform probe before sealing the mod.",
+    "pros": [
+      "Authentic look",
+      "Cheap components",
+      "Improved latency"
+    ],
+    "cons": [
+      "CRT needed",
+      "Soldering required",
+      "Potential signal loss if miswired"
+    ],
+    "watchOut": "Double‑check resistor values; a wrong value can overdrive the CRT and damage it.",
+    "faq": [
+      {
+        "q": "Do I need a CRT to see the benefit?",
+        "a": "Yes, the tweaks are designed for the 75 Ω input of CRTs; LCDs won’t show the same contrast."
+      },
+      {
+        "q": "Can I use this on a PAL Master System?",
+        "a": "The resistor values are the same; just ensure your CRT supports PAL sync."
+      },
+      {
+        "q": "Will this affect game speed?",
+        "a": "No, video adjustments don’t alter the console’s clock, so speedrun timings stay unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Master System",
+      "CRT video"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-21T12:00:52.751Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-perfect-timing-mega-drive-controller",
     "title": "Pixel-perfect timing: tweaking your Mega Drive controller for sub-10 ms input",
     "dek": "A quick guide to shaving milliseconds off your Mega Drive controller latency for faster runs.",

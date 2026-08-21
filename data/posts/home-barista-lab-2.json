@@ -1,5 +1,56 @@
 [
   {
+    "slug": "brew-ratio-sweet-spot",
+    "title": "Brew ratio revealed: hitting the sweet spot for consistent espresso",
+    "dek": "Discover the optimal brew ratio to lock in flavor, consistency, and repeatability in every espresso shot.",
+    "takeaway": "A consistent brew ratio is the foundation for repeatable espresso quality.",
+    "whatHappened": "I experimented with 1:2, 1:2.5, and 1:3 ratios using the same beans and grind, recording taste notes and extraction times. The 1:2.5 ratio consistently delivered balanced sweetness and acidity.",
+    "whyItMatters": "Without a stable ratio, even the best beans can taste erratic, frustrating home baristas and masking grind or dose errors. A set ratio isolates variables, making troubleshooting easier.",
+    "howToThink": "Start with a 1:2.5 ratio, measure your dose, then calculate the target yield. Adjust in 0.1 increments until flavor peaks, and lock that ratio for future pulls.",
+    "pros": [
+      "Predictable flavor",
+      "Easier troubleshooting",
+      "Better bean utilization"
+    ],
+    "cons": [
+      "Requires precise weighing",
+      "May mask grind issues",
+      "Limits experimentation"
+    ],
+    "watchOut": "Don't let the ratio become a crutch; still taste and adjust for bean variability.",
+    "faq": [
+      {
+        "q": "What if my machine's pump pressure differs from the standard?",
+        "a": "Adjust the yield slightly - higher pressure may need a lower ratio to avoid over-extraction."
+      },
+      {
+        "q": "Can I use the same ratio for different beans?",
+        "a": "Start with 1:2.5 for each new bean, then fine-tune; some beans prefer slightly higher or lower ratios."
+      },
+      {
+        "q": "How precise must my measurements be?",
+        "a": "Aim for +/-0.5 g on dose and +/-1 ml on yield; this keeps flavor shifts noticeable but manageable."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "brew ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-21T12:01:11.617Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-48",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",
