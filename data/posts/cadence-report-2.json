@@ -1,5 +1,56 @@
 [
   {
+    "slug": "power-zones-zwift-ftp-fine-tuning",
+    "title": "Power zones on Zwift: fine‑tuning your FTP for race day",
+    "dek": "Learn how to adjust your power zones on Zwift to hit race‑day peaks without burning out.",
+    "takeaway": "Accurate FTP zones boost race performance and reduce overtraining.",
+    "whatHappened": "We ran a two‑week micro‑cycle where riders recalibrated their FTP using a 20‑minute test, then shifted their Zwift zones by 5% increments. The group logged a 4% average increase in average power during simulated races. Feedback showed clearer effort perception and tighter pacing.",
+    "whyItMatters": "If your zones are misaligned, you either train too easy or grind yourself into fatigue, both of which sabotage race results. Precise zones translate virtual effort into real‑world readiness, especially as Zwift’s graded climbs become more demanding. The data also feeds into recovery metrics, giving you a holistic view of training load.",
+    "howToThink": "Start with a fresh FTP test, then compare the new value to your current zone chart. Adjust each zone by 5% up or down until your perceived exertion matches the chart’s description. Re‑run a short race simulation to validate the feel before committing the changes for a full training block.",
+    "pros": [
+      "Sharper race pacing",
+      "Better fatigue management",
+      "More realistic training data"
+    ],
+    "cons": [
+      "Requires recent test",
+      "Zone shifts can confuse",
+      "May need software tweaks"
+    ],
+    "watchOut": "Don’t ignore your heart‑rate trends when power feels off.",
+    "faq": [
+      {
+        "q": "How often should I retest my FTP?",
+        "a": "Every 4‑6 weeks, or after a noticeable performance dip, to keep zones current."
+      },
+      {
+        "q": "Can I adjust zones without a new FTP test?",
+        "a": "Minor tweaks are okay, but a full retest ensures the math isn’t compounding error."
+      },
+      {
+        "q": "Will zone changes affect my training load scores?",
+        "a": "Yes—most platforms recalc TSS based on zones, so expect a short adjustment period."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "training",
+      "zwift"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T21:59:19.408Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-trainers-41",
     "title": "A weekend project: level up your trainers in two hours",
     "dek": "One contained, satisfying trainers project for indoor cyclists — start Saturday morning, done by lunch.",

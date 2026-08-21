@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-low-lag-hdmi-mod",
+    "title": "Unlocking the SNES: Low‑Lag HDMI Mod for Ultra‑Fast Frame Delivery",
+    "dek": "Upgrade your SNES with a cheap HDMI mod that cuts input lag and keeps the retro feel.",
+    "takeaway": "A simple HDMI mod can shave milliseconds off your input, giving speedrunners a competitive edge.",
+    "whatHappened": "A community member posted a step‑by‑step guide to install a low‑lag HDMI adapter on the classic SNES. Within days, dozens of collectors reported smoother visuals on modern displays. The mod uses a tiny FPGA board to translate the original video signal without added delay.",
+    "whyItMatters": "Speedrunners rely on every millisecond; even a tiny lag can throw off timing in precision runs. Preserving the authentic SNES experience while adapting to 1080p TVs bridges the gap between nostalgia and competition. The mod also future‑proofs the console for streaming and recording.",
+    "howToThink": "Start by sourcing a reputable FPGA HDMI kit and verify its voltage specs. Practice soldering on a scrap board before tackling the SNES motherboard. After installation, calibrate the video output in your emulator or TV settings to match the original color palette.",
+    "pros": [
+      "Sub‑millisecond latency",
+      "Plug‑and‑play HDMI output",
+      "Preserves original video quality"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential warranty void",
+      "May need firmware tweak"
+    ],
+    "watchOut": "Double‑check your power supply polarity to avoid frying the board.",
+    "faq": [
+      {
+        "q": "Do I need a new power supply for the HDMI board?",
+        "a": "Most kits run off the SNES's 5 V rail, but verify the current draw; a quality regulator is recommended."
+      },
+      {
+        "q": "Will this mod affect the cartridge slot?",
+        "a": "No, the video path is separate, so game compatibility remains unchanged."
+      },
+      {
+        "q": "Can I revert to the original AV output?",
+        "a": "Yes, the mod includes a switch to toggle back to the native RF/AV connectors."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "mods"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-21T21:58:50.368Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-43",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

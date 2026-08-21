@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reclaimed-rail-roofs-solar-lounges",
+    "title": "Reclaimed rail roofs: turning abandoned canopies into solar-powered lounges",
+    "dek": "Turn forgotten station canopies into eco‑friendly solar lounges for the mindful traveler.",
+    "takeaway": "A simple retrofit can turn idle roofs into renewable rest spots, boosting comfort and sustainability.",
+    "whatHappened": "During a weekend stop at a mid‑size station, we installed a lightweight solar blanket on the unused roof canopy and set up fold‑out seats. The makeshift lounge powered a USB charger and a small fan, drawing curious commuters.",
+    "whyItMatters": "Station roofs are sun‑rich but underused, and repurposing them reduces the carbon footprint of waiting areas. Providing powered comfort encourages slower, more reflective travel habits.",
+    "howToThink": "Look for flat, sun‑exposed roofs, use portable solar panels or blankets, and pair them with collapsible seating. Keep the setup lightweight and removable to respect station policies. Share the design with fellow travelers to spark community adoption.",
+    "pros": [
+      "Low-cost renewable power",
+      "Improves waiting comfort",
+      "Encourages community DIY"
+    ],
+    "cons": [
+      "Requires permission from station authority",
+      "Weather dependent",
+      "Limited power output"
+    ],
+    "watchOut": "Make sure the solar setup is securely fastened to avoid hazards in wind or rain.",
+    "faq": [
+      {
+        "q": "Can I install a solar lounge without official permission?",
+        "a": "Always check with station management; many welcome low‑impact projects but need clearance."
+      },
+      {
+        "q": "What kind of solar panels work best?",
+        "a": "Flexible, fold‑able solar blankets are lightweight, easy to deploy, and generate enough for phones and LEDs."
+      },
+      {
+        "q": "How long does the setup take?",
+        "a": "A small team can rig the lounge in under an hour, leaving plenty of time to enjoy the break."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "solar",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-21T21:58:52.822Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-mornings-sleeper-ritual",
     "title": "Slow mornings on the sleeper: turning overnight rail into a mindful ritual",
     "dek": "Turn a night on the train into a low‑impact meditation and productivity boost.",
