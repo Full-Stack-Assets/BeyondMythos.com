@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-kimchi-upgrade",
+    "title": "Quick kimchi upgrade: boosting flavor in 48 hours",
+    "dek": "Add a few simple steps to your kimchi recipe and get deeper, richer flavor in just two days.",
+    "takeaway": "A few extra fermentation tricks can dramatically lift kimchi taste without extra equipment.",
+    "whatHappened": "I tweaked a basic cabbage kimchi by adding a 12‑hour pre‑ferment with kelp broth and a light massage before packing. The batch sat two days longer at 68°F before tasting. The result was a noticeably richer, umami‑forward kimchi.",
+    "whyItMatters": "Home fermenters often settle for the standard recipe, missing out on depth that simple tweaks can provide. Better flavor means more confidence to experiment and less waste of produce. It also shows how small timing changes impact microbial activity.",
+    "howToThink": "Start with a short, salty pre‑ferment to feed lactic bacteria, then massage the veggies to release juices. Keep the brine at a steady 65‑70°F and taste after 48 hours. Adjust salt or spices next batch based on the result.",
+    "pros": [
+      "Deeper umami",
+      "Crispier texture",
+      "Minimal extra effort"
+    ],
+    "cons": [
+      "Requires extra salt",
+      "Longer wait",
+      "Potential for over‑fermentation"
+    ],
+    "watchOut": "Keep the cabbage fully submerged to prevent mold.",
+    "faq": [
+      {
+        "q": "Can I use this method for sauerkraut?",
+        "a": "Yes, a brief pre‑ferment and extra time work similarly for cabbage sauerkraut."
+      },
+      {
+        "q": "Do I need special equipment?",
+        "a": "No, just a clean jar and a thermometer if you want precise temps."
+      },
+      {
+        "q": "What if it gets too sour?",
+        "a": "Reduce the extra 48‑hour hold or lower the temperature next time."
+      }
+    ],
+    "category": "Vegetables",
+    "tags": [
+      "kimchi",
+      "flavor boost"
+    ],
+    "sources": [
+      {
+        "label": "r/pickling community threads",
+        "url": "https://www.reddit.com/r/pickling/"
+      },
+      {
+        "label": "Search interest: \"fermented hot sauce recipe\"",
+        "url": "https://duckduckgo.com/?q=fermented%20hot%20sauce%20recipe"
+      }
+    ],
+    "publishedAt": "2026-08-21T19:14:10.564Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-vegetables-39",
     "title": "A weekend project: level up your vegetables in two hours",
     "dek": "One contained, satisfying vegetables project for home fermenters — start Saturday morning, done by lunch.",

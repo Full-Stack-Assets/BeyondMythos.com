@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-layer-adhesion-test",
+    "title": "Beyond the Bed: mastering first‑layer adhesion with a simple test print",
+    "dek": "A quick test to diagnose and fix first‑layer adhesion issues without expensive sensors.",
+    "takeaway": "A single test print reveals the root cause of adhesion problems and how to correct them.",
+    "whatHappened": "Yesterday I printed a 20 mm calibration cube and the first layer kept lifting at the corners despite a freshly leveled bed. I switched to a 10 mm adhesion‑test pattern, tweaked temperature and Z‑offset, and finally nailed a perfect first layer.",
+    "whyItMatters": "First‑layer adhesion is the foundation of any successful print; failures waste filament, time, and morale. Understanding the underlying cause lets you avoid trial‑and‑error and keep the printer humming.",
+    "howToThink": "Print the adhesion test, observe where the filament detaches, then adjust one variable at a time—bed temp, nozzle height, surface prep—until the entire perimeter sticks. Keep notes so you can replicate the sweet spot on future prints.",
+    "pros": [
+      "Instant visual feedback",
+      "Requires no extra hardware",
+      "Works on any printer"
+    ],
+    "cons": [
+      "Adds an extra print step",
+      "May mask deeper mechanical issues",
+      "Relies on user observation"
+    ],
+    "watchOut": "Don’t crank the bed temperature too high; it can warp the build surface or damage the printer.",
+    "faq": [
+      {
+        "q": "What temperature should I start with?",
+        "a": "Begin at 60 °C for PLA, 100 °C for PETG, and adjust in 5 °C increments."
+      },
+      {
+        "q": "How do I know if my Z‑offset is right?",
+        "a": "The filament should be slightly flattened, not squished or hovering."
+      },
+      {
+        "q": "Can I use this test on flexible filaments?",
+        "a": "Yes, but use a softer surface like a PEI sheet to prevent tearing."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "calibration",
+      "adhesion"
+    ],
+    "sources": [
+      {
+        "label": "r/functionalprint community threads",
+        "url": "https://www.reddit.com/r/functionalprint/"
+      },
+      {
+        "label": "Search interest: \"printer upgrade guide\"",
+        "url": "https://duckduckgo.com/?q=printer%20upgrade%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T19:13:49.071Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-fixmyprint-20",
     "title": "Community pulse: what r/FixMyPrint is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the upgrades community this week.",

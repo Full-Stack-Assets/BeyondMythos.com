@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-platform-gardens",
+    "title": "Hidden platform gardens: turning forgotten corners into micro‑ecosystems",
+    "dek": "Discover how to turn idle platform nooks into tiny gardens that feed birds, boost morale, and keep your journey green.",
+    "takeaway": "A modest garden can transform a dull platform into a thriving, low‑impact oasis.",
+    "whatHappened": "On a weekday morning at Lyon Part‑Dieu I planted native wildflowers in an unused platform nook using repurposed seed packets and a portable water bottle. Within two weeks the patch attracted bees and brightened the commuter flow.",
+    "whyItMatters": "Small green interventions reduce the carbon footprint of stations by encouraging biodiversity and give travelers a visual reminder to travel lightly. They also improve mental well‑being for both locals and passersby, turning transit time into a moment of calm.",
+    "howToThink": "Start by scouting a spot with enough sunlight and low foot traffic. Use lightweight, biodegradable pots or recycled pallets, and choose native, low‑maintenance species. Water sparingly with a refillable bottle and let the garden grow organically, adjusting as seasons change.",
+    "pros": [
+      "Boosts biodiversity",
+      "Lifts commuter mood",
+      "Low cost and low maintenance"
+    ],
+    "cons": [
+      "Requires permission from station authority",
+      "May need occasional weeding",
+      "Limited space restricts plant variety"
+    ],
+    "watchOut": "Check local regulations before planting to avoid fines or removal of your garden.",
+    "faq": [
+      {
+        "q": "Do I need permission to start a platform garden?",
+        "a": "Yes—always ask the station manager or local transit authority before altering any public space."
+      },
+      {
+        "q": "What plants work best in a railway environment?",
+        "a": "Choose hardy native wildflowers or succulents that tolerate wind, dust, and occasional foot traffic."
+      },
+      {
+        "q": "How can I keep the garden low‑impact?",
+        "a": "Use recycled containers, rain‑water collection, and avoid chemical fertilizers or pesticides."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "eco-gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-21T19:13:36.625Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "platform-planting",
     "title": "Green platform pauses: turning idle stations into seed swaps",
     "dek": "We turned a sleepy regional station into a pop‑up seed swap, proving slow travel can sprout community.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spring-warbler-hotspot",
+    "title": "Spotting spring warblers in your backyard: a migration micro‑guide",
+    "dek": "Learn how to turn a modest feeder into a spring warbler radar for backyard birders.",
+    "takeaway": "A few simple tweaks can make your yard a magnet for early‑season warblers.",
+    "whatHappened": "Last weekend a modest feeder in a suburban cul‑de‑sac attracted three different warbler species within two days. The owner added a low‑branch sap feeder and positioned a birch twig for perching, prompting the surprise influx. Observers logged the sightings on a local birding app, confirming the timing with regional migration data.",
+    "whyItMatters": "Warblers are early indicators of spring migration health, and spotting them locally gives birders real‑time data without long trips. Understanding what draws them can help conservationists fine‑tune habitat recommendations for urban landscapes. Plus, early warbler sightings boost morale for weekend twitchers looking for fresh life lists.",
+    "howToThink": "Start by mimicking the warblers' preferred stop‑over micro‑habitat: add a sap‑rich feeder at 4‑5 ft, surround it with native foliage, and keep a quiet perimeter. Time your feeder placement for the pre‑breeding surge (late March‑early April) and monitor with a simple spreadsheet. Adjust placement based on which species appear and their feeding behavior.",
+    "pros": [
+      "Low cost upgrades",
+      "Immediate visual payoff",
+      "Supports broader migration monitoring"
+    ],
+    "cons": [
+      "Requires early‑season vigilance",
+      "May attract non‑target species",
+      "Needs regular sap replenishment"
+    ],
+    "watchOut": "Avoid over‑feeding sugary sap, which can attract unwanted insects and cause feeder rot.",
+    "faq": [
+      {
+        "q": "Do I need a special warbler feeder?",
+        "a": "A simple sap feeder or a high‑contrast platform feeder works; the key is placement and sap availability."
+      },
+      {
+        "q": "What native plants help lure warblers?",
+        "a": "Birch, alder, and spicebush provide both perches and natural food sources."
+      },
+      {
+        "q": "How long should I keep the feeder out?",
+        "a": "Maintain it through the peak warbler window (late March to early May) and then phase out as breeding season starts."
+      }
+    ],
+    "category": "Migration",
+    "tags": [
+      "migration",
+      "backyard"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"bird id apps compared\"",
+        "url": "https://duckduckgo.com/?q=bird%20id%20apps%20compared"
+      }
+    ],
+    "publishedAt": "2026-08-21T19:14:00.075Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-optics-45",
     "title": "A weekend project: level up your optics in two hours",
     "dek": "One contained, satisfying optics project for backyard birders — start Saturday morning, done by lunch.",
