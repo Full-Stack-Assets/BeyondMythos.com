@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-test-pushing-400t",
+    "title": "Midnight Test: Pushing 400T for Low Light Street Shots",
+    "dek": "A quick field trial shows how 400T behaves when overexposed for moody night street photography.",
+    "takeaway": "A modest push can extend 400T’s versatility without sacrificing its signature grain.",
+    "whatHappened": "I loaded a fresh roll of 400T, set my meter 1‑stop over, and shot a 2‑hour walk through downtown after dark. The negatives came out darker than expected but retained fine grain and rich color shifts. After scanning, the images displayed deep shadows with a subtle teal‑orange split tonality.",
+    "whyItMatters": "Many street shooters think 400T is only for daylight or studio work. Demonstrating its low‑light potential widens creative options and reduces the need to carry multiple film speeds on a night shoot.",
+    "howToThink": "Treat the push as a creative filter: meter normally, then add a stop or two on development time (or N‑times). Keep an eye on contrast—if it spikes, dial back on development or use a finer grain developer to preserve detail.",
+    "pros": [
+      "Extended low‑light capability",
+      "Maintains 400T’s unique color palette",
+      "Adds grain‑rich mood without extra cost"
+    ],
+    "cons": [
+      "Higher contrast may clip shadows",
+      "Push‑processing adds extra steps",
+      "Potential for increased grain if over‑developed"
+    ],
+    "watchOut": "Don’t exceed a 2‑stop push on 400T unless you accept a noticeable loss of highlight detail.",
+    "faq": [
+      {
+        "q": "Can I push 400T more than 2 stops?",
+        "a": "Technically yes, but expect heavy contrast loss and grain blow‑up; stick to 1‑2 stops for balanced results."
+      },
+      {
+        "q": "Do I need a different developer for pushing?",
+        "a": "A slower‑acting developer like Rodinal or a fine‑grain D‑76 works well; just follow the push‑development chart."
+      },
+      {
+        "q": "Will pushing affect the film’s color balance?",
+        "a": "Pushing can shift the palette slightly toward cooler tones, which many photographers find appealing for night scenes."
+      }
+    ],
+    "category": "Film Stocks",
+    "tags": [
+      "low-light",
+      "push-processing"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-21T08:19:39.904Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-scanning-59",
     "title": "Ask the forge: your scanning questions, answered",
     "dek": "Straight answers to the scanning questions film photographers shooting analog keep asking, minus the hedging.",

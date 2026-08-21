@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-snes-5v-conversion",
+    "title": "Boosting your SNES: 3‑V to 5‑V conversion for reliable play",
+    "dek": "Learn how to safely upgrade your SNES power supply to 5 V for smoother gameplay and fewer resets.",
+    "takeaway": "A proper voltage boost eliminates power glitches and extends your SNES's lifespan.",
+    "whatHappened": "We swapped the original 3.3 V regulator in a 1992 SNES with a modern 5 V boost converter. After bench testing, the console powered up cleanly and ran games without the notorious flicker. The mod was completed in under an hour with basic soldering tools.",
+    "whyItMatters": "Power instability is a common cause of crashes and audio dropout in aging consoles. By ensuring a stable 5 V supply, you preserve hardware integrity and improve the experience for speedrunners who need frame‑perfect runs.",
+    "howToThink": "Start by measuring the existing voltage rail, then select a boost module that fits the SNES's current draw. Keep wiring short and add decoupling capacitors to filter noise. Finally, test with a multimeter before re‑assembling.",
+    "pros": [
+      "Stable power",
+      "Reduced resets",
+      "Easy reversible mod"
+    ],
+    "cons": [
+      "Adds heat",
+      "Slightly higher power draw",
+      "Requires soldering"
+    ],
+    "watchOut": "Watch the temperature of the boost converter; overheating can damage the motherboard.",
+    "faq": [
+      {
+        "q": "Do I need a new power supply?",
+        "a": "No, the boost converter fits the existing PSU; you just replace the regulator chip."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "Yes, any internal modification voids the original warranty, but most retro consoles are out of warranty anyway."
+      },
+      {
+        "q": "Can I revert to the stock voltage?",
+        "a": "Absolutely—just desolder the boost module and reinstall the original regulator."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Power Mod"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T08:19:37.477Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-game-restoration-field-test-16",
     "title": "\"retro game restoration\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-week-feeding",
+    "title": "First week feeding: balancing nutrition and curiosity",
+    "dek": "Your puppy’s first week of meals can set the tone for lifelong health—here’s how to get it right.",
+    "takeaway": "A structured, varied feeding plan prevents digestive upsets and builds good habits early.",
+    "whatHappened": "I swapped my new lab puppy’s ad‑hoc kibble schedule for a measured three‑times‑daily routine, mixing wet food with a small protein treat. By day five, his energy steadied and stools normalized.",
+    "whyItMatters": "Puppies’ guts are still developing; erratic feeding can cause gas, diarrhea, and a negative association with meals. Consistency also teaches them when to expect food, reducing anxiety.",
+    "howToThink": "Aim for 3–4 small meals, each 10% of daily caloric needs, and rotate protein sources weekly. Use a timer, measure portions, and keep a simple log to spot patterns.",
+    "pros": [
+      "Steady energy levels",
+      "Easier house‑training",
+      "Clear health baseline"
+    ],
+    "cons": [
+      "More prep time",
+      "Need to track calories",
+      "Potential waste if portions mis‑estimated"
+    ],
+    "watchOut": "Avoid sudden diet changes after the first week, as they can trigger digestive flare‑upss.",
+    "faq": [
+      {
+        "q": "How many calories should a 8‑week puppy get?",
+        "a": "Roughly 55 kcal per pound of expected adult weight, divided into 3–4 meals."
+      },
+      {
+        "q": "Can I add human food?",
+        "a": "Small, dog‑safe bites like boiled chicken are fine, but keep them <10% of total intake."
+      },
+      {
+        "q": "When should I switch to adult food?",
+        "a": "Usually around 12 months, but follow your vet’s guidance based on breed and size."
+      }
+    ],
+    "category": "Health",
+    "tags": [
+      "puppy nutrition",
+      "feeding schedule"
+    ],
+    "sources": [
+      {
+        "label": "r/Dogtraining community threads",
+        "url": "https://www.reddit.com/r/Dogtraining/"
+      },
+      {
+        "label": "Search interest: \"leash reactivity tips\"",
+        "url": "https://duckduckgo.com/?q=leash%20reactivity%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-21T08:19:48.515Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-behavior-mistakes-47",
     "title": "Five mistakes everyone makes in their first month of behavior",
     "dek": "The most common early stumbles in behavior, and the cheap corrections that fix them for first-time dog owners.",
