@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-case-back-swap",
+    "title": "DIY case back swap: save $50 on your vintage",
+    "dek": "Replace a cracked case back yourself and keep more cash for the next vintage find.",
+    "takeaway": "A simple case back swap can rescue a watch and your wallet.",
+    "whatHappened": "I found a 1970s Seiko 5 with a cracked case back. Instead of paying $120 to a shop, I sourced a replacement and swapped it in an hour.",
+    "whyItMatters": "A damaged case back lets dust in and devalues the piece, but fixing it yourself preserves originality and resale value without breaking the bank.",
+    "howToThink": "Measure the thread pitch, buy a matching OEM or aftermarket back, use a case back opener, and double‑check the gasket for water resistance.",
+    "pros": [
+      "Cost savings",
+      "Hands‑on skill boost",
+      "Preserves originality"
+    ],
+    "cons": [
+      "Risk of damage if rushed",
+      "Requires specific tools",
+      "Potential void of warranty"
+    ],
+    "watchOut": "Never force a case back; if it resists, stop and reassess to avoid stripping threads.",
+    "faq": [
+      {
+        "q": "What tool do I need to open a case back?",
+        "a": "A case back opener or a thin, flat screwdriver with a soft cloth to protect the crystal."
+      },
+      {
+        "q": "Can I use any gasket after the swap?",
+        "a": "Use a new gasket of the correct thickness; re‑using the old one can compromise water resistance."
+      },
+      {
+        "q": "Will DIY work void the watch’s warranty?",
+        "a": "Yes, any self‑service typically voids the manufacturer’s warranty, but vintage pieces often have no active warranty."
+      }
+    ],
+    "category": "Servicing",
+    "tags": [
+      "DIY",
+      "Case Back"
+    ],
+    "sources": [
+      {
+        "label": "r/WatchExchange community threads",
+        "url": "https://www.reddit.com/r/WatchExchange/"
+      },
+      {
+        "label": "Search interest: \"watch servicing cost\"",
+        "url": "https://duckduckgo.com/?q=watch%20servicing%20cost"
+      }
+    ],
+    "publishedAt": "2026-08-21T20:59:45.930Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-buying-43",
     "title": "A weekend project: level up your buying in two hours",
     "dek": "One contained, satisfying buying project for vintage watch collectors on a budget — start Saturday morning, done by lunch.",

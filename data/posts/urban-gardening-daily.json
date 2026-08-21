@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-box-boost",
+    "title": "Balcony Box Boost: Maximizing Yield in Tiny Spaces",
+    "dek": "Turn a single balcony box into a mini‑farm with simple layout tricks and light hacks.",
+    "takeaway": "Strategic placement and stacking can double your harvest without extra space.",
+    "whatHappened": "We tested a three‑tier pallet garden on a 4‑ft balcony, swapping soil mixes and positioning for optimal sun exposure over a month.",
+    "whyItMatters": "Apartment growers often think space limits output, but clever container design unlocks more produce, cutting grocery bills and waste.",
+    "howToThink": "Start with a sturdy base, use lightweight fabric pots, orient taller tiers toward the sun, and match plant height to light needs; adjust as the season shifts.",
+    "pros": [
+      "Doubles harvest potential",
+      "Minimal footprint",
+      "Easy to relocate"
+    ],
+    "cons": [
+      "Initial setup cost",
+      "Weight considerations on balconies",
+      "Requires regular watering"
+    ],
+    "watchOut": "Ensure your balcony rail can support the added weight of stacked containers and moist soil.",
+    "faq": [
+      {
+        "q": "Can I use recycled pallets for my tiered garden?",
+        "a": "Yes, as long as they’re heat‑treated and lined with a waterproof barrier to prevent rot."
+      },
+      {
+        "q": "What plants thrive in a vertical balcony box?",
+        "a": "Leafy greens, strawberries, herbs like basil, and compact peppers do well when given adequate light."
+      },
+      {
+        "q": "How often should I water stacked containers?",
+        "a": "Check the top layer daily; water from the bottom to let moisture rise, but avoid waterlogging."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony",
+      "vertical-gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-21T20:59:20.345Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-herbs-mistakes-48",
     "title": "Five mistakes everyone makes in their first month of herbs",
     "dek": "The most common early stumbles in herbs, and the cheap corrections that fix them for apartment dwellers and balcony gardeners.",

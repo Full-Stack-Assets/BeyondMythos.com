@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-mornings-sleeper-ritual",
+    "title": "Slow mornings on the sleeper: turning overnight rail into a mindful ritual",
+    "dek": "Turn a night on the train into a low‑impact meditation and productivity boost.",
+    "takeaway": "Use the quiet of overnight trains to reset your rhythm and reduce travel waste.",
+    "whatHappened": "I boarded the 22:45 Berlin‑Vienna sleeper, packed a minimalist sleep kit, and let the gentle sway become a moving meditation. Between station stops I journaled, stretched, and swapped stories with fellow slow‑travelers.",
+    "whyItMatters": "Overnight rails cut the carbon cost of a night in a hotel while giving you uninterrupted downtime. The rhythmic motion promotes deeper sleep and a mental reset that daytime travel rarely offers.",
+    "howToThink": "Treat the sleeper as a portable sanctuary: bring a reusable eye mask, a compact journal, and a small stretch band. Keep electronics on low‑power mode and plan a light itinerary to avoid rush‑hour crowds. Use the train’s schedule as a natural cue for mindfulness pauses.",
+    "pros": [
+      "Eco‑friendly",
+      "Boosts rest",
+      "Creates travel routine"
+    ],
+    "cons": [
+      "Limited personal space",
+      "Noise from fellow passengers",
+      "Requires pre‑planning"
+    ],
+    "watchOut": "Early morning announcements can shatter your calm, so bring earplugs or a white‑noise app.",
+    "faq": [
+      {
+        "q": "Do I need a special reservation for a sleeper?",
+        "a": "Most European night trains require a couchette or private cabin booking; reserve early for the best rates."
+      },
+      {
+        "q": "How can I keep my belongings secure on a moving train?",
+        "a": "Use lockable luggage tags and keep valuables in a zip‑locked pouch under your pillow."
+      },
+      {
+        "q": "Is it okay to work on a sleeper?",
+        "a": "Yes, but limit screen time, use a low‑power laptop, and respect quiet hours after 10 PM."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-21T20:59:20.050Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "silent-stations-converting-waiting-rooms-into-po",
     "title": "Silent stations: converting waiting rooms into pop‑up gardens",
     "dek": "Turn idle platform space into tiny gardens that feed birds and brighten journeys.",

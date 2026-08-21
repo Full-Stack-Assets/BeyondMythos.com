@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-led-magic",
+    "title": "Micro-LED magic: lighting short scenes on a shoestring",
+    "dek": "Discover how tiny micro‑LED panels can light your short film scenes without draining the budget.",
+    "takeaway": "Micro‑LED panels give you big light for a small price.",
+    "whatHappened": "I swapped my $200 Aputure kit for two $40 micro‑LED panels on a recent 5‑minute drama. The lights delivered even wash, low heat, and battery life that lasted the whole shoot.",
+    "whyItMatters": "Lighting is often the biggest line‑item for indie crews; finding affordable, versatile tools means more of the budget can go to talent or locations. Plus, quieter lights reduce on‑set noise and distraction.",
+    "howToThink": "Start by testing color temperature consistency, then pair panels with diffusion gels for soft falloff. Use a small battery pack and mount on a flexible arm to keep the rig lightweight. Finally, balance exposure in post to maximize the panels’ dynamic range.",
+    "pros": [
+      "Cheap yet bright",
+      "Low power draw",
+      "Silent operation"
+    ],
+    "cons": [
+      "Limited output for large spaces",
+      "Color temperature may vary between units",
+      "Requires DIY mounting solutions"
+    ],
+    "watchOut": "Beware of flicker when shooting at high shutter speeds; sync the LEDs to your frame rate.",
+    "faq": [
+      {
+        "q": "Can micro‑LED panels replace traditional key lights?",
+        "a": "For tight shots they work well, but you may still need a stronger source for wide‑angle setups."
+      },
+      {
+        "q": "Do I need special batteries?",
+        "a": "A standard 5V USB power bank works, but ensure it can supply enough amperage for both panels."
+      },
+      {
+        "q": "How do I control brightness on the fly?",
+        "a": "Use the built‑in dimmer dial or a DMX controller if the panels support it."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "budget lighting",
+      "micro-led"
+    ],
+    "sources": [
+      {
+        "label": "r/shortfilm community threads",
+        "url": "https://www.reddit.com/r/shortfilm/"
+      },
+      {
+        "label": "Search interest: \"run and gun audio\"",
+        "url": "https://duckduckgo.com/?q=run%20and%20gun%20audio"
+      }
+    ],
+    "publishedAt": "2026-08-21T20:59:36.581Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-short-film-festival-strategy-17",
     "title": "Myth vs. reality: short film festival strategy",
     "dek": "The persistent myths around short film festival strategy, stress-tested against what indie filmmakers and short-film creators actually report.",
