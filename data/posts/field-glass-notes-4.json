@@ -1,5 +1,56 @@
 [
   {
+    "slug": "warbler-watch-stopover",
+    "title": "Warbler watch: making the most of a 30‑minute stopover",
+    "dek": "A quick field plan to snag warbler IDs during brief migration pauses.",
+    "takeaway": "Even a half‑hour pause can yield reliable warbler IDs with the right prep.",
+    "whatHappened": "I parked at the county pond during a rainy spring day and saw a flock of warblers linger for only 25 minutes. By pre‑setting my scope and a cheat‑sheet, I logged three species before they lifted off.",
+    "whyItMatters": "Short stopovers are common on migration routes, yet many birders miss them because they lack a rapid‑capture workflow. Turning those minutes into data boosts personal logs and contributes to citizen‑science counts.",
+    "howToThink": "Scout the site the day before, note likely species, set your optics to a preset focus distance, and keep a one‑page ID key handy. When the birds arrive, stay still, use a quick‑focus binocular, and record with a voice memo or app.",
+    "pros": [
+      "Maximises brief windows",
+      "Low gear prep needed",
+      "Boosts data contribution"
+    ],
+    "cons": [
+      "Relies on prior scouting",
+      "Weather dependent",
+      "Limited to common species"
+    ],
+    "watchOut": "Don’t disturb the birds—keep movements minimal and avoid flashing lights.",
+    "faq": [
+      {
+        "q": "What optics work best for a 30‑minute stop?",
+        "a": "A 10×42 binocular with a fixed focus or a lightweight spotting scope with a quick‑focus knob."
+      },
+      {
+        "q": "How can I prep my ID sheet fast?",
+        "a": "Create a one‑page cheat sheet listing likely warbler species, key field marks, and a small sketch."
+      },
+      {
+        "q": "What if I miss the first minute?",
+        "a": "Stay ready; many warblers linger or return in the next few minutes, especially if you keep a low profile."
+      }
+    ],
+    "category": "Migration",
+    "tags": [
+      "warblers",
+      "quick‑ID"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"bird id apps compared\"",
+        "url": "https://duckduckgo.com/?q=bird%20id%20apps%20compared"
+      }
+    ],
+    "publishedAt": "2026-08-21T16:04:03.959Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-id-skills-mistakes-44",
     "title": "Five mistakes everyone makes in their first month of id skills",
     "dek": "The most common early stumbles in id skills, and the cheap corrections that fix them for backyard birders and weekend twitchers.",

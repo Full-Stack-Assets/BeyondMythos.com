@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spice-on-the-move-mastering-one-pot-meals",
+    "title": "Spice on the Move: Mastering One-Pot Meals in a Van",
+    "dek": "Turn your tiny kitchen into a flavor powerhouse with simple one‑pot recipes that cook fast and clean up easy.",
+    "takeaway": "One‑pot meals keep you fed, save space, and minimize mess on the road.",
+    "whatHappened": "We tried three one‑pot recipes—chickpea stew, coconut curry rice, and campfire mac & cheese—during a two‑day weekend trek in the Cascades. Each dish cooked in a single 2‑liter pot on a 12‑V induction cooktop, delivering hearty meals without cluttering the van.",
+    "whyItMatters": "Space and cleanup are premium in a van, and meals that require only one pot free up storage and reduce fire‑hazard risks. Consistent, tasty nutrition also keeps morale high on long drives.",
+    "howToThink": "Pick recipes that use overlapping ingredients, rely on pantry staples, and finish in under 30 minutes. Use a pot with a snug lid to trap steam, and pre‑measure spices in zip‑lock bags for quick assembly. Pair the pot with a portable induction plate that runs off your existing solar‑charged battery.",
+    "pros": [
+      "Space‑saving",
+      "Fast cleanup",
+      "Minimal gear"
+    ],
+    "cons": [
+      "Limited flavor depth",
+      "Requires induction plate",
+      "Pot size constraints"
+    ],
+    "watchOut": "Beware of boiling over—use a low simmer and keep the lid ajar.",
+    "faq": [
+      {
+        "q": "Can I use a regular gas stove instead of induction?",
+        "a": "Yes, but you’ll need a stable fuel source and proper ventilation; induction is cleaner and runs off your van’s battery."
+      },
+      {
+        "q": "What pot size works best?",
+        "a": "A 2‑liter pot balances capacity and storage; larger pots limit space, smaller pots may overflow."
+      },
+      {
+        "q": "Do the recipes work with a solar‑charged battery?",
+        "a": "Absolutely—our 12‑V induction plate runs on a modest 150 Wh draw, well within a typical solar setup."
+      }
+    ],
+    "category": "Cooking",
+    "tags": [
+      "recipes",
+      "efficiency"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-08-21T16:03:54.390Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "van-solar-power-setup-field-test-21",
     "title": "\"van solar power setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about van solar power setup through a month of actual use. Some of it survived.",

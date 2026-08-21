@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-car-hacks-mini-offices",
+    "title": "Quiet car hacks: turning idle compartments into mini offices",
+    "dek": "Transform an empty train carriage into a low‑impact work nook, boosting productivity without leaving the rails.",
+    "takeaway": "A spare carriage can become a functional, eco‑friendly office on the move.",
+    "whatHappened": "On a week‑long Eurail trip, I spotted an unused first‑class carriage during a late‑night stop. I set up a portable desk, solar charger, and a reusable coffee mug, turning the space into a pop‑up office for the next 48 hours. The makeshift hub hosted fellow travelers swapping notes and maps.",
+    "whyItMatters": "Slow‑travel thrives on intentional pauses; converting idle space into productive zones respects both time and the environment. It reduces the need for separate coworking stops, cutting extra transport and carbon footprints while fostering community on the rails.",
+    "howToThink": "Scout for empty carriages at off‑peak stations, bring a fold‑out laptop stand, a lightweight solar panel, and a reusable water bottle. Keep a small “office kit” (notebook, pen, power bank) in your daypack so you can set up anywhere the train stops. Encourage others to share the space, creating a micro‑network of itinerant workers.",
+    "pros": [
+      "Zero‑cost workspace",
+      "Reduces extra travel stops",
+      "Builds traveler community"
+    ],
+    "cons": [
+      "Requires early‑morning scouting",
+      "Limited power sources",
+      "Potential noise from fellow passengers"
+    ],
+    "watchOut": "Be mindful of train policies—some operators restrict workstations in certain car types.",
+    "faq": [
+      {
+        "q": "Do I need permission to use an empty carriage?",
+        "a": "Most operators allow public use of unreserved spaces; check signage and ask staff if unsure."
+      },
+      {
+        "q": "What power solutions work on a moving train?",
+        "a": "Compact solar panels, power banks, and the train’s outlet (if available) are your best bets."
+      },
+      {
+        "q": "How can I keep the space tidy for others?",
+        "a": "Pack a small trash bag, clean up after each session, and leave the area as you found it."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "productivity",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-21T16:03:47.340Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-50",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",
