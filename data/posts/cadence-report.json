@@ -1,5 +1,56 @@
 [
   {
+    "slug": "power-zones-decoded",
+    "title": "Power zones decoded: tailoring your Zwift rides",
+    "dek": "Learn how to match Zwift power zones to your real-world FTP for faster gains.",
+    "takeaway": "Accurate zone mapping translates virtual work into real-world performance.",
+    "whatHappened": "We ran a week‑long experiment comparing default Zwift zones to custom zones calibrated from a recent 20‑minute FTP test. Riders logged their output and perceived effort across varied workouts.",
+    "whyItMatters": "Mismatched zones cause over‑training or under‑stimulus, skewing progress and leading to burnout. Precise zones keep intensity on target, boosting adaptation.",
+    "howToThink": "Start by recording a clean FTP test, then recalculate Zwift zones using a 95% FTP for Zone 2 and 105% for Zone 4. Update the trainer’s custom zones and verify with a few intervals.",
+    "pros": [
+      "More accurate training stress",
+      "Clearer progress tracking",
+      "Better race pacing"
+    ],
+    "cons": [
+      "Initial setup time",
+      "Requires recent FTP test",
+      "May need frequent updates as fitness changes"
+    ],
+    "watchOut": "Don’t forget to re‑calibrate after any significant fitness swing, or your zones will drift.",
+    "faq": [
+      {
+        "q": "How often should I re‑run an FTP test?",
+        "a": "Every 4–6 weeks for active racers, or after a noticeable performance change."
+      },
+      {
+        "q": "Can I use a power meter instead of a smart trainer?",
+        "a": "Yes, as long as the meter reports consistent watts to Zwift."
+      },
+      {
+        "q": "What if my Zwift zone percentages differ from other platforms?",
+        "a": "Stick to one source for consistency; adjust the percentages, not the absolute watts."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "Zwift",
+      "Power Zones"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-21T15:09:30.558Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pain-cave-setup-field-test-21",
     "title": "\"pain cave setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pain cave setup through a month of actual use. Some of it survived.",

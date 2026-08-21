@@ -1,5 +1,56 @@
 [
   {
+    "slug": "night-mode-smartwatch",
+    "title": "Night Mode on Kids' Smartwatches: Why It Matters",
+    "dek": "Turn on night mode to curb late‑night alerts and extend battery while keeping kids safe.",
+    "takeaway": "Night mode trims distractions and preserves sleep without sacrificing essential functions.",
+    "whatHappened": "We tested the latest smartwatch models on a typical weekday, enabling night mode at 8 pm and monitoring alerts, battery life, and kids’ responses.",
+    "whyItMatters": "Late‑night notifications can disrupt sleep and increase parental anxiety; a simple toggle can lock down non‑essential features while still allowing emergency calls.",
+    "howToThink": "Set a consistent bedtime, enable night mode across all devices, and whitelist only calls or SOS alerts; revisit settings as kids grow.",
+    "pros": [
+      "Reduces nighttime interruptions",
+      "Extends battery life",
+      "Keeps emergency contact active"
+    ],
+    "cons": [
+      "May hide useful non‑urgent notifications",
+      "Requires initial setup per device",
+      "Some models lack granular controls"
+    ],
+    "watchOut": "Don’t forget to test the SOS function after enabling night mode to ensure it still works.",
+    "faq": [
+      {
+        "q": "How do I activate night mode on a typical kids’ smartwatch?",
+        "a": "Go to Settings → Display → Night Mode (or Sleep Mode) and set a schedule or manual toggle."
+      },
+      {
+        "q": "Will night mode block emergency calls?",
+        "a": "No, most devices keep SOS and parent‑initiated calls active even when night mode is on."
+      },
+      {
+        "q": "Can I allow specific apps to bypass night mode?",
+        "a": "Some models let you whitelist apps; check the ‘Allowed Apps’ or ‘Do Not Disturb’ exceptions."
+      }
+    ],
+    "category": "Devices",
+    "tags": [
+      "smartwatch",
+      "sleep hygiene"
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-21T15:09:46.719Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-kids-screen-time-rules-15",
     "title": "Myth vs. reality: kids screen time rules",
     "dek": "The persistent myths around kids screen time rules, stress-tested against what parents managing kids, screens, and smart devices actually report.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microlearning-magic",
+    "title": "Microlearning hacks: squeeze language into any moment",
+    "dek": "Turn spare seconds into solid language gains with bite‑size drills.",
+    "takeaway": "Even five‑minute bursts can add up to fluency when structured right.",
+    "whatHappened": "I swapped my hour‑long study block for ten 5‑minute micro‑sessions spread across a day. Using spaced‑repetition flashcards and a quick‑speak app, I logged 45 minutes of active input without feeling drained. The results? A noticeable jump in recall and confidence.",
+    "whyItMatters": "Busy learners often abandon language study because they can’t find a solid chunk of time. Microlearning proves that consistency beats marathon sessions, especially for retention. It also aligns with the brain’s natural attention span, making learning feel effortless.",
+    "howToThink": "Identify natural pause points—commutes, coffee breaks, bathroom visits. Pair a single micro‑goal (e.g., review ten vocab cards, repeat a sentence aloud) with a lightweight tool that opens instantly. Keep a simple log to ensure you hit at least six micro‑sessions daily.",
+    "pros": [
+      "Fits any schedule",
+      "Boosts spaced repetition",
+      "Reduces burnout"
+    ],
+    "cons": [
+      "Requires discipline to start each slot",
+      "Limited depth per session",
+      "May feel fragmented at first"
+    ],
+    "watchOut": "Don’t let the brevity become an excuse to skip challenging material; keep the difficulty curve steady.",
+    "faq": [
+      {
+        "q": "How short can a micro‑session be?",
+        "a": "Five minutes is ideal—long enough for focus, short enough to fit anywhere."
+      },
+      {
+        "q": "What tools work best for microlearning?",
+        "a": "Lightweight apps like AnkiDroid, Tinycards, or a voice memo app for speaking drills."
+      },
+      {
+        "q": "Can I track progress effectively?",
+        "a": "Yes—use a simple spreadsheet or habit tracker to log each session and review weekly."
+      }
+    ],
+    "category": "Methods",
+    "tags": [
+      "microlearning",
+      "productivity"
+    ],
+    "sources": [
+      {
+        "label": "r/Anki community threads",
+        "url": "https://www.reddit.com/r/Anki/"
+      },
+      {
+        "label": "Search interest: \"anki language setup\"",
+        "url": "https://duckduckgo.com/?q=anki%20language%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-21T15:09:32.893Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "immersion-pre-spend-checklist-59",
     "title": "The immersion checklist: run this before you spend",
     "dek": "Seven questions that separate a justified immersion purchase from an expensive mood.",

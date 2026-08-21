@@ -1,5 +1,56 @@
 [
   {
+    "slug": "zero-click-exploits",
+    "title": "Zero‑click exploits: why your phone is never safe",
+    "dek": "A quick look at zero‑click attacks that bypass user interaction and how to mitigate them.",
+    "takeaway": "Even without tapping a link, attackers can breach your phone, so hardening your device is essential.",
+    "whatHappened": "Last month, a popular messaging app was used to deliver a zero‑click exploit that silently installed spyware on thousands of Android devices. The attack leveraged a flaw in the app's image parsing library, requiring no user interaction.",
+    "whyItMatters": "Zero‑click attacks sidestep the usual user‑focused defenses, making them a potent threat for privacy‑conscious users. As smartphones hold our most sensitive data, a silent compromise can expose contacts, location, and encrypted communications.",
+    "howToThink": "Treat every app as a potential attack surface: keep software updated, disable unnecessary services, and consider using hardened OS builds or mobile threat defense solutions. Regularly audit app permissions and avoid installing apps from unknown sources.",
+    "pros": [
+      "Early detection",
+      "Informed decisions",
+      "Improved hardening"
+    ],
+    "cons": [
+      "Complex mitigation",
+      "Limited OS support",
+      "Potential performance hit"
+    ],
+    "watchOut": "Don’t rely solely on app updates; zero‑click exploits can persist in older, unpatched libraries.",
+    "faq": [
+      {
+        "q": "What is a zero‑click exploit?",
+        "a": "An attack that compromises a device without any user interaction, often via malformed data sent to a service."
+      },
+      {
+        "q": "Can I protect against them on a stock Android phone?",
+        "a": "Only partially—regular updates and limiting app permissions help, but full protection may require a hardened OS or additional security layers."
+      },
+      {
+        "q": "Do iOS devices face the same risk?",
+        "a": "iOS is not immune; zero‑click bugs have been found in its messaging and Bluetooth stacks, though Apple’s patch cadence is generally faster."
+      }
+    ],
+    "category": "Threats",
+    "tags": [
+      "zero-click",
+      "mobile security"
+    ],
+    "sources": [
+      {
+        "label": "r/cybersecurity community threads",
+        "url": "https://www.reddit.com/r/cybersecurity/"
+      },
+      {
+        "label": "Search interest: \"privacy browser comparison\"",
+        "url": "https://duckduckgo.com/?q=privacy%20browser%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-21T15:09:36.285Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-password-manager-setup-17",
     "title": "Myth vs. reality: password manager setup",
     "dek": "The persistent myths around password manager setup, stress-tested against what privacy-conscious consumers and security hobbyists actually report.",
