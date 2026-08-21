@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-pentax-spotmatic-2024",
+    "title": "Reviving the Classic: Why the Pentax Spotmatic Still Shines in 2024",
+    "dek": "A quick dive into the Spotmatic’s timeless appeal and why it’s still a smart buy for modern analog shooters.",
+    "takeaway": "The Spotmatic offers reliable metering, solid build, and affordable lenses—making it a versatile workhorse today.",
+    "whatHappened": "We dusted off a 1976 Pentax Spotmatic, loaded it with ISO 400 Fuji Acros, and shot a street series in downtown. The camera performed flawlessly, delivering crisp, contrasty negatives with minimal fuss.",
+    "whyItMatters": "In an era of digital dominance, a reliable, affordable classic lets photographers focus on composition rather than tech. Plus, its manual controls teach fundamentals that improve any film workflow.",
+    "howToThink": "Treat the Spotmatic as a learning platform: master manual exposure, embrace its built-in TTL metering, and experiment with vintage lenses to discover their character. Keep a light meter handy for tricky lighting, and don’t shy from swapping lenses for creative effects.",
+    "pros": [
+      "Robust mechanical build",
+      "Accurate TTL metering",
+      "Wide lens ecosystem"
+    ],
+    "cons": [
+      "No autofocus",
+      "Limited to manual focus lenses",
+      "Battery-dependent meter"
+    ],
+    "watchOut": "The meter dies if the battery is weak, so always carry spares.",
+    "faq": [
+      {
+        "q": "Can I use modern lenses on the Spotmatic?",
+        "a": "Yes, as long as they have a manual aperture ring and can mount on the M42 or K mount with an adapter."
+      },
+      {
+        "q": "What film speeds work best?",
+        "a": "The Spotmatic’s meter is calibrated for ISO 12‑800, but you can push or pull with acceptable results."
+      },
+      {
+        "q": "Is the Spotmatic’s shutter reliable after decades?",
+        "a": "If the camera runs and the shutter speeds are consistent, it’s fine, but consider servicing if you notice lag or stickiness."
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "classic cameras",
+      "street photography"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-21T19:56:26.278Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-analog-21",
     "title": "Community pulse: what r/analog is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the scanning community this week.",

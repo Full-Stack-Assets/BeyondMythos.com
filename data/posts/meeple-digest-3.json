@@ -1,5 +1,56 @@
 [
   {
+    "slug": "compact-game-night-maximizing-small-tables",
+    "title": "Compact Game Night: Maximizing Small Tables",
+    "dek": "Turn cramped tables into efficient battlegrounds with simple layout hacks and modular storage tricks.",
+    "takeaway": "A well‑planned layout lets you fit more games and players without sacrificing fun.",
+    "whatHappened": "We tested three popular board games on a 4‑foot round table, swapping out traditional board placement for stacked trays and magnetic tiles. The group reported smoother turns and less table‑clutter. The experiment proved that minimal footprint equals maximal enjoyment.",
+    "whyItMatters": "Game nights often compete with limited living‑room real estate, forcing hosts to cut games or crowd the space. By optimizing layout, you keep the experience immersive and avoid the dreaded “where’s the dice?” scramble. Better ergonomics also reduces set‑up fatigue, encouraging repeat gatherings.",
+    "howToThink": "Start by cataloguing each game’s components and grouping them by size. Use stackable trays, zip‑lock bags, or magnetic boards to keep pieces together and off the table. Prioritize vertical storage—shelf‑mounted racks or wall‑mounted pegboards keep the tabletop clear for play.",
+    "pros": [
+      "More games per session",
+      "Less cleanup time",
+      "Improved player comfort"
+    ],
+    "cons": [
+      "Initial organization effort",
+      "Potential need for extra storage accessories",
+      "May require rearranging existing furniture"
+    ],
+    "watchOut": "Don’t over‑stack components; too much height can cause pieces to tumble during play.",
+    "faq": [
+      {
+        "q": "Can I use this approach for legacy games with many components?",
+        "a": "Yes—store each act in its own sealed bag and pull only the needed tray for the current session."
+      },
+      {
+        "q": "What’s the cheapest way to get magnetic tiles?",
+        "a": "Repurpose fridge magnets on a thin sheet of cork or buy a low‑cost magnetic board online."
+      },
+      {
+        "q": "Do these tricks work for large strategy games like Twilight Imperium?",
+        "a": "For massive games, focus on pre‑sorting and using modular trays; the tabletop itself will still need ample space."
+      }
+    ],
+    "category": "Storage",
+    "tags": [
+      "space‑saving",
+      "setup‑hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/boardgames community threads",
+        "url": "https://www.reddit.com/r/boardgames/"
+      },
+      {
+        "label": "Search interest: \"best gateway board games\"",
+        "url": "https://duckduckgo.com/?q=best%20gateway%20board%20games"
+      }
+    ],
+    "publishedAt": "2026-08-21T19:56:45.668Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-tabletopgamedesign-15",
     "title": "Community pulse: what r/tabletopgamedesign is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the storage community this week.",

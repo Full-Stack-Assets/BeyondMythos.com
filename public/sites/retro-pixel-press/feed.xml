@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: crt setup guide</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-crt-setup-guide-16.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-crt-setup-guide-16.html</guid>
+      <pubDate>Fri, 21 Aug 2026 19:56:17 GMT</pubDate>
+      <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>Turbocharge your NES: 7‑V to 9‑V mod for buttery smooth frames</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharge-nes-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharge-nes-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/low-latency-nes-controller-mod.html</guid>
       <pubDate>Thu, 20 Aug 2026 14:19:34 GMT</pubDate>
       <description>A quick guide to reducing input lag on your classic NES controller for razor‑sharp speedrun performance.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your indie questions, answered</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-39.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-39.html</guid>
-      <pubDate>Thu, 20 Aug 2026 13:31:54 GMT</pubDate>
-      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

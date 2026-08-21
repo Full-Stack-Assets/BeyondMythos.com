@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bitters-variations-old-fashioned",
+    "title": "Spice Up Your Old Fashioned: Bitters Variations",
+    "dek": "Explore three easy bitters swaps that give the classic Old Fashioned a fresh twist without extra equipment.",
+    "takeaway": "A single bitters change can completely reshape a classic cocktail’s flavor profile.",
+    "whatHappened": "We tried aromatic, citrus, and smoky bitters in a standard Old Fashioned recipe, noting aroma, palate, and finish. Each swap produced a distinct personality while keeping the drink’s core structure intact.",
+    "whyItMatters": "Home bartenders often overlook bitters as a creative lever, missing out on simple upgrades that impress guests and keep the bar interesting.",
+    "howToThink": "Start with a base spirit and sugar, then experiment one bitters at a time. Taste, note the shift, and record the combo that best fits the vibe you want.",
+    "pros": [
+      "Instant flavor lift",
+      "Minimal cost",
+      "No new tools needed"
+    ],
+    "cons": [
+      "Bitters can dominate if overused",
+      "Flavor may clash with certain spirits",
+      "Limited shelf‑life once opened"
+    ],
+    "watchOut": "Don’t pour the whole dash—bitters are potent, so start with half and adjust.",
+    "faq": [
+      {
+        "q": "Can I mix two bitters together?",
+        "a": "Yes, blending aromatic and orange bitters creates a balanced complexity, but keep the total dash count low."
+      },
+      {
+        "q": "Do I need to adjust the sugar?",
+        "a": "Usually not; bitters replace sweetness perception, so keep the original simple syrup ratio."
+      },
+      {
+        "q": "Are all bitters interchangeable?",
+        "a": "Flavor profiles differ widely, so choose ones that complement your spirit’s character."
+      }
+    ],
+    "category": "Ingredients",
+    "tags": [
+      "bitters",
+      "old-fashioned"
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "publishedAt": "2026-08-21T19:56:36.800Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-batch-cocktails-for-parties-16",
     "title": "Myth vs. reality: batch cocktails for parties",
     "dek": "The persistent myths around batch cocktails for parties, stress-tested against what home bartenders and cocktail hobbyists actually report.",

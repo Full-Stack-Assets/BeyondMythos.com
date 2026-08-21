@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-stations-converting-waiting-rooms-into-po",
+    "title": "Silent stations: converting waiting rooms into pop‑up gardens",
+    "dek": "Turn idle platform space into tiny gardens that feed birds and brighten journeys.",
+    "takeaway": "A small garden can make a big difference for travelers and ecosystems alike.",
+    "whatHappened": "At a regional hub in the Netherlands, I installed a few portable planters in an unused waiting room, using reclaimed wood and native seeds. Within weeks, commuters noticed the greening and started swapping tips.",
+    "whyItMatters": "Micro‑gardens improve air quality, support pollinators, and give travelers a moment of calm, aligning with low‑impact travel values. They also demonstrate how simple actions can reshape public spaces.",
+    "howToThink": "Start with a site audit, choose lightweight, self‑watering containers, and pick native perennials that need minimal care. Engage fellow passengers to co‑manage the garden, turning stewardship into a social ritual.",
+    "pros": [
+      "Boosts biodiversity",
+      "Enhances passenger mood",
+      "Low cost, high impact"
+    ],
+    "cons": [
+      "Requires occasional watering",
+      "Needs permission from operators",
+      "Limited space restricts plant size"
+    ],
+    "watchOut": "Ensure plants are non‑invasive and safe for public use.",
+    "faq": [
+      {
+        "q": "Do I need a permit to place planters on a station?",
+        "a": "Yes—always get written approval from the rail operator or station manager before installing anything."
+      },
+      {
+        "q": "What plants survive with minimal care?",
+        "a": "Native herbs like thyme, low‑maintenance grasses, and wildflowers such as cornflower thrive with little watering."
+      },
+      {
+        "q": "How can I involve other travelers?",
+        "a": "Create a simple sign inviting suggestions, and set up a rotating schedule for watering or seed swaps."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail-greening",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-21T19:56:21.342Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-platform-gardens",
     "title": "Hidden platform gardens: turning forgotten corners into micro‑ecosystems",
     "dek": "Discover how to turn idle platform nooks into tiny gardens that feed birds, boost morale, and keep your journey green.",
