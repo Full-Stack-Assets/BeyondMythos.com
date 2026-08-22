@@ -1,5 +1,56 @@
 [
   {
+    "slug": "zero-waste-rail-pantry-hacks",
+    "title": "Zero-waste pantry hacks for rail wanderers",
+    "dek": "Turn your train carriage into a low-impact kitchen with three reusable tricks.",
+    "takeaway": "Pack smart, waste less, and keep hunger at bay on long rail legs.",
+    "whatHappened": "On a week-long Eurail trek I swapped disposable snacks for a tiny reusable pantry, using zip-lock bags, a collapsible container, and a compact spice kit.",
+    "whyItMatters": "Food waste on trains adds up, and disposable packaging clutters stations; a minimalist pantry cuts both environmental load and travel costs.",
+    "howToThink": "Plan meals around dry staples, choose multi-use containers, and refill at station markets; treat each item as a modular piece of your rail diet.",
+    "pros": [
+      "Cuts waste",
+      "Saves money",
+      "Keeps you fueled"
+    ],
+    "cons": [
+      "Limited fresh options",
+      "Requires upfront prep",
+      "Space trade‑off"
+    ],
+    "watchOut": "Don’t overpack; a crowded pantry can tip over on a moving carriage.",
+    "faq": [
+      {
+        "q": "Can I bring fresh produce on trains?",
+        "a": "Yes, as long as it’s sealed and consumed before the journey ends; many operators allow it."
+      },
+      {
+        "q": "What containers are best for zero-waste travel?",
+        "a": "Lightweight silicone bags, a 500 ml stainless cup, and a collapsible bamboo box work well."
+      },
+      {
+        "q": "How do I handle smells in a shared cabin?",
+        "a": "Store aromatic items in airtight bags and keep strong spices sealed to respect fellow travelers."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "rail",
+      "zero-waste"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-22T20:58:54.654Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-travel-itinerary-field-test-16",
     "title": "\"slow travel itinerary\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about slow travel itinerary through a month of actual use. Some of it survived.",

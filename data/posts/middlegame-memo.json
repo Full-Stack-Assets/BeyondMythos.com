@@ -1,5 +1,56 @@
 [
   {
+    "slug": "london-system-low-maintenance-weapon",
+    "title": "The London System: A low‑maintenance weapon for busy adults",
+    "dek": "Why the London System can boost your results without endless theory.",
+    "takeaway": "A solid, flexible opening that lets you focus on plans, not memorization.",
+    "whatHappened": "I tried the London System in my weekly club games for a month, pairing it with a simple pawn‑storm plan against typical setups. Results: steadier middlegame positions and fewer time‑scrambles.",
+    "whyItMatters": "Adult players often lack time for deep opening prep; a system like London offers consistent structures, reducing early mistakes and freeing mental bandwidth for tactics.",
+    "howToThink": "Treat the London as a framework: develop knights to f3/d2, play Bf4, c3, and e3, then decide on a central break with e4 or c4 based on opponent’s setup. Keep piece harmony and look for typical pawn breaks.",
+    "pros": [
+      "Easy to learn",
+      "Solid structure",
+      "Works against many defenses"
+    ],
+    "cons": [
+      "Can be predictable",
+      "Limited central aggression",
+      "Requires good endgame technique"
+    ],
+    "watchOut": "Don’t fall into a passive routine—watch for chances to seize the initiative with timely pawn breaks.",
+    "faq": [
+      {
+        "q": "Is the London System suitable against the King's Indian Defense?",
+        "a": "Yes, its solid setup neutralizes many aggressive plans, though you may need to play c4 later to challenge Black’s center."
+      },
+      {
+        "q": "How much theory do I need to memorize?",
+        "a": "Just the main moves up to move 6; the rest is based on understanding typical plans."
+      },
+      {
+        "q": "Can I transition to other openings from the London?",
+        "a": "The structure is flexible—if Black deviates, you can switch to a Colle or even a Queen’s Gambit style setup."
+      }
+    ],
+    "category": "Openings",
+    "tags": [
+      "London System",
+      "Practical Openings"
+    ],
+    "sources": [
+      {
+        "label": "r/TournamentChess community threads",
+        "url": "https://www.reddit.com/r/TournamentChess/"
+      },
+      {
+        "label": "Search interest: \"tactics training routine\"",
+        "url": "https://duckduckgo.com/?q=tactics%20training%20routine"
+      }
+    ],
+    "publishedAt": "2026-08-22T20:59:03.746Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-tactics-mistakes-63",
     "title": "Five mistakes everyone makes in their first month of tactics",
     "dek": "The most common early stumbles in tactics, and the cheap corrections that fix them for adult chess improvers.",

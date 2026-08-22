@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
     <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
     <item>
+      <title>Community pulse: what r/privacy is debating this week</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-privacy-18.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-privacy-18.html</guid>
+      <pubDate>Sat, 22 Aug 2026 20:59:04 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the threats community this week.</description>
+    </item>
+    <item>
       <title>The devices checklist: run this before you spend</title>
       <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/devices-pre-spend-checklist-53.html</link>
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/devices-pre-spend-checklist-53.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/zero-click-exploits.html</guid>
       <pubDate>Fri, 21 Aug 2026 15:09:36 GMT</pubDate>
       <description>A quick look at zero‑click attacks that bypass user interaction and how to mitigate them.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: password manager setup</title>
-      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/myth-vs-reality-password-manager-setup-17.html</link>
-      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/myth-vs-reality-password-manager-setup-17.html</guid>
-      <pubDate>Fri, 21 Aug 2026 14:18:09 GMT</pubDate>
-      <description>The persistent myths around password manager setup, stress-tested against what privacy-conscious consumers and security hobbyists actually report.</description>
     </item>
   </channel>
 </rss>

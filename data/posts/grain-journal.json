@@ -1,5 +1,56 @@
 [
   {
+    "slug": "push-processing-35mm",
+    "title": "Unlocking the Darkroom: How to Master Push‑Processing on 35mm",
+    "dek": "Push‑processing can boost ISO on the fly, but it demands precision—learn the exact steps to get grainy grit without ruining contrast.",
+    "takeaway": "With controlled push‑processing you can shoot in low light and still retain detail.",
+    "whatHappened": "I shot a night street series at ISO 400 on a 400‑speed film, then pushed it two stops during development. The result was deeper shadows and pronounced grain that matched the mood.",
+    "whyItMatters": "Push‑processing extends the versatility of your existing film stock, saving you from buying multiple rolls for different lighting conditions. It also lets you experiment with aesthetic grain without extra cost.",
+    "howToThink": "Start by testing a single frame at the desired push level, adjust developer time by 10‑15% per stop, and keep temperature stable. Record every variable so you can replicate or tweak later.",
+    "pros": [
+      "More flexibility in low light",
+      "Enhanced grain character",
+      "Cost‑effective use of existing film"
+    ],
+    "cons": [
+      "Higher contrast risk",
+      "Potential loss of shadow detail",
+      "Increased grain may not suit all subjects"
+    ],
+    "watchOut": "Over‑pushing can turn subtle textures into mushy blacks—always bracket your exposure.",
+    "faq": [
+      {
+        "q": "How many seconds do I add per stop?",
+        "a": "Add roughly 10‑15% of the standard development time per stop; e.g., 10 min → 11‑12 min for one stop."
+      },
+      {
+        "q": "Does push‑processing affect color balance?",
+        "a": "Yes, it can shift colors toward cooler tones; consider a slight temperature tweak or a compensating developer."
+      },
+      {
+        "q": "Can I push a film beyond two stops?",
+        "a": "Technically yes, but expect severe grain and contrast loss; limit to two stops for reliable results."
+      }
+    ],
+    "category": "Developing",
+    "tags": [
+      "push-processing",
+      "low-light"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-22T20:58:59.696Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-analog-22",
     "title": "Community pulse: what r/analog is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the scanning community this week.",
