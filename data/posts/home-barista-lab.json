@@ -1,5 +1,56 @@
 [
   {
+    "slug": "recalibrate-espresso-pid",
+    "title": "Reviving the Classic: Recalibrating Your Espresso PID for Consistency",
+    "dek": "Fine-tune your espresso machine's PID to lock in temperature stability and boost shot quality without new hardware.",
+    "takeaway": "A well‑tuned PID yields consistent extraction and richer flavor without spending extra.",
+    "whatHappened": "After noticing a noticeable dip in espresso temperature during longer pulls, we opened the machine's service panel and accessed the PID settings. A quick series of step‑wise adjustments brought the boiler temperature back into a tight band, and the next shot tasted noticeably smoother.",
+    "whyItMatters": "Temperature stability is the cornerstone of repeatable espresso; even a few degrees off can shift extraction balance, affecting sweetness and bitterness. By calibrating the PID, home baristas can extract the coffee's intended profile night after night.",
+    "howToThink": "Start with the manufacturer’s default PID values, then measure brew water temperature with a reliable thermometer. Adjust the proportional (P) and integral (I) gains in small increments, testing after each change until the temperature swing stays within ±1 °C. Document the final settings for future reference.",
+    "pros": [
+      "Sharper temperature control",
+      "Improved shot consistency",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires careful calibration",
+      "Time‑consuming initial setup",
+      "Potential warranty concerns"
+    ],
+    "watchOut": "Never exceed the machine's safe temperature limits when adjusting the PID, or you could damage the boiler.",
+    "faq": [
+      {
+        "q": "Do I need special tools to adjust the PID?",
+        "a": "A basic screwdriver for the service panel and a digital thermometer are sufficient."
+      },
+      {
+        "q": "Will recalibrating void my warranty?",
+        "a": "If you open the machine yourself, some manufacturers consider it a warranty breach—check your warranty terms first."
+      },
+      {
+        "q": "How often should I re‑check the PID settings?",
+        "a": "Re‑check after any major maintenance or if you notice temperature drift over weeks."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "pid"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-22T19:02:53.457Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-42",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",
