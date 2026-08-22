@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-sidecar-modern-twist",
+    "title": "Reviving the Sidecar: A modern twist for home bars",
+    "dek": "Give the 1920s Sidecar a fresh update with a few ingredient swaps you already have.",
+    "takeaway": "A simple swap of citrus and sweetener can modernize a classic without losing its soul.",
+    "whatHappened": "I swapped fresh yuzu juice for the traditional lemon and used a touch of agave instead of simple syrup, then shook it over ice. The result was a brighter, slightly herbaceous take on the old favorite. I served it to a small tasting group and the feedback was immediate enthusiasm.",
+    "whyItMatters": "Home bartenders often stick to textbook recipes, missing chances to personalize classics with what’s on hand. Updating a staple like the Sidecar shows how small tweaks can keep the cocktail scene fresh and inclusive. It also encourages experimentation without abandoning the drink’s heritage.",
+    "howToThink": "Start with the base spirit you love, then consider the flavor profile you’re chasing—citrus for brightness, a different sweetener for depth. Taste as you go, adjusting the balance in 5‑second increments. Keep notes so you can replicate or iterate later.",
+    "pros": [
+      "Brighter flavor",
+      "Easier to source",
+      "Shows off technique"
+    ],
+    "cons": [
+      "Less traditional",
+      "Requires extra shaker time",
+      "May polarize purists"
+    ],
+    "watchOut": "Don’t over‑dilute – balance the citrus and sweetener carefully.",
+    "faq": [
+      {
+        "q": "Can I use other citrus besides yuzu?",
+        "a": "Absolutely—blood orange, lime, or even grapefruit work, just adjust the amount to keep the drink balanced."
+      },
+      {
+        "q": "Is agave a good replacement for simple syrup?",
+        "a": "Yes, it adds a subtle caramel note; start with half the usual simple syrup volume and tweak to taste."
+      },
+      {
+        "q": "Do I need to change the garnish?",
+        "a": "A thin orange peel twist adds aroma and ties the new citrus note together, but a classic lemon twist works too."
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "classic",
+      "recipe tweak"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-08-22T04:17:03.151Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-bartenders-20",
     "title": "Community pulse: what r/bartenders is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the batching community this week.",

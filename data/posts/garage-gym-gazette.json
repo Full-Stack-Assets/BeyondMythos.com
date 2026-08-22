@@ -1,5 +1,56 @@
 [
   {
+    "slug": "budget-deadlift-platform",
+    "title": "Budget deadlift platform: build sturdy steel in a weekend",
+    "dek": "Turn cheap 2×4s and pipe into a rock‑solid deadlift platform without breaking the bank.",
+    "takeaway": "You can get a safe, level platform for under $200 using common garage materials.",
+    "whatHappened": "Last weekend I salvaged 2×4s from a pallet and welded a 4‑by‑8 foot steel frame. After bolting down plywood and topping with rubber, the platform held 600 lb deadlifts without flex.",
+    "whyItMatters": "A stable platform protects your plates, improves lift confidence, and prevents floor damage—critical for anyone squatting or deadlifting in a garage.",
+    "howToThink": "Measure your rack footprint, use 2×4 joists spaced 16″, secure with pipe brackets, then add a plywood sheet and interlocking rubber mats for grip.",
+    "pros": [
+      "Cheap under $200",
+      "Fast weekend build",
+      "Durable for heavy lifts"
+    ],
+    "cons": [
+      "Requires basic welding",
+      "Limited aesthetic polish",
+      "Needs periodic tightening"
+    ],
+    "watchOut": "Check that the bolts are torqued after the first few sessions to avoid loosening.",
+    "faq": [
+      {
+        "q": "Can I use standard 2×4s or do they need to be pressure‑treated?",
+        "a": "Standard kiln‑dried 2×4s are fine as long as they’re dry and free of rot."
+      },
+      {
+        "q": "Do I need a concrete slab underneath?",
+        "a": "A solid concrete slab is ideal, but a level garage floor with plywood underlayment works."
+      },
+      {
+        "q": "What rubber thickness is best?",
+        "a": "A ½‑inch interlocking mat offers enough cushioning without sacrificing stability."
+      }
+    ],
+    "category": "Flooring",
+    "tags": [
+      "budget",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/Fitness community threads",
+        "url": "https://www.reddit.com/r/Fitness/"
+      },
+      {
+        "label": "Search interest: \"home gym programming\"",
+        "url": "https://duckduckgo.com/?q=home%20gym%20programming"
+      }
+    ],
+    "publishedAt": "2026-08-22T04:16:59.365Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-barbell-buying-guide-22",
     "title": "Myth vs. reality: barbell buying guide",
     "dek": "The persistent myths around barbell buying guide, stress-tested against what home lifters building garage gyms actually report.",

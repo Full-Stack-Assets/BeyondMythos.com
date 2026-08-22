@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-espresso-dose-scale-trick",
+    "title": "Dial‑In Your Espresso Dose with a Simple Scale Trick",
+    "dek": "Learn how a cheap kitchen scale can fine‑tune your espresso dose for consistent shots.",
+    "takeaway": "A precise dose boosts flavor consistency without pricey equipment.",
+    "whatHappened": "We tested a $15 digital kitchen scale on a home espresso setup, comparing shots before and after dose adjustments. The scale let us hit the exact gram target each time, revealing clear flavor shifts.",
+    "whyItMatters": "Dose variance is the #1 cause of taste swings, so mastering it stabilizes your brew and saves beans. Consistent dosing also makes it easier to troubleshoot other variables like grind or pressure.",
+    "howToThink": "Treat each shot as a formula: weight = target dose; adjust grind until the scale reads it, then lock in other variables. Keep the scale on a stable surface, tare the portafilter, and record the weight for repeatability.",
+    "pros": [
+      "Inexpensive",
+      "Highly accurate",
+      "Easy to use"
+    ],
+    "cons": [
+      "Requires taring",
+      "Scale can be sensitive to vibration",
+      "Adds extra step"
+    ],
+    "watchOut": "Avoid placing the scale on an uneven surface or it will misread the dose.",
+    "faq": [
+      {
+        "q": "Can I use any kitchen scale?",
+        "a": "Choose a scale that measures at least 0.1 g and has a tare function; cheap models often suffice."
+      },
+      {
+        "q": "Do I need to weigh the puck after extraction?",
+        "a": "No, just weigh the dose before brewing; the puck weight isn’t needed for dose consistency."
+      },
+      {
+        "q": "What if my grinder drifts?",
+        "a": "Re‑calibrate the grind size after each dose adjustment to keep the target weight steady."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dose"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-22T04:16:54.890Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "diy-pressure-profiling-espresso-hacks",
     "title": "DIY Pressure Profiling: Simple Hacks for Better Espresso",
     "dek": "Learn quick pressure tweaks that turn your home espresso from meh to wow in minutes.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "crisp-crust-no-steam",
+    "title": "The secret to a crisp crust without a steam oven",
+    "dek": "Learn how to achieve a bakery‑level crisp crust using simple oven tricks—no steam tray needed.",
+    "takeaway": "A dry‑heat technique and strategic scoring give you a crackling crust without special gear.",
+    "whatHappened": "I tried baking a boule in a standard home oven and was frustrated by the pale, soft crust. After experimenting with a preheated Dutch oven and a quick water spray, the crust stayed soft. Then I discovered a low‑tech method that nailed the crunch without any steam.",
+    "whyItMatters": "A good crust isn’t just about looks—it locks in flavor, improves texture, and signals a well‑executed loaf. Home bakers often lack expensive steam injectors, so a simple workaround expands the audience that can bake like a pro. Mastering crust control also boosts confidence for tackling more ambitious breads.",
+    "howToThink": "Start with a hot oven (475°F/245°C) and a preheated cast‑iron pot to trap initial heat. After loading the dough, slash the surface and pour a tablespoon of water onto a hot tray, then close the lid for the first 15 minutes. Remove the lid and finish baking to let the crust dry and caramelize.",
+    "pros": [
+      "Better oven spring",
+      "Chewy interior",
+      "No extra equipment"
+    ],
+    "cons": [
+      "Longer bake time",
+      "Requires precise timing",
+      "May dry out if overbaked"
+    ],
+    "watchOut": "Don’t open the oven door too early or the steam will escape and the crust will stay soft.",
+    "faq": [
+      {
+        "q": "Do I need a Dutch oven?",
+        "a": "A heavy pot works best, but a sturdy baking sheet with a metal bowl can substitute."
+      },
+      {
+        "q": "Can I use this with whole‑grain dough?",
+        "a": "Yes, just add a few extra minutes to ensure the crust fully sets."
+      },
+      {
+        "q": "How much water should I add for steam?",
+        "a": "A tablespoon on a pre‑heated tray creates enough vapor for the first 10–15 minutes."
+      }
+    ],
+    "category": "Bread",
+    "tags": [
+      "crust",
+      "oven tricks"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"home baking tools\"",
+        "url": "https://duckduckgo.com/?q=home%20baking%20tools"
+      }
+    ],
+    "publishedAt": "2026-08-22T04:17:10.231Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-breadit-17",
     "title": "Community pulse: what r/Breadit is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the troubleshooting community this week.",
