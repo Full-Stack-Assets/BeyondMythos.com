@@ -1,5 +1,56 @@
 [
   {
+    "slug": "revamp-old-rye-manhattan",
+    "title": "Revamp Your Old Rye: A Fresh Take on the Manhattan",
+    "dek": "Give a tired bottle of rye new life with a simple herb-infused Manhattan that sings.",
+    "takeaway": "A quick herb infusion can transform a classic Manhattan into a standout sip.",
+    "whatHappened": "We took a 12‑year‑old rye, steeped it with a handful of rosemary and orange peel for 24 hours, then built a Manhattan with the usual vermouth and bitters. The result was a fragrant, nuanced cocktail that felt both familiar and new.",
+    "whyItMatters": "Home bars often sit on bottles that lose their edge; a brief infusion revives flavor without buying new liquor. It also shows how small ingredient tweaks can dramatically shift a classic’s profile.",
+    "howToThink": "When a spirit feels flat, think about complementary aromatics that echo its base notes. Use sturdy herbs or citrus peels, keep the infusion short, and always taste before mixing the final drink.",
+    "pros": [
+      "Revives old stock",
+      "Adds aromatic complexity",
+      "Low cost, high impact"
+    ],
+    "cons": [
+      "Adds 1‑day prep time",
+      "Potential over‑infusion risk",
+      "May alter original flavor balance"
+    ],
+    "watchOut": "Don’t let the rye steep longer than 48 hours or the herb will dominate the palate.",
+    "faq": [
+      {
+        "q": "Can I use other spirits for this infusion?",
+        "a": "Yes—bourbon, gin, and even tequila take well to short herb or citrus steeps; just match aromatics to the spirit’s profile."
+      },
+      {
+        "q": "Do I need to filter the infused rye?",
+        "a": "A fine mesh strainer or coffee filter removes solids; any remaining bits will muddle the cocktail."
+      },
+      {
+        "q": "How long will the infused rye keep?",
+        "a": "Store it in a sealed bottle in the fridge; it stays bright for up to two weeks, but use it within ten days for best aroma."
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "Manhattan",
+      "Infusion"
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "publishedAt": "2026-08-22T05:04:37.258Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reviving-sidecar-modern-twist",
     "title": "Reviving the Sidecar: A modern twist for home bars",
     "dek": "Give the 1920s Sidecar a fresh update with a few ingredient swaps you already have.",

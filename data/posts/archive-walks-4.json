@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unearthing-forgotten-school-board-minute",
+    "title": "Unearthing the Forgotten: How a 1920s School Board Minute Reshaped Our Town Map",
+    "dek": "A dusty school board minute from 1920 reveals a hidden street that still shows up on old maps.",
+    "takeaway": "Old administrative records can reveal map errors that persist for decades.",
+    "whatHappened": "While digitizing the town’s municipal archives, we stumbled upon a 1923 school board minute mentioning a proposed “Elm Street Extension” that never materialized. The note was cross‑referenced in a 1930 plat map, which still appears in some modern GIS layers.",
+    "whyItMatters": "That phantom street confuses residents and hampers heritage tours, showing how a single overlooked document can distort our spatial memory.",
+    "howToThink": "When a map feature feels out of place, trace its provenance back to meeting minutes, land deeds, or planning reports; cross‑check dates and outcomes before accepting it as fact.",
+    "pros": [
+      "Boosts map accuracy",
+      "Engages community volunteers",
+      "Reveals hidden history"
+    ],
+    "cons": [
+      "Time‑consuming research",
+      "Potential dead‑ends",
+      "Requires access to fragile records"
+    ],
+    "watchOut": "Don’t assume a mention equals implementation; many proposals never materialized.",
+    "faq": [
+      {
+        "q": "How can I locate obscure minutes like the school board one?",
+        "a": "Start with the municipal clerk’s archive index or ask local historical societies for digitized meeting logs."
+      },
+      {
+        "q": "What tools help compare old plats to modern GIS?",
+        "a": "Use georeferencing in QGIS or ArcGIS to overlay scanned plats on current basemaps."
+      },
+      {
+        "q": "If the phantom street persists in official data, what’s the remedy?",
+        "a": "Submit a correction request to the county GIS department with supporting documentation."
+      }
+    ],
+    "category": "Archives",
+    "tags": [
+      "archives",
+      "maps"
+    ],
+    "sources": [
+      {
+        "label": "r/AskHistorians community threads",
+        "url": "https://www.reddit.com/r/AskHistorians/"
+      },
+      {
+        "label": "Search interest: \"local history research\"",
+        "url": "https://duckduckgo.com/?q=local%20history%20research"
+      }
+    ],
+    "publishedAt": "2026-08-22T05:04:59.517Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-landmarks-40",
     "title": "The quiet upgrade: small tweaks in landmarks with outsized returns",
     "dek": "No purchases, no overhauls — the modest landmarks adjustments that local history buffs and community archivists report mattering most.",

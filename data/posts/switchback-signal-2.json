@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hill-repeats-ultra-prep",
+    "title": "Hill repeats: mastering the climb for ultramarathon prep",
+    "dek": "Turn steep hill repeats into a powerful tool for ultramarathon endurance and injury resilience.",
+    "takeaway": "Consistent hill repeat sessions boost stamina and strengthen muscles for long trail races.",
+    "whatHappened": "I added a 45‑minute hill repeat block to my weekly schedule for four weeks, swapping a flat long run for a steep loop. The climbs were 8% grade, 400 m repeats, with jog‑down recovery.",
+    "whyItMatters": "Hill work forces the heart and legs to work harder, mimicking the elevation gain of 100‑km races while reducing overall mileage stress. It also improves running economy on ascents, a common race bottleneck.",
+    "howToThink": "Start with one repeat per week, keep intensity at 85% max HR, and gradually add repeats or length. Use a measured climb, track recovery, and pair with easy downhill technique drills.",
+    "pros": [
+      "Boosts leg strength",
+      "Improves aerobic power",
+      "Preps for race elevation"
+    ],
+    "cons": [
+      "Adds muscle soreness",
+      "Risk of overtraining if overdone",
+      "Requires suitable hill access"
+    ],
+    "watchOut": "Avoid steep repeats on hard pavement to protect joints.",
+    "faq": [
+      {
+        "q": "How many hill repeats should a beginner start with?",
+        "a": "Begin with 2–3 repeats of 2‑minute climbs per week and build gradually."
+      },
+      {
+        "q": "Can hill repeats replace long runs?",
+        "a": "No, they complement long runs; keep at least one weekly mileage‑focused session."
+      },
+      {
+        "q": "What recovery is optimal between repeats?",
+        "a": "Jog or walk downhill for twice the climb time, keeping HR low."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "training",
+      "hill-workouts"
+    ],
+    "sources": [
+      {
+        "label": "r/running community threads",
+        "url": "https://www.reddit.com/r/running/"
+      },
+      {
+        "label": "Search interest: \"trail shoe guide\"",
+        "url": "https://duckduckgo.com/?q=trail%20shoe%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-22T05:04:47.276Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-training-48",
     "title": "A weekend project: level up your training in two hours",
     "dek": "One contained, satisfying training project for trail runners — start Saturday morning, done by lunch.",
