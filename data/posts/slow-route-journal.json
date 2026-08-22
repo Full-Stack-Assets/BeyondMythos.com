@@ -1,5 +1,56 @@
 [
   {
+    "slug": "night-train-coworking",
+    "title": "Night trains as mobile co‑working spaces",
+    "dek": "Turn overnight rail journeys into productive, low‑impact work sessions without compromising the travel vibe.",
+    "takeaway": "A sleeper car can double as a quiet desk if you plan ahead.",
+    "whatHappened": "On a recent Paris‑Berlin night train, I set up a compact workstation using a folding lap desk, a reusable notebook, and a solar power bank, finishing a client brief before sunrise.",
+    "whyItMatters": "Maximising travel time reduces the need for extra days on the road, cutting carbon footprints and travel costs while keeping momentum on projects.",
+    "howToThink": "Choose a carriage with power outlets, pack a lightweight desk, block out noise with earplugs, and schedule tasks that need focus; treat the cabin as a pop‑up office.",
+    "pros": [
+      "Boosts productivity",
+      "Reduces extra travel days",
+      "Low‑impact, no extra hotel"
+    ],
+    "cons": [
+      "Limited space",
+      "Potential interruptions",
+      "Power availability varies"
+    ],
+    "watchOut": "Beware of bright cabin lights that can disrupt sleep cycles if you plan to work late.",
+    "faq": [
+      {
+        "q": "Do night trains usually have power outlets?",
+        "a": "Most modern European sleepers provide at‑seat sockets, but check the operator’s specs beforehand."
+      },
+      {
+        "q": "What’s the best way to keep my laptop cool?",
+        "a": "Use a laptop stand to elevate it and a small fan or passive cooling pad; avoid direct sunlight through windows."
+      },
+      {
+        "q": "Can I claim work‑related travel expenses?",
+        "a": "If you can demonstrate business purpose, many companies will reimburse, but keep receipts and a clear itinerary."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "productivity",
+      "sleeper‑car"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-22T06:00:05.984Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-49",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",

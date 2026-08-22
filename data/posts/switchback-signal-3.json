@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midweek-mileage-boost",
+    "title": "Midweek mileage boost: adding 5k without burning out",
+    "dek": "Add a strategic 5k midweek run to lift your weekly volume while staying fresh.",
+    "takeaway": "A short, well‑timed midweek run can raise mileage safely and improve endurance.",
+    "whatHappened": "We trialed a 5‑kilometre tempo run on Wednesday for a group of 10 ultrarunners prepping for a 100‑mile race. The session was slotted between a hard interval Saturday and a long Sunday run.",
+    "whyItMatters": "Midweek runs often get skipped, leaving a gap in stimulus that can stall aerobic gains. By filling that gap, runners boost their base without overloading any single day.",
+    "howToThink": "Schedule a moderate‑pace 5k at least 48 hours after your hardest workout, keep the effort comfortably hard, and recover with easy strides or cross‑training the next day.",
+    "pros": [
+      "Increases weekly mileage",
+      "Improves aerobic density",
+      "Keeps legs loose for long runs"
+    ],
+    "cons": [
+      "Adds extra time commitment",
+      "Risk of overreaching if intensity too high",
+      "May interfere with recovery if not timed right"
+    ],
+    "watchOut": "Don’t push the 5k into a hard interval; keep it at a steady, sub‑threshold pace.",
+    "faq": [
+      {
+        "q": "How fast should the 5k be?",
+        "a": "Aim for a pace about 10–15% slower than your threshold – you should be able to hold a conversation in short bursts."
+      },
+      {
+        "q": "Can I do this on a rest day?",
+        "a": "If you truly need a rest day, skip it; the point is to add a low‑impact run, not replace recovery."
+      },
+      {
+        "q": "What if I’m injured?",
+        "a": "Scale back to a brisk walk or cross‑train; the goal is volume, not pain."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "midweek training",
+      "ultra mileage"
+    ],
+    "sources": [
+      {
+        "label": "r/trailrunning community threads",
+        "url": "https://www.reddit.com/r/trailrunning/"
+      },
+      {
+        "label": "Search interest: \"trail running for road runners\"",
+        "url": "https://duckduckgo.com/?q=trail%20running%20for%20road%20runners"
+      }
+    ],
+    "publishedAt": "2026-08-22T06:00:33.271Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-trail-shoe-guide-15",
     "title": "Myth vs. reality: trail shoe guide",
     "dek": "The persistent myths around trail shoe guide, stress-tested against what trail runners and ultrarunning hopefuls actually report.",

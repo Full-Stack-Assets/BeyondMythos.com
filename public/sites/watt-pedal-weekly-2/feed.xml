@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/watt-pedal-weekly-2/</link>
     <description>Fresh takes for e-bike commuters and converts.</description>
     <item>
+      <title>Power surge: tuning your e-bike controller for the urban grind</title>
+      <link>https://www.beyondmythos.com/sites/watt-pedal-weekly-2/posts/controller-tuning-city-commute.html</link>
+      <guid>https://www.beyondmythos.com/sites/watt-pedal-weekly-2/posts/controller-tuning-city-commute.html</guid>
+      <pubDate>Sat, 22 Aug 2026 06:00:31 GMT</pubDate>
+      <description>A quick dive into controller tweaks that shave minutes off your morning ride without blowing the warranty.</description>
+    </item>
+    <item>
       <title>&quot;bike to ebike conversion&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/watt-pedal-weekly-2/posts/bike-to-ebike-conversion-field-test-16.html</link>
       <guid>https://www.beyondmythos.com/sites/watt-pedal-weekly-2/posts/bike-to-ebike-conversion-field-test-16.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/watt-pedal-weekly-2/posts/weekend-project-commuting-42.html</guid>
       <pubDate>Thu, 20 Aug 2026 23:02:01 GMT</pubDate>
       <description>One contained, satisfying commuting project for e-bike commuters — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/ebikes is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/watt-pedal-weekly-2/posts/community-pulse-ebikes-14.html</link>
-      <guid>https://www.beyondmythos.com/sites/watt-pedal-weekly-2/posts/community-pulse-ebikes-14.html</guid>
-      <pubDate>Thu, 20 Aug 2026 22:00:42 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the conversion community this week.</description>
     </item>
   </channel>
 </rss>
