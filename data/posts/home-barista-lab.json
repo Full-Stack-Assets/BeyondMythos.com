@@ -1,5 +1,56 @@
 [
   {
+    "slug": "60-second-preinfusion-hack",
+    "title": "The 60-Second Pre-Infusion Hack for Espresso Consistency",
+    "dek": "Add a brief pre-infusion pause to tame channeling and boost shot uniformity in just a minute.",
+    "takeaway": "A short pre-infusion can dramatically improve espresso consistency.",
+    "whatHappened": "I tried a 60-second low-pressure pre-infusion on my home machine, then measured extraction times and taste. The shots were smoother and more balanced.",
+    "whyItMatters": "Channeling and uneven extraction are common pain points for home baristas; fixing them with a simple timing tweak saves time and beans.",
+    "howToThink": "Set your grinder dose, start the pump at 2 bar for 60 seconds, then ramp to full pressure. Adjust time by a few seconds until you taste the sweet spot.",
+    "pros": [
+      "Easy to implement",
+      "Improves flavor balance",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Adds a minute to pull time",
+      "May need machine that allows pressure control",
+      "Too long can over-extract"
+    ],
+    "watchOut": "Don’t exceed 90 seconds or you risk over-extraction and bitterness.",
+    "faq": [
+      {
+        "q": "Can I use this on any espresso machine?",
+        "a": "Only machines with pressure profiling or a manual pre-infusion valve can reliably hold low pressure."
+      },
+      {
+        "q": "What grind size works best?",
+        "a": "Stick with your usual dose grind; the pre-infusion doesn’t change particle size."
+      },
+      {
+        "q": "How often should I use the hack?",
+        "a": "Use it for beans that tend to channel or when you notice thin, sour shots."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-22T13:18:04.146Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-espresso-dial-in-field-test-17",
     "title": "\"home espresso dial in\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.",

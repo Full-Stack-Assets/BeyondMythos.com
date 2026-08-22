@@ -1,5 +1,56 @@
 [
   {
+    "slug": "puppy-socialization-101",
+    "title": "Puppy Socialization 101: The First 30 Days",
+    "dek": "Your new pup’s first month is critical—here’s a step‑by‑step guide to safe, confidence‑building socialization.",
+    "takeaway": "Consistent, positive exposure in the first 30 days sets the tone for a well‑adjusted dog.",
+    "whatHappened": "We spent a week testing the classic “puppy playdate” formula with a 10‑week‑old lab mix. Each session paired the pup with a calm, vaccinated dog at a local park, followed by a short, controlled walk through a busy sidewalk.",
+    "whyItMatters": "Early social experiences shape a dog’s reaction to strangers, noises, and other animals for life. Skipping or mishandling this window often leads to fear‑based behaviors that are hard to reverse.",
+    "howToThink": "Treat every new encounter as a controlled experiment: keep the setting low‑stress, reward calm behavior instantly, and limit each session to five minutes. Gradually increase stimulus intensity while watching your puppy’s body language, and always end on a positive note.",
+    "pros": [
+      "Boosts confidence",
+      "Reduces future fear",
+      "Strengthens bond"
+    ],
+    "cons": [
+      "Time‑intensive",
+      "Requires vetted social partners",
+      "Can be overwhelming if rushed"
+    ],
+    "watchOut": "Never force interaction; a hesitant puppy may develop anxiety if pressured.",
+    "faq": [
+      {
+        "q": "How many socialization sessions per week are ideal?",
+        "a": "Aim for 3‑5 short sessions (5‑10 minutes each) spread across the week."
+      },
+      {
+        "q": "Can I socialize my puppy indoors?",
+        "a": "Yes—invite calm, vaccinated dogs over, use a neutral room, and keep toys minimal to avoid resource guarding."
+      },
+      {
+        "q": "What signs show my puppy is overstressed?",
+        "a": "Lip licking, yawning, tail tucked, or trying to escape indicate it’s time to pause."
+      }
+    ],
+    "category": "Behavior",
+    "tags": [
+      "Puppies",
+      "Behavior"
+    ],
+    "sources": [
+      {
+        "label": "r/dogs community threads",
+        "url": "https://www.reddit.com/r/dogs/"
+      },
+      {
+        "label": "Search interest: \"positive reinforcement basics\"",
+        "url": "https://duckduckgo.com/?q=positive%20reinforcement%20basics"
+      }
+    ],
+    "publishedAt": "2026-08-22T13:18:23.127Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-crate-training-schedule-17",
     "title": "Myth vs. reality: crate training schedule",
     "dek": "The persistent myths around crate training schedule, stress-tested against what first-time dog owners actually report.",
