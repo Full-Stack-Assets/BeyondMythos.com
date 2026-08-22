@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-43.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-43.html</guid>
+      <pubDate>Sat, 22 Aug 2026 14:57:35 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>Boost your SNES clock: simple RTC mod for perfect timing</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-rtc-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-rtc-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-46.html</guid>
       <pubDate>Fri, 21 Aug 2026 09:19:21 GMT</pubDate>
       <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Boosting your SNES: 3‑V to 5‑V conversion for reliable play</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boosting-snes-5v-conversion.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boosting-snes-5v-conversion.html</guid>
-      <pubDate>Fri, 21 Aug 2026 08:19:37 GMT</pubDate>
-      <description>Learn how to safely upgrade your SNES power supply to 5 V for smoother gameplay and fewer resets.</description>
     </item>
   </channel>
 </rss>

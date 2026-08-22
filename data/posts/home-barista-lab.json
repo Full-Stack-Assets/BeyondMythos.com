@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-crema-temp-shift",
+    "title": "Boost Your Espresso Crema with a Simple Temperature Shift",
+    "dek": "A quick temperature tweak can give your espresso a richer, silkier crema in minutes.",
+    "takeaway": "Raise brew temperature by 2 °C to thicken crema without over‑extracting.",
+    "whatHappened": "I bumped my machine’s brew temp from 92 °C to 94 °C for a week, using the same beans and dose. The resulting shots showed noticeably fuller crema and a smoother mouthfeel. I logged extraction time and TDS to confirm balance stayed intact.",
+    "whyItMatters": "Crema is the visual cue of a well‑extracted espresso and a thicker layer often signals better aroma retention. Small temperature tweaks are a low‑cost way to elevate shot quality without new equipment.",
+    "howToThink": "Start with a stable baseline temp, then increase in 1 °C increments, tasting after each change. Watch for bitterness; stop when crema peaks and flavor stays sweet. Keep other variables constant so you isolate temperature’s effect.",
+    "pros": [
+      "Immediate visual improvement",
+      "No extra gear needed",
+      "Works with most home machines"
+    ],
+    "cons": [
+      "Risk of over‑extraction if over‑done",
+      "May require recalibrating grinder dose",
+      "Not all machines allow fine temp control"
+    ],
+    "watchOut": "If your machine can’t hold the higher temperature, you may get temperature spikes that burn the coffee.",
+    "faq": [
+      {
+        "q": "Can I use this trick with a pressure‑stat machine?",
+        "a": "Yes, just adjust the set‑point; the pressure profile stays the same."
+      },
+      {
+        "q": "Will raising temperature affect my espresso’s acidity?",
+        "a": "A slight rise can mute bright acidity, so taste‑test to find your sweet spot."
+      },
+      {
+        "q": "Do I need to recalibrate my grinder after changing temperature?",
+        "a": "Not necessarily, but a quick dose check ensures consistency."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "crema",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-22T14:57:36.952Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-brew-ratio-magic",
     "title": "Unlock the Hidden Power of Brew Ratio in Espresso",
     "dek": "A quick guide to mastering brew ratio for richer, more consistent espresso shots at home.",

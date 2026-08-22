@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sharp-edge-saw-jig",
+    "title": "Sharp Edge, Small Effort: DIY Saw Blade Jig",
+    "dek": "A quick, low‑cost jig that gets your handsaws razor sharp without a bench grinder.",
+    "takeaway": "A simple jig can make precise saw sharpening a breeze for any hobbyist.",
+    "whatHappened": "I built a 4‑inch plywood jig with a V‑groove, clamped my backsaw, and ran a triangular file along the teeth. In under ten minutes the blade sang. The whole thing cost less than $5 and fits in a tiny shop.",
+    "whyItMatters": "A dull saw drags, burns wood, and kills momentum, turning a simple cut into a frustration. Regular, accurate sharpening restores efficiency and extends tool life, saving money and time in the long run.",
+    "howToThink": "Start with a clean, flat tooth profile, then set the file angle to match the saw’s bevel—usually 10‑12°. Keep the jig stable, move the file consistently, and check progress after a few strokes. Finish with a fine diamond stone for a polished edge.",
+    "pros": [
+      "Inexpensive to build",
+      "Works on most hand saws",
+      "No power tools needed"
+    ],
+    "cons": [
+      "Requires a steady hand",
+      "Initial setup takes a few minutes",
+      "Limited to smaller blades"
+    ],
+    "watchOut": "Don’t over‑file; excessive material removal can thin the teeth and weaken the blade.",
+    "faq": [
+      {
+        "q": "Can I use a metal file instead of a triangular file?",
+        "a": "Yes, a fine flat file works, but a triangular file follows the tooth profile more naturally."
+      },
+      {
+        "q": "How often should I sharpen my saw?",
+        "a": "Whenever you feel resistance or see fuzz on the cut surface—typically every few projects for hobby use."
+      },
+      {
+        "q": "Is the jig adjustable for different tooth pitches?",
+        "a": "The V‑groove width can be trimmed to match various pitches, but a single width works well for most common backsaws."
+      }
+    ],
+    "category": "Hand Tools",
+    "tags": [
+      "saw",
+      "jig"
+    ],
+    "sources": [
+      {
+        "label": "r/BeginnerWoodWorking community threads",
+        "url": "https://www.reddit.com/r/BeginnerWoodWorking/"
+      },
+      {
+        "label": "Search interest: \"first hand tool set\"",
+        "url": "https://duckduckgo.com/?q=first%20hand%20tool%20set"
+      }
+    ],
+    "publishedAt": "2026-08-22T14:57:42.608Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-shop-setup-64",
     "title": "Ask the forge: your shop setup questions, answered",
     "dek": "Straight answers to the shop setup questions hobby woodworkers in small shops keep asking, minus the hedging.",

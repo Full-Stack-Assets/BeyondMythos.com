@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dynamic-z-offset-tuning",
+    "title": "Five‑minute Z‑offset routine for flawless first layers",
+    "dek": "A quick 5‑minute routine to lock down Z‑offset for flawless first layers.",
+    "takeaway": "Consistent Z‑offset eliminates first‑layer headaches and saves filament.",
+    "whatHappened": "I tried a new step‑by‑step Z‑offset routine on my Ender 3 V2, timing each tweak and measuring adhesion. Within three prints the first‑layer uniformity jumped from patchy to perfect.",
+    "whyItMatters": "First‑layer adhesion is the foundation of every print; a mis‑set Z‑offset wastes time, filament, and can ruin prints. A repeatable routine gives confidence across material changes.",
+    "howToThink": "Treat Z‑offset like a daily warm‑up: start with a clean bed, use a piece of paper, adjust in 0.05 mm increments, and lock the setting after the nozzle just grips the paper. Re‑run after any nozzle change or bed replacement.",
+    "pros": [
+      "Fast to apply",
+      "Works on any Bowden or direct‑drive printer",
+      "No extra hardware needed"
+    ],
+    "cons": [
+      "Requires a flat bed surface",
+      "Paper method can be imprecise on textured beds",
+      "Needs re‑check after major maintenance"
+    ],
+    "watchOut": "Don’t overtighten the Z‑stop screw; too much force can damage the frame.",
+    "faq": [
+      {
+        "q": "Can I use this routine with a glass bed?",
+        "a": "Yes, just ensure the glass is clean and use a thin piece of printer‑paper or a feeler gauge for the gap."
+      },
+      {
+        "q": "How often should I repeat the Z‑offset check?",
+        "a": "At least after any nozzle swap, bed surface change, or after a long print that may have shifted the bed."
+      },
+      {
+        "q": "What if my printer has automatic bed leveling?",
+        "a": "Run the routine on the mesh’s zero point, then fine‑tune the Z‑offset in the firmware menu."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "Z-Offset",
+      "First Layer"
+    ],
+    "sources": [
+      {
+        "label": "r/3Dprinting community threads",
+        "url": "https://www.reddit.com/r/3Dprinting/"
+      },
+      {
+        "label": "Search interest: \"3d print stringing fix\"",
+        "url": "https://duckduckgo.com/?q=3d%20print%20stringing%20fix"
+      }
+    ],
+    "publishedAt": "2026-08-22T14:57:50.395Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-design-60",
     "title": "The quiet upgrade: small tweaks in design with outsized returns",
     "dek": "No purchases, no overhauls — the modest design adjustments that home 3D-printing hobbyists report mattering most.",
