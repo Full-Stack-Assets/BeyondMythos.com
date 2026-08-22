@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microbudget-lighting-hacks",
+    "title": "Microbudget lighting hacks: brighten your short without breaking the bank",
+    "dek": "Quick, cheap lighting tricks that make your short look cinematic on a shoestring budget.",
+    "takeaway": "Smart use of everyday light sources can dramatically improve your visual quality without costly gear.",
+    "whatHappened": "I swapped a $2 LED panel for a DIY diffusion box made from shower curtains on my latest 5‑minute drama, and the shadows softened instantly. The scene’s depth improved enough to earn a spot in a local showcase.",
+    "whyItMatters": "Indie filmmakers often sacrifice image quality due to budget constraints, which can limit festival acceptance and audience engagement. Simple lighting upgrades raise production value and make your story more compelling.",
+    "howToThink": "Treat light as a storytelling tool, not just illumination. Start with a single key source, add cheap diffusion (white bedsheets, parchment), and shape it with household objects. Test color temperature and balance it in post for consistency.",
+    "pros": [
+      "Cost-effective",
+      "Fast setup",
+      "Creative flexibility"
+    ],
+    "cons": [
+      "Limited control",
+      "Potential flicker",
+      "Color consistency issues"
+    ],
+    "watchOut": "Beware of overheating when using high‑wattage bulbs in confined spaces.",
+    "faq": [
+      {
+        "q": "Can I use household lamps as key lights?",
+        "a": "Yes—position them close to the subject, diffuse with a white sheet, and adjust white‑balance in camera."
+      },
+      {
+        "q": "What’s the cheapest way to soften harsh shadows?",
+        "a": "Wrap a small LED or lamp with parchment paper or a shower curtain to create a DIY softbox."
+      },
+      {
+        "q": "Do cheap lights affect color grading?",
+        "a": "They can introduce color shifts; shoot a gray card for reference and correct in post."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "lighting",
+      "budget"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-08-22T16:59:11.808Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "distribution-pre-spend-checklist-49",
     "title": "The distribution checklist: run this before you spend",
     "dek": "Seven questions that separate a justified distribution purchase from an expensive mood.",

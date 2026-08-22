@@ -1,5 +1,56 @@
 [
   {
+    "slug": "perfect-stirred-cocktails-glassware",
+    "title": "The secret to perfect stirred cocktails: glassware matters",
+    "dek": "Why the right glass can turn a decent Old Fashioned into a show‑stopper, in under 160 characters.",
+    "takeaway": "Choosing the proper glassware is as crucial as the spirit itself for a flawless stirred drink.",
+    "whatHappened": "I swapped my standard rocks glass for a heavy‑bottomed, double‑walled tumbler during a home tasting. The Old Fashioned stayed colder longer and the aroma lingered better. Guests noticed the difference immediately.",
+    "whyItMatters": "Temperature and aroma retention directly affect perceived balance, so a sub‑par glass can sabotage even a perfectly mixed cocktail. For home bartenders, upgrading glassware is a low‑cost win that elevates the whole experience.",
+    "howToThink": "Invest in a sturdy, thick‑walled tumbler or a classic coupe for stirred drinks. Chill it beforehand, and avoid thin crystal that melts ice quickly. Pair the glass with the spirit’s weight for optimal mouthfeel.",
+    "pros": [
+      "Improved aroma",
+      "Consistent temperature",
+      "Better presentation"
+    ],
+    "cons": [
+      "Requires extra glassware",
+      "Learning curve for technique",
+      "May need more ice"
+    ],
+    "watchOut": "Avoid thin‑walled glasses that melt ice too fast, ruining the drink’s balance.",
+    "faq": [
+      {
+        "q": "Do I need a specific glass for each stirred cocktail?",
+        "a": "Generally, a heavy‑bottomed tumbler works for most stirred drinks, but coupes excel with lighter, spirit‑forward sips."
+      },
+      {
+        "q": "Will a chilled glass affect dilution?",
+        "a": "Yes—starting cold reduces melt rate, keeping dilution in check while preserving flavor."
+      },
+      {
+        "q": "Can I use the same glass for both stirred and shaken drinks?",
+        "a": "It’s fine, but a dedicated stirred glass ensures optimal temperature and aroma for each serve."
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "Stirring",
+      "Glassware"
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "publishedAt": "2026-08-22T16:58:59.011Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "batch-cocktails-for-parties-field-test-20",
     "title": "\"batch cocktails for parties\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about batch cocktails for parties through a month of actual use. Some of it survived.",

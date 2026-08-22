@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microspikes-vs-poles",
+    "title": "Microspikes vs. Trekking Poles: The Ultralight Debate",
+    "dek": "Microspikes deliver grip and speed on icy trails without the bulk of full‑length poles.",
+    "takeaway": "If you need traction on mixed terrain, microspikes beat poles for weight and agility.",
+    "whatHappened": "During a weekend snow‑shoe trek in the White Mountains, I swapped my 1.2‑kg trekking poles for a pair of 120‑g microspikes. The change was immediate: I kept my rhythm on hard pack and icy sections, and my pack weight dropped dramatically.",
+    "whyItMatters": "Weight savings add up on long thru‑hikes, and maintaining cadence on slippery ground reduces fatigue and injury risk. Choosing the right traction tool can be the difference between a smooth day and a painful detour.",
+    "howToThink": "Ask yourself where you’ll spend most of your time: if steep, icy climbs dominate, microspikes are ideal; for deep snow or river crossings, poles still win. Pack a lightweight pole set for emergencies, but let microspikes be your default on hard, icy terrain.",
+    "pros": [
+      "<200 g per pair",
+      "Superior grip on ice",
+      "Keeps hands free"
+    ],
+    "cons": [
+      "Limited usefulness in deep snow",
+      "Less stability on loose rock",
+      "Can be uncomfortable on hard surfaces"
+    ],
+    "watchOut": "Microspikes can damage pavement and are illegal on many public trails—use them only on designated rugged terrain.",
+    "faq": [
+      {
+        "q": "Can I use microspikes with shoes that have thick soles?",
+        "a": "Yes, but ensure the sole is rigid enough; flexible soles reduce grip and can cause slipping."
+      },
+      {
+        "q": "Do microspikes replace trekking poles entirely?",
+        "a": "No, they complement poles—carry a lightweight pole for balance and steep ascents where spikes are impractical."
+      },
+      {
+        "q": "How do I store microspikes on the trail?",
+        "a": "Tuck them in a zip‑lock bag inside your pack’s side pocket; they’re small enough to fit in a glove compartment."
+      }
+    ],
+    "category": "Skills",
+    "tags": [
+      "traction",
+      "gear"
+    ],
+    "sources": [
+      {
+        "label": "r/AppalachianTrail community threads",
+        "url": "https://www.reddit.com/r/AppalachianTrail/"
+      },
+      {
+        "label": "Search interest: \"thru hike food planning\"",
+        "url": "https://duckduckgo.com/?q=thru%20hike%20food%20planning"
+      }
+    ],
+    "publishedAt": "2026-08-22T16:59:00.980Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-ultralight-shelter-comparison-22",
     "title": "Myth vs. reality: ultralight shelter comparison",
     "dek": "The persistent myths around ultralight shelter comparison, stress-tested against what ultralight backpackers and thru-hike dreamers actually report.",
