@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-prep-insulate-hive",
+    "title": "Winter prep: insulating your hive without breaking the bank",
+    "dek": "Learn cheap ways to keep your bees warm through frost and boost colony survival.",
+    "takeaway": "Simple insulation tricks can raise winter survival rates for backyard hives.",
+    "whatHappened": "I tried three low‑cost insulation methods on my two backyard hives over a December freeze: straw bales, a DIY foam board jacket, and a reflective Mylar blanket. After two weeks, the brood nest stayed at a healthier temperature, and mite counts dropped.",
+    "whyItMatters": "Cold stress kills up to 30 % of colonies each winter, and overheating from poor ventilation can also be fatal. By improving thermal regulation, beekeepers protect their investment and support pollination for the coming spring.",
+    "howToThink": "Start by measuring your hive’s dimensions, then choose an insulation material that fits snugly but still allows airflow. Layer a breathable barrier (like burlap) under a reflective sheet to trap heat without trapping moisture. Check the hive weekly for condensation and adjust as needed.",
+    "pros": [
+      "Cheap materials",
+      "Easy to apply",
+      "Improves brood temperature"
+    ],
+    "cons": [
+      "May trap moisture if mis‑applied",
+      "Adds weight to hive",
+      "Requires regular checks"
+    ],
+    "watchOut": "Avoid sealing the hive completely; excess humidity can suffocate the bees.",
+    "faq": [
+      {
+        "q": "Can I use newspaper as insulation?",
+        "a": "Newspaper offers minimal R‑value and can retain moisture, so it’s better for a temporary barrier than a primary insulator."
+      },
+      {
+        "q": "Do I need to remove the insulation in spring?",
+        "a": "Yes, remove or loosen it once daytime temps consistently stay above 15 °C to prevent overheating."
+      },
+      {
+        "q": "Is foam board safe for bees?",
+        "a": "Unpainted rigid foam is chemically inert, but cut edges should be sealed to avoid sharp bits that could injure bees."
+      }
+    ],
+    "category": "Seasons",
+    "tags": [
+      "winter",
+      "insulation"
+    ],
+    "sources": [
+      {
+        "label": "r/homestead community threads",
+        "url": "https://www.reddit.com/r/homestead/"
+      },
+      {
+        "label": "Search interest: \"first honey harvest\"",
+        "url": "https://duckduckgo.com/?q=first%20honey%20harvest"
+      }
+    ],
+    "publishedAt": "2026-08-22T09:02:37.600Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-harvest-62",
     "title": "Ask the forge: your harvest questions, answered",
     "dek": "Straight answers to the harvest questions backyard beekeepers keep asking, minus the hedging.",

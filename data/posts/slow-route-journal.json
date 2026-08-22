@@ -1,5 +1,56 @@
 [
   {
+    "slug": "zero-waste-rail-snack-kit",
+    "title": "Zero‑waste snack kits for the slow rail traveler",
+    "dek": "Pack a reusable, low‑impact snack kit that fuels long train rides without trash.",
+    "takeaway": "A thoughtfully curated snack kit keeps you energized and leaves no waste on the rails.",
+    "whatHappened": "On a three‑day sleeper route through the Alps, I swapped disposable wrappers for a modular, reusable kit. The kit held nuts, dried fruit, and a small tin of local cheese, fitting neatly in my seat pocket.",
+    "whyItMatters": "Food waste on trains adds up, and single‑use packaging clogs station bins. By planning sustainable snacks, you reduce your footprint and support local producers.",
+    "howToThink": "Start with a reusable container, fill it with bulk‑bought items, and add a compact utensil. Keep a small zip‑lock for wet items and a reusable water bottle. Refill at stations where possible.",
+    "pros": [
+      "No trash left behind",
+      "Customizable portions",
+      "Fits tight rail seats"
+    ],
+    "cons": [
+      "Requires pre‑planning",
+      "Bulk items may be heavier",
+      "Limited refrigeration"
+    ],
+    "watchOut": "Avoid foods that spoil quickly if you can’t guarantee a cold chain on the journey.",
+    "faq": [
+      {
+        "q": "Can I bring fresh fruit on a train?",
+        "a": "Yes, but pack it whole and eat it early to prevent bruising and odors."
+      },
+      {
+        "q": "What containers are best for zero‑waste travel?",
+        "a": "Lightweight stainless steel or BPA‑free silicone boxes with tight seals."
+      },
+      {
+        "q": "How do I refill my kit on the road?",
+        "a": "Visit station markets or local shops; keep a reusable bag handy for bulk purchases."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "packing",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-22T09:02:32.786Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "night-owl-quiet-carriage",
     "title": "Night owl on the rails: maximizing quiet carriage time for reading",
     "dek": "Turn late‑night train rides into a low‑key reading sanctuary without waking the whole carriage.",
