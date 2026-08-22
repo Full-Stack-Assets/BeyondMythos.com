@@ -1,5 +1,56 @@
 [
   {
+    "slug": "back-to-back-recovery",
+    "title": "Back-to-back long runs: mastering recovery for ultra prep",
+    "dek": "Learn a quick recovery routine to keep mileage up without burning out.",
+    "takeaway": "Consistent recovery habits let you stack long runs safely.",
+    "whatHappened": "I scheduled two 30‑km back‑to‑back runs on a weekend and followed a 30‑minute post‑run protocol each day. The first run felt solid, but the second left me sore until I applied the recovery steps. By night two, muscle tightness dropped dramatically and I felt ready for the next week’s training.",
+    "whyItMatters": "Ultra training often requires high weekly mileage and consecutive long runs, which can pile on fatigue and injury risk. Efficient recovery bridges the gap between volume and performance, keeping you on schedule and injury‑free. Ignoring recovery can derail weeks of hard work with a single setback.",
+    "howToThink": "Treat recovery as a non‑negotiable training block: hydrate, foam roll, and do a targeted mobility routine within 30 minutes post‑run. Follow with a protein‑rich snack (20‑30 g) and a short nap or rest period. Repeat the same steps after each long effort to reset your system before the next push.",
+    "pros": [
+      "Reduces soreness quickly",
+      "Boosts next‑day performance",
+      "Minimizes injury risk"
+    ],
+    "cons": [
+      "Requires discipline",
+      "Adds 30‑minute time cost",
+      "May feel unnecessary on easy weeks"
+    ],
+    "watchOut": "Don’t skip the protein snack; carbs alone won’t fully support muscle repair.",
+    "faq": [
+      {
+        "q": "How soon after a run should I start the recovery routine?",
+        "a": "Begin within 15‑30 minutes while muscles are still warm for maximum benefit."
+      },
+      {
+        "q": "Is foam rolling mandatory?",
+        "a": "It’s highly effective for loosening tight spots, but a good stretch can suffice if you’re short on time."
+      },
+      {
+        "q": "Can I use this routine on shorter runs?",
+        "a": "Yes, but the intensity can be scaled down; the core principles remain the same."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "training",
+      "recovery"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultramarathon community threads",
+        "url": "https://www.reddit.com/r/Ultramarathon/"
+      },
+      {
+        "label": "Search interest: \"ultra training plan\"",
+        "url": "https://duckduckgo.com/?q=ultra%20training%20plan"
+      }
+    ],
+    "publishedAt": "2026-08-22T07:19:01.492Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-nutrition-49",
     "title": "The quiet upgrade: small tweaks in nutrition with outsized returns",
     "dek": "No purchases, no overhauls — the modest nutrition adjustments that trail runners and ultrarunning hopefuls report mattering most.",

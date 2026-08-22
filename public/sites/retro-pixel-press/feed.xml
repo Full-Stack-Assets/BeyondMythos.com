@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-42.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-42.html</guid>
+      <pubDate>Sat, 22 Aug 2026 07:18:43 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>NES slowdown fix: 12‑V to 15‑V boost for steady 60fps</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-slowdown-fix-12v-15v.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-slowdown-fix-12v-15v.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-45.html</guid>
       <pubDate>Thu, 20 Aug 2026 23:58:31 GMT</pubDate>
       <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>NES controller latency hack: 3‑wire mod for sub‑15 ms response</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-nes-controller-mod.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-nes-controller-mod.html</guid>
-      <pubDate>Thu, 20 Aug 2026 23:01:44 GMT</pubDate>
-      <description>A quick guide to shaving milliseconds off your NES controller by rewiring the latch and adding a low‑cap capacitor.</description>
     </item>
   </channel>
 </rss>

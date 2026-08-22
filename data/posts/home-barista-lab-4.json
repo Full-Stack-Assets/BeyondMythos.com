@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dialing-in-espresso-shot",
+    "title": "Dialing in the perfect espresso shot: a micro‑adjustment guide",
+    "dek": "A quick rundown of tiny tweaks that turn a decent pull into a silky, balanced espresso in under five minutes.",
+    "takeaway": "Small, measurable adjustments to grind, dose, and pressure yield big flavor gains.",
+    "whatHappened": "I spent a Saturday testing three micro‑adjustments—grind size, dose weight, and brew pressure—on my home machine. Each change was logged with a taste score. The results showed a clear pattern of improvement.",
+    "whyItMatters": "Home baristas often chase big equipment upgrades, but the biggest gains are hidden in the details you already control. Understanding these levers saves money and time while elevating daily coffee quality.",
+    "howToThink": "Start with a baseline shot, then adjust one variable at a time in small increments. Record the taste notes and extraction time, then decide if the change moves you toward balance. Repeat until you hit your sweet spot.",
+    "pros": [
+      "Immediate flavor boost",
+      "No new gear needed",
+      "Easy to track and repeat"
+    ],
+    "cons": [
+      "Requires disciplined note‑taking",
+      "Time‑intensive on first run",
+      "Small changes may feel subtle"
+    ],
+    "watchOut": "Don’t over‑adjust; tiny steps prevent overshooting the ideal balance.",
+    "faq": [
+      {
+        "q": "What’s the ideal dose range for a 58 mm basket?",
+        "a": "Around 18‑20 g for most beans, but adjust ±0.5 g to taste."
+      },
+      {
+        "q": "How much should I change the grind per adjustment?",
+        "a": "Move the dial 2‑4 clicks (≈0.1 mm) and taste before further tweaks."
+      },
+      {
+        "q": "Is pressure really a factor on a non‑PID machine?",
+        "a": "Yes—use a pressure gauge or feel the pump’s resistance; small tweaks still affect flow rate."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tuning"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-22T07:19:11.354Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-41",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

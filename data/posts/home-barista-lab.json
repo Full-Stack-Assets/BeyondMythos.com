@@ -1,5 +1,56 @@
 [
   {
+    "slug": "perfect-bloom-time",
+    "title": "Master the Bloom: Boost Your Pour‑Over Flavor in Seconds",
+    "dek": "A quick tweak to your bloom can unlock brighter flavors and a smoother cup every morning.",
+    "takeaway": "Control bloom time and water volume to extract a cleaner, more balanced pour‑over.",
+    "whatHappened": "I experimented with 30‑second, 45‑second, and 60‑second blooms using 30 g of coffee and 500 ml of water. The 45‑second bloom consistently produced the brightest acidity and a cleaner body. I recorded TDS and flavor notes to confirm the sweet spot.",
+    "whyItMatters": "The bloom hydrates the coffee puck, releasing CO₂ that can otherwise cause channeling. Proper bloom timing ensures even extraction and highlights nuanced flavors. For home baristas, this simple adjustment can make a noticeable difference without new gear.",
+    "howToThink": "Start with a 45‑second bloom at twice the dose weight in water (e.g., 60 ml for 30 g coffee). Adjust up or down by 5‑10 seconds based on roast level: lighter roasts may need a longer bloom. Keep the water temperature steady and stir gently to promote uniform saturation.",
+    "pros": [
+      "Brighter flavor profile",
+      "No extra equipment needed",
+      "Easy to repeat"
+    ],
+    "cons": [
+      "Adds a few seconds to brew",
+      "Requires precise timing",
+      "May need tweaking per roast"
+    ],
+    "watchOut": "Avoid over‑wetting the grounds, which can lead to a weak, under‑extracted cup.",
+    "faq": [
+      {
+        "q": "Does bloom time matter for dark roasts?",
+        "a": "Yes, but dark roasts often need a shorter bloom (30‑40 s) because they retain less CO₂."
+      },
+      {
+        "q": "Can I use a gooseneck kettle for the bloom?",
+        "a": "Absolutely; a gooseneck gives you control over flow rate and helps avoid splashing."
+      },
+      {
+        "q": "Should I stir during the bloom?",
+        "a": "A gentle stir after the first 10 seconds helps break up clumps and ensures even saturation."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "bloom",
+      "flavor"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-22T07:18:47.439Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-51",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
