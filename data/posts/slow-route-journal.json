@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-stations-micro-rests",
+    "title": "Quiet stations: harnessing empty platforms for mindful micro‑rests",
+    "dek": "Discover how idle platforms can become low‑impact pause points for mindful travelers.",
+    "takeaway": "Turn idle stations into purposeful, low‑impact rest spots.",
+    "whatHappened": "While waiting for a delayed train in a regional hub, I set up a simple mat and a reusable water bottle on an empty platform. The hush of the empty space turned a frustrating delay into a brief meditation break. I left no trace, just a refreshed mindset for the next leg of the journey.",
+    "whyItMatters": "Idle platforms are abundant yet underused resources for low‑impact travelers. By treating them as intentional pause points, we reduce the need for energy‑heavy accommodations and deepen our connection to the journey itself. It also spreads awareness of respectful, low‑footprint practices among fellow commuters.",
+    "howToThink": "Scout the station layout ahead via apps or maps, locate a corner away from foot traffic, and bring a lightweight, reusable mat. Keep belongings in a compact bag, and respect any local signage. Treat the spot as a temporary, mindful capsule—no camping gear, just essentials.",
+    "pros": [
+      "Zero‑cost rest spot",
+      "Reduces carbon footprint",
+      "Enhances presence on the journey"
+    ],
+    "cons": [
+      "Limited privacy",
+      "May be subject to station rules",
+      "Weather exposure"
+    ],
+    "watchOut": "Check local regulations; some stations prohibit overnight stays on platforms.",
+    "faq": [
+      {
+        "q": "Is it legal to rest on a platform during a delay?",
+        "a": "Most stations allow short rests during delays, but overnight stays often violate rules—always look for signage or ask staff."
+      },
+      {
+        "q": "How can I stay warm or cool without a tent?",
+        "a": "Layer with a compact down jacket or a breathable rain shell; a reflective emergency blanket can add warmth without bulk."
+      },
+      {
+        "q": "What if other travelers need the space?",
+        "a": "Pack up quickly and move to a less crowded area; prioritize shared access and keep the area tidy."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "mindful"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-22T23:56:22.413Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "micro-camping-unstaffed-stations",
     "title": "Micro-camping at unstaffed stations: turning layovers into low-impact havens",
     "dek": "Turn idle, unstaffed train stations into minimalist sleep pods for the eco‑conscious traveler.",

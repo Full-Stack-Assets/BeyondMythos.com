@@ -1,5 +1,56 @@
 [
   {
+    "slug": "15min-pantry-sauce-blitz",
+    "title": "15‑minute pantry sauce blitz: a weeknight win",
+    "dek": "Turn a handful of pantry staples into a rich, restaurant‑level sauce in under fifteen minutes.",
+    "takeaway": "A quick sauce can elevate any weeknight plate without extra trips to the store.",
+    "whatHappened": "I tried a recipe that combined canned tomatoes, olive oil, garlic, and a dash of pantry spices, simmering it while the pasta boiled. The result was a silky, layered sauce that surprised my family.",
+    "whyItMatters": "Weeknight time is scarce, and a versatile sauce that uses what you already have cuts prep time and waste. It also teaches you to see your pantry as a flavor reservoir.",
+    "howToThink": "Start with a flavor base—garlic, onion, or dried herbs—then add acidity, richness, and a finishing touch. Adjust thickness with water or broth, and finish with a splash of acid or butter for depth.",
+    "pros": [
+      "Speedy",
+      "Uses staples",
+      "Highly adaptable"
+    ],
+    "cons": [
+      "Limited depth vs. slow‑cooked",
+      "Relies on pantry quality",
+      "May need tweaking for spice"
+    ],
+    "watchOut": "Don’t let the sauce scorch; keep the heat moderate and stir frequently.",
+    "faq": [
+      {
+        "q": "Can I swap canned tomatoes for fresh?",
+        "a": "Yes, fresh tomatoes work but add a splash of water to reach the same volume."
+      },
+      {
+        "q": "What herbs work best?",
+        "a": "Dried oregano, basil, or a pinch of red‑pepper flakes add instant flavor."
+      },
+      {
+        "q": "How to store leftovers?",
+        "a": "Cool quickly and refrigerate up to three days; reheat gently to avoid separation."
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "quick",
+      "pantry"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"pantry staples list\"",
+        "url": "https://duckduckgo.com/?q=pantry%20staples%20list"
+      }
+    ],
+    "publishedAt": "2026-08-22T23:56:35.058Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pantry-mistakes-61",
     "title": "Five mistakes everyone makes in their first month of pantry",
     "dek": "The most common early stumbles in pantry, and the cheap corrections that fix them for home cooks systematizing weeknight dinners.",

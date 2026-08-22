@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-16.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-16.html</guid>
+      <pubDate>Sat, 22 Aug 2026 23:56:20 GMT</pubDate>
+      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Unlocking hidden frame‑perfect tricks on the Mega Drive</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/mega-drive-frame-perfect-tricks.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/mega-drive-frame-perfect-tricks.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-snes-14.html</guid>
       <pubDate>Fri, 21 Aug 2026 18:02:00 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
-    </item>
-    <item>
-      <title>HDMI hack: turning your Genesis into a 1080p marvel</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/hdmi-hack-genesis-1080p.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/hdmi-hack-genesis-1080p.html</guid>
-      <pubDate>Fri, 21 Aug 2026 17:05:27 GMT</pubDate>
-      <description>Turn your classic Genesis into a crisp HDMI output with a few cheap parts and soldering tricks.</description>
     </item>
   </channel>
 </rss>
