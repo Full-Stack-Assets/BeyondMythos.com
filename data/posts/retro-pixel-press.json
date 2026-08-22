@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mega-drive-frame-perfect-tricks",
+    "title": "Unlocking hidden frame‑perfect tricks on the Mega Drive",
+    "dek": "A quick guide to discovering and exploiting frame‑perfect tricks in classic Mega Drive speedruns.",
+    "takeaway": "Even a few extra frames shaved can leapfrog you into the top‑10 leaderboard.",
+    "whatHappened": "During a recent community race, a runner uncovered a previously undocumented 2‑frame jump in Sonic the Hedgehog 2. By tweaking input timing, the runner cut the level‑clear time by 0.07 seconds, enough to set a new personal best.",
+    "whyItMatters": "Those marginal gains illustrate how deep the Mega Drive’s timing windows still are, rewarding meticulous practice. For collectors, knowing these tricks adds value to the cartridge’s historical lore.",
+    "howToThink": "Map out each level’s critical collision points, then use a frame‑counter emulator to test input offsets. Practice in short bursts, focusing on one trick until it feels natural, then layer them together.",
+    "pros": [
+      "Boosts leaderboard position",
+      "Deepens game knowledge",
+      "Shows hardware’s timing precision"
+    ],
+    "cons": [
+      "High skill ceiling",
+      "Time‑intensive practice",
+      "May require custom controller mods"
+    ],
+    "watchOut": "Avoid over‑tightening your controller, which can cause missed inputs and frustration.",
+    "faq": [
+      {
+        "q": "What tool can I use to count frames on a Mega Drive?",
+        "a": "BizHawk’s frame counter or the built‑in debugger in Gens/Kega Fusion works well."
+      },
+      {
+        "q": "Do I need a modded controller?",
+        "a": "Not strictly, but a controller with a short travel distance or a fight stick helps achieve the precision needed."
+      },
+      {
+        "q": "Can these tricks be used in official speedrun categories?",
+        "a": "Yes, most community‑approved categories accept frame‑perfect tricks as long as they don’t involve emulator cheats."
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "Mega Drive",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-22T22:57:38.789Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-44",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

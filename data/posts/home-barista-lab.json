@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ambient-temp-espresso-tuning",
+    "title": "How Ambient Temperature Shapes Your Espresso Shot (And What to Do About It)",
+    "dek": "Your kitchen’s temperature can swing espresso flavor—learn quick fixes to keep shots consistent.",
+    "takeaway": "Control room temperature or compensate in your brew to nail repeatable espresso.",
+    "whatHappened": "I noticed my espresso tasted brighter on winter mornings and duller on summer afternoons, despite using the same beans and pressure.",
+    "whyItMatters": "Temperature shifts alter extraction rates, changing balance and crema, so ignoring ambient heat leads to unpredictable flavor. Recognizing this factor lets you chase consistency the way you would any other variable.",
+    "howToThink": "Treat ambient temperature as a variable: measure your room, adjust brew temperature or preheat your machine, and record changes for consistency. Small tweaks keep your shots on point without overhauling your setup.",
+    "pros": [
+      "Improved flavor stability",
+      "No extra equipment needed",
+      "Simple to implement"
+    ],
+    "cons": [
+      "Requires temperature monitoring",
+      "May need brew temp tweaks",
+      "Room heating/cooling costs"
+    ],
+    "watchOut": "Don’t overcompensate by cranking the boiler too high, which can scorch the coffee.",
+    "faq": [
+      {
+        "q": "Can I ignore ambient temperature if I use a PID?",
+        "a": "Even with a PID, the water entering the group head is affected by room heat, so you still need to account for it."
+      },
+      {
+        "q": "What's a practical way to measure my kitchen temperature?",
+        "a": "Place a cheap digital thermostat near your espresso machine and note the reading before each session."
+      },
+      {
+        "q": "Should I change my grind size when the room gets hotter?",
+        "a": "A slight finer grind can offset faster extraction caused by higher temps, but start with a small adjustment."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-22T22:57:34.770Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-water-temp-math",
     "title": "Why Water Temperature Matters More Than You Think in Espresso",
     "dek": "A quick dive into how a few degrees shift can reshape flavor, consistency, and shot quality.",

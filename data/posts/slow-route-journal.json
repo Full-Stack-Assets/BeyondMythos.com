@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-camping-unstaffed-stations",
+    "title": "Micro-camping at unstaffed stations: turning layovers into low-impact havens",
+    "dek": "Turn idle, unstaffed train stations into minimalist sleep pods for the eco‑conscious traveler.",
+    "takeaway": "A few simple tools let you rest safely on the rails without leaving a trace.",
+    "whatHappened": "During a week of weekend trips across the Midwest, I tried sleeping at three unstaffed stations using a compact bivvy, a solar lantern, and a reusable water bottle. Each night I set up, rested, and left no waste, proving that stations can double as micro‑camps.",
+    "whyItMatters": "Layovers are often wasted time and resources; repurposing stations reduces the need for extra lodging and spreads the environmental load. It also democratizes travel, letting budget explorers stay on the move without pricey hotels.",
+    "howToThink": "Scout stations ahead on rail maps, check for safety and legal access, pack a lightweight bivvy, a low‑lumens lantern, and a small dry bag for personal items. Arrive early, set up discreetly, and respect local rules. Pack out everything you bring.",
+    "pros": [
+      "Zero extra accommodation cost",
+      "Minimal gear footprint",
+      "Authentic rail-side experience"
+    ],
+    "cons": [
+      "Limited privacy",
+      "Potential security concerns",
+      "Weather-dependent comfort"
+    ],
+    "watchOut": "Always verify local regulations; some stations prohibit overnight stays and could result in fines.",
+    "faq": [
+      {
+        "q": "Is it legal to sleep at unstaffed stations?",
+        "a": "Rules vary by country and operator; many US stations allow overnight stays in designated areas, but always check signage or contact the rail company."
+      },
+      {
+        "q": "What gear is essential?",
+        "a": "A lightweight bivvy or sleeping bag, a compact lantern, earplugs, and a small dry bag for valuables."
+      },
+      {
+        "q": "How do I stay safe?",
+        "a": "Pick well-lit, populated stations, keep your bag close, and share your location with a travel buddy."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-22T22:57:35.920Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "packing-pre-spend-checklist-42",
     "title": "The packing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified packing purchase from an expensive mood.",

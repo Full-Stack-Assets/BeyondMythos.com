@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Unlocking hidden frame‑perfect tricks on the Mega Drive</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/mega-drive-frame-perfect-tricks.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/mega-drive-frame-perfect-tricks.html</guid>
+      <pubDate>Sat, 22 Aug 2026 22:57:38 GMT</pubDate>
+      <description>A quick guide to discovering and exploiting frame‑perfect tricks in classic Mega Drive speedruns.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-44.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-44.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/hdmi-hack-genesis-1080p.html</guid>
       <pubDate>Fri, 21 Aug 2026 17:05:27 GMT</pubDate>
       <description>Turn your classic Genesis into a crisp HDMI output with a few cheap parts and soldering tricks.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of speedruns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-45.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-45.html</guid>
-      <pubDate>Fri, 21 Aug 2026 16:03:46 GMT</pubDate>
-      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>
