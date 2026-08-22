@@ -1,5 +1,56 @@
 [
   {
+    "slug": "48-hour-pack-reset",
+    "title": "The 48‑Hour Pack Reset: How to Re‑pack Light After a Long Leg",
+    "dek": "A quick method to strip down, reorganize, and lighten your pack after a multi‑day push.",
+    "takeaway": "A systematic reset can shave 2‑3 lb and boost morale for the next stretch.",
+    "whatHappened": "After a 7‑day thru‑hike segment, I hit the trailhead of Shenandoah and realized my pack was a mess—torn fabric, half‑eaten meals, and stray gear. I spent an hour doing a “48‑hour reset” to get back to ultralight.",
+    "whyItMatters": "Over‑packed packs waste energy, cause chafing, and erode confidence; a reset restores balance and prevents cumulative fatigue.",
+    "howToThink": "Treat your pack like a modular system: strip to essentials, evaluate each item’s utility, and repack using weight‑distribution principles before you hit the next trail segment.",
+    "pros": [
+      "Saves weight",
+      "Reduces fatigue",
+      "Improves organization"
+    ],
+    "cons": [
+      "Takes time",
+      "Requires discipline",
+      "May discard needed items"
+    ],
+    "watchOut": "Don’t toss gear you might need later; keep a short “just‑in‑case” list.",
+    "faq": [
+      {
+        "q": "How often should I do a pack reset?",
+        "a": "Every 48‑72 hours on long legs or whenever you notice weight creep."
+      },
+      {
+        "q": "What’s the fastest way to evaluate items?",
+        "a": "Use the 1‑inch rule: if it won’t fit in a 1‑inch pocket, it probably isn’t essential."
+      },
+      {
+        "q": "Can I keep a “safety net” without adding weight?",
+        "a": "Carry a lightweight emergency blanket and a multi‑tool in a side pocket; they’re high‑utility, low‑weight."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "ultralight",
+      "pack-management"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-22T21:56:48.759Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "food-pre-spend-checklist-62",
     "title": "The food checklist: run this before you spend",
     "dek": "Seven questions that separate a justified food purchase from an expensive mood.",

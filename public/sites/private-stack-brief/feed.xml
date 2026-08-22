@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
     <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
     <item>
+      <title>A weekend project: level up your browsers in two hours</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/weekend-project-browsers-54.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/weekend-project-browsers-54.html</guid>
+      <pubDate>Sat, 22 Aug 2026 21:56:53 GMT</pubDate>
+      <description>One contained, satisfying browsers project for privacy-conscious consumers — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/privacy is debating this week</title>
       <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-privacy-18.html</link>
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-privacy-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-50.html</guid>
       <pubDate>Fri, 21 Aug 2026 16:03:54 GMT</pubDate>
       <description>Straight answers to the threats questions privacy-conscious consumers and security hobbyists keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>Zero‑click exploits: why your phone is never safe</title>
-      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/zero-click-exploits.html</link>
-      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/zero-click-exploits.html</guid>
-      <pubDate>Fri, 21 Aug 2026 15:09:36 GMT</pubDate>
-      <description>A quick look at zero‑click attacks that bypass user interaction and how to mitigate them.</description>
     </item>
   </channel>
 </rss>

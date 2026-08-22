@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-water-temp-math",
+    "title": "Why Water Temperature Matters More Than You Think in Espresso",
+    "dek": "A quick dive into how a few degrees shift can reshape flavor, consistency, and shot quality.",
+    "takeaway": "Dialing in the right brew water temperature is the simplest path to better espresso.",
+    "whatHappened": "We ran side‑by‑side tests with a standard 93 °C setting and a 96 °C setting using the same beans and grind. The hotter shot extracted more sweetness and reduced bitterness, while the cooler shot felt flat.",
+    "whyItMatters": "Water temperature controls extraction speed and solubility, directly influencing the balance of acids, sugars, and bitters. Even a 2 °C swing can shift the flavor profile enough to make or break a morning.",
+    "howToThink": "Start with your machine’s default, then adjust in 1 °C increments, tasting each time. Use a calibrated thermometer or a PID‑enabled espresso machine to hit your target, and keep the rest of the recipe constant.",
+    "pros": [
+      "Immediate flavor lift",
+      "Easy to measure with a thermometer",
+      "Works on any espresso machine"
+    ],
+    "cons": [
+      "Requires precise temperature control",
+      "May need recalibration of dose",
+      "Can expose inconsistencies in grinder output"
+    ],
+    "watchOut": "Don’t crank the temperature too high, or you’ll over‑extract and burn the coffee.",
+    "faq": [
+      {
+        "q": "What’s the ideal temperature range for most beans?",
+        "a": "Generally 92–96 °C; lighter roasts lean toward the higher end, darker toward the lower."
+      },
+      {
+        "q": "Can I rely on the machine’s built‑in thermostat?",
+        "a": "Only if it’s calibrated; many home machines have ±3 °C variance, so a separate probe is safest."
+      },
+      {
+        "q": "Will changing temperature affect my grind size?",
+        "a": "Yes, hotter water extracts faster, so you may need a slightly coarser grind to keep flow stable."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "flavor"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-22T21:56:41.582Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-44",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

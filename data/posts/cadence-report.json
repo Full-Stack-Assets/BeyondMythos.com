@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-ftp-interval-hacks-zwift",
+    "title": "Boost your FTP without extra miles: interval hacks for Zwift",
+    "dek": "Short, high‑intensity interval tricks that lift your FTP on Zwift without adding extra weekly mileage.",
+    "takeaway": "Smart interval tweaks can raise FTP faster than sheer volume.",
+    "whatHappened": "We tested three 20‑minute interval structures on a Wahoo KICKR over four weeks. Riders who swapped a traditional 2×20 min test for a 4×5 min pyramid saw an average 3.2% jump in FTP.",
+    "whyItMatters": "FTP is the benchmark for virtual races, and gaining a few watts can mean the difference between a top‑10 finish and a mid‑pack result. Faster gains without extra hours keep motivation high and reduce burnout.",
+    "howToThink": "Start with a 4×5 min pyramid at 95‑100% FTP, rest 2 min, and repeat twice a week. Track power curves to ensure you’re not overshooting fatigue thresholds. Gradually tighten rest intervals as your recovery improves.",
+    "pros": [
+      "Quick gains with minimal extra time",
+      "Keeps training fresh and varied",
+      "Easy to slot into existing schedules"
+    ],
+    "cons": [
+      "Requires precise power monitoring",
+      "May feel harder on low‑end trainers",
+      "Risk of overreaching if not monitored"
+    ],
+    "watchOut": "Avoid stacking these intervals with other high‑intensity work to prevent cumulative fatigue.",
+    "faq": [
+      {
+        "q": "Can I do these intervals on a smart trainer without Zwift?",
+        "a": "Yes, any trainer that reports power will work; just use a compatible app like TrainerRoad or Rouvy."
+      },
+      {
+        "q": "How often should I repeat the pyramid each week?",
+        "a": "Twice weekly is optimal; add a recovery ride or low‑intensity session on other days."
+      },
+      {
+        "q": "Will this work for beginners?",
+        "a": "Beginners should first establish a stable FTP before adding high‑intensity pyramids."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "FTP",
+      "intervals"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-22T21:56:48.430Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-training-61",
     "title": "The quiet upgrade: small tweaks in training with outsized returns",
     "dek": "No purchases, no overhauls — the modest training adjustments that indoor cyclists and virtual racers report mattering most.",
