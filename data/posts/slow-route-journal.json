@@ -1,5 +1,56 @@
 [
   {
+    "slug": "night-owl-quiet-carriage",
+    "title": "Night owl on the rails: maximizing quiet carriage time for reading",
+    "dek": "Turn late‑night train rides into a low‑key reading sanctuary without waking the whole carriage.",
+    "takeaway": "A silent, dim‑lit carriage can become your mobile library if you plan ahead.",
+    "whatHappened": "I boarded a 10 PM sleeper from Berlin to Prague and transformed a quiet carriage into a reading nook using a simple blanket, a clip‑on lamp, and noise‑cancelling earbuds.",
+    "whyItMatters": "Slow travelers often waste night‑train time scrolling; reclaiming it for reading reduces screen fatigue and deepens immersion in the journey.",
+    "howToThink": "Pick a carriage with minimal foot traffic, bring a lightweight fleece, a rechargeable LED lamp with a clip, and a small book or e‑reader; keep your bag tucked and use earplugs to block ambient chatter.",
+    "pros": [
+      "Zero extra cost",
+      "Boosts mental rest",
+      "Creates a personal sanctuary"
+    ],
+    "cons": [
+      "Limited space for larger books",
+      "Requires early seat selection",
+      "Potentially noisy neighbours"
+    ],
+    "watchOut": "Beware of bright cabin lights that can disturb fellow sleepers.",
+    "faq": [
+      {
+        "q": "Can I use a phone screen for reading?",
+        "a": "Better to use an e‑reader or printed book; phone light can disturb others and drain battery."
+      },
+      {
+        "q": "What if the carriage is full?",
+        "a": "Reserve a quiet‑zone seat when possible, or use a small travel pillow to create a personal bubble even in a busy carriage."
+      },
+      {
+        "q": "Is a clip‑on lamp allowed?",
+        "a": "Yes, as long as it’s low‑intensity and directed at your pages, it won’t bother others."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "reading"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-22T07:59:59.686Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-backpacking-16",
     "title": "Community pulse: what r/backpacking is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",
