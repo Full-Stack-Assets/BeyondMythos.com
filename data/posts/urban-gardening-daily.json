@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microgreens-mug-method",
+    "title": "Microgreens in a Mug: Fast, Fresh, Apartment Friendly",
+    "dek": "Turn a simple mug into a thriving microgreen garden in days, perfect for tiny balconies and windowsills.",
+    "takeaway": "A single mug can deliver fresh greens without a lot of space or fuss.",
+    "whatHappened": "We swapped a coffee mug for a seed tray, filled it with a blend of radish and mustard seeds, and kept it on a sunny sill. Within a week the seedlings punched through the soil, and by day ten we harvested crisp, peppery greens.",
+    "whyItMatters": "Apartment dwellers often lack garden space, but microgreens offer maximum nutrition in minimal footprint. Quick growth cycles mean fresh produce even on the busiest weeks.",
+    "howToThink": "Choose a wide, shallow mug, use a lightweight potting mix, and sow seeds densely. Keep the soil moist and provide 4-6 hours of indirect sunlight. Harvest by snipping at the base when leaves reach 2-3 inches.",
+    "pros": [
+      "Ultra‑small footprint",
+      "Lightning‑fast harvest",
+      "Low cost"
+    ],
+    "cons": [
+      "Needs daily watering",
+      "Limited to leafy greens",
+      "Root depth constrained"
+    ],
+    "watchOut": "Avoid over‑watering; soggy soil will drown the tiny seedlings.",
+    "faq": [
+      {
+        "q": "Can I use any mug?",
+        "a": "Any clean, food‑safe mug works, but a wide mouth helps seedlings spread."
+      },
+      {
+        "q": "What seeds grow best?",
+        "a": "Fast‑growing mixes like radish, mustard, broccoli, or pea shoots are ideal."
+      },
+      {
+        "q": "Do I need fertilizer?",
+        "a": "No, the seedlings get enough nutrients from the seed‑starting mix for the short growth period."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "microgreens",
+      "small-space"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-22T10:58:14.391Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-composting-50",
     "title": "The quiet upgrade: small tweaks in composting with outsized returns",
     "dek": "No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.",

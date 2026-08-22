@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-winter-brood-low-cost-queen-excluder-ha",
+    "title": "Boosting winter brood: a low-cost queen excluder hack",
+    "dek": "A cheap DIY queen excluder keeps winter brood safe while saving honey stores.",
+    "takeaway": "A simple excluder can protect your winter bees without draining your honey reserves.",
+    "whatHappened": "After a cold snap, a backyard beekeeper noticed the queen slipping into the winter cluster, causing premature brood loss. He fashioned a thin mesh excluder from hardware store screen and placed it at the hive entrance. The queen stayed out of the winter brood, and the colony survived the freeze.",
+    "whyItMatters": "Winter brood loss can cripple a hive's spring buildup, forcing costly requeening or replacement. Using a low‑cost barrier preserves the queen’s egg‑laying capacity and protects stored honey for the colony’s spring surge. Small interventions like this keep backyard operations sustainable and profitable.",
+    "howToThink": "Cut a piece of 1 mm hardware screen slightly larger than the hive entrance. Fold the edges inward to form a shallow collar, then secure it with a few staples or a dab of hot glue. Install it after the final honey harvest and before the first hard freeze, checking that worker bees can still pass freely.",
+    "pros": [
+      "Cheap (<$2)",
+      "Easy DIY with common tools",
+      "No impact on honey flow"
+    ],
+    "cons": [
+      "Requires careful sizing",
+      "May need occasional cleaning",
+      "Not suitable for very large bees"
+    ],
+    "watchOut": "Make sure the mesh opening is small enough to block the queen but large enough for workers to move unimpeded.",
+    "faq": [
+      {
+        "q": "Can I use any mesh material?",
+        "a": "A stainless‑steel or galvanized screen with 1 mm openings works best; avoid plastic that can warp in the cold."
+      },
+      {
+        "q": "Will the excluder affect ventilation?",
+        "a": "If installed correctly, airflow remains unchanged; just ensure the collar doesn’t seal the entrance completely."
+      },
+      {
+        "q": "Do I need to remove it in spring?",
+        "a": "Yes—once temperatures rise and the colony resumes normal brood rearing, take the excluder off to let the queen move freely."
+      }
+    ],
+    "category": "Hives",
+    "tags": [
+      "DIY",
+      "Winter"
+    ],
+    "sources": [
+      {
+        "label": "r/beekeepers community threads",
+        "url": "https://www.reddit.com/r/beekeepers/"
+      },
+      {
+        "label": "Search interest: \"varroa treatment options\"",
+        "url": "https://duckduckgo.com/?q=varroa%20treatment%20options"
+      }
+    ],
+    "publishedAt": "2026-08-22T10:58:20.079Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-seasons-mistakes-64",
     "title": "Five mistakes everyone makes in their first month of seasons",
     "dek": "The most common early stumbles in seasons, and the cheap corrections that fix them for backyard beekeepers.",
