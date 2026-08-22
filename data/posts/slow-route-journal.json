@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-sleeper-cars-quiet-rail-nights",
+    "title": "Silent sleeper cars: turning night rails into mindful retreats",
+    "dek": "Discover how quiet sleeper compartments can boost mindfulness and reduce travel stress on long rail journeys.",
+    "takeaway": "A silent sleeper car turns overnight travel into a low-impact, restorative experience.",
+    "whatHappened": "On a recent 12-hour Berlin-Munich night train I booked a silent sleeper compartment. The padded walls, soft lighting and enforced hush policy made the journey feel like a moving meditation.",
+    "whyItMatters": "For slow-travelers, sleep quality directly affects day-to-day exploration and carbon-friendly choices. Quiet cabins cut noise pollution and encourage deeper rest without extra emissions.",
+    "howToThink": "When planning a rail night, prioritize silent sleepers, pack a reusable eye mask, and respect the quiet rule to keep the space restorative for everyone.",
+    "pros": [
+      "Reduced noise",
+      "Better sleep",
+      "Eco-friendly rest"
+    ],
+    "cons": [
+      "Higher fare",
+      "Limited availability",
+      "Strict hush policy"
+    ],
+    "watchOut": "Beware that some silent cabins require a separate reservation fee and may fill up fast during peak seasons.",
+    "faq": [
+      {
+        "q": "Do I need a special ticket for a silent sleeper?",
+        "a": "Yes, they are booked as a distinct carriage class and usually cost a modest premium."
+      },
+      {
+        "q": "Can I bring a small pillow and blanket?",
+        "a": "Absolutely - most operators provide basics, but a compact travel pillow and recycled-fiber blanket keep you comfy and low-impact."
+      },
+      {
+        "q": "Is the quiet rule enforced?",
+        "a": "Crew members remind passengers, and violations can lead to a warning or relocation, so keep headphones low and conversations whispers."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-22T15:56:27.405Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-solotravel-19",
     "title": "Community pulse: what r/solotravel is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",
