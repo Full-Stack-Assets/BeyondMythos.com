@@ -1,5 +1,56 @@
 [
   {
+    "slug": "platform-camping-rail",
+    "title": "Platform camping: turning idle stations into low‑impact sleep pods",
+    "dek": "Sleep at train stations responsibly, swapping a hotel night for a quiet platform spot.",
+    "takeaway": "A platform nap can save money, cut carbon, and deepen your connection to the rail line.",
+    "whatHappened": "On a 12‑hour layover in Lille, I set up a lightweight bivvy on a quiet platform, using a reusable blanket and solar charger. The station staff were friendly, and I woke up to a sunrise over the tracks.",
+    "whyItMatters": "Station‑sleeping reduces hotel demand, lowers travel‑related emissions, and showcases how public spaces can serve travelers sustainably. It also challenges the stigma around “roughing it” on rails.",
+    "howToThink": "Scout stations in advance via apps, pick low‑traffic platforms, bring a compact sleeping bag, earplugs, and a portable lock. Respect local rules and keep a low profile.",
+    "pros": [
+      "Zero‑cost night stay",
+      "Minimal carbon footprint",
+      "Immersive rail experience"
+    ],
+    "cons": [
+      "Limited privacy",
+      "Potential security concerns",
+      "Variable comfort levels"
+    ],
+    "watchOut": "Check each station’s overnight policies; some ban sleeping on platforms after certain hours.",
+    "faq": [
+      {
+        "q": "Is it legal to sleep on platforms in Europe?",
+        "a": "Most stations allow it unless signage says otherwise; always verify locally."
+      },
+      {
+        "q": "What gear is essential?",
+        "a": "A compact bivvy, earplugs, eye mask, and a reusable water bottle."
+      },
+      {
+        "q": "How to stay safe?",
+        "a": "Stay in well‑lit areas, keep valuables close, and let someone know your location."
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "rail‑sleep",
+      "low‑impact"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-22T17:57:12.088Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-slow-travel-itinerary-15",
     "title": "Myth vs. reality: slow travel itinerary",
     "dek": "The persistent myths around slow travel itinerary, stress-tested against what slow-travel and low-impact explorers actually report.",

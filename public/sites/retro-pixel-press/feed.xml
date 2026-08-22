@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel‑perfect timing: calibrating your retro arcade stick</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-calibrate-stick.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-calibrate-stick.html</guid>
+      <pubDate>Sat, 22 Aug 2026 17:57:11 GMT</pubDate>
+      <description>Learn a quick 5‑step method to tighten dead zones and boost precision on any classic arcade stick before your next run.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of speedruns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-48.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-48.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-friendly-master-system.html</guid>
       <pubDate>Fri, 21 Aug 2026 12:00:52 GMT</pubDate>
       <description>Get your Master System looking like it did in 1990 with simple resistor tweaks for CRT bliss.</description>
-    </item>
-    <item>
-      <title>Pixel-perfect timing: tweaking your Mega Drive controller for sub-10 ms input</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-mega-drive-controller.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-mega-drive-controller.html</guid>
-      <pubDate>Fri, 21 Aug 2026 11:02:49 GMT</pubDate>
-      <description>A quick guide to shaving milliseconds off your Mega Drive controller latency for faster runs.</description>
     </item>
   </channel>
 </rss>
