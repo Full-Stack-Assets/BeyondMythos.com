@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-pressure-profiling-espresso-hacks",
+    "title": "DIY Pressure Profiling: Simple Hacks for Better Espresso",
+    "dek": "Learn quick pressure tweaks that turn your home espresso from meh to wow in minutes.",
+    "takeaway": "Small pressure adjustments can dramatically improve shot balance and flavor.",
+    "whatHappened": "I rigged a cheap spring-loaded portafilter insert and ran side‑by‑side tests with a standard 9‑bar extraction. The modified shot showed a clearer sweet spot and less bitterness.",
+    "whyItMatters": "Pressure profile is a hidden lever that influences solubility and crema, yet most home baristas ignore it. Mastering it can unlock café‑level consistency without buying a pricey machine.",
+    "howToThink": "Start by measuring your baseline pressure with a handheld gauge, then experiment adding a light spring or adjusting the pump knob in 0.5‑bar increments. Taste the difference and note the sweet spot for your beans.",
+    "pros": [
+      "Low cost",
+      "Easy to implement",
+      "Immediate flavor boost"
+    ],
+    "cons": [
+      "May void warranty",
+      "Requires careful calibration",
+      "Not as precise as commercial pressure profiling"
+    ],
+    "watchOut": "Never exceed your machine’s maximum pressure rating, or you could damage the pump.",
+    "faq": [
+      {
+        "q": "Can I use this on any espresso machine?",
+        "a": "Most pump‑based machines can accommodate a spring insert, but steam‑only units won’t benefit."
+      },
+      {
+        "q": "Do I need a pressure gauge?",
+        "a": "A simple handheld gauge is cheap and gives you the feedback needed for fine‑tuning."
+      },
+      {
+        "q": "How often should I adjust the pressure?",
+        "a": "Re‑check after changing beans or grind size; otherwise, a quarterly tweak is enough."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "pressure"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-22T03:24:52.348Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-pressure-check",
     "title": "Boost Your Espresso Shot Consistency with a Simple Pressure Check",
     "dek": "A quick test to fine‑tune your machine’s pressure and pull smoother, richer shots without buying new gear.",

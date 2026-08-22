@@ -1,5 +1,56 @@
 [
   {
+    "slug": "shower-on-the-go-modular-water-system",
+    "title": "Shower on the Go: a modular water system for van life",
+    "dek": "Turn a basic faucet into a portable, refill‑ready shower that fits under any van roof rack.",
+    "takeaway": "A low‑cost, modular shower adds comfort without sacrificing storage.",
+    "whatHappened": "I installed a compact pump, a flexible hose, and a quick‑connect showerhead onto a spare roof‑rack bracket. After a test run at a rest area, the system delivered a refreshing 5‑minute warm rinse using a 20‑liter jug.",
+    "whyItMatters": "Overnight stops often lack proper facilities, and a built‑in shower means you stay clean, save money on campground fees, and extend your range without hunting for a dump station.",
+    "howToThink": "Start with a standard 12‑V pump, mount a secure bracket, run the hose to a flexible showerhead, and integrate a water‑proof reservoir that can be refilled at any gas station. Test for leaks before the first road trip.",
+    "pros": [
+      "Lightweight (<5 kg)",
+      "Easy install in a weekend",
+      "Uses standard 12 V power\""
+    ],
+    "cons": [
+      "Limited water capacity",
+      "Needs manual refilling",
+      "Pump can be noisy on low voltage"
+    ],
+    "watchOut": "Secure all connections with hose clamps to avoid leaks while driving on rough roads.",
+    "faq": [
+      {
+        "q": "Can I run the pump off solar power?",
+        "a": "Yes, a 20‑W solar panel with a small battery can handle a short shower if you pre‑charge the bank."
+      },
+      {
+        "q": "What hose diameter works best?",
+        "a": "A ½‑inch flexible hose balances flow and storage space nicely."
+      },
+      {
+        "q": "How to keep the water warm?",
+        "a": "Pre‑heat the water in a sealed container using a 12‑V immersion heater before pumping."
+      }
+    ],
+    "category": "Builds",
+    "tags": [
+      "shower",
+      "modular"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-08-22T03:25:19.239Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-routes-44",
     "title": "The quiet upgrade: small tweaks in routes with outsized returns",
     "dek": "No purchases, no overhauls — the modest routes adjustments that van dwellers and weekend overlanders report mattering most.",

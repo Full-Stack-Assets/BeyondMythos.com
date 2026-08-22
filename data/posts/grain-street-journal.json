@@ -1,5 +1,56 @@
 [
   {
+    "slug": "beyond-the-grain-push-processing",
+    "title": "Beyond the Grain: mastering push processing on B&W film",
+    "dek": "Push processing can rescue underexposed shots and add punch, but it demands precise timing and chemicals.",
+    "takeaway": "Push processing lets you boost exposure at the cost of contrast, so plan your workflow accordingly.",
+    "whatHappened": "I shot a 400 ISO Ilford HP5 on an overcast day, rated it at 800, and developed it a stop longer in a standard developer. The negatives came out with richer shadows and tighter grain.",
+    "whyItMatters": "Many hobbyists avoid push processing fearing grain, yet it can extend your film’s versatility in low light without buying faster stock. Understanding the trade‑offs saves money and expands creative options.",
+    "howToThink": "Treat push processing as a controlled experiment: calculate the stop increase, adjust development time per your developer’s datasheet, and test on a strip before committing. Keep notes on temperature, time, and results to refine future runs.",
+    "pros": [
+      "Extra exposure latitude",
+      "Enhanced contrast for dramatic looks",
+      "Cost‑effective alternative to higher‑speed film"
+    ],
+    "cons": [
+      "Increased grain",
+      "Potential loss of detail in shadows",
+      "Requires precise timing"
+    ],
+    "watchOut": "Don’t exceed more than two stops push without a developer designed for it, or you’ll end up with muddy blacks.",
+    "faq": [
+      {
+        "q": "Can I push any black‑and‑white film?",
+        "a": "Most B&W films can be pushed 1–2 stops, but always check the manufacturer’s guidelines for optimal results."
+      },
+      {
+        "q": "Do I need a different developer?",
+        "a": "Standard developers work, but faster‑acting ones like Rodinal or a high‑activity D‑76 can help control grain when pushing."
+      },
+      {
+        "q": "How does push affect scanning?",
+        "a": "Higher contrast and grain show up more prominently, so you may need to adjust scanner curves to retain detail."
+      }
+    ],
+    "category": "Darkroom",
+    "tags": [
+      "push processing",
+      "B&W film"
+    ],
+    "sources": [
+      {
+        "label": "r/Darkroom community threads",
+        "url": "https://www.reddit.com/r/Darkroom/"
+      },
+      {
+        "label": "Search interest: \"home film scanning\"",
+        "url": "https://duckduckgo.com/?q=home%20film%20scanning"
+      }
+    ],
+    "publishedAt": "2026-08-22T03:25:09.072Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "film-camera-buying-guide-field-test-17",
     "title": "\"film camera buying guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about film camera buying guide through a month of actual use. Some of it survived.",

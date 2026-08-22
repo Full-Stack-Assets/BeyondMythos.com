@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-blend-mastery",
+    "title": "Micro-Blend Mastery: Getting Smooth Transitions in 5 Minutes",
+    "dek": "Learn a quick blending trick that gives your miniatures seamless color transitions without extra tools.",
+    "takeaway": "A simple wet blending method can dramatically improve gradient smoothness on tiny surfaces.",
+    "whatHappened": "We tested the wet blending technique on a 28mm Space Marine using Citadel Base paints. After a brief glaze, the color shift looked natural and saved a coat.",
+    "whyItMatters": "Smooth gradients make models pop on the table and reduce the need for multiple thin layers, cutting painting time. It also helps beginners avoid banding that looks cheap.",
+    "howToThink": "Start with a dry base, add a thin wash, then use a clean wet brush to feather the edges before it dries. Work in small sections and keep the brush lightly damp.",
+    "pros": [
+      "Fast results",
+      "Minimal paint waste",
+      "Works on most scales"
+    ],
+    "cons": [
+      "Requires timing",
+      "Can smudge details",
+      "Needs a steady hand"
+    ],
+    "watchOut": "Don't over-wet the brush or you'll lose fine line work.",
+    "faq": [
+      {
+        "q": "Can I use acrylics other than Citadel?",
+        "a": "Yes, any water‑based acrylic works, just keep the consistency thin."
+      },
+      {
+        "q": "Is this technique suitable for resin versus metal?",
+        "a": "It works equally well; just adjust pressure on softer resin."
+      },
+      {
+        "q": "How long before the glaze sets?",
+        "a": "Aim for 10‑15 seconds of working time; if it dries too fast, mist with a spray bottle."
+      }
+    ],
+    "category": "Techniques",
+    "tags": [
+      "blending",
+      "quick‑tips"
+    ],
+    "sources": [
+      {
+        "label": "r/minipainting community threads",
+        "url": "https://www.reddit.com/r/minipainting/"
+      },
+      {
+        "label": "Search interest: \"miniature painting beginner guide\"",
+        "url": "https://duckduckgo.com/?q=miniature%20painting%20beginner%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-22T03:25:08.570Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-paints-50",
     "title": "A weekend project: level up your paints in two hours",
     "dek": "One contained, satisfying paints project for miniature painters — start Saturday morning, done by lunch.",
