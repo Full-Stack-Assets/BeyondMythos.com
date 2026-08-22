@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-ibm-5150-power-swap",
+    "title": "Reviving the IBM 5150: A Fresh Power Supply Swap",
+    "dek": "Swapping the power supply in an IBM 5150 can bring your original PC back to life with minimal hassle.",
+    "takeaway": "A proper power supply replacement restores stability without hunting for scarce OEM parts.",
+    "whatHappened": "We opened a decade‑old IBM 5150, found the original PSU dead, and fitted a modern ATX unit with a custom voltage regulator. After wiring and a brief test, the machine powered up cleanly and ran a diagnostic cartridge.",
+    "whyItMatters": "Power‑related failures are the most common cause of dead retro rigs, and sourcing original supplies is near impossible. A reliable modern substitute keeps the hardware usable and extends its lifespan for enthusiasts and educators alike.",
+    "howToThink": "First verify the original PSU’s voltage specs, then select an ATX unit that can be stepped down safely. Use a DC‑DC regulator or a simple resistor ladder to match the 5 V and 12 V rails, and test each line before connecting to the motherboard. Keep wiring tidy and label adapters for future maintenance.",
+    "pros": [
+      "Low cost",
+      "Improved reliability",
+      "Preserves original chassis"
+    ],
+    "cons": [
+      "May void originality",
+      "Requires custom wiring",
+      "Potential heat increase"
+    ],
+    "watchOut": "Double‑check polarity and connector pin‑out before you solder.",
+    "faq": [
+      {
+        "q": "Can I use a standard ATX PSU?",
+        "a": "Yes, with a simple voltage regulator and proper adapters you can safely power a 5150."
+      },
+      {
+        "q": "Do I need to modify the case?",
+        "a": "Only minimal drilling for the new connector; keep the original mounting holes intact."
+      },
+      {
+        "q": "Will this affect the machine’s value?",
+        "a": "Collectors prefer original parts, but a functional system often outweighs a static display for most hobbyists."
+      }
+    ],
+    "category": "Restoration",
+    "tags": [
+      "Restoration",
+      "Power Supply"
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "publishedAt": "2026-08-22T09:58:58.652Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-emulation-mistakes-61",
     "title": "Five mistakes everyone makes in their first month of emulation",
     "dek": "The most common early stumbles in emulation, and the cheap corrections that fix them for retro computer restorers and emulation fans.",

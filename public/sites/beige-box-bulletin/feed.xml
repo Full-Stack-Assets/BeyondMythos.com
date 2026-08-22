@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/beige-box-bulletin/</link>
     <description>Fresh takes for retro computer restorers and emulation fans.</description>
     <item>
+      <title>Reviving the IBM 5150: A Fresh Power Supply Swap</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/reviving-ibm-5150-power-swap.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/reviving-ibm-5150-power-swap.html</guid>
+      <pubDate>Sat, 22 Aug 2026 09:58:58 GMT</pubDate>
+      <description>Swapping the power supply in an IBM 5150 can bring your original PC back to life with minimal hassle.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of emulation</title>
       <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/five-emulation-mistakes-61.html</link>
       <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/five-emulation-mistakes-61.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/myth-vs-reality-best-emulation-setup-20.html</guid>
       <pubDate>Fri, 21 Aug 2026 04:22:26 GMT</pubDate>
       <description>The persistent myths around best emulation setup, stress-tested against what retro computer restorers and emulation fans actually report.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your restoration in two hours</title>
-      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/weekend-project-restoration-58.html</link>
-      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/weekend-project-restoration-58.html</guid>
-      <pubDate>Fri, 21 Aug 2026 03:35:22 GMT</pubDate>
-      <description>One contained, satisfying restoration project for retro computer restorers — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

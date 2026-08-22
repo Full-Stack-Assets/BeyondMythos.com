@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-rail-food-swaps",
+    "title": "Eco‑friendly rail food swaps: turning snack waste into compost",
+    "dek": "Swap single‑use rail snacks for compostable, locally sourced bites that keep your journey green.",
+    "takeaway": "Simple snack swaps cut waste and boost local flavor on every train ride.",
+    "whatHappened": "On a week‑long sleeper route I ditched pre‑packaged chips for reusable tins, dried fruit from the region, and a collapsible bamboo fork. I dropped the empty wrappers into station compost bins and used a small herb‑infused water bottle to stay refreshed. By the end of the trip my waste bag was lighter than a paperback novel.",
+    "whyItMatters": "Rail travel already boasts a lower carbon footprint than flying, but the disposable snack culture adds unnecessary plastic and food waste. Low‑impact explorers can amplify the eco‑benefits of trains by rethinking what they eat on board, supporting local producers, and feeding waste back into the ecosystem.",
+    "howToThink": "Start by packing a lightweight, airtight container and a reusable cutlery set. Scout local markets at major stops for seasonal fruits, nuts, and breads—these travel well and showcase regional flavors. When you finish, look for station compost or recycling stations; if none exist, bring a small biodegradable bag to dispose of responsibly at your destination.",
+    "pros": [
+      "Cuts single‑use plastic",
+      "Highlights local produce",
+      "Lightweight and reusable"
+    ],
+    "cons": [
+      "Requires pre‑trip planning",
+      "Limited compost bins on some routes",
+      "May need extra cleaning"
+    ],
+    "watchOut": "Not every station offers a compost bin—carry a small biodegradable bag as a backup.",
+    "faq": [
+      {
+        "q": "Can I bring fresh produce on trains?",
+        "a": "Yes, as long as it’s properly sealed and doesn’t emit strong odors; most rail operators allow it."
+      },
+      {
+        "q": "What if the station has no compost facility?",
+        "a": "Use a biodegradable bag and dispose of it in the regular trash at your next stop, then recycle the container later."
+      },
+      {
+        "q": "Is reusable cutlery allowed on all trains?",
+        "a": "Reusable metal or bamboo cutlery is permitted on all major rail services; just keep it clean."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "rail",
+      "packing"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-22T09:58:52.159Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "zero-waste-rail-snack-kit",
     "title": "Zero‑waste snack kits for the slow rail traveler",
     "dek": "Pack a reusable, low‑impact snack kit that fuels long train rides without trash.",

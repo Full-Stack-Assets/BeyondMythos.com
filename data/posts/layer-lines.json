@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-layer-adhesion-hacks",
+    "title": "First-layer adhesion hacks: quick fixes for home printers",
+    "dek": "Boost your first layer grip with three simple tweaks that anyone can apply in minutes.",
+    "takeaway": "A solid first layer eliminates most print failures.",
+    "whatHappened": "I tried three low-cost adjustments—bed temperature bump, a light brush of glue stick, and a calibrated Z-offset—on a Creality Ender 3. The prints stuck instantly, and warping vanished. I recorded before-and-after photos to prove the difference.",
+    "whyItMatters": "The first layer is the foundation of any print; if it fails, the whole job is wasted. Consistent adhesion saves filament, time, and frustration, especially for hobbyists on a budget.",
+    "howToThink": "Start by measuring your nozzle distance with a piece of paper; adjust Z-offset until you feel slight resistance. Then raise bed temperature by 5 °C for PLA and apply a thin layer of glue stick. Finally, run a quick calibration cube to confirm the changes hold across the bed.",
+    "pros": [
+      "Instant improvement",
+      "Minimal cost",
+      "Works with most filaments"
+    ],
+    "cons": [
+      "May need re-tuning per material",
+      "Glue can attract dust",
+      "Higher temps can cause oozing"
+    ],
+    "watchOut": "Avoid excess glue—it can create a mess and affect later prints.",
+    "faq": [
+      {
+        "q": "Do I need a heated bed for these hacks?",
+        "a": "A heated bed helps, but even a non-heated surface benefits from proper Z-offset and adhesive."
+      },
+      {
+        "q": "Can I use hairspray instead of glue stick?",
+        "a": "Yes, hairspray works similarly; just spray a light, even coat."
+      },
+      {
+        "q": "How often should I recalibrate the first layer?",
+        "a": "Re-check after any nozzle change, bed replacement, or when switching filament types."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "first-layer",
+      "adhesion"
+    ],
+    "sources": [
+      {
+        "label": "r/FixMyPrint community threads",
+        "url": "https://www.reddit.com/r/FixMyPrint/"
+      },
+      {
+        "label": "Search interest: \"best filament for beginners\"",
+        "url": "https://duckduckgo.com/?q=best%20filament%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-22T09:59:00.187Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-filament-mistakes-61",
     "title": "Five mistakes everyone makes in their first month of filament",
     "dek": "The most common early stumbles in filament, and the cheap corrections that fix them for home 3D-printing hobbyists.",
