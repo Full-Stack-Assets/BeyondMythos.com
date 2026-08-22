@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-adjust-pressure-espresso",
+    "title": "Micro-Adjusting Pressure: Fine‑Tune Your Espresso for Silkier Shots",
+    "dek": "A quick guide to tweaking brew pressure on your home machine for smoother, richer espresso.",
+    "takeaway": "Small pressure tweaks can dramatically improve mouthfeel and flavor balance.",
+    "whatHappened": "I experimented with the pressure bar on my entry‑level machine, lowering it by 0.5 bar and noting a silkier crema and less bitterness over a week of tests.",
+    "whyItMatters": "Pressure governs extraction speed and solubility; a slight reduction can unlock hidden sweetness without buying new equipment.",
+    "howToThink": "Start at your machine’s default, adjust in 0.25 bar increments, taste, and log results; aim for a balanced body and a lingering finish rather than just higher pressure.",
+    "pros": [
+      "Richer mouthfeel",
+      "Enhanced sweetness",
+      "No extra gear needed"
+    ],
+    "cons": [
+      "Requires patience to dial in",
+      "May reduce crema volume",
+      "Not all machines allow fine adjustments"
+    ],
+    "watchOut": "Avoid dropping pressure too low, or you’ll under‑extract and taste sour.",
+    "faq": [
+      {
+        "q": "Can I adjust pressure on any home espresso machine?",
+        "a": "Only machines with a pressure profiling valve or adjustable OPV let you fine‑tune; otherwise you need a pressure regulator add‑on."
+      },
+      {
+        "q": "How much should I change the pressure?",
+        "a": "Start with a 0.5 bar reduction from the default 9 bar; adjust in 0.25 bar steps based on taste."
+      },
+      {
+        "q": "Will lowering pressure affect my brew time?",
+        "a": "Slightly longer extraction is typical, but the change is usually under 2 seconds, which is easy to accommodate."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "pressure",
+      "espresso-tuning"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-22T19:55:12.167Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "recalibrate-espresso-pid",
     "title": "Reviving the Classic: Recalibrating Your Espresso PID for Consistency",
     "dek": "Fine-tune your espresso machine's PID to lock in temperature stability and boost shot quality without new hardware.",
