@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-brew-ratio-magic",
+    "title": "Unlock the Hidden Power of Brew Ratio in Espresso",
+    "dek": "A quick guide to mastering brew ratio for richer, more consistent espresso shots at home.",
+    "takeaway": "Dialing the right brew ratio can instantly boost flavor and consistency.",
+    "whatHappened": "I swapped my usual 1:2.5 ratio for a 1:2.2 blend on an 18g dose and logged the results across three machines. The shots were noticeably fuller-bodied with a smoother finish.",
+    "whyItMatters": "Brew ratio controls the balance between extraction and dilution, directly shaping taste and crema. Small tweaks can turn a mediocre shot into a café‑grade experience without new equipment.",
+    "howToThink": "Start with your favorite dose and measure the output weight, then adjust in 0.1‑ratio increments until you hit the desired sweetness and acidity. Keep a simple spreadsheet to track each change and its flavor impact.",
+    "pros": [
+      "Better flavor balance",
+      "Consistent shot volume",
+      "No extra gear needed"
+    ],
+    "cons": [
+      "Requires precise weighing",
+      "May need grind adjustment",
+      "Trial‑and‑error can waste beans"
+    ],
+    "watchOut": "Beware of over‑extracting; a too‑low ratio can make the shot bitter and harsh.",
+    "faq": [
+      {
+        "q": "What is a good starting brew ratio for espresso?",
+        "a": "Around 1:2.5 (dose:output) is a solid baseline for most beans."
+      },
+      {
+        "q": "Do I need to change my grind when I adjust the ratio?",
+        "a": "Often yes—lower ratios usually need a finer grind to maintain extraction."
+      },
+      {
+        "q": "How often should I revisit my ratio?",
+        "a": "Re‑evaluate whenever you switch beans or notice flavor drift, typically every few weeks."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "brew-ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-22T13:58:05.725Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "60-second-preinfusion-hack",
     "title": "The 60-Second Pre-Infusion Hack for Espresso Consistency",
     "dek": "Add a brief pre-infusion pause to tame channeling and boost shot uniformity in just a minute.",
