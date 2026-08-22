@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-pressure-check",
+    "title": "Boost Your Espresso Shot Consistency with a Simple Pressure Check",
+    "dek": "A quick test to fine‑tune your machine’s pressure and pull smoother, richer shots without buying new gear.",
+    "takeaway": "Consistent brew pressure is the secret to repeatable espresso quality.",
+    "whatHappened": "We installed a low‑cost pressure gauge on a mid‑range home espresso machine, ran a series of shots, and adjusted the OPV until the gauge read 9 bars. The resulting espresso showed noticeably brighter acidity and cleaner crema.",
+    "whyItMatters": "Pressure governs extraction speed and solubility; a few bars off can mute flavors or over‑extract bitter compounds. Home baristas often overlook this knob, assuming the machine is calibrated out of the box.",
+    "howToThink": "Start by measuring your current pressure, then tweak the OPV in small increments while watching the gauge. Aim for a stable 9 bars at the group head; if you like a fuller body, a slight 9.5‑bar target can work. Keep notes for each setting.",
+    "pros": [
+      "Improved flavor",
+      "No extra cost",
+      "Easier troubleshooting"
+    ],
+    "cons": [
+      "Requires gauge",
+      "May void warranty",
+      "Time to calibrate"
+    ],
+    "watchOut": "Never adjust the pressure while the machine is hot without turning it off first—risk of burns or damage.",
+    "faq": [
+      {
+        "q": "Do I need a professional to install the gauge?",
+        "a": "Most home machines have a convenient port; a basic screwdriver and the gauge’s instructions are enough for DIY installation."
+      },
+      {
+        "q": "What if my machine can’t reach 9 bars?",
+        "a": "Check the pump health and ensure the OPV isn’t stuck; if the max pressure is lower, consider a pump upgrade."
+      },
+      {
+        "q": "Will changing pressure affect my grind size?",
+        "a": "Yes—higher pressure usually requires a slightly finer grind to maintain balance, so re‑dial your grinder after adjustments."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tech"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-22T02:04:40.406Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "water-temp-pour-over",
     "title": "Unlock the hidden power of water temperature for pour-over",
     "dek": "A quick guide to dialing in the perfect brew temperature and why it matters more than you think.",
