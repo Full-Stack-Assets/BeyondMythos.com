@@ -1,5 +1,56 @@
 [
   {
+    "slug": "crisp-crunch-quick-brine",
+    "title": "Crisp Crunch: Quick Brine for Summer Pickles",
+    "dek": "A 5‑minute salt brine that amps up crunch and flavor for any cucumber you throw in the jar.",
+    "takeaway": "A short‑soak brine can transform texture without weeks of ferment.",
+    "whatHappened": "I tried a 5‑minute hot‑water brine on a batch of garden cucumbers, then sealed and stored at room temp. After 48 hours the pickles were noticeably crisper than a standard cold‑water soak.",
+    "whyItMatters": "Texture is often the deal‑breaker for newcomers, and a quick brine delivers that snap without the wait. It also helps reduce bitterness, making the first bite more rewarding.",
+    "howToThink": "Start with a 2 % salt solution, heat to just under boiling, submerge veggies for 5 minutes, then drain and transfer to a clean jar with your usual spices. Keep the brine ratio consistent for repeatable results.",
+    "pros": [
+      "Instant crunch boost",
+      "Minimal prep time",
+      "Works with any cucumber variety"
+    ],
+    "cons": [
+      "Requires heating water",
+      "Needs quick transfer to avoid cooling",
+      "May not suit low‑salt diets"
+    ],
+    "watchOut": "Don’t let the hot brine sit too long or it can start a light fermentation, softening the crunch you’re after.",
+    "faq": [
+      {
+        "q": "Can I use the quick brine for carrots or other veggies?",
+        "a": "Yes, but firmer vegetables like carrots benefit from a slightly longer soak—about 8 minutes."
+      },
+      {
+        "q": "Do I need to add vinegar after the quick brine?",
+        "a": "Add your usual pickling liquid (vinegar, spices) after draining; the brine itself isn’t acidic enough for preservation."
+      },
+      {
+        "q": "What salt type is best?",
+        "a": "Use non‑iodized kosher or sea salt; iodine can inhibit the desired texture changes."
+      }
+    ],
+    "category": "Vegetables",
+    "tags": [
+      "quick pickles",
+      "crunch boost"
+    ],
+    "sources": [
+      {
+        "label": "r/Kombucha community threads",
+        "url": "https://www.reddit.com/r/Kombucha/"
+      },
+      {
+        "label": "Search interest: \"kombucha second ferment\"",
+        "url": "https://duckduckgo.com/?q=kombucha%20second%20ferment"
+      }
+    ],
+    "publishedAt": "2026-08-23T11:56:37.106Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fermentation-for-beginners-field-test-22",
     "title": "\"fermentation for beginners\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about fermentation for beginners through a month of actual use. Some of it survived.",

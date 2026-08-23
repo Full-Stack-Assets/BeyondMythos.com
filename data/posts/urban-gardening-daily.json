@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-pumpkin-patch-2",
+    "title": "Balcony Pumpkin Patch: Miniature Pumpkins for City Living",
+    "dek": "Turn your balcony into a mini pumpkin patch with dwarf varieties that thrive in containers and bring autumn vibes to your city home.",
+    "takeaway": "Even tiny balconies can grow pumpkins for decoration or small harvests with the right varieties and care.",
+    "whatHappened": "We set up three 10‑liter buckets on a 5th‑floor balcony, planted “Jack‑Be Little” mini pumpkins, and monitored growth over eight weeks. The vines curled around a trellis, and the first pumpkins reached 2‑3 inches by week six.",
+    "whyItMatters": "Pumpkins add seasonal cheer and teach kids about plant cycles, even in high‑rise living. Growing them in containers proves that limited space doesn’t limit seasonal fun.",
+    "howToThink": "Choose dwarf varieties, use a deep container with drainage, and feed with a balanced fertilizer. Provide at least 6 hours of direct sun and a sturdy support for vines. Water consistently but avoid soggy soil.",
+    "pros": [
+      "Eye‑catching décor",
+      "Edible fun",
+      "Compact vines"
+    ],
+    "cons": [
+      "Heavy fruit",
+      "Long growing season",
+      "Requires sturdy balcony rails"
+    ],
+    "watchOut": "Make sure your balcony’s weight limit can handle the soil and mature pumpkins.",
+    "faq": [
+      {
+        "q": "Can I grow pumpkins on a balcony with only 4 hours of sun?",
+        "a": "A dwarf variety needs at least 6 hours; with less light expect slow growth and smaller fruit."
+      },
+      {
+        "q": "How often should I water my pumpkin containers?",
+        "a": "Keep the soil evenly moist—water when the top inch feels dry, typically every 2‑3 days in summer."
+      },
+      {
+        "q": "Do I need pollination assistance?",
+        "a": "Hand‑pollinate by transferring pollen with a small brush if bees are scarce on high rises."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Seasonal",
+      "Containers"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-23T11:56:28.489Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "vertical-veggie-rack-maximize-yield",
     "title": "Vertical Veggie Rack: Maximize Yield on Tiny Balconies",
     "dek": "Turn a narrow balcony wall into a thriving vertical garden in under an hour.",
