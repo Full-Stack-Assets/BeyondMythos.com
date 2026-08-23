@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-on-board-cooking",
+    "title": "Eco-Friendly On-Board Cooking: Minimal Waste Meals on the Move",
+    "dek": "Whip up low-waste meals in a train kitchen using reusable gear and local ingredients.",
+    "takeaway": "Reusable containers and simple recipes keep your rail meals low-impact and satisfying.",
+    "whatHappened": "During a week-long trans-continental train journey, I turned a cramped pantry car into a micro-kitchen, using a stainless-steel pot, a bamboo cutting board, and a refillable spice kit. The meals—overnight oats, lentil stew, and fruit-nut bars—were prepared with zero single-use packaging.",
+    "whyItMatters": "Food waste is a hidden carbon source on trains, where disposable packaging often ends up in landfill at each stop. By cooking with reusable gear, you cut waste, support local markets, and stay energized for long rides.",
+    "howToThink": "Start by auditing your current food stash: replace zip-lock bags with silicone pouches, and swap plastic bottles for refillable stainless bottles. Pack a compact spice blend in a small tin, and choose ingredients that require minimal prep, like pre-soaked beans or quick-cook grains. When possible, source produce at station markets to keep the carbon footprint low.",
+    "pros": [
+      "Zero waste footprint",
+      "Fresh flavors",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Limited storage space",
+      "Needs basic cooking skill",
+      "Requires access to a pantry car"
+    ],
+    "watchOut": "Beware of fire-safety rules; many trains prohibit open flames, so stick to electric hot plates or the carriage’s built-in kettle.",
+    "faq": [
+      {
+        "q": "Can I cook on any train?",
+        "a": "Most long-distance services have a pantry or communal kitchen; check the operator’s policy before boarding."
+      },
+      {
+        "q": "What gear is essential?",
+        "a": "A lightweight stainless pot, silicone food bags, a bamboo board, and a reusable spice tin cover most needs."
+      },
+      {
+        "q": "How do I handle waste on board?",
+        "a": "Collect all scraps in a sealed bag and dispose of them at the next station’s recycling or compost bin."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "low-impact",
+      "rail-cooking"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-23T08:00:37.255Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-car-hacks-sound-insulation",
     "title": "Quiet car hacks: low‑impact sound insulation on the rails",
     "dek": "Turn noisy train cars into peaceful pods with simple, low‑impact sound‑insulation tricks for the slow traveler.",
