@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>FPGA retro console: unlocking frame‑perfect timing</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fpga-retro-console-frame-perfect.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fpga-retro-console-frame-perfect.html</guid>
+      <pubDate>Sun, 23 Aug 2026 05:06:53 GMT</pubDate>
+      <description>How a cheap FPGA board can shave milliseconds off your speedruns without breaking the original feel.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/Gameboy is debating this week</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-18.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-low-lag-hdmi-mod.html</guid>
       <pubDate>Fri, 21 Aug 2026 21:58:50 GMT</pubDate>
       <description>Upgrade your SNES with a cheap HDMI mod that cuts input lag and keeps the retro feel.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-43.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-43.html</guid>
-      <pubDate>Fri, 21 Aug 2026 20:59:18 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>
