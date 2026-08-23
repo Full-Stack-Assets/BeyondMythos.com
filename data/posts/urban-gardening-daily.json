@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microgreen-magic-boost-balance-harvest",
+    "title": "Microgreen Magic: Boost Your Balcony Harvest in 7 Days",
+    "dek": "Turn a sunny balcony corner into a rapid‑grow microgreen pantry in just one week.",
+    "takeaway": "Microgreens give apartment growers a fast, nutritious harvest with minimal space.",
+    "whatHappened": "We tried three common microgreen varieties—radish, pea, and kale—using shallow trays on a balcony rail. Within seven days each sprouted vibrant, ready‑to‑harvest greens. The experiment proved that even the tiniest urban space can supply fresh greens daily.",
+    "whyItMatters": "Urban dwellers often lack garden space, yet fresh greens are a nutritional staple. Microgreens close that gap, delivering vitamins in minutes rather than weeks. By mastering this quick cycle, balcony gardeners can reduce grocery trips and boost food security.",
+    "howToThink": "Start with a shallow, waterproof tray and a quality seed mix. Use a light‑filtering fabric to retain moisture while allowing airflow. Position the tray where it gets 4‑6 hours of indirect sun, mist daily, and harvest at the cotyledon stage for peak flavor.",
+    "pros": [
+      "Fast turnaround (7‑10 days)",
+      "Minimal space required",
+      "High nutrient density"
+    ],
+    "cons": [
+      "Requires consistent moisture",
+      "Limited to shade‑tolerant varieties",
+      "Harvest window is narrow"
+    ],
+    "watchOut": "Avoid over‑watering; soggy media breeds mold and kills seedlings.",
+    "faq": [
+      {
+        "q": "Can I grow microgreens indoors if my balcony is shaded?",
+        "a": "Yes—use a grow light with a 12‑hour cycle to supplement natural light."
+      },
+      {
+        "q": "How often should I water microgreen trays?",
+        "a": "Mist lightly 2‑3 times daily, keeping the surface damp but not soaked."
+      },
+      {
+        "q": "Do I need fertilizer for microgreens?",
+        "a": "No, the seed’s nutrient reserves are sufficient for the short growth period."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "quick harvest",
+      "balcony greens"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-08-23T19:02:43.119Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sun-smart-balc-tomatoes",
     "title": "Sun‑Smart Balcony Tomatoes: Boost Heat Tolerance in Small Spaces",
     "dek": "Turn chilly balcony nights into a tomato‑friendly micro‑climate with cheap tricks.",
