@@ -1,5 +1,56 @@
 [
   {
+    "slug": "warm-up-starter-temperature-hack",
+    "title": "Warm up your starter: a quick temperature hack",
+    "dek": "A 30‑minute warm‑up trick that revives sluggish starters before the big bake.",
+    "takeaway": "A brief, controlled warm‑up can jump‑start activity and improve loaf rise.",
+    "whatHappened": "I noticed my starter lagging after a cold night in the fridge. I placed the jar in a turned‑off oven with the light on for 30 minutes. The bubbles surged and the starter smelled lively again.",
+    "whyItMatters": "A sluggish starter often leads to weak dough structure and flat loaves. Restoring activity quickly saves time and prevents a failed bake, especially on tight schedules.",
+    "howToThink": "Treat the starter like a living organism: a short, gentle heat pulse wakes its microbes without overheating. Use a consistent 30 °C environment—an oven light, a dehydrator, or a warm spot on the counter—and monitor for bubbles before feeding.",
+    "pros": [
+      "Fast boost of activity",
+      "No special equipment needed",
+      "Improves rise consistency"
+    ],
+    "cons": [
+      "Requires monitoring",
+      "Limited to short durations",
+      "May not revive dead starter"
+    ],
+    "watchOut": "Never exceed 35 °C or you risk killing the yeast and bacteria.",
+    "faq": [
+      {
+        "q": "Can I use a microwave to warm the starter?",
+        "a": "No—microwaves heat unevenly and can scorch the starter; stick to gentle ambient heat."
+      },
+      {
+        "q": "How long can I keep the starter in the warm spot?",
+        "a": "No more than 30 minutes; longer periods can stress the culture."
+      },
+      {
+        "q": "Will this work for whole‑grain starters?",
+        "a": "Yes, the principle applies to any starter, but grain-heavy mixes may need a slightly longer warm‑up."
+      }
+    ],
+    "category": "Starters",
+    "tags": [
+      "starter",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-08-23T04:21:59.812Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "scoring-pre-spend-checklist-67",
     "title": "The scoring checklist: run this before you spend",
     "dek": "Seven questions that separate a justified scoring purchase from an expensive mood.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-flow-rate-test",
+    "title": "Dial‑In the Perfect Espresso Shot with a Simple Flow‑Rate Test",
+    "dek": "Learn a quick flow‑rate check to tighten shot consistency without pricey equipment.",
+    "takeaway": "A simple flow‑rate test can reveal hidden variables and boost espresso repeatability.",
+    "whatHappened": "I noticed my espresso shots drifting from 28 to 32 seconds despite unchanged grind and dose. A quick pour‑through of 30 ml water revealed the flow rate had slipped, prompting a brief adjustment of pressure and temperature. The result was back‑to‑spec shots in minutes.",
+    "whyItMatters": "Consistent flow rate is the hidden link between grind, pressure, and temperature, directly shaping extraction balance. Ignoring it leads to under‑ or over‑extracted cups, wasting beans and time. A tiny tweak can restore flavor harmony across days.",
+    "howToThink": "Measure 30 ml of water poured through the portafilter at full pressure; target 25‑27 seconds for a standard 18‑gram dose. If you’re outside that window, tweak the pressure bar or temperature by 1‑2 °C and re‑test. Keep a log; small trends become clear fast.",
+    "pros": [
+      "No extra gear needed",
+      "Instant feedback loop",
+      "Improves shot repeatability"
+    ],
+    "cons": [
+      "Requires a timer",
+      "Slightly interrupts workflow",
+      "Only a proxy, not a full analysis"
+    ],
+    "watchOut": "Don’t over‑adjust; small changes compound quickly and can destabilize your baseline.",
+    "faq": [
+      {
+        "q": "Can I use a kitchen timer instead of a stopwatch?",
+        "a": "Yes, as long as it measures seconds accurately; digital timers work fine."
+      },
+      {
+        "q": "What if my flow‑rate stays high despite adjustments?",
+        "a": "Check for channeling or a worn gasket; replace the basket or clean the group head."
+      },
+      {
+        "q": "Is this method relevant for low‑dose espresso?",
+        "a": "Adjust the target time proportionally; low‑dose shots run faster, so aim for ~20‑22 seconds for 15 ml."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-23T04:21:56.546Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-43",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smartwatch-showdown-balancing-play-productivity",
+    "title": "Smartwatch showdown: balancing play and productivity",
+    "dek": "Parents can let kids wear smartwatches without losing control by setting limits and using built‑in family features.",
+    "takeaway": "Use the watch’s built‑in family tools to keep screen time in check while still giving kids independence.",
+    "whatHappened": "A family introduced a kid‑friendly smartwatch to their 10‑year‑old for fitness tracking and quick messages. Within a week they noticed the watch was adding 30 minutes of screen time daily. They turned to the device’s parental controls to regain balance.",
+    "whyItMatters": "Screen time on wrist‑worn devices can slip past the usual tablet or phone limits, subtly increasing overall exposure. Unchecked usage may affect sleep, focus, and the child’s sense of digital boundaries. Addressing it early prevents habits that are harder to break later.",
+    "howToThink": "Start by mapping the watch’s core functions—time, activity, messaging—and decide which are essential for your child. Enable family‑sharing or child‑profile modes, set daily usage caps, and schedule “quiet hours” for bedtime. Review the activity log weekly to adjust limits as your child matures.",
+    "pros": [
+      "Built‑in activity tracking",
+      "Quick messaging",
+      "Customizable alerts"
+    ],
+    "cons": [
+      "Small screen can be tempting",
+      "Battery life varies",
+      "Potential for unsupervised app installs"
+    ],
+    "watchOut": "Don’t forget to regularly audit which apps the watch can access, as kids may slip new games in unnoticed.",
+    "faq": [
+      {
+        "q": "Can I block specific apps on the smartwatch?",
+        "a": "Yes—most platforms let you whitelist or blacklist apps through the companion phone app or family‑sharing settings."
+      },
+      {
+        "q": "How do I set a bedtime cut‑off?",
+        "a": "Use the ‘Do Not Disturb’ or ‘Sleep Mode’ schedule in the watch’s settings; it silences notifications and can lock the screen."
+      },
+      {
+        "q": "Is the watch’s GPS safe for kids?",
+        "a": "GPS is useful for location sharing, but enable it only when needed and educate your child about privacy."
+      }
+    ],
+    "category": "Devices",
+    "tags": [
+      "smartwatch",
+      "family-controls"
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-23T04:22:09.630Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "apps-pre-spend-checklist-54",
     "title": "The apps checklist: run this before you spend",
     "dek": "Seven questions that separate a justified apps purchase from an expensive mood.",

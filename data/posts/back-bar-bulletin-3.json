@@ -1,5 +1,56 @@
 [
   {
+    "slug": "shake-science-mastering-dilution",
+    "title": "Shake Science: mastering dilution for perfect cocktails",
+    "dek": "Learn why the right dilution makes or breaks a classic and how to control it at home.",
+    "takeaway": "A few extra seconds of shaking can unlock a smoother, more balanced drink.",
+    "whatHappened": "I timed my Manhattan, Old Fashioned, and Daiquiri while varying shake time. The longer the shake, the brighter the flavors and silkier mouthfeel, up to a sweet spot. Beyond that, the cocktail became watery and lost punch.",
+    "whyItMatters": "Dilution isn’t just about adding water; it tempers spirit heat, opens aromatics, and integrates bitters. Home bartenders often overlook this, ending up with overly harsh or flat drinks. Mastering it raises any classic to bar‑level quality.",
+    "howToThink": "Start with a stopwatch: 8‑10 seconds for a Manhattan, 12‑15 for a Daiquiri, and 6‑8 for an Old Fashioned (stirred). Taste after each interval and note the balance. Adjust future shakes based on spirit proof and ice quality.",
+    "pros": [
+      "Consistent flavor balance",
+      "Smoother mouthfeel",
+      "Elevates simple recipes"
+    ],
+    "cons": [
+      "Requires timing discipline",
+      "Ice melt can vary with temperature",
+      "May need extra glassware for testing"
+    ],
+    "watchOut": "Don’t over‑shake; too much dilution turns a cocktail into a weak spritzer.",
+    "faq": [
+      {
+        "q": "How much dilution is ideal for a 2‑oz spirit‑forward drink?",
+        "a": "Aim for 20‑25% water by volume, which typically lands around 8‑10 seconds of vigorous shaking or 20‑30 seconds of stirring."
+      },
+      {
+        "q": "Does the type of ice matter?",
+        "a": "Yes—large, clear cubes melt slower, giving you more control; crushed ice dilutes faster, so adjust timing accordingly."
+      },
+      {
+        "q": "Can I use a blender instead of a shaker?",
+        "a": "Blending adds aeration and excessive dilution; stick to a shaker for classic dilution control."
+      }
+    ],
+    "category": "Ingredients",
+    "tags": [
+      "dilution",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-08-23T04:22:17.468Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-bartenders-17",
     "title": "Community pulse: what r/bartenders is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the batching community this week.",

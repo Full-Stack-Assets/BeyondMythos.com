@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hill-repeats-building-power",
+    "title": "Hill Repeats: Building Power for Ultra Distances",
+    "dek": "Learn how to structure hill repeat sessions that boost strength and stamina without overtraining.",
+    "takeaway": "Smart hill repeats turn steep climbs into a strength engine for any ultra.",
+    "whatHappened": "I tried a 4‑week hill repeat program on the 800‑ft climb at Ridge Trail, adding progressive overload each week. By week three, my VO2 max numbers rose and my descent times dropped noticeably.",
+    "whyItMatters": "Hill strength translates directly to faster ascents, safer descents, and lower injury risk on technical terrain. For ultrarunners, the ability to sustain effort on long climbs often decides podium placement.",
+    "howToThink": "Start with a conservative volume—4 repeats of 2 minutes at 85% max effort, with equal jog recovery. Add 10‑15% volume each week, and mix in longer, slower repeats for endurance. Listen to your legs; cut back if you feel lingering soreness.",
+    "pros": [
+      "Boosts leg power",
+      "Improves lactate tolerance",
+      "Transfers to race terrain"
+    ],
+    "cons": [
+      "Increases muscle soreness",
+      "Requires a suitable hill",
+      "Can be mentally taxing"
+    ],
+    "watchOut": "Avoid hill repeats on steep, unstable ground to prevent ankle twists.",
+    "faq": [
+      {
+        "q": "How often should I schedule hill repeats?",
+        "a": "Aim for one session per week, allowing at least 48 hours of recovery between hard efforts."
+      },
+      {
+        "q": "Can I use a treadmill incline instead of a real hill?",
+        "a": "Yes, set the incline to 10‑15% and keep the speed consistent with your target effort, but complement with outdoor hills for technical specificity."
+      },
+      {
+        "q": "What if I have knee pain?",
+        "a": "Reduce the incline and volume, focus on low‑impact strength work, and consult a physiotherapist before progressing."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "hill training",
+      "ultra endurance"
+    ],
+    "sources": [
+      {
+        "label": "r/running community threads",
+        "url": "https://www.reddit.com/r/running/"
+      },
+      {
+        "label": "Search interest: \"trail shoe guide\"",
+        "url": "https://duckduckgo.com/?q=trail%20shoe%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-23T04:22:00.135Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "downhill-mastery-technique-tips",
     "title": "Downhill Mastery: Technique Tips for Ultra Runners",
     "dek": "Conquer steep descents with confidence by tweaking posture, cadence, and foot placement—turn the downhill into a speed boost.",

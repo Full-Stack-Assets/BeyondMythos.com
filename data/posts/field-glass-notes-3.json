@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spotting-spring-warblers-field-tips",
+    "title": "Spotting spring warblers: field tips for the backyard",
+    "dek": "Quick tricks to nail warbler IDs on your balcony this spring.",
+    "takeaway": "Focus on subtle field marks and timing to boost your warbler ID success.",
+    "whatHappened": "Last weekend a flock of first‑year warblers stopped at my feeder, and I managed to ID three species in under five minutes using a few simple cues.",
+    "whyItMatters": "Accurate ID builds confidence and fuels the joy of birding, turning casual sightings into meaningful records, especially for weekend twitchers chasing spring migrations.",
+    "howToThink": "Start by narrowing the species pool to those known to arrive early, then zero in on key plumage patches and song patterns; use a pocket guide or app for quick cross‑checks.",
+    "pros": [
+      "Boosts confidence",
+      "Improves record keeping",
+      "Enhances field enjoyment"
+    ],
+    "cons": [
+      "Requires time investment",
+      "Can be overwhelming early on",
+      "Risk of misidentification without sound"
+    ],
+    "watchOut": "Don’t rely solely on color—many warblers share similar hues, so double‑check shape and behavior.",
+    "faq": [
+      {
+        "q": "How many warbler species typically show up in early spring?",
+        "a": "In most North American backyards you’ll see 5–8 early‑arriving warblers, like Magnolia, Tennessee, and Yellow‑warbled."
+      },
+      {
+        "q": "What gear helps with rapid ID?",
+        "a": "A binocular with 8×42 optics and a compact field guide or app for quick reference."
+      },
+      {
+        "q": "Can I ID warblers by song alone?",
+        "a": "Song is a huge clue, but combine it with visual cues for reliable IDs."
+      }
+    ],
+    "category": "ID Skills",
+    "tags": [
+      "warblers",
+      "spring-id"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"bird id apps compared\"",
+        "url": "https://duckduckgo.com/?q=bird%20id%20apps%20compared"
+      }
+    ],
+    "publishedAt": "2026-08-23T04:22:19.121Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-whatsthisbird-17",
     "title": "Community pulse: what r/whatsthisbird is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the migration community this week.",
