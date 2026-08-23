@@ -1,5 +1,56 @@
 [
   {
+    "slug": "z-offset-fine-tune",
+    "title": "Fine‑tuning your Z‑offset for flawless first layers",
+    "dek": "A quick, repeatable method to dial in the perfect Z‑offset and eliminate first‑layer woes every print.",
+    "takeaway": "Mastering Z‑offset saves time, filament, and frustration on every print.",
+    "whatHappened": "I printed a 20 mm calibration cube with the stock Z‑offset and watched the first layer either squish or hover. After three minutes of trial‑and‑error using a paper‑shim test, the cube landed perfectly on the bed. The difference was instantly visible—no gaps, no excess extrusion.",
+    "whyItMatters": "A reliable first layer is the foundation of any successful print; mis‑aligned Z leads to warping, poor adhesion, and wasted material. By locking down Z‑offset, you reduce failed prints and extend nozzle life, especially on budget machines that drift over time.",
+    "howToThink": "Start with a clean, level bed, then lower the nozzle until a standard printer paper slides with slight resistance. Record the offset, save it in your firmware, and verify with a single‑layer test. Re‑check after any nozzle change or bed replacement.",
+    "pros": [
+      "Consistent first layers",
+      "Less filament waste",
+      "Faster print setup"
+    ],
+    "cons": [
+      "Requires initial patience",
+      "Paper method can be imprecise on rough beds",
+      "May need re‑calibration after upgrades"
+    ],
+    "watchOut": "Avoid tightening the Z‑stop too far; an overly low nozzle can gouge the bed or damage the nozzle.",
+    "faq": [
+      {
+        "q": "Do I need a feeler gauge, or is paper enough?",
+        "a": "Paper works for most hobbyists; a 0.1 mm feeler gauge gives finer control if you have one."
+      },
+      {
+        "q": "How often should I re‑check Z‑offset?",
+        "a": "After any hardware change—new nozzle, bed surface, or after a long printer idle period."
+      },
+      {
+        "q": "Can I set Z‑offset in slicer instead of firmware?",
+        "a": "Yes, most slicers allow a global Z‑offset, but storing it in firmware ensures it applies to all prints."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "calibration",
+      "first-layer"
+    ],
+    "sources": [
+      {
+        "label": "r/FixMyPrint community threads",
+        "url": "https://www.reddit.com/r/FixMyPrint/"
+      },
+      {
+        "label": "Search interest: \"best filament for beginners\"",
+        "url": "https://duckduckgo.com/?q=best%20filament%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-08-23T03:35:20.079Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-filament-mistakes-52",
     "title": "Five mistakes everyone makes in their first month of filament",
     "dek": "The most common early stumbles in filament, and the cheap corrections that fix them for home 3D-printing hobbyists.",

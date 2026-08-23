@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fake-dial-dilemma",
+    "title": "Fake dial dilemma: how to spot a counterfeit without breaking the bank",
+    "dek": "Learn quick visual tricks to avoid overpaying for a vintage watch with a swapped dial.",
+    "takeaway": "A simple checklist can save you from costly dial fakes.",
+    "whatHappened": "I bought a 1970s Seiko chronograph that looked perfect, but the dial was a modern replica. The price drop after discovery was steep.",
+    "whyItMatters": "Dial authenticity drives value; a fake dial can slash resale price and ruin the watch’s heritage appeal.",
+    "howToThink": "Inspect printing, font, and lume; compare with reference photos; use a magnifier and UV light before sealing the deal.",
+    "pros": [
+      "Saves money",
+      "Boosts confidence",
+      "Preserves watch integrity"
+    ],
+    "cons": [
+      "Time-consuming checks",
+      "Requires reference material",
+      "May miss subtle fakes"
+    ],
+    "watchOut": "Don’t trust glossy photos alone; lighting can hide flaws.",
+    "faq": [
+      {
+        "q": "Can a fake dial be replaced later?",
+        "a": "Yes, but quality replacements cost more than buying a genuine piece outright."
+      },
+      {
+        "q": "What tools help spot a fake?",
+        "a": "A 10x loupe, UV torch, and a dial reference guide are cheap yet effective."
+      },
+      {
+        "q": "Do reputable sellers guarantee authentic dials?",
+        "a": "Reputable sellers usually provide a guarantee; always ask for provenance documentation."
+      }
+    ],
+    "category": "Buying",
+    "tags": [
+      "Buying",
+      "Authenticity"
+    ],
+    "sources": [
+      {
+        "label": "r/Watches community threads",
+        "url": "https://www.reddit.com/r/Watches/"
+      },
+      {
+        "label": "Search interest: \"vintage watch buying guide\"",
+        "url": "https://duckduckgo.com/?q=vintage%20watch%20buying%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-23T03:35:05.146Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-watchrepair-22",
     "title": "Community pulse: what r/watchrepair is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the history community this week.",

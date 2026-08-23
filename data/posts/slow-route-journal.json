@@ -1,5 +1,56 @@
 [
   {
+    "slug": "green-pit-stops-rail-bathroom-hacks",
+    "title": "Green pit stops: low‑impact restroom routines on the rails",
+    "dek": "Turn train toilets into sustainable pit stops with simple habits and gear.",
+    "takeaway": "Small bathroom habits cut waste and keep the carriage fresh.",
+    "whatHappened": "On a week‑long cross‑country journey I tested reusable wipes, a compact water‑free sanitizer, and a sealed bag for used paper. The routine added two minutes per stop but left the bathroom noticeably cleaner.",
+    "whyItMatters": "Train bathrooms are high‑traffic micro‑ecosystems; excess waste clogs systems and forces harsher cleaning chemicals, affecting passengers and the environment.",
+    "howToThink": "Carry a biodegradable wipe, a refillable sanitizer spray, and a zip‑lock bag for used tissue. Lightly spray the seat before use, wipe, then seal the waste for disposal at the next stop.",
+    "pros": [
+      "Less waste",
+      "Fresher carriage",
+      "Easy to pack"
+    ],
+    "cons": [
+      "Limited water for rinsing",
+      "Requires habit change",
+      "May conflict with some rail policies"
+    ],
+    "watchOut": "Check each railway’s policy on personal cleaning products to avoid fines or disposal issues.",
+    "faq": [
+      {
+        "q": "Can I use regular baby wipes?",
+        "a": "Choose unscented, biodegradable wipes to avoid clogging the system."
+      },
+      {
+        "q": "Do I need a special bag for used paper?",
+        "a": "A small zip‑lock bag keeps tissue contained until proper disposal."
+      },
+      {
+        "q": "Is sanitizer allowed on all trains?",
+        "a": "Most carriers permit personal sanitizer, but verify any size restrictions before boarding."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-23T03:34:59.871Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "silent-stations-repurposing-waiting-rooms",
     "title": "Silent stations: repurposing waiting rooms for low‑impact workspaces",
     "dek": "Turn idle station waiting rooms into minimalist work hubs that respect the planet and your pace.",

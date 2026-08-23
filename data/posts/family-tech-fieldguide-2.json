@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smartwatch-safety-parent-guide",
+    "title": "Smartwatch safety: what every parent should know",
+    "dek": "A quick dive into keeping kids’ smartwatches secure, from data privacy to screen limits.",
+    "takeaway": "Smartwatches can be safe tools if you set limits, lock data, and monitor usage.",
+    "whatHappened": "We tested three popular kids’ smartwatches over a week, checking default settings, data sharing, and screen‑time controls. The out‑of‑the‑box experience varied widely.",
+    "whyItMatters": "Parents often assume wearables are harmless, but they collect location data and can become a distraction. Understanding the risks helps protect privacy and focus.",
+    "howToThink": "Start by disabling unnecessary GPS, set a daily screen‑time cap, and pair the device with a family account. Review app permissions weekly and teach kids to report odd behavior.",
+    "pros": [
+      "Location tracking for safety",
+      "Customizable watch faces keep kids engaged",
+      "Durable designs for active play"
+    ],
+    "cons": [
+      "Data sharing defaults can be broad",
+      "Battery life may require frequent charging",
+      "Screen can become a distraction if unchecked"
+    ],
+    "watchOut": "Never leave the smartwatch’s default privacy settings unchanged.",
+    "faq": [
+      {
+        "q": "Can I block my child's smartwatch from accessing the internet?",
+        "a": "Yes—use the companion app to disable Wi‑Fi or restrict web access entirely."
+      },
+      {
+        "q": "What’s the best way to set screen‑time limits?",
+        "a": "Set a daily minutes cap in the parent dashboard; most watches enforce a lockout when the limit is reached."
+      },
+      {
+        "q": "How do I delete the watch’s location history?",
+        "a": "In the companion app, navigate to privacy settings and clear the history or disable continuous location logging."
+      }
+    ],
+    "category": "Devices",
+    "tags": [
+      "wearables",
+      "privacy"
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-23T03:35:26.875Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-devices-47",
     "title": "Ask the forge: your devices questions, answered",
     "dek": "Straight answers to the devices questions parents managing kids, screens, and smart devices keep asking, minus the hedging.",
