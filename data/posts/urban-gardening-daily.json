@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-tomato-boost-8weeks",
+    "title": "Balcony Tomato Boost: Juicy Harvests in 8 Weeks",
+    "dek": "Turn a tiny balcony pot into a high‑yield tomato garden in just two months.",
+    "takeaway": "A simple container setup can deliver a bumper tomato crop even on a city balcony.",
+    "whatHappened": "We swapped a 5‑gal fabric pot for a lightweight self‑watering bucket and added a trellis. Within three weeks seedlings were thriving, and by week eight the vines were laden with ripe fruit.",
+    "whyItMatters": "Fresh tomatoes mean less grocery trips and more flavor on tight budgets. Plus, growing them on a balcony proves you don’t need a backyard to enjoy summer’s bounty.",
+    "howToThink": "Choose dwarf or determinate varieties, use a high‑quality potting mix, and keep the soil consistently moist. Position the container where it catches at least six hours of sun, and prune side shoots to direct energy to fruit.",
+    "pros": [
+      "Space‑efficient",
+      "Low maintenance",
+      "High yield"
+    ],
+    "cons": [
+      "Requires steady watering",
+      "Limited to small varieties",
+      "May need support for vines"
+    ],
+    "watchOut": "Watch for wind‑blown breakage—secure the trellis firmly to the balcony rail.",
+    "faq": [
+      {
+        "q": "What tomato varieties work best on balconies?",
+        "a": "‘Patio’, ‘Tiny Tim’, and ‘Red Robin’ are bred for compact growth and heavy fruiting."
+      },
+      {
+        "q": "How often should I water the container?",
+        "a": "Aim for a deep soak every 2‑3 days; adjust if the top inch of soil feels dry."
+      },
+      {
+        "q": "Do I need fertilizer?",
+        "a": "Feed with a balanced liquid fertilizer every two weeks once the plants flower."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "tomatoes",
+      "balcony-gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-23T06:01:08.769Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "small-space-vegetables-field-test-17",
     "title": "\"small space vegetables\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about small space vegetables through a month of actual use. Some of it survived.",

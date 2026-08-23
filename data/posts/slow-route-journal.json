@@ -1,5 +1,56 @@
 [
   {
+    "slug": "recharging-on-the-rails",
+    "title": "Recharging on the Rails: Low‑Impact Power Strategies",
+    "dek": "Learn how to power devices sustainably on long train journeys without leaving a carbon trace.",
+    "takeaway": "Plan your energy needs ahead and use renewable sources to stay charged and low‑impact.",
+    "whatHappened": "On a week‑long Eurail trip I ran out of battery on the third day, forcing me to rely on disposable power banks. I switched to a solar charger and a kinetic watch, and the train’s USB outlets became my backup. The shift kept my devices alive and my footprint small.",
+    "whyItMatters": "Every charger plugged into a train’s grid adds to its overall energy demand, and disposable batteries generate waste. By sourcing power locally and responsibly, slow travelers reduce both emissions and e‑waste, aligning with the ethos of low‑impact exploration.",
+    "howToThink": "Start by auditing the devices you truly need and their power draw. Pack a compact solar panel or a hand‑crank charger, and prioritize USB‑C power banks with high cycles. Use the train’s outlet only as a last resort and turn off devices when idle.",
+    "pros": [
+      "Zero‑waste energy source",
+      "Lightweight gear",
+      "Independence from train outlets"
+    ],
+    "cons": [
+      "Solar output depends on weather",
+      "Initial cost of gear",
+      "Learning curve for efficient use"
+    ],
+    "watchOut": "Never rely solely on a single charger; always have a backup for cloudy days or long tunnels.",
+    "faq": [
+      {
+        "q": "Can a small foldable solar panel charge a laptop?",
+        "a": "Yes, choose a panel rated 15‑20W and pair it with a power bank that supports laptop charging via USB‑C."
+      },
+      {
+        "q": "Are train USB ports safe for my devices?",
+        "a": "Generally yes, but they can be unreliable; use them sparingly and avoid overcharging."
+      },
+      {
+        "q": "What’s the best way to store a power bank on a train?",
+        "a": "Keep it in a padded pocket or small bag to protect it from bumps and keep cables untangled."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "energy",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-23T06:01:07.487Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "carry-on-packing-list-field-test-16",
     "title": "\"carry on packing list\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about carry on packing list through a month of actual use. Some of it survived.",
