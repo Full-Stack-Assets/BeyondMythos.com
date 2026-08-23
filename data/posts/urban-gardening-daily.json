@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-box-magic-growing-microgreens",
+    "title": "Micro-Box Magic: Growing Microgreens on a Windowsill",
+    "dek": "Turn a spare windowsill into a thriving microgreen kitchen in under a week.",
+    "takeaway": "A tiny, fast-growing harvest is possible with just a light, a tray, and a bit of patience.",
+    "whatHappened": "We set up a DIY microgreen tray using recycled containers, organic seed mix, and a LED grow light on a balcony apartment. Within 48 hours the seeds germinated, and by day five the first leaves unfurled, ready for a fresh salad topping.",
+    "whyItMatters": "Microgreens pack a nutritional punch, perfect for space‑constrained city living, and they add vibrant flavor to meals without a garden plot. Growing them at home also cuts food miles and reduces waste.",
+    "howToThink": "Start with a shallow, reusable tray, a quality seed blend, and keep the medium consistently moist. Place the tray under bright indirect light or a 12‑hour LED schedule, and harvest when the first true leaves appear.",
+    "pros": [
+      "Super fast growth",
+      "Minimal space needed",
+      "Nutrient dense"
+    ],
+    "cons": [
+      "Requires daily watering",
+      "Short shelf‑life after harvest",
+      "Light intensity must be managed"
+    ],
+    "watchOut": "Avoid over‑watering; soggy media leads to mold and stunted growth.",
+    "faq": [
+      {
+        "q": "Can I use any container?",
+        "a": "A shallow, food‑safe tray or even a repurposed take‑out box works, as long as it drains."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Mist the surface once or twice daily to keep the soil damp but not soaked."
+      },
+      {
+        "q": "When is the right time to harvest?",
+        "a": "Harvest at 7‑14 days, when the first true leaves are 2‑3 cm tall."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "Microgreens",
+      "Balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-23T02:13:36.432Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-56",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",

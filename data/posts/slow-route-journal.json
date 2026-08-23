@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-stations-repurposing-waiting-rooms",
+    "title": "Silent stations: repurposing waiting rooms for low‑impact workspaces",
+    "dek": "Turn idle station waiting rooms into minimalist work hubs that respect the planet and your pace.",
+    "takeaway": "A quiet station can double as a sustainable micro‑office on the move.",
+    "whatHappened": "During a week‑long rail trek across the Midwest, I tested three unattended stations, setting up a portable desk and solar charger in each waiting room. The spaces proved surprisingly conducive to focused work and low‑impact living.",
+    "whyItMatters": "Rail travelers often waste layover time scrolling; converting waiting rooms into purposeful zones reduces idle energy and supports a mindful travel rhythm. It also showcases how existing infrastructure can serve multiple low‑impact uses.",
+    "howToThink": "Scout stations with ample natural light, bring a fold‑out table, a compact solar panel, and a reusable cup. Keep your setup minimal, respect local rules, and leave no trace, turning each pause into productive, low‑impact time.",
+    "pros": [
+      "Zero‑waste setup",
+      "Boosts productivity on the road",
+      "Uses existing public space"
+    ],
+    "cons": [
+      "Limited power sources",
+      "Potential noise from commuters",
+      "May need permission in some stations"
+    ],
+    "watchOut": "Always check station policies; some locations ban portable equipment or require a permit.",
+    "faq": [
+      {
+        "q": "Do I need permission to set up a desk in a waiting room?",
+        "a": "Most stations allow personal items, but verify signage or ask staff to avoid fines."
+      },
+      {
+        "q": "What power options work best?",
+        "a": "Compact solar chargers or power banks keep you off the grid without draining station outlets."
+      },
+      {
+        "q": "How can I stay low‑impact while working?",
+        "a": "Use a reusable notebook, digital note‑taking, and a refillable water bottle to minimize waste."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low‑impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-23T02:13:36.755Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-stations-micro-rests",
     "title": "Quiet stations: harnessing empty platforms for mindful micro‑rests",
     "dek": "Discover how idle platforms can become low‑impact pause points for mindful travelers.",

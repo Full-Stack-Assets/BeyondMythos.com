@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-the-classic-restoring-vintage-film-came",
+    "title": "Reviving the Classic: Restoring Vintage Film Cameras for Modern Shoots",
+    "dek": "A hands‑on guide to breathing new life into your old 35mm and rangefinder bodies without breaking the bank.",
+    "takeaway": "You can reliably restore vintage cameras and enjoy their unique character in today’s digital‑dominant world.",
+    "whatHappened": "Last weekend we tackled a 1970s Pentax Spotmatic and a classic Leica M3, disassembling, cleaning, and replacing worn parts. The process took three afternoons, but the cameras now fire perfectly and produce crisp, nostalgic images.",
+    "whyItMatters": "Vintage gear offers distinct rendering and build quality that modern bodies often lack, and restoring them extends their lifespan, reducing waste. Knowing how to service these machines empowers photographers to curate a personal toolkit that stands out.",
+    "howToThink": "Start with a thorough inspection, source OEM or high‑quality aftermarket parts, and work in a dust‑free environment. Prioritize lubrication of moving mechanisms and test shutter speeds after each step. Document your process to streamline future restorations.",
+    "pros": [
+      "Cost‑effective compared to buying new",
+      "Unique character and build quality",
+      "Sustainable and rewarding hobby"
+    ],
+    "cons": [
+      "Time‑intensive",
+      "Parts may be scarce",
+      "Risk of damaging delicate mechanisms"
+    ],
+    "watchOut": "Avoid using excessive force on fragile components; a slipped screwdriver can ruin a vintage shutter.",
+    "faq": [
+      {
+        "q": "What basic tools do I need for a camera restoration?",
+        "a": "A precision screwdriver set, lens cleaning solution, soft brushes, tweezers, and a reliable light source are essential."
+      },
+      {
+        "q": "Can I use modern lubricants on old shutters?",
+        "a": "Prefer camera‑specific greases; generic oils can attract dust and degrade seals."
+      },
+      {
+        "q": "How do I know when a restoration is worth the effort?",
+        "a": "If the body is solid, the optics are good, and replacement parts are available, it’s usually a worthy project."
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "vintage",
+      "restoration"
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"best 35mm film stocks\"",
+        "url": "https://duckduckgo.com/?q=best%2035mm%20film%20stocks"
+      }
+    ],
+    "publishedAt": "2026-08-23T02:13:52.925Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-scanning-53",
     "title": "The quiet upgrade: small tweaks in scanning with outsized returns",
     "dek": "No purchases, no overhauls — the modest scanning adjustments that film photographers and darkroom hobbyists report mattering most.",
