@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Turbocharging Your NES Power Supply for Consistent 60fps</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-nes-power-supply.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-nes-power-supply.html</guid>
+      <pubDate>Sun, 23 Aug 2026 09:58:54 GMT</pubDate>
+      <description>A quick mod to stabilize voltage and eliminate frame‑drops on original NES hardware.</description>
+    </item>
+    <item>
       <title>DIY 2ms Input Lag Reduction for Classic Controllers</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-2ms-input-lag-reduction.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-2ms-input-lag-reduction.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-46.html</guid>
       <pubDate>Sat, 22 Aug 2026 04:16:52 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Gameboy is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-17.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-17.html</guid>
-      <pubDate>Sat, 22 Aug 2026 03:24:49 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

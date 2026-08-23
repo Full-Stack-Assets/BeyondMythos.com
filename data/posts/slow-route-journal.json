@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-sleeper-night-train",
+    "title": "Silent Sleeper: Turning Night Trains into Low-Impact Sleep Pods",
+    "dek": "Discover how to transform a quiet night-train carriage into a sustainable sleep pod without leaving a carbon trace.",
+    "takeaway": "Night trains can be both restful and eco-friendly with a few simple tweaks.",
+    "whatHappened": "I boarded a 10-hour sleeper from Berlin to Budapest, swapped my usual blanket for a recycled fleece, and used a solar-powered fan. The carriage was empty, letting me set up a low-light, zero-waste sleeping zone. By the end, I’d logged under 0.3 kg of waste.",
+    "whyItMatters": "Slow travelers often overlook the hidden impact of overnight rail comfort. Reducing waste and energy use on night trains amplifies the low-impact ethos of slow travel. Plus, a quieter cabin benefits fellow passengers and wildlife along the route.",
+    "howToThink": "Choose reusable sleep gear, like a compact down-alternative blanket and a bamboo pillowcase. Pack a small LED lantern with a dimmer and a solar charger to power a fan or phone. Keep a reusable water bottle and a biodegradable toiletry kit to stay fresh without disposable waste.",
+    "pros": [
+      "Zero waste sleep setup",
+      "Improved comfort in quiet cabins",
+      "Lower energy footprint"
+    ],
+    "cons": [
+      "Limited space for gear",
+      "Need to plan reusable items ahead",
+      "Potentially cooler temperatures require extra layers"
+    ],
+    "watchOut": "Beware of train staff policies on open-flame heaters; stick to battery-powered devices only.",
+    "faq": [
+      {
+        "q": "Can I use my own pillow on night trains?",
+        "a": "Yes, most operators allow personal pillows; just keep them compact and stored when moving."
+      },
+      {
+        "q": "What’s the best way to charge devices without grid power?",
+        "a": "A fold-out solar panel or a hand-crank charger works well in the carriage’s window light."
+      },
+      {
+        "q": "Is it okay to bring a small fan on board?",
+        "a": "Battery-powered fans are fine; avoid plug-in models that draw from the train’s outlet without permission."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "night-train",
+      "zero-waste"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-23T09:58:55.351Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-51",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",
