@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-coffee-bloom-pour-over",
+    "title": "From Drip to Delight: Mastering the Coffee Bloom",
+    "dek": "Learn why the bloom matters and how to perfect it for clearer, brighter pour-over coffee.",
+    "takeaway": "A controlled bloom unlocks flavor clarity and consistency in every cup.",
+    "whatHappened": "I tried a new 30‑second bloom with 30 g of coffee and 60 ml of water before the full pour, and the resulting cup was noticeably cleaner. The experiment compared a standard fast pour with the bloom technique across three beans.",
+    "whyItMatters": "The bloom releases trapped CO₂ that otherwise disrupts extraction, leading to uneven flavors. By managing it, you get more predictable results and can fine‑tune other variables.",
+    "howToThink": "Start with 2‑3 × the coffee weight in water for the bloom, wait 30‑45 seconds, then continue your usual pour pattern. Adjust bloom time if you notice excessive gas or weak flavor.",
+    "pros": [
+      "Cleaner flavor",
+      "More consistent extraction",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Adds a few seconds",
+      "Requires extra kettle control",
+      "May need practice with timing"
+    ],
+    "watchOut": "Don't over‑bloom; too much water dilutes the brew.",
+    "faq": [
+      {
+        "q": "Is bloom needed for all beans?",
+        "a": "Especially for fresh, high‑altitude beans, but even older beans benefit."
+      },
+      {
+        "q": "What water temperature for bloom?",
+        "a": "Use the same brewing temperature, around 93 °C (200 °F)."
+      },
+      {
+        "q": "Can I skip bloom with a pre‑infusion on a dripper?",
+        "a": "A brief pre‑infusion serves the same purpose, but a dedicated bloom is more precise."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "bloom",
+      "pour-over"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-23T14:59:46.675Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-46",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

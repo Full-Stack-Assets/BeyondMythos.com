@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>RGB Upgrade for Mega Drive: Sharper Colors, Faster Input</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rgb-upgrade-mega-drive.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rgb-upgrade-mega-drive.html</guid>
+      <pubDate>Sun, 23 Aug 2026 14:59:46 GMT</pubDate>
+      <description>Switch your Mega Drive to RGB and shave off a few milliseconds while getting crisper visuals.</description>
+    </item>
+    <item>
       <title>Pixel-Precision Joystick Mod: 2ms Faster in 15 Minutes</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-precision-joystick-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-precision-joystick-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-47.html</guid>
       <pubDate>Sat, 22 Aug 2026 09:02:29 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-17.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-17.html</guid>
-      <pubDate>Sat, 22 Aug 2026 07:59:56 GMT</pubDate>
-      <description>We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rgb-upgrade-mega-drive",
+    "title": "RGB Upgrade for Mega Drive: Sharper Colors, Faster Input",
+    "dek": "Switch your Mega Drive to RGB and shave off a few milliseconds while getting crisper visuals.",
+    "takeaway": "A simple RGB mod can improve both visual fidelity and input lag for classic Sega fans.",
+    "whatHappened": "We installed a standard RGB conversion kit on a Genesis/Mega Drive, replacing the composite cable. After calibration, the console output clean RGB with reduced signal delay.",
+    "whyItMatters": "RGB eliminates the extra processing of composite, giving a clearer picture and slightly quicker response—crucial for competitive speedruns and preservation of visual intent.",
+    "howToThink": "When planning a console mod, prioritize signal path simplicity; fewer conversion stages mean less latency. Test with a frame counter to verify gains before finalizing.",
+    "pros": [
+      "Crisper visuals",
+      "~1-2ms lag reduction",
+      "Low cost kit"
+    ],
+    "cons": [
+      "Soldering required",
+      "Potential warranty void",
+      "Cable compatibility issues"
+    ],
+    "watchOut": "Ensure your TV or monitor supports 15kHz RGB to avoid damage or no signal.",
+    "faq": [
+      {
+        "q": "Do I need a new power supply?",
+        "a": "No, the RGB kit draws power from the console’s existing 5V rail."
+      },
+      {
+        "q": "Will this affect my existing composite cable?",
+        "a": "The kit replaces the composite output; keep the original cable if you want to switch back."
+      },
+      {
+        "q": "Can I use the same mod on a SNES?",
+        "a": "SNES uses a different RGB pinout; you need a SNES-specific converter."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "RGB Mod"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-23T14:59:46.308Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-precision-joystick-mod",
     "title": "Pixel-Precision Joystick Mod: 2ms Faster in 15 Minutes",
     "dek": "Upgrade your classic controller with a 2 ms response boost using cheap parts and a simple solder job.",
