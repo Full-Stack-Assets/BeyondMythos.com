@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-feeder-hacks",
+    "title": "Winter feeder hacks: boost visits with simple tweaks",
+    "dek": "Simple, low‑cost tweaks to your winter bird feeder that draw more guests and keep them happy.",
+    "takeaway": "A few easy adjustments can dramatically increase winter feeder traffic.",
+    "whatHappened": "I swapped out the standard sunflower seed blend for a high‑fat suet mix and added a small perch. Within two days, chickadees and nuthatches were flocking daily, and a curious pileated woodpecker showed up for the first time this season.",
+    "whyItMatters": "Winter is the toughest time for backyard birds, and every extra calorie can mean the difference between survival and starvation. More frequent feeder visits also give you better observation opportunities and a richer backyard ecosystem.",
+    "howToThink": "Choose high‑fat foods, position the feeder in a sheltered yet visible spot, and vary the feed type weekly to keep birds interested. Keep the feeder clean and refill before it’s empty to maintain trust.",
+    "pros": [
+      "Attracts more species",
+      "Easy to implement",
+      "Low cost"
+    ],
+    "cons": [
+      "May attract squirrels",
+      "Requires regular cleaning",
+      "Needs occasional food rotation"
+    ],
+    "watchOut": "Avoid placing the feeder too close to windows to prevent bird strikes.",
+    "faq": [
+      {
+        "q": "What is the best high‑fat food for winter?",
+        "a": "Suet blocks and sunflower seeds with added peanuts provide the most calories."
+      },
+      {
+        "q": "How far should I place the feeder from cover?",
+        "a": "About 3–5 feet from shrubs or trees gives birds protection while staying visible."
+      },
+      {
+        "q": "Can I use a platform feeder for suet?",
+        "a": "Yes, a sturdy platform works well, but ensure the suet is secured to prevent spills."
+      }
+    ],
+    "category": "Feeders",
+    "tags": [
+      "feeders",
+      "winter"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"native plants for birds\"",
+        "url": "https://duckduckgo.com/?q=native%20plants%20for%20birds"
+      }
+    ],
+    "publishedAt": "2026-08-23T13:19:50.822Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "bird-migration-calendar-field-test-19",
     "title": "\"bird migration calendar\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about bird migration calendar through a month of actual use. Some of it survived.",

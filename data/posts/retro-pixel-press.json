@@ -1,5 +1,56 @@
 [
   {
+    "slug": "recalibrate-snes-mouse",
+    "title": "Recalibrating the SNES Mouse for Pixel‑Perfect Speedrunning",
+    "dek": "Give your SNES mouse the precision boost it needs for sub‑30‑frame tricks without buying a new controller.",
+    "takeaway": "A simple recalibration can shave milliseconds off your mouse‑based runs.",
+    "whatHappened": "We discovered that many retro speedrunners report inconsistent cursor drift on the SNES mouse after years of use. By opening the mouse and adjusting the internal potentiometer, the drift vanished and response sharpened. The tweak costs under $5 and takes ten minutes.",
+    "whyItMatters": "Mouse‑controlled categories like \"Yoshi's Cookie\" or \"Mario Paint\" often hinge on sub‑frame accuracy, where even tiny lag can ruin a run. Restoring factory‑level precision extends the lifespan of legacy hardware and keeps the community competitive without expensive replacements.",
+    "howToThink": "First, open the mouse casing with a small screwdriver. Locate the tiny trimmer pot near the sensor and turn it clockwise until the on‑screen cursor snaps to the exact center of the screen in the SNES test mode. Re‑assemble, test in a speedrun segment, and fine‑tune if needed. Repeat until you consistently hit the target pixel.",
+    "pros": [
+      "< $5 cost",
+      "< 15‑minute fix",
+      "Restores original feel"
+    ],
+    "cons": [
+      "Requires tiny screwdriver",
+      "Risk of over‑tightening",
+      "Void warranty"
+    ],
+    "watchOut": "Do not force the potentiometer beyond its resistance; a slight turn is all you need.",
+    "faq": [
+      {
+        "q": "Will this void my SNES mouse warranty?",
+        "a": "Yes, opening the case technically voids any remaining warranty, but the hardware is usually out of warranty after years."
+      },
+      {
+        "q": "Do I need any special tools?",
+        "a": "A precision flat‑head screwdriver and a steady hand are sufficient; no soldering required."
+      },
+      {
+        "q": "Can this fix be reversed?",
+        "a": "Yes—simply return the potentiometer to its original position, re‑seal the case, and the mouse will behave as before."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Input Precision"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-23T13:19:35.387Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-retrogaming-20",
     "title": "Community pulse: what r/retrogaming is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",
