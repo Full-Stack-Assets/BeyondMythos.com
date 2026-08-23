@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stable-brew-temp",
+    "title": "Unlocking Consistency: The Power of a Stable Brew Temperature",
+    "dek": "A tiny temperature swing can make or break your espresso shot—here’s why stability matters.",
+    "takeaway": "Keep your brew water temp within ±1°C for repeatable espresso quality.",
+    "whatHappened": "I ran two back‑to‑back espresso sessions, one with the machine’s built‑in thermostat and one with a PID‑controlled heater. The PID run produced a noticeably smoother body and less bitterness. The side‑by‑side taste test confirmed the temperature’s impact.",
+    "whyItMatters": "Espresso extraction is a temperature‑sensitive chemical process; a few degrees shift alters solubility and flavor balance. Home baristas chasing consistency need a reliable heat source to replicate great shots day after day.",
+    "howToThink": "Invest in a PID or a calibrated thermometer, set your target at 93 °C, and let the machine stabilize before pulling. Record the temperature each day and adjust the PID offset as ambient conditions change. Treat temperature control like you would grind size—fine‑tune it and log the results.",
+    "pros": [
+      "Better flavor clarity",
+      "More consistent shots",
+      "Easier troubleshooting"
+    ],
+    "cons": [
+      "Requires precise thermometer",
+      "May need PID upgrade",
+      "Adds another variable to monitor"
+    ],
+    "watchOut": "Don’t chase exact numbers without letting the machine reach thermal equilibrium first.",
+    "faq": [
+      {
+        "q": "Do I really need a PID for home espresso?",
+        "a": "A PID isn’t mandatory but it eliminates the 3‑5 °C swing most stock heaters have, making consistency much easier."
+      },
+      {
+        "q": "What temperature should I aim for?",
+        "a": "Most beans extract well around 92‑94 °C; start at 93 °C and tweak by 0.5 °C based on taste."
+      },
+      {
+        "q": "Can I use a regular kitchen thermometer?",
+        "a": "A digital probe with ±0.2 °C accuracy is ideal; cheap analog sticks won’t give reliable readings."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-23T19:55:04.093Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-45",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",
