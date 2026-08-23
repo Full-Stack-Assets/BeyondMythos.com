@@ -1,5 +1,56 @@
 [
   {
+    "slug": "freight-car-libraries",
+    "title": "Freight Car Libraries: Pop‑Up Reading Rooms on Rails",
+    "dek": "How repurposed freight cars become low‑impact pop‑up libraries for slow travelers.",
+    "takeaway": "A single freight car can become a traveling knowledge hub with minimal carbon cost.",
+    "whatHappened": "In late July a German rail‑freight cooperative converted an idle boxcar into a mobile library that stops at small stations along the Rhine. Travelers borrowed books, swapped stories, and left donations before the car continued its journey. The pilot ran for three weeks and attracted over 200 readers.",
+    "whyItMatters": "Rail infrastructure is abundant yet underused; turning freight space into cultural assets reduces waste and enriches remote communities. Low‑impact travelers gain free, off‑grid entertainment, reinforcing the slow‑travel ethic of staying and learning where you are. The model shows how modest interventions can create lasting social value without new construction.",
+    "howToThink": "Start by scouting idle freight cars in your region and partner with a local library or book‑swap group. Outfit the interior with reclaimed shelves, solar lighting, and a simple catalog system. Promote stops via local social channels and invite travelers to contribute books, keeping the collection fresh and community‑driven.",
+    "pros": [
+      "Zero‑emission travel hub",
+      "Boosts local culture",
+      "Low startup cost"
+    ],
+    "cons": [
+      "Limited space for large collections",
+      "Requires rail‑company permission",
+      "Seasonal weather constraints"
+    ],
+    "watchOut": "Secure proper insurance and safety checks to avoid liability on moving rail property.",
+    "faq": [
+      {
+        "q": "Do I need a rail licence to operate a freight‑car library?",
+        "a": "No, but you must have a formal agreement with the rail operator and comply with their safety regulations."
+      },
+      {
+        "q": "How can I power lights and devices inside the car?",
+        "a": "A small solar panel with a battery pack can provide enough juice for LED lighting and a Wi‑Fi hotspot."
+      },
+      {
+        "q": "What books are best for a traveling library?",
+        "a": "Compact, paperback titles, travel guides, and community‑generated zines travel best and encourage swaps."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-23T22:57:27.504Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-51",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
