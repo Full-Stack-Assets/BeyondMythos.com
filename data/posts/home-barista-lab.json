@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-crema-pressure-check",
+    "title": "Boost Your Espresso Crema with a Simple Pressure Check",
+    "dek": "A quick test to gauge your machine’s pressure and revive that silky crema.",
+    "takeaway": "Consistent pressure = richer crema and better extraction.",
+    "whatHappened": "I pulled a shot, noticed a thin crema, and ran a 30‑second pressure test using the machine’s built‑in gauge. The reading hovered around 7 bar, well below the sweet spot. After adjusting the pump pressure, the next shot displayed a deep, honey‑gold crema.",
+    "whyItMatters": "Crema is the visual cue of a well‑balanced extraction; low pressure often means under‑extracted coffee and wasted beans. By ensuring the pump hits the target pressure, you lock in flavor consistency and get the most out of your grind and dose.",
+    "howToThink": "Treat pressure like a baseline: measure it daily, note deviations, and tweak the pump or valve until you’re steady at 9 ± 0.5 bar. Pair this with regular grind checks, and you’ll spot when other variables are the culprit.",
+    "pros": [
+      "Immediate feedback",
+      "No extra tools needed",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Only checks pressure, not temperature",
+      "May require barista faucet",
+      "Not a cure‑all for grind issues"
+    ],
+    "watchOut": "Don’t force the portafilter if pressure spikes—could damage the pump.",
+    "faq": [
+      {
+        "q": "What pressure range should I aim for?",
+        "a": "Target 9 ± 0.5 bar for most espresso machines."
+      },
+      {
+        "q": "Can I use a regular pressure gauge?",
+        "a": "A dedicated espresso pressure gauge is best; cheap gauges may be inaccurate."
+      },
+      {
+        "q": "How often should I run the test?",
+        "a": "Do it weekly or when you notice crema thinning."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "crema"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-23T15:57:20.084Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "mastering-coffee-bloom-pour-over",
     "title": "From Drip to Delight: Mastering the Coffee Bloom",
     "dek": "Learn why the bloom matters and how to perfect it for clearer, brighter pour-over coffee.",
