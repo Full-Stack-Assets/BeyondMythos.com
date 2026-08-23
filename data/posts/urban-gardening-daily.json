@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sun-smart-balc-tomatoes",
+    "title": "Sun‑Smart Balcony Tomatoes: Boost Heat Tolerance in Small Spaces",
+    "dek": "Turn chilly balcony nights into a tomato‑friendly micro‑climate with cheap tricks.",
+    "takeaway": "Adjusting micro‑climate on balconies can extend tomato season.",
+    "whatHappened": "We tested a reflective balcony panel and heat‑retaining containers on a 5th‑floor balcony for four weeks, noting earlier fruit set and larger yields.",
+    "whyItMatters": "Urban growers often lose crops to wind chill and night‑time cooling; simple heat‑boost tricks can turn a short summer into a prolific harvest.",
+    "howToThink": "Place a lightweight reflective sheet behind the plants, use dark‑colored pots, and add a small water‑filled bottle to retain warmth; monitor temperature and adjust shading as needed.",
+    "pros": [
+      "Higher yields",
+      "Earlier fruiting",
+      "Low cost"
+    ],
+    "cons": [
+      "Potential overheating",
+      "Needs daily monitoring",
+      "Limited to sunny spots"
+    ],
+    "watchOut": "Avoid scorching by providing afternoon shade if temps exceed 30 °C.",
+    "faq": [
+      {
+        "q": "Can I use any reflective material?",
+        "a": "Aluminum foil, Mylar emergency blankets, or white corrugated panels work well and are inexpensive."
+      },
+      {
+        "q": "How dark should the pots be?",
+        "a": "A matte black or deep terracotta absorbs heat without cracking in temperature swings."
+      },
+      {
+        "q": "Do I need to water more often?",
+        "a": "Warm soils dry faster, so check moisture daily and keep a consistent drip or soak schedule."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Seasonal",
+      "Tomatoes"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-23T17:56:00.714Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-57",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",

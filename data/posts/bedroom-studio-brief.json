@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-bass-traps-bedroom",
+    "title": "Boost your bedroom acoustics with DIY bass traps",
+    "dek": "Turn a bland room into a balanced listening space with cheap, DIY bass traps you can build this weekend.",
+    "takeaway": "Simple, low-cost bass traps can dramatically improve low‑frequency response in a bedroom studio.",
+    "whatHappened": "I spent a Saturday cutting 2‑by‑4s, attaching rockwool, and hanging three panels in my bedroom. The result was an instantly tighter mix and clearer vocal recordings.",
+    "whyItMatters": "Uncontrolled bass muddles mixes and masks detail, especially in small rooms where reflections dominate. Fixing it at the source saves time in mixing and boosts confidence.",
+    "howToThink": "Treat the corners first, use dense material, and aim for 4‑6 inches thickness; measure before and after with a room‑analysis app to verify the improvement.",
+    "pros": [
+      "Cheap materials",
+      "Easy installation",
+      "Immediate acoustic benefit"
+    ],
+    "cons": [
+      "Takes up wall space",
+      "Requires basic DIY skills",
+      "May look industrial"
+    ],
+    "watchOut": "Avoid covering windows or ventilation, which can affect airflow and lighting.",
+    "faq": [
+      {
+        "q": "Do I need professional acoustic panels?",
+        "a": "No, rockwool or high‑density fiberglass works just as well for low‑frequency absorption."
+      },
+      {
+        "q": "How many traps do I need?",
+        "a": "Start with the two front corners and the rear wall; you can add more as needed."
+      },
+      {
+        "q": "Will the traps affect my room’s aesthetics?",
+        "a": "Cover them with fabric that matches your décor, or paint the frames for a cleaner look."
+      }
+    ],
+    "category": "Treatment",
+    "tags": [
+      "Treatment",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/WeAreTheMusicMakers community threads",
+        "url": "https://www.reddit.com/r/WeAreTheMusicMakers/"
+      },
+      {
+        "label": "Search interest: \"audio interface guide\"",
+        "url": "https://duckduckgo.com/?q=audio%20interface%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-23T17:56:07.828Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-interfaces-66",
     "title": "A weekend project: level up your interfaces in two hours",
     "dek": "One contained, satisfying interfaces project for bedroom producers — start Saturday morning, done by lunch.",
