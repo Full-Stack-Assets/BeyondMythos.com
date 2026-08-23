@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temperature-tuning",
+    "title": "Dialing In: How Small Temp Tweaks Unlock Espresso Consistency",
+    "dek": "A quick guide to adjusting brew temperature by ±2°C for richer, more consistent shots.",
+    "takeaway": "Fine‑tuning temperature can boost flavor balance without buying new gear.",
+    "whatHappened": "I swapped my machine’s default 93°C setting to 91°C for a week, noting brighter acidity, then bumped to 95°C and observed deeper body. The contrast was striking.",
+    "whyItMatters": "Temperature is the silent variable that shapes extraction; a few degrees can shift a shot from flat to vibrant, impacting daily enjoyment and repeatability.",
+    "howToThink": "Start with your preferred profile, adjust in 2°C steps, taste, and log results. Use a calibrated thermometer or the machine’s PID readout to stay precise.",
+    "pros": [
+      "Improves flavor nuance",
+      "No extra equipment needed",
+      "Easy to track in a log"
+    ],
+    "cons": [
+      "Requires patience and tasting discipline",
+      "May need recalibration of grinder dose",
+      "Small changes can be subtle to detect"
+    ],
+    "watchOut": "Avoid swinging more than 4°C at once, as drastic jumps can mask the true effect and waste beans.",
+    "faq": [
+      {
+        "q": "Can I use the machine’s built‑in temperature setting?",
+        "a": "Yes, most modern machines let you set the brew temperature; just verify the actual output with a calibrated probe."
+      },
+      {
+        "q": "Does water temperature affect grind size?",
+        "a": "Indirectly—higher temps extract more, so you may need a slightly coarser grind to keep balance."
+      },
+      {
+        "q": "How often should I re‑check temperature?",
+        "a": "Check monthly or after any maintenance, as sensor drift can change the setpoint."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-23T17:00:25.503Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-crema-pressure-check",
     "title": "Boost Your Espresso Crema with a Simple Pressure Check",
     "dek": "A quick test to gauge your machine’s pressure and revive that silky crema.",

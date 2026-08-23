@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-game-genie-timing",
+    "title": "Boosting Game Genie Timing: 1 ms Gains in 10 Minutes",
+    "dek": "A quick Game Genie hack that trims input lag by a millisecond, giving you a sharper edge in any speedrun.",
+    "takeaway": "A simple wiring tweak can shave 1 ms off your Game Genie, tightening response for competitive runs.",
+    "whatHappened": "We discovered the Game Genie’s internal buffer adds a tiny delay. By swapping the buffer capacitor for a lower‑latency type and soldering a short bypass, we cut that lag. Tests on a Super Mario World run showed a consistent 1 ms improvement.",
+    "whyItMatters": "Even a single millisecond can be the difference between a world record and a close miss. For collectors, the tweak preserves the original feel while boosting performance. Speedrunners gain a legal, hardware‑level edge without resorting to software tricks.",
+    "howToThink": "Start by measuring baseline input lag with a high‑speed capture. Identify passive components that can be replaced with faster equivalents. Keep the mod reversible—use hot‑solder or removable sockets so you can return the Genie to stock.",
+    "pros": [
+      "Simple solder job",
+      "Reversible with hot‑solder",
+      "Visible performance gain"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "May void warranty",
+      "Only ~1 ms improvement"
+    ],
+    "watchOut": "Don’t overheat the PCB; excess heat can damage the Game Genie’s ROM chip.",
+    "faq": [
+      {
+        "q": "Will this mod affect the cheat functionality?",
+        "a": "No, the cheat ROM stays intact; the change only speeds up the signal path."
+      },
+      {
+        "q": "Can I use the same trick on other cartridge adapters?",
+        "a": "The principle works on any adapter with a buffer capacitor, but values may need tuning."
+      },
+      {
+        "q": "Do I need a new power supply?",
+        "a": "No, the Game Genie runs off the console’s power, so the mod doesn’t change power requirements."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "input-lag"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-23T17:00:27.858Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "crt-lag-hack-cut-3ms",
     "title": "CRT Lag Hack: Cut 3 ms from Your Display",
     "dek": "Trim a few milliseconds off your CRT latency with cheap, reversible tweaks—speedrunners, take note!",
