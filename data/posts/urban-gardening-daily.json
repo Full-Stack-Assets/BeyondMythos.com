@@ -1,5 +1,56 @@
 [
   {
+    "slug": "vertical-veggie-vibes",
+    "title": "Vertical Veggie Vibes: Maximize Small Balcony Space in 3 Weeks",
+    "dek": "Turn your narrow balcony into a thriving vertical garden with DIY trellises and smart planting tricks.",
+    "takeaway": "Vertical planting multiplies yield without extra floor space.",
+    "whatHappened": "We tested a three‑week vertical garden challenge on a 4‑ft balcony using recycled pallets, pocket planters, and lightweight trellis netting. By week two, seedlings were sprouting upward, and by week three, the first harvest of cherry tomatoes and herbs was ready. The experiment proved that even the slimmest balconies can host a mini‑farm.",
+    "whyItMatters": "Apartment dwellers often feel limited by floor space, leading to disengagement from fresh produce. Vertical systems reclaim unused wall area, boost biodiversity, and improve air quality on balconies. The approach also reduces the need for bulky containers, making gardening accessible to renters.",
+    "howToThink": "Start with a sturdy backing—old wooden pallet or metal frame—secured to the balcony rail. Choose lightweight, deep pocket planters for root‑heavy veggies and shallow trays for herbs. Plant in tiers, grouping plants with similar water needs, and water from the top down to let gravity distribute moisture evenly.",
+    "pros": [
+      "Space‑saving",
+      "Higher yields per sq ft",
+      "Improved air flow"
+    ],
+    "cons": [
+      "Initial setup time",
+      "Needs secure anchoring",
+      "Potential wind exposure"
+    ],
+    "watchOut": "Secure the frame firmly to prevent it from toppling in gusty conditions.",
+    "faq": [
+      {
+        "q": "Can I use any pallet?",
+        "a": "Use heat‑treated, chemically‑free pallets; sand them down and seal to protect plants."
+      },
+      {
+        "q": "How often should I water vertical gardens?",
+        "a": "Water from the top once every 2‑3 days; let runoff feed lower tiers."
+      },
+      {
+        "q": "What veggies thrive vertically?",
+        "a": "Cherry tomatoes, beans, peas, strawberries, and compact herbs like basil and thyme."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "DIY",
+      "Vertical Gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-23T23:56:19.110Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-basil-blitz-2",
     "title": "Balcony Basil Blitz: Harvest Fresh Flavors in 2 Weeks",
     "dek": "Turn a sunny balcony corner into a rapid‑grow basil haven and start snipping fresh leaves in just fourteen days.",

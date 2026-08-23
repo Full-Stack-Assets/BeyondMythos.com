@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Microcontroller Overclock: 1 ms Faster Input on NES Controllers</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/microcontroller-overclock-nes.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/microcontroller-overclock-nes.html</guid>
+      <pubDate>Sun, 23 Aug 2026 23:56:18 GMT</pubDate>
+      <description>Add a tiny Arduino Nano to your NES controller for sub‑millisecond response gains without breaking the original feel.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-46.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-46.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-calibrate-stick.html</guid>
       <pubDate>Sat, 22 Aug 2026 17:57:11 GMT</pubDate>
       <description>Learn a quick 5‑step method to tighten dead zones and boost precision on any classic arcade stick before your next run.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of speedruns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-48.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-48.html</guid>
-      <pubDate>Sat, 22 Aug 2026 16:58:47 GMT</pubDate>
-      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>
