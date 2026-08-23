@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>DIY 2ms Input Lag Reduction for Classic Controllers</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-2ms-input-lag-reduction.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-2ms-input-lag-reduction.html</guid>
+      <pubDate>Sun, 23 Aug 2026 09:02:49 GMT</pubDate>
+      <description>Slash a few milliseconds off your retro controller latency with three simple mods.</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-44.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-44.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-17.html</guid>
       <pubDate>Sat, 22 Aug 2026 03:24:49 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-47.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-47.html</guid>
-      <pubDate>Sat, 22 Aug 2026 02:04:38 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

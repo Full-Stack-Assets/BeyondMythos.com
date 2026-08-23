@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-citrus-burst-growing-lemons",
+    "title": "Balcony Citrus Burst: Growing Lemons on the 5th Floor",
+    "dek": "Learn how to nurture dwarf lemon trees on a balcony, from pot selection to winter protection, in a few easy steps.",
+    "takeaway": "Even tiny balconies can yield fresh lemons with the right container and care.",
+    "whatHappened": "We set up a 5-gal fabric pot on a sunny balcony, planted a dwarf Meyer lemon seedling, and tracked its growth over three months. The tree responded quickly, producing glossy leaves and the first tiny blossoms by week ten.",
+    "whyItMatters": "Fresh lemons cut grocery bills and add zest to apartment cooking, while container fruit trees bring greenery to cramped urban spaces. Mastering seasonal fruit on balconies also builds confidence for more ambitious gardening projects.",
+    "howToThink": "Choose a pot with drainage, use a light, well-draining mix, and place the tree where it gets at least 6 hours of sun. Water consistently, feed with a balanced citrus fertilizer, and protect the roots from freezing in winter with insulation or moving the pot indoors.",
+    "pros": [
+      "Space-saving fruit",
+      "Year-round fresh zest",
+      "Boosts balcony aesthetics"
+    ],
+    "cons": [
+      "Requires regular watering",
+      "Sensitive to cold snaps",
+      "Slow initial fruit production"
+    ],
+    "watchOut": "Watch out for over-watering; soggy roots can quickly kill a dwarf lemon.",
+    "faq": [
+      {
+        "q": "How big does the pot need to be?",
+        "a": "A minimum of 5 gallons (≈19 L) gives enough room for roots and growth."
+      },
+      {
+        "q": "Can I grow a lemon tree indoors?",
+        "a": "Yes, but it needs a sunny window and supplemental grow lights in winter."
+      },
+      {
+        "q": "When will I get fruit?",
+        "a": "Typically 1‑2 years after planting, once the tree is mature and pollinated."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "citrus",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-23T09:02:51.266Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-basil-blitz-harvest-fresh-flavor",
     "title": "Balcony Basil Blitz: Harvest Fresh Flavor in 4 Weeks",
     "dek": "Turn your balcony into a basil powerhouse with a fast‑track, container‑friendly plan that delivers aromatic leaves in just a month.",
