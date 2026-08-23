@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-car-hacks-sound-insulation",
+    "title": "Quiet car hacks: low‑impact sound insulation on the rails",
+    "dek": "Turn noisy train cars into peaceful pods with simple, low‑impact sound‑insulation tricks for the slow traveler.",
+    "takeaway": "A few cheap materials can mute the clatter, making rail journeys calmer and greener.",
+    "whatHappened": "On a week‑long regional trip I taped recycled foam and cork to my seat back and window seals, then measured the drop in ambient noise. The results were surprisingly quiet, even on a bustling commuter line.",
+    "whyItMatters": "Train noise contributes to stress and encourages travelers to seek louder, more energy‑intensive alternatives. Reducing sound with low‑impact fixes improves wellbeing and keeps the journey eco‑friendly.",
+    "howToThink": "Start with reusable, biodegradable materials like cork, felt, or reclaimed foam. Secure them with non‑adhesive straps or velcro so they can be removed at the next stop. Test the silence before you settle in, and adjust for comfort.",
+    "pros": [
+      "Eco‑friendly materials",
+      "Instant noise reduction",
+      "Easy to remove"
+    ],
+    "cons": [
+      "Limited space for large panels",
+      "May affect airflow",
+      "Requires trial‑and‑error fit"
+    ],
+    "watchOut": "Ensure nothing blocks emergency exits or fire‑safety equipment.",
+    "faq": [
+      {
+        "q": "Can I use regular pillowcases?",
+        "a": "Yes, but opt for organic cotton or recycled fabrics to stay low‑impact."
+      },
+      {
+        "q": "Will insulation affect train heating?",
+        "a": "Thin layers won’t, but avoid covering vents."
+      },
+      {
+        "q": "Is it allowed on all trains?",
+        "a": "Most operators permit removable, non‑permanent additions; check local policies."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "sound",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-23T07:19:54.181Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "recharging-on-the-rails",
     "title": "Recharging on the Rails: Low‑Impact Power Strategies",
     "dek": "Learn how to power devices sustainably on long train journeys without leaving a carbon trace.",

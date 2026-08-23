@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlocking-sweet-spot-fine-tuning-brew-ratio",
+    "title": "Unlocking the Sweet Spot: Fine‑Tuning Brew Ratio for Consistent Espresso",
+    "dek": "Master the brew ratio to dial in flavor consistency without guessing.",
+    "takeaway": "Consistent brew ratios give repeatable espresso quality.",
+    "whatHappened": "I noticed my espresso shots varied wildly from day to day despite using the same beans and grind. By measuring coffee weight and water volume precisely, I discovered the brew ratio was the hidden variable.",
+    "whyItMatters": "Brew ratio directly influences extraction, flavor balance, and crema, making it essential for repeatable results. A stable ratio lets you troubleshoot other variables without chasing ghosts.",
+    "howToThink": "Start with a 1:2.2 coffee‑to‑water ratio, weigh both inputs, and log the shot times and taste. Adjust the ratio in 0.1 increments until the flavor profile hits your target, then lock it in for future brews.",
+    "pros": [
+      "Predictable flavor",
+      "Easier dialing in",
+      "Better waste management"
+    ],
+    "cons": [
+      "Requires scale",
+      "Adds prep time",
+      "May limit experimentation"
+    ],
+    "watchOut": "Don’t ignore bean freshness – a perfect ratio won’t rescue stale coffee.",
+    "faq": [
+      {
+        "q": "What is the ideal brew ratio for espresso?",
+        "a": "Most home setups start around 1:2.0–1:2.2 (coffee:water by weight)."
+      },
+      {
+        "q": "Do I need to adjust the ratio when changing beans?",
+        "a": "Yes, denser beans often need a slightly higher ratio to avoid over‑extraction."
+      },
+      {
+        "q": "Can I use volume measurements instead of weight?",
+        "a": "Avoid it – weight is far more accurate for consistent ratios."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "brew-ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-23T07:19:51.253Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-45",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",
