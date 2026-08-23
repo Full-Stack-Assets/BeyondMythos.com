@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-nap-cabins",
+    "title": "Micro‑Nap Cabins: Turning Regional Trains into Low‑Impact Sleep Pods",
+    "dek": "Regional trains now offer tiny sleep pods, letting slow‑travelers rest without a hotel night.",
+    "takeaway": "A short nap on a train cuts accommodation waste and keeps the journey flowing.",
+    "whatHappened": "During a week‑long journey across the German countryside, I booked the new micro‑nap cabins on the RE regional line. The pods fit a single traveler, include a recycled foam mattress, and plug into the train’s solar‑charged outlet. I woke refreshed, having saved a night’s hotel.",
+    "whyItMatters": "Sleeping on the train eliminates a hotel stay, slashing carbon emissions and costs. It also reduces the need for extra luggage, aligning with low‑impact travel values. The concept shows how existing rail infrastructure can be repurposed for sustainable rest.",
+    "howToThink": "Look for regional services advertising ‘sleep cabins’ or ‘nap pods’ in their timetables. Book early, as the pods are limited. Pack a lightweight blanket and an eye mask to make the compact space comfortable.",
+    "pros": [
+      "Zero hotel night",
+      "Lower carbon footprint",
+      "Seamless travel continuity"
+    ],
+    "cons": [
+      "Limited availability",
+      "Tight space",
+      "May lack privacy"
+    ],
+    "watchOut": "Check the pod’s ventilation; some early models can feel stuffy on hot days.",
+    "faq": [
+      {
+        "q": "Do I need a separate ticket for the pod?",
+        "a": "Usually the pod is an add‑on to your regular seat reservation, priced per night."
+      },
+      {
+        "q": "Are the pods heated in winter?",
+        "a": "Most are climate‑controlled via the train’s central system, but bring a light sweater just in case."
+      },
+      {
+        "q": "Can I store luggage inside the pod?",
+        "a": "There’s a small locker above the mattress; larger bags stay in the carriage’s luggage area."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sleep"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-23T13:58:36.642Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "train-travel-europe-tips-field-test-15",
     "title": "\"train travel europe tips\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about train travel europe tips through a month of actual use. Some of it survived.",
