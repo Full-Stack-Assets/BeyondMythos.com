@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The preservation checklist: run this before you spend</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-50.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-50.html</guid>
+      <pubDate>Sun, 23 Aug 2026 10:58:29 GMT</pubDate>
+      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Turbocharging Your NES Power Supply for Consistent 60fps</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-nes-power-supply.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-nes-power-supply.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-timing-calibrate-gbc.html</guid>
       <pubDate>Sat, 22 Aug 2026 05:04:26 GMT</pubDate>
       <description>Learn how to tweak your Game Boy Color’s crystal and power rails to shave off precious milliseconds for competitive speedruns.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your hardware in two hours</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-46.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-46.html</guid>
-      <pubDate>Sat, 22 Aug 2026 04:16:52 GMT</pubDate>
-      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

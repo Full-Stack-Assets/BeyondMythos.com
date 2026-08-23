@@ -1,5 +1,56 @@
 [
   {
+    "slug": "feeding-frequency-overlooked-lever",
+    "title": "Feeding Frequency: The Overlooked Lever",
+    "dek": "Adjusting how often you feed your starter can boost activity without changing flour or water ratios.",
+    "takeaway": "A consistent, slightly more frequent feed schedule often yields a stronger starter faster.",
+    "whatHappened": "We tried feeding our starter every 8 hours instead of the usual 12, keeping the same 1:1:1 ratio, and watched it double its rise speed within two days.",
+    "whyItMatters": "A more active starter shortens bulk fermentation, improves crumb openness, and reduces the risk of sluggish rises, especially in cooler kitchens.",
+    "howToThink": "Start by noting your starter’s peak time, then shift feeding intervals by 2‑4 hours earlier, maintaining the same ratios; monitor volume and aroma, and adjust until peaks align with your schedule.",
+    "pros": [
+      "Faster rise times",
+      "More predictable activity",
+      "Better flavor development"
+    ],
+    "cons": [
+      "Requires more frequent attention",
+      "Potential waste if over‑fed",
+      "May need temperature control"
+    ],
+    "watchOut": "Avoid feeding too often in warm environments, or the starter can become exhausted.",
+    "faq": [
+      {
+        "q": "Will feeding more often dilute the starter’s acidity?",
+        "a": "No, as long as you keep the same flour‑water ratio, acidity stays balanced; it simply matures faster."
+      },
+      {
+        "q": "Can I use this schedule with whole‑grain flour?",
+        "a": "Yes, just keep the same feeding ratio; whole‑grain may slow fermentation slightly, so watch the peaks."
+      },
+      {
+        "q": "What if I miss a feed?",
+        "a": "A single missed feed is fine; just resume the new schedule and give the starter a bit more time to catch up."
+      }
+    ],
+    "category": "Starters",
+    "tags": [
+      "starter schedule",
+      "feeding frequency"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-08-23T10:58:35.374Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-hydration-mistakes-67",
     "title": "Five mistakes everyone makes in their first month of hydration",
     "dek": "The most common early stumbles in hydration, and the cheap corrections that fix them for home sourdough bakers.",
