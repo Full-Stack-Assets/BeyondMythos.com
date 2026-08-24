@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/prop-wash-daily/</link>
     <description>Fresh takes for FPV drone pilots and builders.</description>
     <item>
+      <title>Battery Management 101: Extending Flight Time on a Budget</title>
+      <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/battery-management-101-extending-flight-time.html</link>
+      <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/battery-management-101-extending-flight-time.html</guid>
+      <pubDate>Mon, 24 Aug 2026 21:04:54 GMT</pubDate>
+      <description>Learn quick tricks to squeeze more minutes out of every charge without breaking the bank.</description>
+    </item>
+    <item>
       <title>&quot;fpv drone starter kit&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/fpv-drone-starter-kit-field-test-24.html</link>
       <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/fpv-drone-starter-kit-field-test-24.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/weekend-project-builds-68.html</guid>
       <pubDate>Sun, 23 Aug 2026 14:59:49 GMT</pubDate>
       <description>One contained, satisfying builds project for FPV drone pilots — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Multicopter is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/community-pulse-multicopter-22.html</link>
-      <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/community-pulse-multicopter-22.html</guid>
-      <pubDate>Sun, 23 Aug 2026 13:58:39 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the regulations community this week.</description>
     </item>
   </channel>
 </rss>

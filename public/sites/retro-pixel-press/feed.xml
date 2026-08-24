@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Turbocharging NES Controllers: A 3‑Button Mod</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controllers-mod.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controllers-mod.html</guid>
+      <pubDate>Mon, 24 Aug 2026 21:04:48 GMT</pubDate>
+      <description>Add a third fire button to your classic NES pad without breaking the original feel.</description>
+    </item>
+    <item>
       <title>Pixel-Perfect Audio: Restoring Game Boy Sound Chips</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-audio-restoration.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-audio-restoration.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rgb-upgrade-mega-drive.html</guid>
       <pubDate>Sun, 23 Aug 2026 14:59:46 GMT</pubDate>
       <description>Switch your Mega Drive to RGB and shave off a few milliseconds while getting crisper visuals.</description>
-    </item>
-    <item>
-      <title>Pixel-Precision Joystick Mod: 2ms Faster in 15 Minutes</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-precision-joystick-mod.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-precision-joystick-mod.html</guid>
-      <pubDate>Sun, 23 Aug 2026 13:58:38 GMT</pubDate>
-      <description>Upgrade your classic controller with a 2 ms response boost using cheap parts and a simple solder job.</description>
     </item>
   </channel>
 </rss>
