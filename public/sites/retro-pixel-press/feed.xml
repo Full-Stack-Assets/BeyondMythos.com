@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Hunt: Uncovering Hidden Easter Eggs in 8‑bit Cartridges</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-hunt-hidden-easter-eggs-8bit.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-hunt-hidden-easter-eggs-8bit.html</guid>
+      <pubDate>Mon, 24 Aug 2026 06:23:39 GMT</pubDate>
+      <description>Discover how to locate and document secret Easter eggs in classic 8‑bit cartridges before they fade away.</description>
+    </item>
+    <item>
       <title>Retro Controller Mod: 1 ms Input Gain with a Simple Diode</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-mod-1ms-diode.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-mod-1ms-diode.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/mega-drive-frame-perfect-tricks.html</guid>
       <pubDate>Sat, 22 Aug 2026 22:57:38 GMT</pubDate>
       <description>A quick guide to discovering and exploiting frame‑perfect tricks in classic Mega Drive speedruns.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-44.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-44.html</guid>
-      <pubDate>Sat, 22 Aug 2026 21:56:39 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>

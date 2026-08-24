@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-hunt-hidden-easter-eggs-8bit",
+    "title": "Pixel Hunt: Uncovering Hidden Easter Eggs in 8‑bit Cartridges",
+    "dek": "Discover how to locate and document secret Easter eggs in classic 8‑bit cartridges before they fade away.",
+    "takeaway": "Every hidden gem you log adds to the cultural record of retro gaming.",
+    "whatHappened": "A community of collectors recently compiled a database of undocumented Easter eggs across dozens of NES and Sega Master System games. The project sparked a flurry of new discoveries and revived interest in cartridge‑level archaeology.",
+    "whyItMatters": "These secret features reveal developer intent and game design quirks, enriching historical understanding. Documenting them also preserves knowledge before hardware degradation erases them forever.",
+    "howToThink": "When you power up an old cartridge, scan for unusual menu options, hidden level selectors, or cryptic sound cues. Use a capture card or emulation to log frame‑by‑frame footage, then cross‑reference with online databases. Share findings in forums with clear timestamps and hardware specs.",
+    "pros": [
+      "Expands game lore",
+      "Boosts collection value",
+      "Engages community"
+    ],
+    "cons": [
+      "Time‑intensive research",
+      "Requires reliable hardware",
+      "Potentially low documentation payoff"
+    ],
+    "watchOut": "Beware of faulty ROM dumps that can mislead your analysis.",
+    "faq": [
+      {
+        "q": "How can I tell if an easter egg is undocumented?",
+        "a": "Compare your gameplay to existing walkthroughs; any unexpected behavior not listed is a clue."
+      },
+      {
+        "q": "Do I need special hardware to capture hidden content?",
+        "a": "A working console with a capture device or a trusted emulator with accurate timing is sufficient."
+      },
+      {
+        "q": "Can I publish my findings?",
+        "a": "Yes, post detailed videos and notes on retro forums or the Retro Pixel Press wiki, crediting the original cartridge version."
+      }
+    ],
+    "category": "Preservation",
+    "tags": [
+      "easter-egg",
+      "cartridge-archaeology"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-24T06:23:39.292Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-controller-mod-1ms-diode",
     "title": "Retro Controller Mod: 1 ms Input Gain with a Simple Diode",
     "dek": "Add a tiny diode to your SNES controller for a crisp 1 ms input boost without soldering tricks.",

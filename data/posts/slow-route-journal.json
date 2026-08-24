@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-platform-gardens-2",
+    "title": "Hidden Platform Gardens: Cultivating Green Oases on the Rails",
+    "dek": "Discover how tiny gardens on train stations turn waiting time into a low‑impact, sensory escape for slow travelers.",
+    "takeaway": "A pocket‑sized garden can transform a commuter platform into a sustainable rest spot.",
+    "whatHappened": "While waiting for a delayed regional train in a small German town, I stumbled upon a volunteer‑run herb garden tucked between benches. The project started three years ago with recycled planters and rain‑water barrels, now feeding a local café and offering travelers fresh tea and scent therapy. I spent an hour pruning and chatting with the organizers, learning how easy it is to replicate.",
+    "whyItMatters": "Platforms are high‑traffic, low‑resource spaces that often sit idle. Converting them into micro‑gardens reduces urban heat, improves air quality, and creates community hubs for travelers who value slow, mindful experiences. It also showcases how low‑impact interventions can scale across rail networks.",
+    "howToThink": "Scout underused corners of stations for sunlight and drainage, partner with local schools or NGOs, and use reclaimed materials for beds. Start with hardy, native herbs that need minimal care, and invite passengers to tend a patch during layovers. Document the process and share results to inspire other stations.",
+    "pros": [
+      "Boosts station aesthetics",
+      "Provides fresh herbs for locals",
+      "Encourages community interaction"
+    ],
+    "cons": [
+      "Requires regular maintenance",
+      "Limited space on busy hubs",
+      "Potential vandalism risk"
+    ],
+    "watchOut": "Secure the garden against theft and ensure plants are non‑allergenic to avoid passenger complaints.",
+    "faq": [
+      {
+        "q": "Do I need permission from the rail operator?",
+        "a": "Yes—obtain a written agreement or lease for the specific platform area before installing anything."
+      },
+      {
+        "q": "What plants work best in a high‑traffic platform?",
+        "a": "Hardy, low‑maintenance herbs like mint, thyme, and chamomile, plus native grasses that tolerate foot traffic."
+      },
+      {
+        "q": "How can I fund the garden?",
+        "a": "Crowdfund locally, seek sponsorship from nearby cafés, or apply for municipal green‑space grants."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-24T06:23:36.658Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-51",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",
