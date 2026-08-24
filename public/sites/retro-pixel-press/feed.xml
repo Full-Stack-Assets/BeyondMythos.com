@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The preservation checklist: run this before you spend</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-53.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-53.html</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:53 GMT</pubDate>
+      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of speedruns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-51.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-51.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-arcade-stick-mod.html</guid>
       <pubDate>Sun, 23 Aug 2026 06:01:09 GMT</pubDate>
       <description>A quick hardware tweak slashes stick latency, letting you shave precious milliseconds off every input.</description>
-    </item>
-    <item>
-      <title>FPGA retro console: unlocking frame‑perfect timing</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fpga-retro-console-frame-perfect.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fpga-retro-console-frame-perfect.html</guid>
-      <pubDate>Sun, 23 Aug 2026 05:06:53 GMT</pubDate>
-      <description>How a cheap FPGA board can shave milliseconds off your speedruns without breaking the original feel.</description>
     </item>
   </channel>
 </rss>

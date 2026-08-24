@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pre-infusion-espresso",
+    "title": "Pre-Infusion Playbook: Boosting Espresso Extraction at Home",
+    "dek": "A quick guide to adding a gentle pre‑infusion step that steadies flow and unlocks richer flavors in your home espresso.",
+    "takeaway": "A short pre‑infusion can smooth channeling and improve balance without new equipment.",
+    "whatHappened": "I tweaked my daily routine by pausing the pump for 2 seconds after the initial 0.5 seconds of pressure. The shot went from thin and uneven to silky and consistent.",
+    "whyItMatters": "Channeling often ruins home espresso, leaving sour notes and weak body. By letting the puck saturate evenly, you extract the full spectrum of flavors.",
+    "howToThink": "Start with a 2‑second pause at low pressure, then ramp to full pressure. Adjust the pause by 0.5 seconds until the flow looks steady and the crema is caramel‑gold.",
+    "pros": [
+      "More even extraction",
+      "Improved flavor balance",
+      "No extra hardware needed"
+    ],
+    "cons": [
+      "Adds a timing step",
+      "May require pump that supports pause",
+      "Potentially longer shot time"
+    ],
+    "watchOut": "Don’t over‑extend the pause or you’ll under‑extract and waste coffee.",
+    "faq": [
+      {
+        "q": "Do I need a machine with programmable pre‑infusion?",
+        "a": "Most modern prosumer machines have a pre‑infusion setting; if not, a manual pause works fine."
+      },
+      {
+        "q": "What pause length works for most beans?",
+        "a": "Start with 2 seconds; lighter roasts may need a bit longer, darker roasts a bit shorter."
+      },
+      {
+        "q": "Will pre‑infusion affect my brew ratio?",
+        "a": "No, it only changes the timing, so keep your dose and yield the same."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-24T12:00:57.722Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-grind-size-magic",
     "title": "The Grind Size Secret: Elevate Your Home Espresso Shots",
     "dek": "A quick dive into how micro‑adjusting grind size can transform flavor and consistency at home.",
