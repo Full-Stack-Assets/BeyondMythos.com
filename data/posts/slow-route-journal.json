@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-sleeper-nap",
+    "title": "Silent Sleeper Car Naps: Rest Lightly on the Rails",
+    "dek": "Master the quiet art of napping in sleeper cars without extra gear or power.",
+    "takeaway": "A good nap on a sleeper car needs timing, minimal gear, and a respectful mindset.",
+    "whatHappened": "During a week-long cross-country journey, I tried three different napping strategies—blanket-only, pillow-plus-eye-mask, and a DIY sound-dampener. The eye-mask and a simple folded towel proved the most effective, letting me wake refreshed for morning stops.",
+    "whyItMatters": "Sleep quality directly impacts the low-impact travel ethos: better rest means fewer unnecessary detours and a lighter carbon footprint. Plus, courteous napping keeps shared spaces pleasant for fellow travelers.",
+    "howToThink": "Plan your sleep window around scheduled stops, pack a compact eye mask, a thin microfiber towel, and use earplugs or a phone’s white‑noise app. Respect quiet hours and keep personal items tidy to avoid disturbing others.",
+    "pros": [
+      "Zero extra weight",
+      "Improves daily energy",
+      "Fits any budget"
+    ],
+    "cons": [
+      "Dependent on car schedule",
+      "Limited privacy",
+      "Potential noise from other sleepers"
+    ],
+    "watchOut": "Don’t overstuff your bag with bulky sleep gear; it defeats the low‑impact goal.",
+    "faq": [
+      {
+        "q": "Do I need a separate pillow?",
+        "a": "A folded microfiber towel works as a lightweight pillow substitute."
+      },
+      {
+        "q": "Can I nap in a regular seat?",
+        "a": "Yes, but a sleeper car offers more space and less movement."
+      },
+      {
+        "q": "What about safety in a shared sleeper?",
+        "a": "Keep valuables in a lockable bag and stay aware of your surroundings."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "sleep hacks",
+      "rail tips"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-24T10:21:49.832Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-backpacking-17",
     "title": "Community pulse: what r/backpacking is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",

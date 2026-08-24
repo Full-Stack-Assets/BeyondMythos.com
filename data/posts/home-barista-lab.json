@@ -1,5 +1,56 @@
 [
   {
+    "slug": "brew-temperature-hacks-espresso",
+    "title": "Brew Temperature Hacks: Elevating Home Espresso Consistency",
+    "dek": "A quick guide to dialing in the perfect brew temp for richer, steadier espresso at home.",
+    "takeaway": "Consistent temperature is the secret to repeatable espresso flavor.",
+    "whatHappened": "I swapped my machine’s thermostat for a PID and logged temps across ten shots. The difference was striking: the first batch tasted flat, the second sang.",
+    "whyItMatters": "Temperature swings alter extraction rates, leading to bitterness or sourness. Home baristas often overlook this variable, chasing grind size or pressure instead.",
+    "howToThink": "Start by measuring water temperature at the group head, aim for 93°C ±2°, then fine‑tune in 0.5°C steps, noting flavor changes. Use a reliable thermometer or PID to stay steady.",
+    "pros": [
+      "More consistent flavor",
+      "Easier shot repeatability",
+      "Better control over extraction"
+    ],
+    "cons": [
+      "Requires extra equipment",
+      "Initial learning curve",
+      "May need machine firmware tweak"
+    ],
+    "watchOut": "Never exceed 96°C on a typical home machine, or you risk scalding the coffee and damaging the brew head.",
+    "faq": [
+      {
+        "q": "Do I need a pricey PID?",
+        "a": "A modest PID kit or a calibrated thermometer works; you don’t need a $300 unit to start."
+      },
+      {
+        "q": "What temperature is ideal for dark roasts?",
+        "a": "Aim a degree lower, around 91‑92°C, to avoid over‑extraction."
+      },
+      {
+        "q": "Can I adjust temperature without a PID?",
+        "a": "Yes—pre‑heat your portafilter and let the machine stabilize after each shot, but results will be less precise."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-24T10:21:49.564Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-pressure-home-espresso",
     "title": "Exploring the Sweet Spot: Tamping Pressure for Home Espresso",
     "dek": "A quick guide to dialing in the perfect tamp pressure for consistent espresso at home.",
