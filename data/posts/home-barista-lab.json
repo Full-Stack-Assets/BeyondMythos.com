@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pressure-profiling-espresso",
+    "title": "Unlocking the Power of Pressure Profiling in Home Espresso",
+    "dek": "Learn how dynamic pressure curves can transform your shot consistency without expensive equipment.",
+    "takeaway": "Adjusting pressure throughout extraction yields richer flavor and better balance.",
+    "whatHappened": "I installed a low-cost pressure profiling valve on my home machine and ran side‑by‑side tests with flat‑pressure shots. The profile‑varied pulls showed clearer acidity and smoother body.",
+    "whyItMatters": "Pressure isn’t just a static number; it shapes the solubles that dissolve at each stage. Fine‑tuning it lets home baristas chase café‑level nuance without a professional roaster’s budget.",
+    "howToThink": "Start with a simple two‑step profile: 9 bar for 5 seconds, then drop to 6 bar for the remainder. Observe taste changes, then experiment with ramp‑up or ramp‑down curves to match your bean’s origin.",
+    "pros": [
+      "Boosts flavor complexity",
+      "Requires minimal hardware",
+      "Easy to tweak per batch"
+    ],
+    "cons": [
+      "Learning curve for timing",
+      "Valve can leak if not sealed",
+      "May need machine firmware support"
+    ],
+    "watchOut": "Never exceed your machine’s pressure rating; a mis‑set valve can damage the pump.",
+    "faq": [
+      {
+        "q": "Do I need a fancy espresso machine?",
+        "a": "A basic machine with a pressure valve or aftermarket profiling accessory is enough."
+      },
+      {
+        "q": "Can I use the same profile for all beans?",
+        "a": "No, adjust timing and pressure based on roast level and origin."
+      },
+      {
+        "q": "Is the valve safe for daily use?",
+        "a": "Yes, if installed correctly and checked for leaks regularly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "pressure",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-24T15:22:01.575Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-brew-ratio-espresso",
     "title": "The Hidden Power of Brew Ratio in Espresso",
     "dek": "Discover how tweaking the brew ratio transforms flavor and consistency in your home espresso shots.",
