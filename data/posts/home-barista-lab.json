@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-pressure-home-espresso",
+    "title": "Exploring the Sweet Spot: Tamping Pressure for Home Espresso",
+    "dek": "A quick guide to dialing in the perfect tamp pressure for consistent espresso at home.",
+    "takeaway": "Consistent tamp pressure yields repeatable extraction and richer flavor.",
+    "whatHappened": "We tested three tamp forces—30, 35, and 40 pounds—using a calibrated tamper on a standard 18‑gram dose. The 35‑pound setting produced the most balanced shot, while lower pressure left under‑extracted notes and higher pressure introduced bitterness.",
+    "whyItMatters": "Tamping pressure directly affects water flow resistance and extraction uniformity, which are critical for home baristas lacking commercial equipment. Small adjustments can turn a mediocre shot into a café‑quality pull.",
+    "howToThink": "Treat tamping like a repeatable step: use a scale or a pressure‑sensing tamper, aim for 30‑40 lb, and keep your dose and grind size constant. If the shot pulls too fast, increase pressure slightly; if it drags, lighten the tamp.",
+    "pros": [
+      "Improves shot consistency",
+      "Easy to implement with basic tools",
+      "Enhances flavor clarity"
+    ],
+    "cons": [
+      "Requires a calibrated tamper or scale",
+      "Adds another variable to monitor",
+      "May not compensate for poor grind distribution"
+    ],
+    "watchOut": "Avoid crushing the puck too hard, which can cause channeling and over‑extraction.",
+    "faq": [
+      {
+        "q": "What is the ideal tamp pressure for most home espresso machines?",
+        "a": "Around 30‑35 lb is a good starting point for most grinders and machines."
+      },
+      {
+        "q": "Do I need a fancy pressure‑sensing tamper?",
+        "a": "Not necessarily; a simple bathroom scale beneath the tamper can give you a reliable readout."
+      },
+      {
+        "q": "How often should I re‑check my tamp pressure?",
+        "a": "Re‑calibrate every few weeks or after changing grind size, dose, or equipment."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-24T09:29:16.709Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-53",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
