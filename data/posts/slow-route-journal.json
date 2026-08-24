@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-track-dining-local-night-trains",
+    "title": "Slow-Track Dining: How to Eat Locally on Night Trains",
+    "dek": "Discover low‑impact ways to savor regional dishes aboard night trains without adding carbon baggage.",
+    "takeaway": "Eating locally on night trains boosts sustainability and enriches the journey.",
+    "whatHappened": "On a recent Copenhagen‑Berlin night service I swapped the standard buffet for a pre‑packed box of Danish smørrebrød and German pretzels sourced from a station market. The flavors lingered through the dark, turning a routine sleeper ride into a culinary pit‑stop across borders.",
+    "whyItMatters": "Night‑train dining often defaults to generic, mass‑produced fare that inflates waste and erodes local food culture. By choosing regional snacks you cut emissions tied to long‑haul catering and keep money in the communities you pass.",
+    "howToThink": "Scout station markets at your departure city, pick items that travel well, and pack them in reusable containers. Pair them with a reusable cutlery set and a small insulated bag to keep perishables fresh. Treat each bite as a micro‑stop‑over, tasting the place before you even set foot there.",
+    "pros": [
+      "Supports local economies",
+      "Reduces food waste",
+      "Adds cultural immersion"
+    ],
+    "cons": [
+      "Limited menu options",
+      "Timing constraints",
+      "Potential higher cost"
+    ],
+    "watchOut": "Beware of unsealed packaging that can attract pests in the sleeper car.",
+    "faq": [
+      {
+        "q": "Can I bring hot foods onto a night train?",
+        "a": "Yes, as long as they’re in sealed, insulated containers and comply with the railway’s food‑safety rules."
+      },
+      {
+        "q": "What’s the best way to keep food fresh overnight?",
+        "a": "Use a small insulated bag with a reusable ice pack; it stays cool without electricity."
+      },
+      {
+        "q": "Do train staff allow outside food in the dining car?",
+        "a": "Generally they do, but be discreet and clean up after yourself to respect fellow passengers."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "food",
+      "night-train"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-24T19:17:11.677Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-54",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",
