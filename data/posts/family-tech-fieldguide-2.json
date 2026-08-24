@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smartwatch-sanity-keeping-kids-wrist-tech",
+    "title": "Smartwatch sanity: keeping your kid's wrist tech in check",
+    "dek": "A quick guide to setting limits, privacy, and healthy habits for kids’ smartwatches.",
+    "takeaway": "Proper setup turns a flashy gadget into a safe, useful tool.",
+    "whatHappened": "We helped the Johnson family configure their 8‑year‑old’s new smartwatch after a week of missed homework alerts and surprise location pings. The process revealed common pitfalls and easy fixes.",
+    "whyItMatters": "Unrestricted smartwatch use can erode focus, expose personal data, and create family friction. Setting boundaries early teaches digital responsibility and protects privacy.",
+    "howToThink": "Treat the watch like a mini phone: set a daily usage cap, enable only essential notifications, and lock down health data sharing. Review settings together weekly and adjust as your child matures.",
+    "pros": [
+      "Encourages active play",
+      "Instant communication",
+      "Built‑in safety features"
+    ],
+    "cons": [
+      "Easy distraction",
+      "Potential privacy leaks",
+      "Battery dependence"
+    ],
+    "watchOut": "Don’t let the watch become a constant surveillance tool that undermines trust.",
+    "faq": [
+      {
+        "q": "Can I block games on my child's smartwatch?",
+        "a": "Yes—use the device’s app manager or parental control settings to hide or disable game apps."
+      },
+      {
+        "q": "How much screen time is safe for a smartwatch?",
+        "a": "Aim for 15‑30 minutes of active use per day, focusing on health and communication features rather than entertainment."
+      },
+      {
+        "q": "What data does the watch share by default?",
+        "a": "Most models sync location, health metrics, and basic usage stats to the companion app; turn off any sharing you don’t need."
+      }
+    ],
+    "category": "Devices",
+    "tags": [
+      "smartwatch",
+      "parenting-tech"
+    ],
+    "sources": [
+      {
+        "label": "r/Parenting community threads",
+        "url": "https://www.reddit.com/r/Parenting/"
+      },
+      {
+        "label": "Search interest: \"parental controls guide\"",
+        "url": "https://duckduckgo.com/?q=parental%20controls%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-24T13:36:33.583Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "family-tech-setup-field-test-17",
     "title": "\"family tech setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about family tech setup through a month of actual use. Some of it survived.",

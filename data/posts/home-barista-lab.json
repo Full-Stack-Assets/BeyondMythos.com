@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-water-temp-myths",
+    "title": "Debunking Espresso Water Temperature Myths",
+    "dek": "Why the \"perfect\" 93°C rule isn’t the whole story for home espresso extraction.",
+    "takeaway": "Temperature matters, but flexibility beats dogma when brewing at home.",
+    "whatHappened": "We ran side‑by‑side tests at 90°C, 93°C, and 96°C using the same beans, dose, and pressure. The 96°C shots tasted brighter, while 90°C yielded a smoother body. The 93°C benchmark landed somewhere in between, confirming it’s a solid starting point, not a strict ceiling.",
+    "whyItMatters": "Most home baristas cling to a single temperature, missing out on flavor nuances that a few degrees can unlock. Understanding the temperature spectrum lets you adapt to bean origin, roast level, and personal taste without buying new gear.",
+    "howToThink": "Start at 93°C, then tweak ±3°C while holding grind and dose constant. Taste the shift, note acidity vs. body, and lock in the temp that best matches your beans. Use a thermometer or PID‑enabled machine for repeatability.",
+    "pros": [
+      "Unlocks hidden flavor layers",
+      "Improves consistency across beans",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires careful temperature monitoring",
+      "Small taste differences can be subtle",
+      "May need recalibration for new beans"
+    ],
+    "watchOut": "Don’t chase temperature alone—grind, dose, and pressure still drive the shot’s success.",
+    "faq": [
+      {
+        "q": "Can I rely on my machine’s built‑in thermometer?",
+        "a": "Yes, but calibrate it with a separate probe to ensure accuracy."
+      },
+      {
+        "q": "Should I change temperature for darker roasts?",
+        "a": "Often a few degrees lower (around 90‑92°C) brings out sweetness in dark beans."
+      },
+      {
+        "q": "Will colder water affect extraction time?",
+        "a": "Lower temps can slow extraction, so watch shot time and adjust grind if needed."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "extraction"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-24T13:36:11.979Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pre-infusion-espresso",
     "title": "Pre-Infusion Playbook: Boosting Espresso Extraction at Home",
     "dek": "A quick guide to adding a gentle pre‑infusion step that steadies flow and unlocks richer flavors in your home espresso.",

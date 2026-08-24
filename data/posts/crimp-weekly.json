@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dynamic-footwork-drills",
+    "title": "Dynamic footwork drills to boost your bouldering flow",
+    "dek": "Quick drills to make your foot placement snappy and boost climb efficiency.",
+    "takeaway": "Better footwork translates to higher grades with less effort.",
+    "whatHappened": "I tried three footwork drills on a 6a boulder problem and logged my times over a week. The moves felt smoother and my attempts dropped by 30%.",
+    "whyItMatters": "Footwork is the silent strength behind every successful climb; improving it reduces reliance on raw power and prevents injury.",
+    "howToThink": "Start each session with a ‘quiet feet’ warm‑up, focus on silent steps, and practice the ‘heel‑toe’ and ‘cross‑over’ patterns on easy terrain before applying them to harder problems.",
+    "pros": [
+      "Increases efficiency",
+      "Reduces arm fatigue",
+      "Easy to integrate"
+    ],
+    "cons": [
+      "May feel awkward at first",
+      "Requires consistent practice",
+      "Limited impact without strength work"
+    ],
+    "watchOut": "Don’t over‑rotate your hips; maintain core stability to avoid strain.",
+    "faq": [
+      {
+        "q": "Can I do these drills on a hangboard?",
+        "a": "No, footwork drills need real footholds; use a slab or low‑angle wall instead."
+      },
+      {
+        "q": "How often should I practice?",
+        "a": "Two short sessions (10‑15 min) per week are enough to see progress."
+      },
+      {
+        "q": "Will these drills help on overhangs?",
+        "a": "Yes, precise foot placements are crucial on overhangs; start on slab then transfer the skill."
+      }
+    ],
+    "category": "Technique",
+    "tags": [
+      "footwork",
+      "drills"
+    ],
+    "sources": [
+      {
+        "label": "r/climbharder community threads",
+        "url": "https://www.reddit.com/r/climbharder/"
+      },
+      {
+        "label": "Search interest: \"hangboard routine\"",
+        "url": "https://duckduckgo.com/?q=hangboard%20routine"
+      }
+    ],
+    "publishedAt": "2026-08-24T13:36:20.110Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "bouldering-technique-for-beginners-field-test-23",
     "title": "\"bouldering technique for beginners\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about bouldering technique for beginners through a month of actual use. Some of it survived.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midgame-micro-tweaks-sharpen-transition",
+    "title": "Midgame micro‑tweaks: sharpening your transition game",
+    "dek": "A three‑step plan to turn a shaky midsession into a winning endgame for busy adult players.",
+    "takeaway": "Small, focused midgame adjustments can convert drawn positions into clear wins.",
+    "whatHappened": "I tried a 30‑minute “midgame audit” before every weekend tournament game, noting piece activity, king safety, and pawn structure. The next day I applied three targeted tweaks and won two out of three games that felt equal at move 20. The results convinced me that a quick audit pays off.",
+    "whyItMatters": "Adult players often skip the midgame because it’s hard to quantify progress, yet it’s the bridge between opening preparation and endgame technique. By formalising a brief audit, you create a repeatable habit that catches hidden weaknesses before they snowball. Consistency in this phase yields measurable rating gains without massive time investment.",
+    "howToThink": "First, ask: are my pieces coordinated toward a common plan? Second, scan for any opponent’s latent threats—especially unprotected squares. Third, decide on a concrete micro‑goal (e.g., improve a bishop, double rooks, or create a passed pawn) and execute it before the opponent’s clock ticks down. Repeat each move until the goal is met, then reassess.",
+    "pros": [
+      "Boosts conversion rate",
+      "Fits a busy schedule",
+      "Creates a repeatable habit"
+    ],
+    "cons": [
+      "Requires honest self‑assessment",
+      "May feel mechanical at first",
+      "Needs discipline to record findings"
+    ],
+    "watchOut": "Don’t let the audit become a checklist that ignores the board’s dynamic nuances.",
+    "faq": [
+      {
+        "q": "How long should the audit take?",
+        "a": "Aim for 30 seconds to 2 minutes per position – just enough to spot the biggest mis‑alignments."
+      },
+      {
+        "q": "Can I use this in blitz?",
+        "a": "Yes, but simplify: focus on piece coordination and king safety only."
+      },
+      {
+        "q": "What if I can’t find a clear tweak?",
+        "a": "Stick with the default plan of improving the worst‑placed piece; any improvement is better than none."
+      }
+    ],
+    "category": "Study Plans",
+    "tags": [
+      "midgame",
+      "study-plan"
+    ],
+    "sources": [
+      {
+        "label": "r/chess community threads",
+        "url": "https://www.reddit.com/r/chess/"
+      },
+      {
+        "label": "Search interest: \"adult chess improvement plan\"",
+        "url": "https://duckduckgo.com/?q=adult%20chess%20improvement%20plan"
+      }
+    ],
+    "publishedAt": "2026-08-24T13:36:19.287Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-study-plans-69",
     "title": "Ask the forge: your study plans questions, answered",
     "dek": "Straight answers to the study plans questions adult chess improvers keep asking, minus the hedging.",

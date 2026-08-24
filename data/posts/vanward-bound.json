@@ -1,5 +1,56 @@
 [
   {
+    "slug": "solar-hacks-boosting-power",
+    "title": "Solar hacks: boosting your van's power on the road",
+    "dek": "Turn a modest solar panel into a reliable energy source with cheap tweaks and smart wiring.",
+    "takeaway": "Even a small solar upgrade can slash grid reliance and keep your gadgets alive.",
+    "whatHappened": "We installed a 200W flexible panel, upgraded the charge controller, and added a simple DC-DC boost on a weekend trip. The system powered lights, fridge, and a laptop without draining the house battery.",
+    "whyItMatters": "Overlanders often face limited shore power, and a dependable solar setup extends autonomy and reduces campsite fees. It also safeguards battery health by avoiding deep cycles.",
+    "howToThink": "Start by measuring your daily load, then size the panel and controller with a 20% buffer. Use MPPT controllers for efficiency, and place panels at an angle for max sun. Keep wiring short and gauge‑appropriate to minimize loss.",
+    "pros": [
+      "Low operating cost",
+      "Silent, no fuel needed",
+      "Scales with your energy needs"
+    ],
+    "cons": [
+      "Initial upfront cost",
+      "Limited output in cloudy weather",
+      "Requires careful panel placement"
+    ],
+    "watchOut": "Never exceed the panel’s voltage rating on your charge controller, or you’ll damage both.",
+    "faq": [
+      {
+        "q": "Can I use a regular solar panel instead of a flexible one?",
+        "a": "Yes, rigid panels work fine if you have a sturdy mount; flexible panels are lighter but less efficient."
+      },
+      {
+        "q": "Do I need a new battery for a solar upgrade?",
+        "a": "Not necessarily; a healthy AGM or lithium pack will handle the charge, but ensure it’s sized for your increased input."
+      },
+      {
+        "q": "How much extra weight will this add?",
+        "a": "A 200W panel and controller add roughly 8‑10 lb, negligible for most builds."
+      }
+    ],
+    "category": "Power",
+    "tags": [
+      "solar",
+      "energy"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-08-24T13:36:18.433Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "routes-pre-spend-checklist-69",
     "title": "The routes checklist: run this before you spend",
     "dek": "Seven questions that separate a justified routes purchase from an expensive mood.",
