@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-perfect-audio-restoration",
+    "title": "Pixel-Perfect Audio: Restoring Game Boy Sound Chips",
+    "dek": "A quick guide to swapping and calibrating the DMG‑01’s audio PCB for crisp, authentic chiptune sound.",
+    "takeaway": "Replacing the Game Boy’s sound chip can revive lost audio fidelity for collectors and speedrunners alike.",
+    "whatHappened": "I opened a 1998 Game Boy, desoldered the aged DMG‑CPU-A, and installed a refurbished DMG‑CPU-B with upgraded capacitors. The process took three evenings and a hot‑air station.",
+    "whyItMatters": "Audio glitches can throw off timing reads in speedruns and diminish the nostalgic experience for preservationists. A clean signal ensures frame‑perfect cues and accurate emulation reference.",
+    "howToThink": "Start by mapping the PCB, use a temperature‑controlled reflow station, and test with a known‑good cartridge after each solder joint. Keep a spare chip on hand and document every voltage change.",
+    "pros": [
+      "Brighter, clearer sound",
+      "Improved timing consistency",
+      "Increases hardware value"
+    ],
+    "cons": [
+      "Risk of board damage",
+      "Requires soldering skill",
+      "Potential incompatibility with some cartridges"
+    ],
+    "watchOut": "Never exceed 260 °C on the chip pins, or you’ll warp the board and ruin the entire console.",
+    "faq": [
+      {
+        "q": "Do I need a brand‑new chip or can I refurbish an old one?",
+        "a": "Refurbished chips work fine if tested, but new ones guarantee fewer hidden faults."
+      },
+      {
+        "q": "Will this void my Game Boy’s warranty?",
+        "a": "Yes—any hardware mod voids the original warranty, though most collectors accept that trade‑off."
+      },
+      {
+        "q": "Can the same technique be used on Game Boy Color?",
+        "a": "The principle is similar, but the GBC uses a different audio IC and requires a slightly hotter reflow profile."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "audio",
+      "hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-24T20:01:54.223Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boosting-snes-power-diy-upgrade",
     "title": "Boosting SNES Power: A DIY 0.5V Upgrade",
     "dek": "A quick guide to squeezing extra voltage from your SNES power supply for tighter controller response.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel-Perfect Audio: Restoring Game Boy Sound Chips</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-audio-restoration.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-audio-restoration.html</guid>
+      <pubDate>Mon, 24 Aug 2026 20:01:54 GMT</pubDate>
+      <description>A quick guide to swapping and calibrating the DMG‑01’s audio PCB for crisp, authentic chiptune sound.</description>
+    </item>
+    <item>
       <title>Boosting SNES Power: A DIY 0.5V Upgrade</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boosting-snes-power-diy-upgrade.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boosting-snes-power-diy-upgrade.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-precision-joystick-mod.html</guid>
       <pubDate>Sun, 23 Aug 2026 13:58:38 GMT</pubDate>
       <description>Upgrade your classic controller with a 2 ms response boost using cheap parts and a simple solder job.</description>
-    </item>
-    <item>
-      <title>Recalibrating the SNES Mouse for Pixel‑Perfect Speedrunning</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-snes-mouse.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-snes-mouse.html</guid>
-      <pubDate>Sun, 23 Aug 2026 13:19:35 GMT</pubDate>
-      <description>Give your SNES mouse the precision boost it needs for sub‑30‑frame tricks without buying a new controller.</description>
     </item>
   </channel>
 </rss>

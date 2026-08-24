@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-syrup-secrets",
+    "title": "Syrup Secrets: Sweetening Your Espresso Without Masking Flavor",
+    "dek": "Learn how to add syrup to espresso the right way, preserving acidity and clarity.",
+    "takeaway": "A little syrup can enhance, not hide, espresso nuances when used wisely.",
+    "whatHappened": "I tried three popular coffee syrups in my single-shot espresso, noting flavor balance, mouthfeel, and aftertaste. The results surprised me—some syrups clashed, while others highlighted hidden notes.",
+    "whyItMatters": "Home baristas often over-sweeten to cover flaws, but understanding syrup chemistry can elevate the cup and reduce reliance on over-extraction. Mastering sweetening expands your flavor toolkit.",
+    "howToThink": "Start with a 5% syrup-to-beverage ratio, stir gently, and taste before adding more. Pair syrups with espresso roast profiles—lighter roasts with fruit-forward syrups, darker roasts with caramel or chocolate tones.",
+    "pros": [
+      "Adds flavor depth",
+      "Balances acidity",
+      "Customizable per roast"
+    ],
+    "cons": [
+      "Can mask subtle notes",
+      "Adds sugar calories",
+      "Requires precise dosing"
+    ],
+    "watchOut": "Avoid syrups with artificial additives that can create off‑flavors in espresso.",
+    "faq": [
+      {
+        "q": "Can I use flavored syrups with a single origin espresso?",
+        "a": "Yes, but choose subtle flavors that complement the bean’s natural profile."
+      },
+      {
+        "q": "What’s the ideal syrup temperature?",
+        "a": "Warm the syrup to about 40°C (104°F) so it dissolves without cooling the shot."
+      },
+      {
+        "q": "Is there a non‑sugar alternative?",
+        "a": "Try natural sweeteners like monk fruit or honey, but adjust ratios as they’re sweeter than sugar."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "syrup"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-24T20:01:53.870Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-budget-grinder-upgrade-16",
     "title": "Myth vs. reality: budget grinder upgrade",
     "dek": "The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.",

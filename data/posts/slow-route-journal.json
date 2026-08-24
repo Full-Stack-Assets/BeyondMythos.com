@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microadventure-stop-hike",
+    "title": "Microadventure at a Station: Turning a 3-Hour Stop into a Mini-Hike",
+    "dek": "Learn how to stretch a brief train layover into a low-impact mini-hike that fuels your wanderlust.",
+    "takeaway": "A short stop can become a rewarding, carbon-light adventure with a bit of planning.",
+    "whatHappened": "We arrived at a small Alpine station with a three-hour layover and followed a nearby trail to a hidden waterfall, returning in time for our connection.",
+    "whyItMatters": "Every idle minute on the rails is an opportunity to deepen place-based connections while keeping emissions low, turning transit time into experiential value.",
+    "howToThink": "Scout the station on a map, pick a low-impact loop under the layover length, pack light snacks, and respect local trail etiquette.",
+    "pros": [
+      "Zero extra transport",
+      "Boosts local engagement",
+      "Minimal carbon footprint"
+    ],
+    "cons": [
+      "Weather dependent",
+      "Requires prior research",
+      "Limited amenities on trail"
+    ],
+    "watchOut": "Beware of train schedule changes that could cut your hiking window.",
+    "faq": [
+      {
+        "q": "How far should I walk on a short layover?",
+        "a": "Aim for a loop that takes half the layover time, leaving a buffer for boarding."
+      },
+      {
+        "q": "What gear should I bring?",
+        "a": "A daypack, water bottle, lightweight rain jacket, and a printed map or offline GPS."
+      },
+      {
+        "q": "Is it safe to hike alone?",
+        "a": "Stick to well-marked trails, inform station staff of your plan, and carry a charged phone."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "microadventure",
+      "rail-layover"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-24T20:01:54.582Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-track-dining-local-night-trains",
     "title": "Slow-Track Dining: How to Eat Locally on Night Trains",
     "dek": "Discover low‑impact ways to savor regional dishes aboard night trains without adding carbon baggage.",
