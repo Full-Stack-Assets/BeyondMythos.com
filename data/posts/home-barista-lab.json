@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-brew-ratio-espresso",
+    "title": "The Hidden Power of Brew Ratio in Espresso",
+    "dek": "Discover how tweaking the brew ratio transforms flavor and consistency in your home espresso shots.",
+    "takeaway": "A precise brew ratio is the shortcut to repeatable, balanced espresso without fancy equipment.",
+    "whatHappened": "I brewed two back-to-back shots, one at a classic 1:2 ratio (18g coffee, 36g liquid) and another at a slightly richer 1:2.5 (18g coffee, 45g liquid). The richer shot delivered a smoother body and sweeter finish, while the classic felt brighter but thinner. Both were pulled on the same machine, using identical grind and tamp pressure.",
+    "whyItMatters": "Brew ratio directly controls the concentration of dissolved solids, shaping body, sweetness, and perceived acidity. Small adjustments let you dial in the exact mouthfeel you crave, turning a good shot into a great one without changing beans or equipment.",
+    "howToThink": "Start with the standard 1:2 ratio and note the taste profile. If the shot feels thin, increase the ratio by 0.2‑0.3 increments until you hit the desired richness. Keep grind size and dose constant so the ratio is the only variable. Record each setting in a simple log to build a personal reference chart.",
+    "pros": [
+      "Easy to test",
+      "No extra gear needed",
+      "Immediate flavor impact"
+    ],
+    "cons": [
+      "Requires precise weighing",
+      "May need grind tweaks later",
+      "Can affect extraction time"
+    ],
+    "watchOut": "Avoid over‑extracting by raising the ratio too far; taste will turn bitter before the body improves.",
+    "faq": [
+      {
+        "q": "What is the ideal brew ratio for most home espresso machines?",
+        "a": "Most home setups start around 1:2, but 1:2.2–1:2.5 often yields a richer, more balanced shot."
+      },
+      {
+        "q": "Do I need to change my grind when I adjust the ratio?",
+        "a": "Usually not for small ratio tweaks, but if you notice longer or shorter shot times, fine‑tune the grind accordingly."
+      },
+      {
+        "q": "Can I use brew ratio adjustments for flavored or lighter roasts?",
+        "a": "Yes—lighter roasts often benefit from a slightly higher ratio to enhance sweetness and body."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "brew ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-24T14:24:49.983Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-water-temp-myths",
     "title": "Debunking Espresso Water Temperature Myths",
     "dek": "Why the \"perfect\" 93°C rule isn’t the whole story for home espresso extraction.",

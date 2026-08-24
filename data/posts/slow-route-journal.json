@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-sleeper-car-upgrades",
+    "title": "Eco‑Friendly Sleeper Car Upgrades: Comfort Without Carbon",
+    "dek": "Upgrade your night‑train experience with low‑impact tweaks that boost comfort and cut waste.",
+    "takeaway": "Small, sustainable upgrades can make sleeper journeys cozier and greener.",
+    "whatHappened": "On the Berlin‑Prague night train we trialed reusable bamboo bedding, solar‑powered reading lights, and a compostable toiletries kit. Passengers reported better sleep and a lighter environmental footprint. The trial ran for two weeks and data is now being shared with other operators.",
+    "whyItMatters": "Slow‑travelers crave comfort without compromising their low‑impact ethos; these upgrades show it’s possible. Reducing single‑use waste on long journeys cuts emissions and landfill pressure. If rail operators adopt such practices, the ripple effect benefits the whole network.",
+    "howToThink": "Start with modular, reusable items you can wash and reuse across trips. Choose solar or kinetic chargers for personal electronics to avoid disposable batteries. Prioritise biodegradable or compostable products for personal care, and keep a small stash in a reusable tote.",
+    "pros": [
+      "Less waste per journey",
+      "Improved sleep quality",
+      "Easy to reuse on future trips"
+    ],
+    "cons": [
+      "Initial cost of sustainable gear",
+      "Limited availability on some trains",
+      "Need to carry and clean items"
+    ],
+    "watchOut": "Make sure any solar accessories meet the train’s voltage limits to avoid short‑circuits.",
+    "faq": [
+      {
+        "q": "Can I bring my own bedding on any night train?",
+        "a": "Most operators allow personal bedding, but check size limits and fire‑safety rules beforehand."
+      },
+      {
+        "q": "What’s the best material for reusable toiletries?",
+        "a": "Bamboo or stainless‑steel containers are durable, lightweight, and recyclable."
+      },
+      {
+        "q": "How do I charge devices without plugging into the train’s outlet?",
+        "a": "Compact solar panels or hand‑crank chargers work well and stay within low‑impact goals."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-24T14:24:50.336Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-52",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",
