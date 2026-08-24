@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-car-kitchen",
+    "title": "Quiet Car Kitchen: Cooking Light on the Move",
+    "dek": "Turn your train compartment into a low‑impact kitchen with pantry hacks and minimal gear.",
+    "takeaway": "You can eat well on rails without a full kitchen—just smart packing and a few simple tools.",
+    "whatHappened": "During a week‑long sleeper train from Berlin to Vienna, I tried a no‑cook, low‑waste meal plan using a small insulated bag, a portable stove, and reusable containers. The set‑up fit in a single overhead locker and fed me three meals a day.",
+    "whyItMatters": "Food is the biggest waste generator on slow‑travel trips; reducing cooking gear cuts weight, carbon, and clutter. Demonstrating a viable kitchen on rails shows that low‑impact explorers don’t need to sacrifice nutrition.",
+    "howToThink": "Start with a three‑item rule: a compact stove, a reusable container set, and a spice kit. Pack dry ingredients in zip‑top bags, pre‑portion portions, and use the train’s galley hot water for rehydration. Keep cleanup to a single rag and biodegradable soap.",
+    "pros": [
+      "Lightweight gear",
+      "Zero‑waste meals",
+      "Flexibility on schedule"
+    ],
+    "cons": [
+      "Limited cooking methods",
+      "Requires careful fire safety",
+      "Initial learning curve"
+    ],
+    "watchOut": "Never use open flames in non‑designated areas; always follow the train’s safety regulations.",
+    "faq": [
+      {
+        "q": "Can I use a portable stove on a sleeper train?",
+        "a": "Only in designated lounge cars or your private cabin if the operator permits open flames; otherwise, stick to hot‑water rehydration."
+      },
+      {
+        "q": "What’s the best stove for a quiet car?",
+        "a": "A single‑burner alcohol stove, like the Esbit, is compact, odor‑free, and safe on metal surfaces."
+      },
+      {
+        "q": "How do I keep food fresh without a fridge?",
+        "a": "Use insulated bags with ice packs for perishables and rely on shelf‑stable ingredients for the bulk of meals."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "packing"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-24T07:44:07.410Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-platform-gardens-2",
     "title": "Hidden Platform Gardens: Cultivating Green Oases on the Rails",
     "dek": "Discover how tiny gardens on train stations turn waiting time into a low‑impact, sensory escape for slow travelers.",

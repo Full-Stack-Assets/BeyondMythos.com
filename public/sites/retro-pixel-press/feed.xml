@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Analog Joy: Boosting 1 ms Response on Classic NES Controllers</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/analog-joy-boost-nes.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/analog-joy-boost-nes.html</guid>
+      <pubDate>Mon, 24 Aug 2026 07:44:04 GMT</pubDate>
+      <description>Add a cheap analog tweak to shave a millisecond off NES controller latency for tighter speedruns.</description>
+    </item>
+    <item>
       <title>Pixel Hunt: Uncovering Hidden Easter Eggs in 8‑bit Cartridges</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-hunt-hidden-easter-eggs-8bit.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-hunt-hidden-easter-eggs-8bit.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-16.html</guid>
       <pubDate>Sat, 22 Aug 2026 23:56:20 GMT</pubDate>
       <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Unlocking hidden frame‑perfect tricks on the Mega Drive</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/mega-drive-frame-perfect-tricks.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/mega-drive-frame-perfect-tricks.html</guid>
-      <pubDate>Sat, 22 Aug 2026 22:57:38 GMT</pubDate>
-      <description>A quick guide to discovering and exploiting frame‑perfect tricks in classic Mega Drive speedruns.</description>
     </item>
   </channel>
 </rss>
