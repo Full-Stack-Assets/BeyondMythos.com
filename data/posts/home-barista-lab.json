@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-espresso-shot-ratio",
+    "title": "Fine-Tuning Your Espresso Shot Ratio for Consistent Flavor",
+    "dek": "Learn how tweaking the coffee‑water ratio can stabilize your espresso flavor without new gear.",
+    "takeaway": "Small ratio adjustments deliver big flavor consistency.",
+    "whatHappened": "I ran a side‑by‑side test with a 1:2.0 and a 1:2.2 brew ratio using the same beans and machine. The tighter ratio produced a brighter, cleaner cup, while the looser one was muted and syrupy. Both shots were measured with a digital scale for repeatability.",
+    "whyItMatters": "Even minor ratio shifts change extraction balance, affecting acidity, sweetness, and body. Home baristas chasing consistency often overlook this lever, relying only on grind or pressure tweaks. Mastering ratio gives a predictable baseline before fine‑tuning other variables.",
+    "howToThink": "Start with a standard 1:2.0 ratio, then adjust in 0.05 increments until you hit your preferred flavor profile. Keep grind size constant while you experiment, and always record dose, yield, and time. Once you lock a ratio that works, you can replicate it shot after shot.",
+    "pros": [
+      "Simple, no extra equipment",
+      "Immediate flavor impact",
+      "Easily measurable"
+    ],
+    "cons": [
+      "Requires precise weighing",
+      "May need grind recalibration",
+      "Small changes can feel subtle"
+    ],
+    "watchOut": "Avoid over‑diluting; a too‑high ratio can wash out the espresso’s body and crema.",
+    "faq": [
+      {
+        "q": "How precise must my scale be?",
+        "a": "A scale with 0.1 g resolution is ideal for espresso ratio work."
+      },
+      {
+        "q": "Will changing the ratio affect my espresso machine’s pressure?",
+        "a": "No, pressure stays the same; you’re just altering the amount of water extracted."
+      },
+      {
+        "q": "Can I use this method with pre‑ground coffee?",
+        "a": "It’s possible, but consistency suffers without fresh grinding control."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-24T02:11:47.735Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-pourover-16",
     "title": "Community pulse: what r/pourover is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

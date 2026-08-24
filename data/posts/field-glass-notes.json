@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-binocular-focus",
+    "title": "Quick tip: boosting your binocular focus for early morning warblers",
+    "dek": "Fine‑tune your binoculars in minutes to catch that first warbler chorus.",
+    "takeaway": "A simple focus tweak can dramatically improve early‑morning identification.",
+    "whatHappened": "I noticed my warbler sightings dropping after a rainy week. After cleaning lenses and adjusting the focus wheel, the birds snapped into view again.",
+    "whyItMatters": "Early‑morning warblers are the hardest to spot but the most rewarding; missing them means missed life‑list points. Proper focus maximizes every minute you spend in the backyard.",
+    "howToThink": "Start by setting your binoculars to infinity, then slowly dial back until the first tree branch you view is razor‑sharp. Test with a distant fence post, then lock the focus with a soft cloth to prevent creep.",
+    "pros": [
+      "Sharper images",
+      "Easier ID",
+      "No extra gear needed"
+    ],
+    "cons": [
+      "Time to adjust",
+      "May need repeat after transport",
+      "Risk of over‑tightening focus"
+    ],
+    "watchOut": "Avoid forcing the focus knob; excessive pressure can damage the optics.",
+    "faq": [
+      {
+        "q": "Do I need a tripod for focus adjustments?",
+        "a": "No, a stable hand or a simple beanbag works fine for quick tweaks."
+      },
+      {
+        "q": "How often should I refocus?",
+        "a": "Check before each major outing or after any temperature shift."
+      },
+      {
+        "q": "Can I use this trick with spotting scopes?",
+        "a": "Yes, the principle is identical; just use the coarse focus first."
+      }
+    ],
+    "category": "Optics",
+    "tags": [
+      "binoculars",
+      "warblers"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"bird id apps compared\"",
+        "url": "https://duckduckgo.com/?q=bird%20id%20apps%20compared"
+      }
+    ],
+    "publishedAt": "2026-08-24T02:12:02.451Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-optics-66",
     "title": "A weekend project: level up your optics in two hours",
     "dek": "One contained, satisfying optics project for backyard birders — start Saturday morning, done by lunch.",

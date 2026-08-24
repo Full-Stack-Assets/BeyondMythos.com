@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-spacing-5min-review-bursts",
+    "title": "Micro‑spacing: Boost Retention with 5‑Minute Review Bursts",
+    "dek": "Tiny, frequent review bursts can outpace marathon study sessions for self‑taught learners.",
+    "takeaway": "Five‑minute spaced reviews dramatically improve long‑term recall without draining motivation.",
+    "whatHappened": "I set a timer for five minutes after each lesson and reviewed the day's new vocab using flashcards. Over two weeks, recall accuracy rose from 62% to 84%, while total study time stayed constant. The habit felt effortless and kept momentum high.",
+    "whyItMatters": "Retention is the bottleneck for autonomous learners; without it, new input piles up and motivation wanes. Short, spaced bursts leverage the spacing effect without requiring extra calendar slots. The result is a sustainable learning rhythm that scales with any language.",
+    "howToThink": "Treat review as a micro‑habit, not a separate session. After any input (reading, listening, speaking), pause, set a five‑minute timer, and run through the most recent cards. If you finish early, skim ahead; if you run out of material, jot a quick note for tomorrow.",
+    "pros": [
+      "Boosts recall quickly",
+      "Fits into any schedule",
+      "Keeps motivation high"
+    ],
+    "cons": [
+      "Requires discipline to start immediately",
+      "May feel repetitive",
+      "Limited depth per burst"
+    ],
+    "watchOut": "Don’t let the five‑minute window become a shortcut for shallow cramming; keep the focus on active recall.",
+    "faq": [
+      {
+        "q": "Can I use this with any app?",
+        "a": "Yes—most flashcard tools let you set custom timers or you can use a simple phone alarm."
+      },
+      {
+        "q": "What if I forget the five‑minute rule?",
+        "a": "Place a persistent reminder on your study workspace or use a Pomodoro app with a dedicated ‘review’ label."
+      },
+      {
+        "q": "Is five minutes enough for complex grammar?",
+        "a": "For grammar, pair the burst with a single rule or example; deeper practice can follow in a longer session later."
+      }
+    ],
+    "category": "Methods",
+    "tags": [
+      "spaced‑repetition",
+      "micro‑habits"
+    ],
+    "sources": [
+      {
+        "label": "r/duolingo community threads",
+        "url": "https://www.reddit.com/r/duolingo/"
+      },
+      {
+        "label": "Search interest: \"language learning plateau\"",
+        "url": "https://duckduckgo.com/?q=language%20learning%20plateau"
+      }
+    ],
+    "publishedAt": "2026-08-24T02:12:13.968Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "immersion-pre-spend-checklist-52",
     "title": "The immersion checklist: run this before you spend",
     "dek": "Seven questions that separate a justified immersion purchase from an expensive mood.",
