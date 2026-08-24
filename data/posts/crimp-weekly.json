@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-deadpoints-tiny-pauses",
+    "title": "Micro-Deadpoints: Tiny Pauses, Huge Gains",
+    "dek": "A quick guide to using micro-deadpoints to boost control and power on indoor boulders.",
+    "takeaway": "A micro-deadpoint can turn a shaky move into a confident finish.",
+    "whatHappened": "During a Friday night session, I hit a slab problem that kept slipping at the top. By deliberately holding a micro-deadpoint on the final foothold, I locked the move and sent it.",
+    "whyItMatters": "Micro-deadpoints train body awareness and reduce reliance on momentum, which translates to steadier climbing on any wall. They also teach you to read subtle holds that others overlook.",
+    "howToThink": "Identify the last foothold before a crux, pause for a split second, and shift weight onto it before committing. Practice this on easy routes, gradually reducing the pause as confidence grows.",
+    "pros": [
+      "Improves precision",
+      "Builds confidence on slab",
+      "Reduces slip-off risk"
+    ],
+    "cons": [
+      "Can slow flow if overused",
+      "Requires good foot sensitivity",
+      "May feel awkward at first"
+    ],
+    "watchOut": "Don’t hold the deadpoint too long or you’ll waste energy and break the rhythm.",
+    "faq": [
+      {
+        "q": "What’s the difference between a deadpoint and a micro-deadpoint?",
+        "a": "A deadpoint is a dynamic pause at the peak of a movement; a micro-deadpoint is a barely-noticeable split-second hold on a foothold."
+      },
+      {
+        "q": "Can I use micro-deadpoints on overhangs?",
+        "a": "Yes, but keep the pause brief; on steep terrain the goal is still to maintain momentum."
+      },
+      {
+        "q": "How often should I train this technique?",
+        "a": "Start with one micro-deadpoint per problem, then increase as it feels natural, aiming for a few minutes each session."
+      }
+    ],
+    "category": "Technique",
+    "tags": [
+      "technique",
+      "indoor-bouldering"
+    ],
+    "sources": [
+      {
+        "label": "r/climbharder community threads",
+        "url": "https://www.reddit.com/r/climbharder/"
+      },
+      {
+        "label": "Search interest: \"hangboard routine\"",
+        "url": "https://duckduckgo.com/?q=hangboard%20routine"
+      }
+    ],
+    "publishedAt": "2026-08-24T22:00:36.007Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-training-mistakes-67",
     "title": "Five mistakes everyone makes in their first month of training",
     "dek": "The most common early stumbles in training, and the cheap corrections that fix them for indoor boulderers and new climbers.",

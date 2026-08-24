@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Rewiring the Atari 2600: Boosting Voltage for Faster Load Times</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewire-atari-2600-boost.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewire-atari-2600-boost.html</guid>
+      <pubDate>Mon, 24 Aug 2026 22:00:26 GMT</pubDate>
+      <description>A quick guide to safely increase the Atari 2600’s supply voltage, shaving seconds off load times without compromising hardware.</description>
+    </item>
+    <item>
       <title>Turbocharging NES Controllers: A 3‑Button Mod</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controllers-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controllers-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-lag-hack-cut-3ms.html</guid>
       <pubDate>Sun, 23 Aug 2026 15:57:19 GMT</pubDate>
       <description>Trim a few milliseconds off your CRT latency with cheap, reversible tweaks—speedrunners, take note!</description>
-    </item>
-    <item>
-      <title>RGB Upgrade for Mega Drive: Sharper Colors, Faster Input</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rgb-upgrade-mega-drive.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rgb-upgrade-mega-drive.html</guid>
-      <pubDate>Sun, 23 Aug 2026 14:59:46 GMT</pubDate>
-      <description>Switch your Mega Drive to RGB and shave off a few milliseconds while getting crisper visuals.</description>
     </item>
   </channel>
 </rss>
