@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/prop-wash-daily/</link>
     <description>Fresh takes for FPV drone pilots and builders.</description>
     <item>
+      <title>Taming Prop Wash: Design tweaks for cleaner builds</title>
+      <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/taming-prop-wash-design-tweaks.html</link>
+      <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/taming-prop-wash-design-tweaks.html</guid>
+      <pubDate>Mon, 24 Aug 2026 23:57:10 GMT</pubDate>
+      <description>Learn how subtle frame and motor layout changes can reduce prop wash turbulence and keep your builds cleaner.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/fpv is debating this week</title>
       <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/community-pulse-fpv-24.html</link>
       <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/community-pulse-fpv-24.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/ask-the-forge-regulations-65.html</guid>
       <pubDate>Sun, 23 Aug 2026 17:56:03 GMT</pubDate>
       <description>Straight answers to the regulations questions FPV drone pilots and builders keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in simulators with outsized returns</title>
-      <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/quiet-upgrade-simulators-68.html</link>
-      <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/quiet-upgrade-simulators-68.html</guid>
-      <pubDate>Sun, 23 Aug 2026 17:00:28 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest simulators adjustments that FPV drone pilots and builders report mattering most.</description>
     </item>
   </channel>
 </rss>

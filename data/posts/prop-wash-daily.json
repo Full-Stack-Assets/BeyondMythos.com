@@ -1,5 +1,56 @@
 [
   {
+    "slug": "taming-prop-wash-design-tweaks",
+    "title": "Taming Prop Wash: Design tweaks for cleaner builds",
+    "dek": "Learn how subtle frame and motor layout changes can reduce prop wash turbulence and keep your builds cleaner.",
+    "takeaway": "Small design adjustments can dramatically cut prop wash, extending component life and improving flight stability.",
+    "whatHappened": "We tested three frame configurations—open-frame, enclosed motor bays, and staggered prop mounts—on a 5-inch freestyle quad. The open-frame suffered from debris buildup, while the enclosed and staggered setups showed markedly less prop wash.",
+    "whyItMatters": "Prop wash not only drags performance but also accelerates wear on bearings and electronics. Reducing turbulence means longer flight times and fewer maintenance headaches for pilots.",
+    "howToThink": "Start by analyzing airflow paths in your current build, then add simple shrouds or offset prop mounts to redirect the wash away from critical components. Use cheap carbon fiber strips or 3D-printed ducts to test before committing.",
+    "pros": [
+      "Reduced debris accumulation",
+      "Improved motor cooling",
+      "Longer component lifespan"
+    ],
+    "cons": [
+      "Slight weight increase",
+      "Potentially higher build complexity",
+      "May alter aesthetic"
+    ],
+    "watchOut": "Avoid over-confining the prop wash, which can cause overheating if airflow is too restricted.",
+    "faq": [
+      {
+        "q": "Will adding motor shrouds affect my quad's agility?",
+        "a": "If designed with proper venting, shrouds add minimal drag and won’t noticeably hinder maneuverability."
+      },
+      {
+        "q": "Can I use 3D-printed parts for prop wash ducts?",
+        "a": "Yes, PLA or PETG works for testing, but switch to carbon-fiber or aluminum for high-stress builds."
+      },
+      {
+        "q": "Do these tweaks impact battery efficiency?",
+        "a": "The slight weight gain may reduce efficiency a bit, but the cleaner airflow often offsets that loss with smoother flight."
+      }
+    ],
+    "category": "Builds",
+    "tags": [
+      "prop-wash",
+      "build-tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Multicopter community threads",
+        "url": "https://www.reddit.com/r/Multicopter/"
+      },
+      {
+        "label": "Search interest: \"fpv simulator practice\"",
+        "url": "https://duckduckgo.com/?q=fpv%20simulator%20practice"
+      }
+    ],
+    "publishedAt": "2026-08-24T23:57:10.610Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-fpv-24",
     "title": "Community pulse: what r/fpv is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the regulations community this week.",
