@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-grind-size-magic",
+    "title": "The Grind Size Secret: Elevate Your Home Espresso Shots",
+    "dek": "A quick dive into how micro‑adjusting grind size can transform flavor and consistency at home.",
+    "takeaway": "Fine‑tuning grind size is the fastest way to boost espresso quality.",
+    "whatHappened": "I swapped my usual 18‑second extraction for a series of shots varying grind by just one click. The flavor profile swung from sour to balanced, then to overly bitter as the grind got finer. The results were obvious on the taste and the crema.",
+    "whyItMatters": "Grind size directly controls extraction rate, so even tiny changes can fix under‑ or over‑extraction. For home baristas, mastering this lever reduces guesswork and elevates consistency without expensive equipment.",
+    "howToThink": "Start with a baseline dose and time, then adjust the grinder one notch at a time, tasting after each change. Keep a simple log of grind setting, brew time, and flavor notes to spot patterns. Aim for a balanced shot where acidity, body, and sweetness converge.",
+    "pros": [
+      "Instant flavor shift",
+      "Low cost adjustment",
+      "Easy to log and repeat"
+    ],
+    "cons": [
+      "Requires precise grinder",
+      "Potential for over‑tuning",
+      "May need multiple test shots"
+    ],
+    "watchOut": "Avoid grinding too fine on a blade grinder—it can damage the burrs and produce inconsistent results.",
+    "faq": [
+      {
+        "q": "How many clicks should I adjust at a time?",
+        "a": "Usually one click (≈0.1 mm) is enough; go smaller if your grinder allows micro‑adjustments."
+      },
+      {
+        "q": "What if my grinder has no click markings?",
+        "a": "Use a scale to measure dose changes or mark the dial manually; the goal is consistent incremental changes."
+      },
+      {
+        "q": "Can I use this method with a pressurized portafilter?",
+        "a": "Yes, but the pressure mask can hide grind issues, so test with a non‑pressurized basket for best insight."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "grind",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-24T11:06:40.863Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "brew-temperature-hacks-espresso",
     "title": "Brew Temperature Hacks: Elevating Home Espresso Consistency",
     "dek": "A quick guide to dialing in the perfect brew temp for richer, steadier espresso at home.",

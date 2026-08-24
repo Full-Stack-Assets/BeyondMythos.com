@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of speedruns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-51.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-51.html</guid>
+      <pubDate>Mon, 24 Aug 2026 11:06:39 GMT</pubDate>
+      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-18.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fpga-retro-console-frame-perfect.html</guid>
       <pubDate>Sun, 23 Aug 2026 05:06:53 GMT</pubDate>
       <description>How a cheap FPGA board can shave milliseconds off your speedruns without breaking the original feel.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Gameboy is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-18.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-18.html</guid>
-      <pubDate>Sun, 23 Aug 2026 04:21:53 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>
