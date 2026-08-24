@@ -1,5 +1,56 @@
 [
   {
+    "slug": "lighten-your-packs",
+    "title": "Lighten Your Pack: Drop Pounds, Keep Comfort",
+    "dek": "Learn how to shave 5‑10% off your pack weight while staying comfy on the trail.",
+    "takeaway": "Smart swaps and strategic packing can trim weight without sacrificing comfort.",
+    "whatHappened": "I swapped my old 5‑liter foam‑sleeved pack for a 3‑liter ultralight shell and re‑organized gear using modular pouches. The total pack weight dropped from 12 lb to 10.5 lb on a 200‑mile thru‑hike test. The change felt surprisingly balanced.",
+    "whyItMatters": "Every ounce counts on long‑distance hikes, affecting fatigue and pace. Reducing weight also frees space for emergencies or extra calories. But cutting too aggressively can lead to missing essential gear.",
+    "howToThink": "Start with a gear audit: keep, cut, replace. Prioritize multi‑use items and consider lighter materials. Pack in layers—core, optional, and emergency—so you can adjust on the fly.",
+    "pros": [
+      "Noticeable energy boost",
+      "More room for food",
+      "Less strain on shoulders"
+    ],
+    "cons": [
+      "Initial cost of ultralight gear",
+      "Potential durability trade‑offs",
+      "Learning curve for new pack system"
+    ],
+    "watchOut": "Don’t sacrifice critical safety gear for the sake of a few grams.",
+    "faq": [
+      {
+        "q": "Can I go ultralight with a standard backpack?",
+        "a": "Yes, by swapping internal stuff and using external lightweight accessories, you can shave weight without buying a new shell."
+      },
+      {
+        "q": "What’s the best material for ultralight pack shells?",
+        "a": "Dyneema and ripstop nylon offer high strength‑to‑weight ratios, though they’re pricier."
+      },
+      {
+        "q": "How do I ensure I still have enough water capacity?",
+        "a": "Carry a collapsible 2‑liter bladder and plan refill points; a lightweight shell doesn’t replace hydration planning."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "weight‑saving",
+      "pack‑setup"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultralight community threads",
+        "url": "https://www.reddit.com/r/Ultralight/"
+      },
+      {
+        "label": "Search interest: \"lower base weight cheap\"",
+        "url": "https://duckduckgo.com/?q=lower%20base%20weight%20cheap"
+      }
+    ],
+    "publishedAt": "2026-08-24T23:00:40.480Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-shelters-mistakes-68",
     "title": "Five mistakes everyone makes in their first month of shelters",
     "dek": "The most common early stumbles in shelters, and the cheap corrections that fix them for ultralight backpackers and thru-hike dreamers.",

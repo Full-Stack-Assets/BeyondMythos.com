@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: crt setup guide</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-crt-setup-guide-19.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-crt-setup-guide-19.html</guid>
+      <pubDate>Mon, 24 Aug 2026 23:00:27 GMT</pubDate>
+      <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>Rewiring the Atari 2600: Boosting Voltage for Faster Load Times</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewire-atari-2600-boost.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewire-atari-2600-boost.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boosting-game-genie-timing.html</guid>
       <pubDate>Sun, 23 Aug 2026 17:00:27 GMT</pubDate>
       <description>A quick Game Genie hack that trims input lag by a millisecond, giving you a sharper edge in any speedrun.</description>
-    </item>
-    <item>
-      <title>CRT Lag Hack: Cut 3 ms from Your Display</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-lag-hack-cut-3ms.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-lag-hack-cut-3ms.html</guid>
-      <pubDate>Sun, 23 Aug 2026 15:57:19 GMT</pubDate>
-      <description>Trim a few milliseconds off your CRT latency with cheap, reversible tweaks—speedrunners, take note!</description>
     </item>
   </channel>
 </rss>

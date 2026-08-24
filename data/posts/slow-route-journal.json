@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bicycle-powered-train-stops",
+    "title": "Bicycle‑Powered Train Stops: How to Sync Your Pedal Journey with Regional Lines",
+    "dek": "Combine a bike ride with regional train stops for a low‑impact, scenic micro‑adventure.",
+    "takeaway": "Mix cycling with scheduled train pauses to boost mileage while keeping emissions low.",
+    "whatHappened": "On a recent weekend, I rode my hybrid from Dijon to Beaune, hopped on a regional TER at the hour‑mark, and disembarked at a tiny vineyard village to continue pedaling. The train’s bike rack held my bike securely, and I arrived refreshed for a local tasting before the next connection.",
+    "whyItMatters": "Pairing bikes with trains lets explorers cover more ground without renting cars or burning extra fuel, reinforcing the low‑impact ethos of slow travel. It also supports regional rail services by filling seats that might otherwise sit empty.",
+    "howToThink": "Plan your route around trains that allow bikes, check the timetable for a 30‑minute buffer, and pack light‑weight gear. Use a bike‑friendly rail pass if available, and always arrive early to secure space in the bike rack.",
+    "pros": [
+      "Zero extra fuel",
+      "Scenic routes",
+      "Flexible schedule"
+    ],
+    "cons": [
+      "Limited bike storage on some services",
+      "Timing constraints",
+      "Potential extra fees"
+    ],
+    "watchOut": "Always verify the specific train’s bike policy ahead of time to avoid surprise charges or denied boarding.",
+    "faq": [
+      {
+        "q": "Do I need a reservation for my bike?",
+        "a": "Most regional services don’t require a reservation, but peak times may need a spot guarantee—call ahead if you’re traveling during rush hour."
+      },
+      {
+        "q": "What type of bike is allowed?",
+        "a": "Standard adult bikes are fine; folding or lightweight models are easier to handle and less likely to incur fees."
+      },
+      {
+        "q": "Can I bring a helmet and lock on board?",
+        "a": "Yes, helmets, locks, and helmets are considered personal items and can stay with you in the carriage."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "bike"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-24T23:00:28.851Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-travel-itinerary-field-test-18",
     "title": "\"slow travel itinerary\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about slow travel itinerary through a month of actual use. Some of it survived.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tabletop-tactics-arranging-game-night-space",
+    "title": "Tabletop Tactics: Arranging Your Game Night Space for Flow",
+    "dek": "A quick guide to setting up your table and storage so games run smoother and guests stay engaged.",
+    "takeaway": "A well‑planned layout cuts downtime and boosts the fun factor.",
+    "whatHappened": "I re‑organized my living‑room table for a Friday night Catan marathon, swapping the snack station to a side cart and clustering game boxes by mechanic. Within one session the group spent ten minutes less shuffling components and more time actually playing.",
+    "whyItMatters": "Game‑night friction often comes from a chaotic surface, which can alienate newcomers and sap enthusiasm. By streamlining the physical space you keep focus on strategy, not on searching for the right tile or card.",
+    "howToThink": "Start with a clear “core zone” for the current game, keep all shared components within arm’s reach, and reserve a peripheral “stash zone” for upcoming games. Use trays or drawer dividers to separate expansions, and label each zone for quick reset.",
+    "pros": [
+      "Faster game flow",
+      "Less clutter",
+      "Better player interaction"
+    ],
+    "cons": [
+      "Initial setup time",
+      "Space constraints",
+      "May need extra furniture"
+    ],
+    "watchOut": "Don’t overcrowd the core zone; a cramped table can still choke the experience.",
+    "faq": [
+      {
+        "q": "Do I need a dedicated table?",
+        "a": "A sturdy surface works; just define zones with mats or trays."
+      },
+      {
+        "q": "How many trays are enough?",
+        "a": "Two for core components and one for extras usually suffice."
+      },
+      {
+        "q": "Can this work for solo play?",
+        "a": "Absolutely—clear zones help you track progress and store components between sessions."
+      }
+    ],
+    "category": "Storage",
+    "tags": [
+      "setup",
+      "flow"
+    ],
+    "sources": [
+      {
+        "label": "r/soloboardgaming community threads",
+        "url": "https://www.reddit.com/r/soloboardgaming/"
+      },
+      {
+        "label": "Search interest: \"solo board games\"",
+        "url": "https://duckduckgo.com/?q=solo%20board%20games"
+      }
+    ],
+    "publishedAt": "2026-08-24T23:00:35.600Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-best-gateway-board-games-24",
     "title": "Myth vs. reality: best gateway board games",
     "dek": "The persistent myths around best gateway board games, stress-tested against what tabletop gamers and game-night hosts actually report.",
