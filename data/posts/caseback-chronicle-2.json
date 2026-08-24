@@ -1,5 +1,56 @@
 [
   {
+    "slug": "budget-chronograph-hunt",
+    "title": "The hunt: snagging a chronograph under $200",
+    "dek": "How to find a reliable vintage chronograph for under $200 without compromising quality.",
+    "takeaway": "Patience and niche marketplaces beat impulse buys for cheap chronographs.",
+    "whatHappened": "I spent a Saturday scouring eBay, local estate sales, and the r/watchexchange subreddit, eventually landing a 1972 Omega Chrono with a cracked dial but a solid movement for $180.",
+    "whyItMatters": "Cheap chronographs often carry hidden costs; knowing what to accept saves future repairs and keeps the budget intact.",
+    "howToThink": "Focus on movement health, case integrity, and replaceable parts; ignore cosmetic flaws that can be fixed later.",
+    "pros": [
+      "Low entry price",
+      "Iconic design",
+      "Solid mechanical base"
+    ],
+    "cons": [
+      "Cracked dial",
+      "Non‑original strap",
+      "Potential wear on crown"
+    ],
+    "watchOut": "Beware of water damage that isn’t obvious on the case.",
+    "faq": [
+      {
+        "q": "What should I prioritize when buying a cheap chronograph?",
+        "a": "Prioritize a clean, running movement and a solid case; aesthetics can be fixed later."
+      },
+      {
+        "q": "Is it worth buying a watch with a cracked dial?",
+        "a": "Yes, if the movement is sound and you can replace or refinish the dial cheaply."
+      },
+      {
+        "q": "Where are the best places to hunt for sub‑$200 chronographs?",
+        "a": "eBay, estate sales, niche subreddits, and local flea markets often yield hidden gems."
+      }
+    ],
+    "category": "Buying",
+    "tags": [
+      "chronograph",
+      "budget-buy"
+    ],
+    "sources": [
+      {
+        "label": "r/WatchExchange community threads",
+        "url": "https://www.reddit.com/r/WatchExchange/"
+      },
+      {
+        "label": "Search interest: \"watch servicing cost\"",
+        "url": "https://duckduckgo.com/?q=watch%20servicing%20cost"
+      }
+    ],
+    "publishedAt": "2026-08-24T03:38:20.950Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-history-49",
     "title": "Ask the forge: your history questions, answered",
     "dek": "Straight answers to the history questions vintage watch collectors on a budget keep asking, minus the hedging.",

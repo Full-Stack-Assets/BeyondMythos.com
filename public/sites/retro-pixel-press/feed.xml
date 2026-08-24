@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel-Perfect Lag Fix: 1 ms Boost on SNES Controllers</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-lag-fix-1ms-boost-snes-controllers.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-lag-fix-1ms-boost-snes-controllers.html</guid>
+      <pubDate>Mon, 24 Aug 2026 03:37:48 GMT</pubDate>
+      <description>A cheap resistor‑cap combo shaves a millisecond off SNES controller latency, giving you tighter inputs for every run.</description>
+    </item>
+    <item>
       <title>Turbocharge Your Game Boy Color: 1 ms Input Boost with a Simple Resistor</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/gbc-input-boost-resistor.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/gbc-input-boost-resistor.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-48.html</guid>
       <pubDate>Sat, 22 Aug 2026 19:55:09 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>DIY NES controller latency hack: shave milliseconds</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-nes-controller-latency-hack.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-nes-controller-latency-hack.html</guid>
-      <pubDate>Sat, 22 Aug 2026 19:02:53 GMT</pubDate>
-      <description>Learn a quick mod to cut input lag on your original NES controller and feel the speedrun edge.</description>
     </item>
   </channel>
 </rss>

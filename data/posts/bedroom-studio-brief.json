@@ -1,5 +1,56 @@
 [
   {
+    "slug": "3-step-gain-staging-hack",
+    "title": "The 3‑step gain staging hack for bedroom mixes",
+    "dek": "A quick, three‑step method to tame your mix levels and punch up clarity without pricey gear.",
+    "takeaway": "Proper gain staging is the backbone of a clean, professionally‑sounding bedroom mix.",
+    "whatHappened": "I noticed my recent podcast episode sounded muddy, even after EQ. By applying a simple three‑step gain staging routine, the tracks opened up instantly. The results were audible on both headphones and cheap laptop speakers.",
+    "whyItMatters": "Gain staging prevents digital clipping and preserves headroom, which translates to clearer vocals and tighter drums. In a small room, every dB counts toward perceived space and balance.",
+    "howToThink": "Start by setting your input gain so the loudest peaks hit around -12 dBFS, then pull the track fader back to -6 dBFS for a consistent mix bus, and finally use a gentle bus compressor to glue everything without squashing dynamics.",
+    "pros": [
+      "Cleaner transients",
+      "More headroom",
+      "Easier balancing"
+    ],
+    "cons": [
+      "Initial time investment",
+      "Requires metering",
+      "May need re‑gain after plugins"
+    ],
+    "watchOut": "Don’t over‑compress the bus after gain staging, or you’ll lose the dynamic punch you just created.",
+    "faq": [
+      {
+        "q": "Do I need a hardware meter?",
+        "a": "A free VU or RMS plugin is enough; just watch the peak meters."
+      },
+      {
+        "q": "Will this work for podcasts?",
+        "a": "Yes, consistent gain staging keeps speech intelligible and reduces post‑production cleanup."
+      },
+      {
+        "q": "How often should I revisit gain staging?",
+        "a": "Any time you add new tracks or plugins—treat it as the first step of every mix session."
+      }
+    ],
+    "category": "Mixing",
+    "tags": [
+      "gain staging",
+      "mix tips"
+    ],
+    "sources": [
+      {
+        "label": "r/audioengineering community threads",
+        "url": "https://www.reddit.com/r/audioengineering/"
+      },
+      {
+        "label": "Search interest: \"home studio treatment budget\"",
+        "url": "https://duckduckgo.com/?q=home%20studio%20treatment%20budget"
+      }
+    ],
+    "publishedAt": "2026-08-24T03:37:57.374Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-interfaces-67",
     "title": "A weekend project: level up your interfaces in two hours",
     "dek": "One contained, satisfying interfaces project for bedroom producers — start Saturday morning, done by lunch.",

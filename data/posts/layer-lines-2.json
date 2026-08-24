@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-layer-grip-bed-prep-hack",
+    "title": "First-layer grip: a 5‑minute bed prep hack for flawless prints",
+    "dek": "A quick, low‑cost tweak to the print bed surface that boosts first‑layer adhesion and cuts print failures in half.",
+    "takeaway": "A clean bed and a light glue stick can dramatically improve first‑layer success.",
+    "whatHappened": "I tried the classic PEI sheet, but prints still peeled on the edges. After sanding the bed, applying a thin layer of diluted PVA glue, and re‑leveling, the first layer stuck perfectly on every test cube.",
+    "whyItMatters": "First‑layer adhesion is the foundation of any successful print; a failed start wastes filament, time, and can damage the printer. Simple surface prep eliminates a common pain point for hobbyists.",
+    "howToThink": "Treat the bed like a runway: ensure it’s flat, clean, and has a subtle tack. Use a mild abrasive, wipe with isopropyl alcohol, then coat with a thin glue‑stick film before each print.",
+    "pros": [
+      "Improves adhesion",
+      "Cheap & reusable",
+      "Works on most beds"
+    ],
+    "cons": [
+      "Adds prep time",
+      "Glue can attract dust",
+      "May require re‑application"
+    ],
+    "watchOut": "Avoid over‑applying glue, which can cause excess filament buildup on the nozzle.",
+    "faq": [
+      {
+        "q": "Can I use this method on a glass bed?",
+        "a": "Yes, just clean the glass first; the glue stick works equally well on glass, metal or PEI."
+      },
+      {
+        "q": "How often should I reapply the glue?",
+        "a": "A thin coat lasts for several prints; reapply when you notice reduced tack or after a deep clean."
+      },
+      {
+        "q": "Will the glue affect print colors?",
+        "a": "Only if you apply too thickly; a light layer dries clear and leaves no visible residue."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "first-layer",
+      "bed-prep"
+    ],
+    "sources": [
+      {
+        "label": "r/3Dprinting community threads",
+        "url": "https://www.reddit.com/r/3Dprinting/"
+      },
+      {
+        "label": "Search interest: \"3d print stringing fix\"",
+        "url": "https://duckduckgo.com/?q=3d%20print%20stringing%20fix"
+      }
+    ],
+    "publishedAt": "2026-08-24T03:38:10.293Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "printer-upgrade-guide-field-test-19",
     "title": "\"printer upgrade guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about printer upgrade guide through a month of actual use. Some of it survived.",

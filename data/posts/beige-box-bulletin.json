@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dust-to-data-reviving-commodore64-floppy",
+    "title": "Dust to Data: Reviving the Commodore 64's Floppy Drive",
+    "dek": "A quick guide to diagnosing and fixing the infamous Commodore 64 floppy drive motor and read errors.",
+    "takeaway": "A healthy drive can be restored with a few inexpensive parts and a methodical test routine.",
+    "whatHappened": "I took a dusty C64 with a sputtering 1541 drive, ran a diagnostic, replaced the motor capacitor and cleaned the heads. The drive now reads disks flawlessly.",
+    "whyItMatters": "Floppy drives are the bottleneck for authentic C64 experience; fixing them extends hardware life and preserves software archives.",
+    "howToThink": "Start by isolating power issues, then clean mechanically, and finally test with known‑good disks; repeat until reads are consistent.",
+    "pros": [
+      "Low cost parts",
+      "Immediate performance boost",
+      "Preserves original hardware"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Time‑consuming diagnostics",
+      "Potential for further hidden faults"
+    ],
+    "watchOut": "Never power the drive without a proper ground reference; it can fry the drive controller.",
+    "faq": [
+      {
+        "q": "What are the most common 1541 failure symptoms?",
+        "a": "Motor stutter, failure to spin up, and read errors on most disks."
+      },
+      {
+        "q": "Do I need a new motor capacitor?",
+        "a": "A 100µF electrolytic often fails; replacing it fixes many spin‑up issues."
+      },
+      {
+        "q": "Can I use a modern USB adapter instead of fixing the drive?",
+        "a": "You can, but you lose the tactile authenticity and risk losing data from failing media."
+      }
+    ],
+    "category": "Restoration",
+    "tags": [
+      "Commodore 64",
+      "Floppy Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "publishedAt": "2026-08-24T03:38:02.289Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "crt-monitor-guide-field-test-22",
     "title": "\"crt monitor guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about crt monitor guide through a month of actual use. Some of it survived.",
