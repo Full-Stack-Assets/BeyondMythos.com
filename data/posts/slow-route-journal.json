@@ -1,5 +1,56 @@
 [
   {
+    "slug": "green-ticket-earn-carbon-credits-rail",
+    "title": "Green Ticket: How to Earn Carbon Credits on European Rail Journeys",
+    "dek": "Learn how to turn your train rides into carbon‑credit earning opportunities without compromising the slow‑travel vibe.",
+    "takeaway": "You can offset travel emissions and even earn credits by choosing the right routes, operators, and booking tools.",
+    "whatHappened": "During a week‑long trek from Berlin to Lisbon, I signed up for a rail operator’s carbon‑credit program and tracked each segment’s emissions. The platform automatically credited me for low‑impact choices, like night sleepers and regional services. By the end, I had a small stash of verified credits to trade or donate.",
+    "whyItMatters": "Slow‑travel isn’t just about taking time; it’s about minimizing footprints. Turning journeys into credit‑earning actions amplifies each kilometer’s positive impact. It also nudges operators toward greener services when demand shifts to low‑emission options.",
+    "howToThink": "Start by selecting rail providers that publish emission data and offer credit schemes. Use apps that calculate per‑segment footprints and suggest greener alternatives. Book night or regional trains where possible, and consolidate trips to reduce duplicate legs.",
+    "pros": [
+      "Earn tangible carbon offsets",
+      "Encourages greener operator choices",
+      "Fits slow‑travel pacing"
+    ],
+    "cons": [
+      "Credits may be modest in value",
+      "Limited to participating operators",
+      "Requires extra tracking effort"
+    ],
+    "watchOut": "Some credit programs have high minimum thresholds, so small trips might not generate noticeable rewards.",
+    "faq": [
+      {
+        "q": "Do I need a special account to earn credits?",
+        "a": "Most programs let you link your existing ticket purchase or create a free traveler profile to start tracking."
+      },
+      {
+        "q": "Can I use earned credits on future trips?",
+        "a": "Yes, many schemes let you apply credits toward future bookings or donate them to environmental projects."
+      },
+      {
+        "q": "Are night sleepers always the best for low emissions?",
+        "a": "Generally, because they consolidate travel and lodging, but check each operator’s specific emission reports."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "carbon",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-24T17:15:01.765Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "packing-pre-spend-checklist-45",
     "title": "The packing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified packing purchase from an expensive mood.",

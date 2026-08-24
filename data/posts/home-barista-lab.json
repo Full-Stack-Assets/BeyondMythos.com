@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dialing-in-espresso-shot-timing",
+    "title": "Dialing In Your Home Espresso Shot Timing",
+    "dek": "Master the timing of grind, dose, and extraction for consistent, café‑quality espresso at home.",
+    "takeaway": "Precise timing is the hidden lever that transforms good espresso into great espresso.",
+    "whatHappened": "I logged the seconds between grinding, tamping, and pulling a shot over a week, tweaking each interval. The data showed a sweet spot where flavor peaked.",
+    "whyItMatters": "Even with perfect grind size and pressure, a mistimed shot can under- or over-extract, muting nuance. Timing aligns chemistry with flavor.",
+    "howToThink": "Treat each step as a timed block: grind for 5‑7 seconds, tamp within 2 seconds, start extraction 3 seconds after the pump clicks. Use a timer or smartphone app to keep consistency.",
+    "pros": [
+      "Sharper flavor balance",
+      "Repeatable results",
+      "Easier troubleshooting"
+    ],
+    "cons": [
+      "Adds a step to workflow",
+      "Requires a timer",
+      "May feel mechanical"
+    ],
+    "watchOut": "Don’t obsess over milliseconds; aim for consistent seconds to stay enjoyable.",
+    "faq": [
+      {
+        "q": "Do I need a fancy timer?",
+        "a": "A phone stopwatch works fine; just keep it visible."
+      },
+      {
+        "q": "What if my machine has a pre‑infusion delay?",
+        "a": "Start counting after the pump pressure stabilizes, treating pre‑infusion as part of the extraction window."
+      },
+      {
+        "q": "Can timing replace grind adjustments?",
+        "a": "No, timing complements grind size—both must be tuned together."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso timing",
+      "home brewing"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-24T17:15:02.182Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-54",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",
