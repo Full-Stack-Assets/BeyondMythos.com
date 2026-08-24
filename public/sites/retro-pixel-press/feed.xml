@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-48.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-48.html</guid>
+      <pubDate>Mon, 24 Aug 2026 16:15:44 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
+    </item>
+    <item>
       <title>CRT Calibration Hack: Trim Input Lag to 2 ms</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-hack.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-hack.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-nes-power-supply.html</guid>
       <pubDate>Sun, 23 Aug 2026 09:58:54 GMT</pubDate>
       <description>A quick mod to stabilize voltage and eliminate frame‑drops on original NES hardware.</description>
-    </item>
-    <item>
-      <title>DIY 2ms Input Lag Reduction for Classic Controllers</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-2ms-input-lag-reduction.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-2ms-input-lag-reduction.html</guid>
-      <pubDate>Sun, 23 Aug 2026 09:02:49 GMT</pubDate>
-      <description>Slash a few milliseconds off your retro controller latency with three simple mods.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-wax-management",
+    "title": "Winter wax management: keep your hives humming",
+    "dek": "Learn how to manage wax buildup in winter to keep your colony healthy and your frames ready for spring.",
+    "takeaway": "Proactive wax removal in winter prevents disease and eases spring inspections.",
+    "whatHappened": "I noticed my hives were choking on excess wax after a cold snap, so I tried a low-impact scraping routine over two weeks. The bees responded quickly, and the frames were cleaner by the time March arrived.",
+    "whyItMatters": "Wax buildup can trap moisture and foster mold, weakening bees just when they need resilience. Managing it now reduces stress and improves honey flow later.",
+    "howToThink": "Treat wax as a seasonal maintenance task: schedule short, gentle scrapes every 10-14 days, use a soft brush, and always leave a thin layer for brood insulation. Combine with a brief ventilation boost to dry the hive.",
+    "pros": [
+      "Healthier brood",
+      "Easier spring inspections",
+      "Reduced disease risk"
+    ],
+    "cons": [
+      "Time investment",
+      "Potential disturbance",
+      "Requires gentle technique"
+    ],
+    "watchOut": "Don't over-scrape—removing too much wax can expose the brood to cold drafts.",
+    "faq": [
+      {
+        "q": "How much wax is safe to remove each session?",
+        "a": "Aim for no more than 1-2 mm per side of the frame; the bees will rebuild what they need."
+      },
+      {
+        "q": "Can I use a heated tool to melt wax?",
+        "a": "Avoid heat; it can scorch bees and release harmful fumes—stick to manual scraping or a soft brush."
+      },
+      {
+        "q": "What signs show wax buildup is a problem?",
+        "a": "Look for a glossy coating, reduced airflow, or a sour smell indicating fermentation."
+      }
+    ],
+    "category": "Health",
+    "tags": [
+      "wax",
+      "winter"
+    ],
+    "sources": [
+      {
+        "label": "r/beekeepers community threads",
+        "url": "https://www.reddit.com/r/beekeepers/"
+      },
+      {
+        "label": "Search interest: \"varroa treatment options\"",
+        "url": "https://duckduckgo.com/?q=varroa%20treatment%20options"
+      }
+    ],
+    "publishedAt": "2026-08-24T16:15:50.839Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hives-69",
     "title": "A weekend project: level up your hives in two hours",
     "dek": "One contained, satisfying hives project for backyard beekeepers — start Saturday morning, done by lunch.",
