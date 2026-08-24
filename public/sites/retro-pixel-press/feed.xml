@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Controller Mod: 1 ms Input Gain with a Simple Diode</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-mod-1ms-diode.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-mod-1ms-diode.html</guid>
+      <pubDate>Mon, 24 Aug 2026 05:24:21 GMT</pubDate>
+      <description>Add a tiny diode to your SNES controller for a crisp 1 ms input boost without soldering tricks.</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-52.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-52.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-44.html</guid>
       <pubDate>Sat, 22 Aug 2026 21:56:39 GMT</pubDate>
       <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: crt setup guide</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-crt-setup-guide-17.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-crt-setup-guide-17.html</guid>
-      <pubDate>Sat, 22 Aug 2026 20:58:51 GMT</pubDate>
-      <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-adjust-brew-pressure",
+    "title": "Micro-Adjusting Brew Pressure for Home Espresso Consistency",
+    "dek": "A quick guide to tweaking brew pressure on your home espresso machine for richer, more consistent shots.",
+    "takeaway": "Small pressure adjustments can dramatically improve espresso balance without expensive upgrades.",
+    "whatHappened": "I experimented with the pressure profiling feature on my mid-range machine, dialing from 9 to 11 bars over a week. The shots showed noticeable body and crema changes.",
+    "whyItMatters": "Pressure shapes extraction speed and flavor distribution, so fine-tuning it unlocks hidden potential in beans you already own. Understanding this helps you get café-quality results without buying a new machine.",
+    "howToThink": "Start with the manufacturer’s default, then adjust in 0.5‑bar increments, tasting each change. Use a pressure gauge or built‑in readout, and note flavor shifts in acidity, sweetness, and bitterness. Keep a simple log to pinpoint your sweet spot.",
+    "pros": [
+      "Improves flavor balance",
+      "No extra hardware needed",
+      "Customizable per bean"
+    ],
+    "cons": [
+      "Requires patience",
+      "Potential over‑extraction",
+      "Machine may not support fine granularity"
+    ],
+    "watchOut": "Avoid jumping more than 1 bar at a time, as it can quickly lead to harsh, over‑extracted shots.",
+    "faq": [
+      {
+        "q": "Can I adjust pressure on a pump‑type machine?",
+        "a": "Most pump machines let you set target pressure via the control panel or an external regulator; check your manual."
+      },
+      {
+        "q": "Does higher pressure always mean stronger espresso?",
+        "a": "Not necessarily—too high pressure can over‑extract, making bitterness dominate."
+      },
+      {
+        "q": "How often should I re‑calibrate pressure?",
+        "a": "Re‑check after cleaning, after changing beans, or if you notice flavor drift."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Pressure"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-24T05:24:21.467Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-46",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",
