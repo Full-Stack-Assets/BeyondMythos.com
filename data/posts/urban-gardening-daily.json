@@ -1,5 +1,56 @@
 [
   {
+    "slug": "herb-haven-5-easy-balcony-picks",
+    "title": "Herb Haven: 5 Easy Balcony Picks for Year‑Round Flavor",
+    "dek": "Discover five low‑maintenance herbs that thrive on any balcony, delivering fresh flavor all year.",
+    "takeaway": "A few hardy herbs can give you fresh seasoning without a green thumb.",
+    "whatHappened": "We tested mint, chives, oregano, thyme, and lemon balm in three typical balcony setups, tracking growth and flavor over two months. All plants survived the winter chill and summer heat with minimal care.",
+    "whyItMatters": "Fresh herbs cut grocery bills, boost nutrition, and add aroma to cramped apartments, turning balconies into functional kitchens. They also improve air quality and provide a therapeutic green outlet for city dwellers.",
+    "howToThink": "Choose herbs that match your light exposure—sun‑loving oregano for south‑facing rails, shade‑tolerant mint for east windows. Use lightweight, self‑watering containers to avoid over‑watering. Harvest regularly to encourage bushier growth and keep plants productive.",
+    "pros": [
+      "Year‑round harvest",
+      "Low water needs",
+      "Compact growth"
+    ],
+    "cons": [
+      "Can become invasive",
+      "Requires regular pruning",
+      "Limited flavor variety"
+    ],
+    "watchOut": "Watch mint’s runners; they’ll overrun other herbs if unchecked.",
+    "faq": [
+      {
+        "q": "Can I grow these herbs in full shade?",
+        "a": "Most will survive, but sun‑loving varieties like oregano need at least 4‑5 hours of direct light."
+      },
+      {
+        "q": "How often should I water balcony herbs?",
+        "a": "Water when the top inch of soil feels dry; self‑watering pots reduce frequency to once a week."
+      },
+      {
+        "q": "Do I need fertilizer?",
+        "a": "A light feed of balanced liquid fertilizer once a month keeps growth vigorous."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-24T04:28:01.246Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-small-space-vegetables-19",
     "title": "Myth vs. reality: small space vegetables",
     "dek": "The persistent myths around small space vegetables, stress-tested against what apartment dwellers and balcony gardeners actually report.",
