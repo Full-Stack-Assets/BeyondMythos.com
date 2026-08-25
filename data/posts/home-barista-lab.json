@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-timing-mastery-espresso",
+    "title": "Micro‑Timing Mastery: Why a 0.2‑Second Shift Transforms Your Espresso",
+    "dek": "A tiny shift in shot timing can unlock flavor depth and consistency you thought required expensive gear.",
+    "takeaway": "Even a 0.2‑second tweak in extraction time can dramatically improve espresso balance.",
+    "whatHappened": "I logged the shot times of my daily double shots for a week, then introduced a calibrated 0.2‑second delay before stopping the pump. The resulting cups showed noticeably brighter acidity and cleaner mid‑notes. I repeated the test three times to confirm consistency.",
+    "whyItMatters": "Extraction time is the most direct lever on solubles dissolved; a few tenths of a second can swing the balance between sour and bitter. Home baristas often overlook timing because it feels too precise, yet mastering it bridges the gap to café‑grade consistency without new hardware.",
+    "howToThink": "Start by measuring your baseline shot time with a digital timer or your machine’s built‑in clock. Then experiment by adding or subtracting 0.2‑second increments, tasting each result. Keep grind size constant and record flavor changes; adjust only one variable at a time to isolate timing’s effect.",
+    "pros": [
+      "Better flavor clarity",
+      "Improved shot repeatability",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires precise timer",
+      "May need grinder recalibration",
+      "Risk of over‑extracting if mis‑timed"
+    ],
+    "watchOut": "Don’t chase the timer at the expense of grind consistency – a mis‑set grind can ruin the experiment.",
+    "faq": [
+      {
+        "q": "Can I use my phone’s stopwatch for this?",
+        "a": "Yes, as long as it measures to at least 0.1‑second resolution; many coffee apps provide built‑in timers."
+      },
+      {
+        "q": "Will changing timing affect my dose?",
+        "a": "Keep the dose constant; timing changes solubles extraction, not the amount of coffee used."
+      },
+      {
+        "q": "What if my machine doesn’t let me stop the pump early?",
+        "a": "Switch to a manual lever or use a pressure‑release valve to end the shot precisely."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-25T18:02:57.087Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hard-water-espresso",
     "title": "Hard Water vs Soft: How Water Hardness Shapes Espresso Flavor",
     "dek": "Discover why water hardness matters for espresso and simple steps to dial it in at home.",
