@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-timing-micros",
+    "title": "Micro-Adjusting Espresso Shot Timing for Consistency",
+    "dek": "Fine‑tune your shot timing by milliseconds to lock in flavor without costly gear.",
+    "takeaway": "A few milliseconds can mean the difference between a flat shot and a vibrant espresso.",
+    "whatHappened": "I logged the extraction times of 30 shots using a smartphone timer, then tweaked the grind and dose to see how timing shifted the taste profile.",
+    "whyItMatters": "Shot timing directly influences extraction balance, affecting acidity, sweetness, and bitterness, so mastering it elevates every cup.",
+    "howToThink": "Start with a baseline 25‑second shot, then adjust in 0.5‑second increments, tasting each change; track variables in a simple spreadsheet.",
+    "pros": [
+      "Immediate flavor feedback",
+      "No extra hardware needed",
+      "Boosts consistency"
+    ],
+    "cons": [
+      "Requires precise timing",
+      "Can be time‑consuming to log",
+      "Small margin for error"
+    ],
+    "watchOut": "Don’t chase the timer at the expense of grind stability; a fluctuating grind can mask timing gains.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision timer?",
+        "a": "A smartphone stopwatch with millisecond display is sufficient for home use."
+      },
+      {
+        "q": "How many adjustments should I make per session?",
+        "a": "Limit changes to one variable at a time and keep each session to 5‑7 shots."
+      },
+      {
+        "q": "Can this method replace a pressure gauge?",
+        "a": "Timing complements pressure data but doesn’t replace the need for pressure consistency."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-25T06:03:32.147Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-47",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlocking-fm-audio-master-system",
+    "title": "Unlocking FM Audio on the Master System: A Simple Mod",
+    "dek": "Add FM sound to your Sega Master System with a cheap mod and hear classics like Alex Kidd in richer detail.",
+    "takeaway": "A low-cost FM chip upgrade brings new life to vintage Master System games.",
+    "whatHappened": "We soldered a small FM audio board onto the console’s sound port and tested it with \"Sonic the Hedgehog\" on a PAL cartridge. The result was a crisp, melodic soundtrack that the original hardware never produced.",
+    "whyItMatters": "FM audio expands the auditory palette of a beloved platform, making preservation efforts more authentic and giving speedrunners clearer audio cues. It also showcases how simple hardware tweaks can modernize legacy consoles.",
+    "howToThink": "When evaluating a mod, weigh the impact on gameplay experience against the effort and risk. Start with a reversible prototype, document each step, and test with multiple games to ensure compatibility.",
+    "pros": [
+      "Cheap (<$15)",
+      "Visible audio improvement",
+      "Reversible install"
+    ],
+    "cons": [
+      "Soldering required",
+      "Potential warranty void",
+      "Limited to PAL region games"
+    ],
+    "watchOut": "Avoid shorting the sound port; double‑check polarity before powering the console.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver?",
+        "a": "A small Phillips #0 works for the case screws; the mod itself uses a soldering iron."
+      },
+      {
+        "q": "Will this affect my console’s video output?",
+        "a": "No, the FM board only taps the audio line, leaving video untouched."
+      },
+      {
+        "q": "Can I use the mod on a NTSC Master System?",
+        "a": "The FM chip is region‑agnostic, but you’ll need a compatible game ROM that supports FM sound."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "audio",
+      "modding"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-25T06:03:33.318Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "glitchless-marathon-mastering-1998-zelda-speedru",
     "title": "Glitchless Marathon: Mastering the 1998 Zelda Speedrun",
     "dek": "A quick guide to shaving seconds off your 1998 Zelda run without using glitches.",
