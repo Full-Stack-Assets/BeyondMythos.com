@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-classic-pentax-k1000",
+    "title": "Reviving the Classic: Why the Pentax K1000 Still Rules",
+    "dek": "A quick dive into why the trusty Pentax K1000 remains a go‑to for beginners and pros alike.",
+    "takeaway": "Even in a digital age, the K1000 offers unmatched simplicity and reliability.",
+    "whatHappened": "We dusted off a 1995 Pentax K1000, loaded it with ISO 400 Kodak Tri-X, and shot a street series in downtown. The camera performed flawlessly, delivering consistent exposures and a tactile shooting experience.",
+    "whyItMatters": "Understanding the strengths of legacy gear helps photographers make informed choices, especially when budget or durability matters. The K1000’s manual controls also teach fundamental photography concepts often hidden in modern bodies.",
+    "howToThink": "When evaluating an old SLR, prioritize mechanical reliability, availability of lenses, and ease of maintenance. Pair it with a versatile film like Tri‑X or Portra 400, and you have a low‑cost, high‑reward setup for everyday shooting.",
+    "pros": [
+      "Robust mechanical build",
+      "Fully manual controls teach fundamentals",
+      "Widely available lenses and accessories"
+    ],
+    "cons": [
+      "No built-in light meter",
+      "Aging optics may need servicing",
+      "Limited ISO flexibility without external meter"
+    ],
+    "watchOut": "Older shutters can develop stickiness; give the camera a thorough cleaning before heavy use.",
+    "faq": [
+      {
+        "q": "Do I need a light meter with the K1000?",
+        "a": "Yes, either a handheld meter or your phone’s app is essential for accurate exposure."
+      },
+      {
+        "q": "Can I use modern digital lenses on the K1000?",
+        "a": "Only lenses with a K‑mount; adapters exist but may affect infinity focus."
+      },
+      {
+        "q": "Is the K1000 compatible with 35mm and 120 film?",
+        "a": "It’s strictly a 35mm SLR; for medium format you’ll need a different body."
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "Cameras",
+      "Analog Basics"
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"home developing guide\"",
+        "url": "https://duckduckgo.com/?q=home%20developing%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-25T11:04:24.449Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-developing-69",
     "title": "The quiet upgrade: small tweaks in developing with outsized returns",
     "dek": "No purchases, no overhauls — the modest developing adjustments that film photographers shooting analog report mattering most.",

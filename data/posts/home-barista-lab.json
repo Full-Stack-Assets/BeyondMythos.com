@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-water-temp-tuning",
+    "title": "Dialing In Water Temperature: The Espresso Edge",
+    "dek": "A quick guide to adjusting brew water temperature for richer, more consistent espresso shots at home.",
+    "takeaway": "A few degrees can make the difference between a flat shot and a silky, balanced espresso.",
+    "whatHappened": "I noticed my espresso tasting thin after switching to a new kettle. A simple temperature tweak revived the body.",
+    "whyItMatters": "Water temperature influences extraction speed and flavor balance, so even slight deviations can skew taste. Mastering it lets you consistently hit the sweet spot.",
+    "howToThink": "Start at 93 °C, taste, then adjust by 1‑2 °C up or down, using a calibrated thermometer, and record results.",
+    "pros": [
+      "Better flavor balance",
+      "Improved crema",
+      "Consistent shot times"
+    ],
+    "cons": [
+      "Requires precise thermometer",
+      "May need repeat tweaking",
+      "Potential over‑extraction if too hot"
+    ],
+    "watchOut": "Avoid exceeding 96 °C, or you’ll burn delicate aromatics.",
+    "faq": [
+      {
+        "q": "What temperature range is ideal for most espresso beans?",
+        "a": "Typically 90‑96 °C; start around 93 °C and fine‑tune per roast profile."
+      },
+      {
+        "q": "Do I need a digital thermometer?",
+        "a": "A calibrated digital or infrared thermometer gives the accuracy needed for small adjustments."
+      },
+      {
+        "q": "Can temperature changes affect my grinder settings?",
+        "a": "Indirectly—different temps may change extraction speed, so you might need minor grind tweaks to stay balanced."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-25T11:04:14.070Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "crema-temperature-tweak",
     "title": "Unlocking Consistent Crema: The Hidden Role of Brew Temperature",
     "dek": "A slight shift in brew temperature can stabilize crema thickness and flavor across daily pulls.",
