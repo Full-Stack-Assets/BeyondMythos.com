@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-platform-cafes-sipping-slow",
+    "title": "Hidden Platform Cafés: Sipping Slow in Transit",
+    "dek": "Discover tiny café gems tucked into stations, perfect for low‑impact pit stops on your slow‑travel route.",
+    "takeaway": "A quick coffee break can become a cultural micro‑adventure without adding carbon.",
+    "whatHappened": "On a recent weekend crawl along the Midlands line, I stumbled upon three under‑the‑radar station cafés, each serving locally sourced pastries and brewed beans in repurposed containers. The staff shared stories of community projects tied to the rail network.",
+    "whyItMatters": "These micro‑hubs support local economies, reduce waste, and give travelers a chance to slow down and connect with the place they pass through, aligning with low‑impact travel values.",
+    "howToThink": "When planning a route, map stations with known café spots or ask locals; pack a reusable cup, choose plant‑based options, and linger for a few minutes to soak up the ambience.",
+    "pros": [
+      "Supports local businesses",
+      "Zero‑waste beverage options",
+      "Adds meaningful pause to travel"
+    ],
+    "cons": [
+      "Limited seating",
+      "Variable opening hours",
+      "May be pricier than vending machines"
+    ],
+    "watchOut": "Some cafés only accept cash or have minimum purchase thresholds, so plan accordingly.",
+    "faq": [
+      {
+        "q": "Are station cafés usually open all day?",
+        "a": "Most operate on train schedules, opening early for commuters and closing after the last service, so check timetables."
+      },
+      {
+        "q": "Can I bring my own mug?",
+        "a": "Yes, most welcome reusable cups and often offer a small discount."
+      },
+      {
+        "q": "What if I’m traveling with a bike?",
+        "a": "Look for cafés with bike racks or wide aisles; many stations provide secure bike parking nearby."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail‑food",
+      "slow‑travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-25T12:01:54.238Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-55",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",

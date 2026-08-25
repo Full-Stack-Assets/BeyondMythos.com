@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of speedruns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-53.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-53.html</guid>
+      <pubDate>Tue, 25 Aug 2026 12:01:51 GMT</pubDate>
+      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-19.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-19.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-hunt-hidden-easter-eggs-8bit.html</guid>
       <pubDate>Mon, 24 Aug 2026 06:23:39 GMT</pubDate>
       <description>Discover how to locate and document secret Easter eggs in classic 8‑bit cartridges before they fade away.</description>
-    </item>
-    <item>
-      <title>Retro Controller Mod: 1 ms Input Gain with a Simple Diode</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-mod-1ms-diode.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-mod-1ms-diode.html</guid>
-      <pubDate>Mon, 24 Aug 2026 05:24:21 GMT</pubDate>
-      <description>Add a tiny diode to your SNES controller for a crisp 1 ms input boost without soldering tricks.</description>
     </item>
   </channel>
 </rss>
