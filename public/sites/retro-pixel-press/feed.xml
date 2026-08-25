@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-50.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-50.html</guid>
+      <pubDate>Tue, 25 Aug 2026 09:19:33 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
+    </item>
+    <item>
       <title>Deadzone Tuning: Sharpening Classic Arcade Sticks for Speedrunning</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/deadzone-tuning-arcade-sticks.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/deadzone-tuning-arcade-sticks.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-lag-fix-1ms-boost-snes-controllers.html</guid>
       <pubDate>Mon, 24 Aug 2026 03:37:48 GMT</pubDate>
       <description>A cheap resistor‑cap combo shaves a millisecond off SNES controller latency, giving you tighter inputs for every run.</description>
-    </item>
-    <item>
-      <title>Turbocharge Your Game Boy Color: 1 ms Input Boost with a Simple Resistor</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/gbc-input-boost-resistor.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/gbc-input-boost-resistor.html</guid>
-      <pubDate>Mon, 24 Aug 2026 02:11:48 GMT</pubDate>
-      <description>Add a 100 Ω resistor to the GBC&apos;s button matrix and shave off a millisecond of lag for tighter runs.</description>
     </item>
   </channel>
 </rss>

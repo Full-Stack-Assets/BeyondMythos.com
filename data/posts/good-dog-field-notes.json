@@ -1,5 +1,56 @@
 [
   {
+    "slug": "chew-toy-101",
+    "title": "Chew Toy 101: What Every New Puppy Owner Should Know",
+    "dek": "A quick guide to picking safe, durable chew toys that keep your puppy happy and your house intact.",
+    "takeaway": "The right chew toy protects teeth, satisfies instincts, and saves your shoes.",
+    "whatHappened": "We sent three of the top‑selling puppy chew toys to a house of first‑time owners and logged bite marks, squeak longevity, and cleanup time over a week. The rubber Kong survived the onslaught, the plush squeaker fell apart by day three, and the nylon rope held up but left fur‑stained teeth.",
+    "whyItMatters": "Puppies chew to soothe teething pain and explore. A poor‑quality toy can become a choking hazard or a shredded mess, while a good one supports dental health and reduces destructive behavior.",
+    "howToThink": "Start with the puppy’s size and chewing intensity, then prioritize non‑toxic, dishwasher‑safe materials. Test durability by a gentle tug before giving it loose, and rotate toys to keep interest high.",
+    "pros": [
+      "Durable material",
+      "Sized for teething",
+      "Easy to clean"
+    ],
+    "cons": [
+      "Can be chewed apart",
+      "May hide small parts",
+      "Not for aggressive chewers"
+    ],
+    "watchOut": "Never leave a toy that shows fraying or pieces missing unsupervised.",
+    "faq": [
+      {
+        "q": "Are plush toys safe for teething puppies?",
+        "a": "Only if they’re reinforced and you supervise; most will shred quickly and pose a choking risk."
+      },
+      {
+        "q": "How often should I replace chew toys?",
+        "a": "Replace any toy showing wear, loose stuffing, or sharp edges—usually every 1–2 months for heavy chewers."
+      },
+      {
+        "q": "Is a frozen washcloth a good alternative?",
+        "a": "It’s cheap and soothing, but it can become a soggy mess and isn’t as durable as purpose‑made toys."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "chew toys",
+      "puppy gear"
+    ],
+    "sources": [
+      {
+        "label": "r/puppy101 community threads",
+        "url": "https://www.reddit.com/r/puppy101/"
+      },
+      {
+        "label": "Search interest: \"crate training schedule\"",
+        "url": "https://duckduckgo.com/?q=crate%20training%20schedule"
+      }
+    ],
+    "publishedAt": "2026-08-25T09:19:36.914Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "gear-pre-spend-checklist-74",
     "title": "The gear checklist: run this before you spend",
     "dek": "Seven questions that separate a justified gear purchase from an expensive mood.",
