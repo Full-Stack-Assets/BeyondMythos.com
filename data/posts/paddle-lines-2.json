@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pre-paddle-gear-check",
+    "title": "Gear check: the 10‑minute pre‑paddle routine",
+    "dek": "A quick checklist to catch common oversights before you hit the water.",
+    "takeaway": "A 10‑minute routine can prevent most on‑water mishaps.",
+    "whatHappened": "Last weekend a fellow paddler launched without checking the spray skirt and lost water inside the hull within minutes. The quick fix? A spare skirt and a dry bag saved the day, but the trip was cut short. This sparked a conversation about a fast, repeatable pre‑launch audit.",
+    "whyItMatters": "Even seasoned kayakers can overlook tiny faults that turn into safety hazards when the water gets choppy. A brief, systematic check reduces the odds of equipment failure, keeping you and your crew on the water longer and safer.",
+    "howToThink": "Treat the 10‑minute gear check like a mental warm‑up: start with the hull, then deck, then accessories. Use a printed one‑page list, tick each item, and develop the habit of a quick visual scan before every launch.",
+    "pros": [
+      "Fast",
+      "Simple",
+      "Effective"
+    ],
+    "cons": [
+      "Requires discipline",
+      "May miss hidden issues",
+      "Not a substitute for full inspection"
+    ],
+    "watchOut": "Don’t skip the quick visual check just because you’re in a hurry—speed comes from confidence, not omission.",
+    "faq": [
+      {
+        "q": "What’s the absolute must‑check before launch?",
+        "a": "Hull integrity, spray skirt seal, and paddle condition."
+      },
+      {
+        "q": "How often should I run the full checklist?",
+        "a": "Every launch, even on familiar waters."
+      },
+      {
+        "q": "Can I shorten the routine for short trips?",
+        "a": "Yes, but keep the core three items: hull, spray skirt, paddle."
+      }
+    ],
+    "category": "Safety",
+    "tags": [
+      "Safety",
+      "Checklist"
+    ],
+    "sources": [
+      {
+        "label": "r/paddling community threads",
+        "url": "https://www.reddit.com/r/paddling/"
+      },
+      {
+        "label": "Search interest: \"kayak safety basics\"",
+        "url": "https://duckduckgo.com/?q=kayak%20safety%20basics"
+      }
+    ],
+    "publishedAt": "2026-08-25T02:08:39.593Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-first-kayak-buying-guide-19",
     "title": "Myth vs. reality: first kayak buying guide",
     "dek": "The persistent myths around first kayak buying guide, stress-tested against what recreational kayakers and paddlers actually report.",

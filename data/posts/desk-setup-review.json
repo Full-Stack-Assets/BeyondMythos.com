@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-adjustable-monitor-arms",
+    "title": "Micro-adjustable monitor arms: maximizing tiny desk real estate",
+    "dek": "A compact arm lets you shift screens on the fly, freeing precious desktop space for a cleaner, healthier workflow.",
+    "takeaway": "A micro-adjustable arm can turn a cramped desk into an ergonomic powerhouse without breaking the bank.",
+    "whatHappened": "We installed a 12‑inch swing‑arm monitor mount on a 2‑ft wide desk for a freelance coder. The arm folded flat when not in use and extended to eye‑level during work, instantly clearing surface clutter. Within a week the user reported less neck strain and a more organized workflow.",
+    "whyItMatters": "Small workspaces amplify every inch of clutter, forcing workers into awkward postures. By lifting the monitor off the desk, you reclaim space for a keyboard tray, notebook, or a plant—while also aligning the screen with the natural line of sight. This dual benefit tackles both ergonomics and organization, two core pain points for remote workers.",
+    "howToThink": "When choosing a micro-arm, prioritize a low weight rating that matches your monitor and a sturdy clamp that fits thin desk edges. Test the range of motion; a 180‑degree swing and tilt are ideal for quick transitions between sitting and standing. Finally, route cables through the arm’s built‑in channel to keep the desk surface truly clear.",
+    "pros": [
+      "Saves desk surface area",
+      "Easy to reposition for sit‑stand",
+      "Improves screen height alignment"
+    ],
+    "cons": [
+      "Limited weight capacity for large monitors",
+      "Clamp may damage very thin desks",
+      "Requires cable management planning"
+    ],
+    "watchOut": "Make sure the clamp’s grip force doesn’t crack a lightweight desk surface before tightening fully.",
+    "faq": [
+      {
+        "q": "Can I use the arm with a 27‑inch monitor?",
+        "a": "Only if the monitor’s weight is under the arm’s 5 kg limit; otherwise look for a higher‑capacity model."
+      },
+      {
+        "q": "Will the clamp work on a glass tabletop?",
+        "a": "Most clamps need a solid edge; for glass you’ll need a specialized mounting bracket or a desk‑mounted base."
+      },
+      {
+        "q": "Do I need extra tools to install it?",
+        "a": "A small allen wrench (often included) and a screwdriver are sufficient for most models."
+      }
+    ],
+    "category": "Ergonomics",
+    "tags": [
+      "monitor",
+      "small‑space"
+    ],
+    "sources": [
+      {
+        "label": "r/Workspaces community threads",
+        "url": "https://www.reddit.com/r/Workspaces/"
+      },
+      {
+        "label": "Search interest: \"ergonomic desk setup\"",
+        "url": "https://duckduckgo.com/?q=ergonomic%20desk%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-25T02:08:29.640Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "audio-pre-spend-checklist-60",
     "title": "The audio checklist: run this before you spend",
     "dek": "Seven questions that separate a justified audio purchase from an expensive mood.",

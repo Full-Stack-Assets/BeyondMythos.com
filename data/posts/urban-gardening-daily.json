@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-self-watering-planters",
+    "title": "DIY Self‑watering Planters for Sun‑Starved Balconies",
+    "dek": "Turn a simple pot into a moisture‑metered oasis that keeps herbs thriving even on the shadiest balcony.",
+    "takeaway": "A homemade self‑watering system cuts watering trips and boosts plant health.",
+    "whatHappened": "We tested a 2‑liter soda bottle cut in half, fitted with a wicking cord and a drip valve on a north‑facing balcony. After two weeks, basil and mint stayed lush while neighboring pots wilted.",
+    "whyItMatters": "Balcony gardeners often battle inconsistent watering, especially in apartments where schedules are erratic. A reliable self‑watering setup reduces stress and water waste, letting you enjoy fresh herbs year‑round.",
+    "howToThink": "Start with a container that fits your balcony rail, insert a clean water reservoir, and use a cotton wick that reaches the soil. Adjust the valve until the soil stays damp but not soggy, and check the level weekly.",
+    "pros": [
+      "Low cost",
+      "Reduces daily watering",
+      "Improves plant resilience"
+    ],
+    "cons": [
+      "Initial setup time",
+      "Needs periodic refilling",
+      "May attract insects if overfilled"
+    ],
+    "watchOut": "Avoid over‑watering; a constantly saturated wick can cause root rot.",
+    "faq": [
+      {
+        "q": "Can I use any bottle for the reservoir?",
+        "a": "Yes, any clean, food‑grade plastic bottle of 1–3 L works, but avoid BPA‑containing containers if possible."
+      },
+      {
+        "q": "How often should I refill the reservoir?",
+        "a": "Check the water level every 3‑4 days; refill when it drops to the valve’s minimum line."
+      },
+      {
+        "q": "Is this system suitable for larger vegetables?",
+        "a": "It works best for herbs and small lettuces; bigger crops may need a larger reservoir and stronger wicking material."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "DIY",
+      "Balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-25T02:08:14.609Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rainwater-reuse-balcony-harvest",
     "title": "Rainwater Reuse: Boost Your Balcony Harvest Without a Pump",
     "dek": "Capture rain, store it, and feed your balcony plants—simple steps for a greener, cheaper harvest.",

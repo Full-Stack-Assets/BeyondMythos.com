@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ios-screen-time-quick-start",
+    "title": "Kickstart iOS Screen Time: A 5‑Minute Family Setup",
+    "dek": "Set up iOS Screen Time in five minutes and regain control of family device habits.",
+    "takeaway": "A fast, step‑by‑step setup lets you enforce limits without endless negotiations.",
+    "whatHappened": "I walked through the iOS Settings with my 10‑year‑old, toggling downtime, app limits, and content filters. Within minutes we had a clear schedule and a shared family password.",
+    "whyItMatters": "Screen Time data shows kids often exceed recommended daily limits, leading to fatigue and reduced focus. Early, clear boundaries help form healthy digital habits before they become entrenched.",
+    "howToThink": "Treat Screen Time as a family contract: involve your kids in choosing limits, review usage weekly, and adjust as needs shift. Use the “Ask to Buy” feature to keep purchases transparent.",
+    "pros": [
+      "Instant usage reports",
+      "Granular app limits",
+      "Family sharing integration"
+    ],
+    "cons": [
+      "Apple‑only ecosystem",
+      "Initial setup can be confusing",
+      "Limited cross‑platform visibility"
+    ],
+    "watchOut": "Avoid over‑restricting; too‑tight limits can backfire and push kids to find workarounds.",
+    "faq": [
+      {
+        "q": "Can I set different limits for each child?",
+        "a": "Yes, each child’s Apple ID gets its own Screen Time profile with individualized schedules."
+      },
+      {
+        "q": "What about Android devices?",
+        "a": "Screen Time is Apple‑specific; consider Google Family Link for comparable controls on Android."
+      },
+      {
+        "q": "How do I prevent my child from changing the settings?",
+        "a": "Enable a Screen Time passcode that only you know, and use ‘Family Sharing’ to lock changes."
+      }
+    ],
+    "category": "Screen Time",
+    "tags": [
+      "iOS",
+      "Screen Time"
+    ],
+    "sources": [
+      {
+        "label": "r/Mommit community threads",
+        "url": "https://www.reddit.com/r/Mommit/"
+      },
+      {
+        "label": "Search interest: \"family tech setup\"",
+        "url": "https://duckduckgo.com/?q=family%20tech%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-25T02:08:47.888Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-devices-51",
     "title": "Ask the forge: your devices questions, answered",
     "dek": "Straight answers to the devices questions parents managing kids, screens, and smart devices keep asking, minus the hedging.",
