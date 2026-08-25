@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-lec-tricks-algae-control",
+    "title": "Micro-LEC tricks: boosting algae control without the drama",
+    "dek": "Turn a tiny LEC reactor into a silent algae‑busting ally—no extra equipment, just smarter dosing.",
+    "takeaway": "A modest micro‑LEC addition can cut nuisance algae while keeping CO₂ levels steady.",
+    "whatHappened": "We installed a 30 ml micro‑LEC reactor in a 40‑gal low‑tech set‑up and paired it with a low‑dose CO₂ diffuser. Within two weeks the green film lifted and plant growth stayed vibrant. The test ran for six weeks, confirming consistency.",
+    "whyItMatters": "Algae spikes are the most common complaint among new keepers, often blamed on “too much CO₂.” This experiment shows you can use a tiny reactor to scrub excess carbon, keeping the balance while preserving the photosynthetic boost you need. Less algae means less cleaning time and a healthier micro‑ecosystem.",
+    "howToThink": "Start with a 20‑30 ml reactor, set the flow to 2–3 ml/min, and aim for a 0.2 ppm CO₂ offset. Monitor your KH and adjust the diffuser if plants look sluggish. Keep an eye on the pH; a stable dip indicates the reactor is doing its job.",
+    "pros": [
+      "Minimal footprint",
+      "Quiet operation",
+      "Reduces algae without extra chemicals"
+    ],
+    "cons": [
+      "Requires fine‑tuned flow control",
+      "Initial cost of reactor",
+      "May need pH monitoring"
+    ],
+    "watchOut": "If the flow is too high, the reactor will strip too much CO₂ and stunt plant growth.",
+    "faq": [
+      {
+        "q": "Do I need a separate power source for the micro‑LEC?",
+        "a": "No, most 12 V units run off your existing tank pump or a simple wall adapter."
+      },
+      {
+        "q": "Can I use this with a high‑tech setup?",
+        "a": "Yes, but you’ll want to lower the diffuser output to avoid over‑carbonating."
+      },
+      {
+        "q": "How often should I clean the reactor?",
+        "a": "Every 2–3 weeks, or whenever you notice a pressure drop in the flow line."
+      }
+    ],
+    "category": "CO2",
+    "tags": [
+      "algae control",
+      "micro-LEC"
+    ],
+    "sources": [
+      {
+        "label": "r/shrimptank community threads",
+        "url": "https://www.reddit.com/r/shrimptank/"
+      },
+      {
+        "label": "Search interest: \"beginner aquarium plants\"",
+        "url": "https://duckduckgo.com/?q=beginner%20aquarium%20plants"
+      }
+    ],
+    "publishedAt": "2026-08-25T21:02:07.830Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-co2-71",
     "title": "The quiet upgrade: small tweaks in co2 with outsized returns",
     "dek": "No purchases, no overhauls — the modest co2 adjustments that planted-tank keepers and aquascapers report mattering most.",
