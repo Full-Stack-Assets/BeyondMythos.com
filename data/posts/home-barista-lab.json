@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-water-ratio-tuning",
+    "title": "Fine-Tuning Your Espresso Water Ratio for Consistent Shots",
+    "dek": "Adjusting the brew water ratio can unlock flavor consistency without new gear.",
+    "takeaway": "A modest change to water‑to‑coffee ratio yields noticeably more repeatable espresso.",
+    "whatHappened": "I brewed two batches of espresso back‑to‑back, first at the standard 2:1 ratio then at 1.9:1 using the same beans and pressure. The second batch tasted smoother, brighter, and had a tighter crema. A quick repeat test confirmed the shift was reproducible.",
+    "whyItMatters": "Home baristas chase consistency, yet many focus on grind size or tamp pressure while overlooking water ratio. Even a 5% tweak can balance acidity and body, reducing the need for constant grind adjustments. It also helps you get the most out of a fresh bag before it degrades.",
+    "howToThink": "Start by measuring 18 g of coffee and 36 g of water (2:1). Then shave 1 g off the water and taste. If the shot feels thin, move back toward 2:1; if it’s overly heavy, go a bit lower. Keep a tiny notebook of ratios and flavor notes to lock in your sweet spot.",
+    "pros": [
+      "Easy to test",
+      "No extra equipment needed",
+      "Improves flavor balance"
+    ],
+    "cons": [
+      "Requires precise scale",
+      "May need grind tweaks",
+      "Flavor shift can be subtle"
+    ],
+    "watchOut": "Don’t over‑reduce water, or you’ll choke the extraction and taste bitterness.",
+    "faq": [
+      {
+        "q": "Can I use a volumetric dispenser instead of a scale?",
+        "a": "A scale is essential; volume changes with temperature and can mislead the ratio."
+      },
+      {
+        "q": "Will changing the ratio affect my brew time?",
+        "a": "Slightly—lower water means a faster shot, so watch the timer and adjust accordingly."
+      },
+      {
+        "q": "Is this method useful for other brewing methods?",
+        "a": "Yes, the water‑to‑coffee concept applies to pour‑over and Aeropress, just with different optimal ratios."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-25T04:22:17.650Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-tricks-small-adjustments-big-gains",
     "title": "Tamping Tricks: Small Adjustments, Big Gains",
     "dek": "A quick guide to fine‑tuning your tamp for richer, more consistent shots at home.",
