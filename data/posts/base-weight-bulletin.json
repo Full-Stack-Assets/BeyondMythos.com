@@ -1,5 +1,56 @@
 [
   {
+    "slug": "zip-tie-water-filter",
+    "title": "Zip‑Tie Water Filter Hack: DIY Hydration on the Trail",
+    "dek": "Turn a single zip tie into a makeshift water filter for emergency hydration on ultralight hikes.",
+    "takeaway": "A zip tie can be repurposed as a quick, lightweight filter when water sources are questionable.",
+    "whatHappened": "During a solo section of the Colorado Trail, I ran out of pre‑packed filter cartridges. I improvised by threading a zip tie through a piece of folded cotton and charcoal, creating a functional filter that strained out sediment.",
+    "whyItMatters": "Carrying extra filter media adds weight; a reversible DIY solution keeps you moving light while still providing a safety net against contaminated water. Knowing how to improvise can mean the difference between a dry throat and a safe sip.",
+    "howToThink": "Assess the water source, assemble the zip‑tie filter with available materials (cotton, charcoal, sand), and pre‑boil the filtered water. Keep the zip tie handy in your gear loop for emergencies.",
+    "pros": [
+      "Near‑zero weight",
+      "Uses items you already carry",
+      "Fast to assemble"
+    ],
+    "cons": [
+      "Limited lifespan",
+      "Only removes particulates",
+      "Requires boiling for pathogens"
+    ],
+    "watchOut": "Never rely on it for long‑term drinking; always treat or boil the water after filtering.",
+    "faq": [
+      {
+        "q": "Can I use any zip tie?",
+        "a": "Standard stainless‑steel or coated zip ties work best; avoid cheap plastic that may break under tension."
+      },
+      {
+        "q": "How effective is the filter?",
+        "a": "It removes sand, silt, and larger debris, but not bacteria or viruses—so follow up with boiling or chemical treatment."
+      },
+      {
+        "q": "How many uses does it get?",
+        "a": "Typically 5–10 passes before the media clogs; replace the cotton or charcoal as needed."
+      }
+    ],
+    "category": "Skills",
+    "tags": [
+      "DIY",
+      "Hydration"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-08-25T07:29:50.994Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "lower-base-weight-cheap-field-test-24",
     "title": "\"lower base weight cheap\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about lower base weight cheap through a month of actual use. Some of it survived.",

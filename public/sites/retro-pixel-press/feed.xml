@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>A weekend project: level up your hardware in two hours</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-50.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-50.html</guid>
+      <pubDate>Tue, 25 Aug 2026 07:29:39 GMT</pubDate>
+      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Unlocking FM Audio on the Master System: A Simple Mod</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/unlocking-fm-audio-master-system.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/unlocking-fm-audio-master-system.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/microcontroller-overclock-nes.html</guid>
       <pubDate>Sun, 23 Aug 2026 23:56:18 GMT</pubDate>
       <description>Add a tiny Arduino Nano to your NES controller for sub‑millisecond response gains without breaking the original feel.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-46.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-46.html</guid>
-      <pubDate>Sun, 23 Aug 2026 22:57:25 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>

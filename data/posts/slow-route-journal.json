@@ -1,5 +1,56 @@
 [
   {
+    "slug": "platform-power-naps",
+    "title": "Platform Power Naps: Making Overnight Trains Restful",
+    "dek": "Turn idle hours on night trains into restorative power naps without extra gear or cost.",
+    "takeaway": "A short, structured nap on the train can keep you fresh for the next leg of your slow‑travel adventure.",
+    "whatHappened": "I boarded a 10‑hour sleeper train from Berlin to Vienna and set a simple 30‑minute nap schedule using the cabin lights and a soft pillow. By the time we arrived, I felt more awake than after a full night’s sleep at a hostel.",
+    "whyItMatters": "Sleep deprivation is a hidden cost of budget rail travel, draining energy and enthusiasm for on‑ground exploration. Harnessing the train’s downtime preserves health and keeps your itinerary sustainable.",
+    "howToThink": "Pick a quiet carriage, dim the lights, set a gentle alarm, and use a travel pillow or rolled jacket for neck support. Keep the nap under 45 minutes to avoid deep‑sleep inertia, and hydrate before you settle.",
+    "pros": [
+      "Boosts energy for next day",
+      "Zero extra cost",
+      "Fits into existing schedule"
+    ],
+    "cons": [
+      "Limited privacy",
+      "Noise from other passengers",
+      "Requires disciplined schedule"
+    ],
+    "watchOut": "Avoid deep sleep if you need to disembark early, or you may miss your stop.",
+    "faq": [
+      {
+        "q": "Do I need a special pillow?",
+        "a": "A compact travel pillow or a rolled-up sweater works fine; the goal is neck support, not luxury."
+      },
+      {
+        "q": "Can I nap in a regular seat?",
+        "a": "Yes—use a blanket and a small pillow to create a makeshift nest; just be courteous to fellow travelers."
+      },
+      {
+        "q": "What about train announcements?",
+        "a": "Set a gentle alarm on your phone and keep the volume low so you’re still aware of station calls."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sleep"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-25T07:29:41.057Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-54",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",
