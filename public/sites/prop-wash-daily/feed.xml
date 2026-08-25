@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/prop-wash-daily/</link>
     <description>Fresh takes for FPV drone pilots and builders.</description>
     <item>
+      <title>Midair Boost: Tuning ESC Pulses for Snappier Response</title>
+      <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/midair-boost-esc-tuning.html</link>
+      <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/midair-boost-esc-tuning.html</guid>
+      <pubDate>Tue, 25 Aug 2026 10:05:53 GMT</pubDate>
+      <description>A quick guide to tweaking ESC pulse timing for tighter throttle control without new hardware.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your builds in two hours</title>
       <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/weekend-project-builds-72.html</link>
       <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/weekend-project-builds-72.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/drone-build-guide-2026-field-test-23.html</guid>
       <pubDate>Mon, 24 Aug 2026 04:28:01 GMT</pubDate>
       <description>We put the most-repeated advice about drone build guide 2026 through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your regulations questions, answered</title>
-      <link>https://www.beyondmythos.com/sites/prop-wash-daily/posts/ask-the-forge-regulations-66.html</link>
-      <guid>https://www.beyondmythos.com/sites/prop-wash-daily/posts/ask-the-forge-regulations-66.html</guid>
-      <pubDate>Mon, 24 Aug 2026 03:37:51 GMT</pubDate>
-      <description>Straight answers to the regulations questions FPV drone pilots and builders keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>
