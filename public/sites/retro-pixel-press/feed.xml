@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel‑Perfect: Boosting SNES Controller Response for Tight Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-controller-response-boost.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-controller-response-boost.html</guid>
+      <pubDate>Tue, 25 Aug 2026 14:27:01 GMT</pubDate>
+      <description>A quick mod to shave milliseconds off SNES button latency for speedrunners and collectors alike.</description>
+    </item>
+    <item>
       <title>Turbocharging Your NES Controller: A DIY Upgrade for Speedrunners</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controller-upgrade.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controller-upgrade.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-47.html</guid>
       <pubDate>Mon, 24 Aug 2026 08:27:46 GMT</pubDate>
       <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
-    </item>
-    <item>
-      <title>Analog Joy: Boosting 1 ms Response on Classic NES Controllers</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/analog-joy-boost-nes.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/analog-joy-boost-nes.html</guid>
-      <pubDate>Mon, 24 Aug 2026 07:44:04 GMT</pubDate>
-      <description>Add a cheap analog tweak to shave a millisecond off NES controller latency for tighter speedruns.</description>
     </item>
   </channel>
 </rss>
