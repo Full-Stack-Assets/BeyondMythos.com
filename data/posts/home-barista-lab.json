@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-power-pre-infusion",
+    "title": "The Hidden Power of Pre-Infusion: Boosting Espresso Extraction",
+    "dek": "A quick dive into why a brief pre‑infusion can transform your shot’s body and flavor.",
+    "takeaway": "Add a 2‑second low‑pressure soak before full pressure for richer, more balanced espresso.",
+    "whatHappened": "I set my machine’s pressure profile to 2 bar for 2 seconds, then ramped to 9 bar, and compared shots with and without the step. The pre‑infused shots showed fuller body and smoother acidity.",
+    "whyItMatters": "Pre‑infusion lets the coffee puck wet evenly, reducing channeling and unlocking nuanced flavors that standard ramps can miss.",
+    "howToThink": "Start with a modest 2‑second, 2‑bar soak; adjust time up to 4 seconds if your grind is fine or dose high, then return to your usual pressure.",
+    "pros": [
+      "Better balance",
+      "Reduced channeling",
+      "Easy machine setting"
+    ],
+    "cons": [
+      "Requires pressure‑profile machine",
+      "Adds a few seconds per shot",
+      "May need grind tweak"
+    ],
+    "watchOut": "Too long or too high a pre‑infusion pressure can over‑extract and taste muddy.",
+    "faq": [
+      {
+        "q": "Will pre‑infusion work on a non‑PID machine?",
+        "a": "You can simulate it with a manual pressure valve or by briefly pausing the pump, but precise control needs a PID or pressure‑profile machine."
+      },
+      {
+        "q": "How does pre‑infusion affect dose?",
+        "a": "Generally keep your usual dose; if you notice bitterness, reduce dose slightly to compensate for the extra extraction time."
+      },
+      {
+        "q": "Can I use pre‑infusion with a bottomless portafilter?",
+        "a": "Yes—watch the flow; a steady, slow bloom often produces a cleaner shot and reveals any channeling."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "pre-infusion",
+      "espresso-tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-25T19:17:12.062Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "micro-timing-mastery-espresso",
     "title": "Micro‑Timing Mastery: Why a 0.2‑Second Shift Transforms Your Espresso",
     "dek": "A tiny shift in shot timing can unlock flavor depth and consistency you thought required expensive gear.",

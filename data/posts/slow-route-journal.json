@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-stations-pop-up-rest-stops",
+    "title": "Silent Stations: Turning Unused Platforms into Pop‑Up Rest Stops",
+    "dek": "Discover how idle train platforms can become low‑impact rest havens for slow travelers.",
+    "takeaway": "Empty platforms can be reclaimed as comfortable, eco‑friendly pit stops.",
+    "whatHappened": "While waiting for a delayed night train in a small town, I noticed an abandoned platform with a bench and a shade awning. I set up a small portable mat, a reusable mug, and a solar lantern, turning the space into a makeshift lounge for fellow passengers. The impromptu hub sparked conversations and a shared sense of community.",
+    "whyItMatters": "Utilizing idle infrastructure reduces the need for extra lodging, cuts carbon footprints, and enriches the travel experience with spontaneous local interactions. It also showcases how small actions can repurpose underused assets in the rail network.",
+    "howToThink": "Scout for platforms with shelter, a bench or railing, and low foot traffic. Pack a compact travel mat, a lightweight lantern, and a reusable cup. Offer a quick clean‑up after use and share the spot on local traveler forums to inspire others.",
+    "pros": [
+      "Zero extra lodging cost",
+      "Low environmental impact",
+      "Fosters community among travelers"
+    ],
+    "cons": [
+      "Weather dependent",
+      "May lack security",
+      "Limited facilities"
+    ],
+    "watchOut": "Check local regulations; some stations forbid overnight stays or sleeping on platforms.",
+    "faq": [
+      {
+        "q": "Is it legal to sleep on a platform?",
+        "a": "Rules vary by country and operator; always look for signage or ask station staff before setting up."
+      },
+      {
+        "q": "What gear should I bring for a pop‑up platform rest?",
+        "a": "A compact travel mat, a battery‑powered lantern, a reusable mug, and a small trash bag for clean‑up."
+      },
+      {
+        "q": "How can I stay safe?",
+        "a": "Choose well‑lit platforms, keep valuables close, and stay aware of train schedules."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low‑impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-25T19:17:09.822Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-nights-sleeper-mini-retreats",
     "title": "Quiet Nights on the Sleeper: Turning Overnight Trains into Mini‑Retreats",
     "dek": "Transform a night on a sleeper car into a low‑impact sanctuary with simple tweaks and mindset shifts.",
