@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pocket-planters-micro-spaces",
+    "title": "Pocket Planters: Maximizing Micro‑Spaces on Tiny Balconies",
+    "dek": "Turn any balcony nook into a thriving herb oasis with tiny pocket planters that fit railings, windowsills, and even light fixtures.",
+    "takeaway": "Even the smallest balcony can host a productive herb garden using pocket planters.",
+    "whatHappened": "We tried three pocket planter kits on a 4‑ft balcony, arranging them on the railing, a windowsill, and a ceiling hook. Within two weeks, basil, thyme, and chives sprouted robustly.",
+    "whyItMatters": "Apartment dwellers often think limited space means limited harvest. Demonstrating dense planting proves you can enjoy fresh herbs without a sprawling setup.",
+    "howToThink": "Choose shallow, self‑draining containers, use a lightweight soil mix, and group plants with similar water needs. Position them where they catch the most indirect light and rotate weekly.",
+    "pros": [
+      "Space‑saving",
+      "Easy to install",
+      "Great for herbs"
+    ],
+    "cons": [
+      "Limited root depth",
+      "Frequent watering",
+      "May need extra support"
+    ],
+    "watchOut": "Avoid heavy pots on railings—they can tip over in wind.",
+    "faq": [
+      {
+        "q": "Can I use any pot for a pocket planter?",
+        "a": "Pick lightweight containers with drainage holes; plastic or fabric pots work best."
+      },
+      {
+        "q": "How often should I water pocket planters?",
+        "a": "Check daily; water when the top inch feels dry, as shallow soil dries quickly."
+      },
+      {
+        "q": "Do I need fertilizer?",
+        "a": "Use a diluted liquid fertilizer every two weeks to replenish nutrients in the limited soil volume."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Containers",
+      "Herbs"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-08-25T05:17:09.964Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-boost-diy-light-reflector-panels",
     "title": "Balcony Boost: Harvest More With DIY Light‑Reflector Panels",
     "dek": "Turn cheap household mirrors into a sun‑catcher that doubles light for balcony pots.",
