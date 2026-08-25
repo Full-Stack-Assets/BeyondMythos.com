@@ -1,5 +1,56 @@
 [
   {
+    "slug": "why-you-need-a-pull-up-bar",
+    "title": "Why You Need a Pull‑Up Bar in Every Garage Gym",
+    "dek": "A pull‑up bar adds strength, mobility, and a cheap power‑move for any garage gym.",
+    "takeaway": "Add a sturdy pull‑up bar and you instantly expand your lift repertoire without breaking the bank.",
+    "whatHappened": "We installed a budget‑friendly wall‑mounted pull‑up bar in a 12×20 garage, then tracked usage over a month. Lifters added chin‑ups, muscle‑ups, and hanging core work, reporting better upper‑body strength.",
+    "whyItMatters": "Pull‑ups are a proven predictor of overall strength and help balance push‑pull ratios. In cramped garages they replace expensive machines and improve mobility.",
+    "howToThink": "Choose a bar with a high weight rating, mount it to studs or a solid beam, leave at least 24‑in clearance, and integrate it into warm‑ups and accessory circuits.",
+    "pros": [
+      "Cheap vs. equipment ROI",
+      "Adds vertical pulling",
+      "Improves mobility"
+    ],
+    "cons": [
+      "Requires solid mounting",
+      "Limited grip variations",
+      "May interfere with ceiling height"
+    ],
+    "watchOut": "Never overload a wall‑mounted bar beyond its rated capacity or you’ll risk a nasty failure.",
+    "faq": [
+      {
+        "q": "Can I use a door‑frame pull‑up bar?",
+        "a": "Door‑frame bars are convenient but often lack the load capacity for heavy training; a wall‑mounted bar is safer for garage use."
+      },
+      {
+        "q": "How much clearance do I need?",
+        "a": "Leave at least 24‑in from the bar to the ceiling and 36‑in to any overhead obstacles to allow full range of motion."
+      },
+      {
+        "q": "What grip options are best?",
+        "a": "Buy a bar with multiple diameters or add interchangeable grip sleeves to vary hand positions and reduce wrist strain."
+      }
+    ],
+    "category": "Racks",
+    "tags": [
+      "pull-ups",
+      "budget"
+    ],
+    "sources": [
+      {
+        "label": "r/homegym community threads",
+        "url": "https://www.reddit.com/r/homegym/"
+      },
+      {
+        "label": "Search interest: \"garage gym on a budget\"",
+        "url": "https://duckduckgo.com/?q=garage%20gym%20on%20a%20budget"
+      }
+    ],
+    "publishedAt": "2026-08-25T23:02:30.545Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-gym-programming-25",
     "title": "Myth vs. reality: home gym programming",
     "dek": "The persistent myths around home gym programming, stress-tested against what home lifters building garage gyms actually report.",

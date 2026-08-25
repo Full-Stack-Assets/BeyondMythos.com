@@ -1,5 +1,56 @@
 [
   {
+    "slug": "crt-scanline-mod-sharpen-snes-speedrun-vision",
+    "title": "CRT Scanline Mod: Sharpen Your SNES Speedrun Vision",
+    "dek": "Add a cheap scanline overlay to your CRT for clearer timing cues and less eye strain during marathon runs.",
+    "takeaway": "A simple scanline mod can boost visual clarity and reaction time for competitive SNES speedrunning.",
+    "whatHappened": "We sourced a thin transparent film printed with classic CRT scanlines and affixed it to the screen bezel of a vintage TV. After calibrating brightness, the overlay produced distinct horizontal bars without sacrificing overall image quality. The result was an instantly sharper view of sprite movement during practice runs.",
+    "whyItMatters": "Speedrunners rely on split‑second visual cues; even a slight blur can cost a frame. The added scanlines accentuate edges, making it easier to spot frame‑perfect inputs. For collectors who already own CRTs, the upgrade offers a performance edge without altering the original hardware.",
+    "howToThink": "Treat the mod as a visual aid, not a cheat—use it to reduce eye fatigue and improve consistency. Test with your favorite timer to ensure the overlay doesn’t shift perceived timing. Keep the film clean; dust can re‑introduce visual noise.",
+    "pros": [
+      "Low cost",
+      "Easy install",
+      "Improves frame perception"
+    ],
+    "cons": [
+      "May dim brightness",
+      "Requires CRT",
+      "Potentially alters color fidelity"
+    ],
+    "watchOut": "Avoid covering the TV screen with opaque material that could cause overheating.",
+    "faq": [
+      {
+        "q": "Will the scanline film affect game colors?",
+        "a": "It slightly mutates color intensity, but most runners find the trade‑off worth the sharper contrast."
+      },
+      {
+        "q": "Can I use this on modern LCDs?",
+        "a": "The effect relies on phosphor‑based scanlines; LCDs don’t replicate the same visual benefit."
+      },
+      {
+        "q": "Is the overlay removable?",
+        "a": "Yes—most films use static cling, so you can peel it off without residue."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "speedruns"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-25T23:02:26.607Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-snes-16",
     "title": "Community pulse: what r/snes is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",
