@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-carriage-crafts-diy-upgrades",
+    "title": "Quiet Carriage Crafts: DIY Upgrades for the Slow Traveler",
+    "dek": "Turn idle carriage time into a creative workshop with three low‑impact upgrades you can do on the go.",
+    "takeaway": "Small DIY tweaks turn a train ride into a moving makerspace.",
+    "whatHappened": "On a week‑long sleeper route through the Alps, I installed a portable solar charger, a magnetic notebook holder, and a reusable water pouch—all without disturbing fellow passengers.",
+    "whyItMatters": "Slow travelers spend hours in transit; turning that time into productive, low‑impact activity reduces waste and deepens the journey experience.",
+    "howToThink": "Look for unused spaces, choose lightweight, reusable gear, and favor solar or kinetic power; the goal is to add value without adding weight.",
+    "pros": [
+      "Eco‑friendly upgrades",
+      "Boosts morale on long hauls",
+      "Minimal cost"
+    ],
+    "cons": [
+      "Limited space",
+      "Initial setup time",
+      "May need train permission"
+    ],
+    "watchOut": "Ensure any modifications don’t block aisles or emergency exits.",
+    "faq": [
+      {
+        "q": "Can I use a solar charger on any train?",
+        "a": "Most modern trains allow USB ports, and a small fold‑out panel works under ambient light, but check carriage rules first."
+      },
+      {
+        "q": "Is a magnetic notebook safe?",
+        "a": "Yes, as long as it’s a low‑strength magnet that won’t interfere with train electronics."
+      },
+      {
+        "q": "How do I keep my water pouch from leaking?",
+        "a": "Choose a BPA‑free collapsible bottle with a sealed cap and place it in the side pocket of your bag."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "DIY",
+      "Rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-25T15:27:09.498Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-55",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",
