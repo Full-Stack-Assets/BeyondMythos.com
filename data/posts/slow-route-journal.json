@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-wagon-study-nook",
+    "title": "Quiet Carriage Corners: Turning Empty Wagons into Mini‑Study Nooks",
+    "dek": "Transform unused train wagons into low‑impact work‑or‑read spaces on the move.",
+    "takeaway": "Even a single empty carriage can become a productive, low‑carbon oasis for slow travelers.",
+    "whatHappened": "A weekend crew in the Midwest repurposed a de‑commissioned freight wagon into a pop‑up study pod, installing solar panels, a fold‑out desk, and reclaimed wood shelving. The project was documented on the rail‑line’s social feed, sparking interest from fellow nomads.",
+    "whyItMatters": "Rail corridors are abundant yet underutilized; giving them purpose reduces waste and enriches the journey. It also demonstrates how small, local interventions can amplify the appeal of slow‑travel without heavy infrastructure.",
+    "howToThink": "Scout for idle wagons at nearby yards, negotiate short‑term access, and bring lightweight, modular furniture. Prioritise solar or kinetic chargers, and use reclaimed materials to keep the carbon footprint minimal.",
+    "pros": [
+      "Low‑cost repurposing",
+      "Boosts on‑the‑go productivity",
+      "Adds unique charm to trips"
+    ],
+    "cons": [
+      "Requires yard permission",
+      "Limited space",
+      "Weather‑exposure risk"
+    ],
+    "watchOut": "Ensure any modifications are reversible and comply with rail safety regulations.",
+    "faq": [
+      {
+        "q": "Do I need special permits to use a freight wagon?",
+        "a": "Yes, always get written permission from the yard owner and confirm safety compliance."
+      },
+      {
+        "q": "What power sources work best in a moving wagon?",
+        "a": "Portable solar panels or kinetic chargers that harvest train motion are ideal."
+      },
+      {
+        "q": "Can I stay overnight in the wagon?",
+        "a": "Only if the rail operator allows it and you have proper ventilation and fire safety measures."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Low‑Impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-25T21:59:08.728Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-50",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",

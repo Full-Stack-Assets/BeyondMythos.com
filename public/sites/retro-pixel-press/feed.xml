@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Community pulse: what r/snes is debating this week</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-snes-16.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-snes-16.html</guid>
+      <pubDate>Tue, 25 Aug 2026 21:59:07 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-54.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-54.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-48.html</guid>
       <pubDate>Mon, 24 Aug 2026 16:15:44 GMT</pubDate>
       <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
-    </item>
-    <item>
-      <title>CRT Calibration Hack: Trim Input Lag to 2 ms</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-hack.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-hack.html</guid>
-      <pubDate>Mon, 24 Aug 2026 15:22:01 GMT</pubDate>
-      <description>A quick guide to tweaking your CRT’s sync and scanlines for razor‑thin input lag without expensive gear.</description>
     </item>
   </channel>
 </rss>
