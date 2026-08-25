@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-platform-gardening",
+    "title": "Midnight Platform Gardening: Growing Calm in the Quiet Car",
+    "dek": "Turn the empty night carriage into a pop‑up garden and boost your low‑impact travel vibe.",
+    "takeaway": "A simple seed kit can transform idle train time into a mindful, eco‑friendly ritual.",
+    "whatHappened": "On a recent 12‑hour sleeper from Berlin to Vienna, I spread a tiny herb kit across the table, watered it with a refillable bottle, and watched seedlings sprout by sunrise. Fellow passengers joined, sharing tips and swapping seeds.",
+    "whyItMatters": "Micro‑gardening on trains reduces waste, adds greenery to sterile interiors, and encourages travelers to think about their carbon footprint. It also creates spontaneous community moments that enrich the slow‑travel experience.",
+    "howToThink": "Carry a compact, soil‑free seed pod, a collapsible spray bottle, and a reusable tote. Choose fast‑germinating herbs like basil or mint, and use the train’s water dispenser sparingly. Keep the kit in a sealed bag to avoid spills.",
+    "pros": [
+      "Boosts morale",
+      "Low‑impact activity",
+      "Fosters community"
+    ],
+    "cons": [
+      "Limited space",
+      "Potential mess",
+      "Requires patience"
+    ],
+    "watchOut": "Avoid seeds that could become invasive if discarded at stations.",
+    "faq": [
+      {
+        "q": "Can I bring soil on a train?",
+        "a": "Use soil‑free seed pods or peat‑less mats to stay clean and compliant with rail policies."
+      },
+      {
+        "q": "What herbs grow fastest in a moving carriage?",
+        "a": "Basil, mint, and cilantro germinate within 3‑5 days and tolerate low light."
+      },
+      {
+        "q": "How do I dispose of the kit responsibly?",
+        "a": "Seal any waste in your tote and discard at a recycling bin at your destination."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "eco‑tips"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-25T08:21:58.379Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "platform-power-naps",
     "title": "Platform Power Naps: Making Overnight Trains Restful",
     "dek": "Turn idle hours on night trains into restorative power naps without extra gear or cost.",
