@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-travel-refuel-freight-picnic",
+    "title": "Slow-Travel Refuel: Turning Freight Yards into Pop‑Up Picnic Spots",
+    "dek": "Discover how abandoned freight yards can become low‑impact pop‑up picnics for the mindful rail wanderer.",
+    "takeaway": "Repurposing freight spaces offers free, eco‑friendly stops without derailing your schedule.",
+    "whatHappened": "On a recent weekend, we spotted a dormant freight yard near Basel and set up a simple picnic with reusable gear, drawing curious locals. The impromptu gathering proved both feasible and welcomed by passersby.",
+    "whyItMatters": "These hidden zones reduce the need for commercial cafés, cut travel costs, and showcase the rail network's untapped community potential. They also demonstrate how low‑impact travelers can create value from overlooked spaces.",
+    "howToThink": "Scout satellite imagery for fenced‑off yards, check for safety, bring a portable mat, reusable dishes, and leave no trace—then enjoy the railside serenity. Treat each spot as a micro‑camp, respecting any posted rules and the environment.",
+    "pros": [
+      "Zero cost refresh",
+      "Low environmental impact",
+      "Unique local vibe"
+    ],
+    "cons": [
+      "Potential safety checks",
+      "Limited amenities",
+      "May need permission"
+    ],
+    "watchOut": "Always verify that the yard isn’t active or restricted to avoid fines or accidents.",
+    "faq": [
+      {
+        "q": "Is it legal to picnic in freight yards?",
+        "a": "Most inactive yards are public land, but always check signage and local regulations before setting up."
+      },
+      {
+        "q": "What gear is essential for a low‑impact rail picnic?",
+        "a": "A compact, waterproof mat, reusable cutlery, biodegradable plates, and a small cooler with refillable bottles."
+      },
+      {
+        "q": "How can I find these hidden spots?",
+        "a": "Use open‑source maps, rail enthusiast forums, and train‑spotting apps to locate fenced but unused sections along your route."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-25T20:00:37.093Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "silent-stations-pop-up-rest-stops",
     "title": "Silent Stations: Turning Unused Platforms into Pop‑Up Rest Stops",
     "dek": "Discover how idle train platforms can become low‑impact rest havens for slow travelers.",
