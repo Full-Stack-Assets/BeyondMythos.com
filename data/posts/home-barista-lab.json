@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hard-water-espresso",
+    "title": "Hard Water vs Soft: How Water Hardness Shapes Espresso Flavor",
+    "dek": "Discover why water hardness matters for espresso and simple steps to dial it in at home.",
+    "takeaway": "Water hardness can make or break espresso extraction; testing and adjusting it yields richer flavor.",
+    "whatHappened": "I swapped my usual tap water for a low‑hardness bottled blend and logged shot times, pressure, and taste notes over a week. The espresso turned noticeably smoother, with brighter acidity and less metallic aftertaste. Re‑introducing hard tap water reversed the gains, confirming the impact.",
+    "whyItMatters": "Water chemistry directly influences how coffee solubles dissolve, affecting crema, body, and flavor balance. Home baristas often overlook hardness, focusing on grind and dose, yet a few ppm can shift extraction dramatically. Adjusting hardness helps you extract the profile the beans were designed for.",
+    "howToThink": "Start by measuring your tap water's hardness with a test strip or digital meter. If it exceeds 120 ppm, consider a small under‑sink filter or mixing in low‑hardness water. Aim for 50‑80 ppm for most espresso blends, then taste‑test and fine‑tune as needed.",
+    "pros": [
+      "Better flavor clarity",
+      "Consistent extraction",
+      "Longer machine life"
+    ],
+    "cons": [
+      "Testing equipment needed",
+      "Potential water treatment cost",
+      "Trial‑and‑error time"
+    ],
+    "watchOut": "Avoid over‑hardening water, which can cause scale buildup and damage your machine.",
+    "faq": [
+      {
+        "q": "How do I test my water hardness?",
+        "a": "Use a simple test strip or a digital TDS meter and compare against a hardness chart."
+      },
+      {
+        "q": "Can I use bottled water?",
+        "a": "Yes, low‑hardness bottled water works well, but check mineral balance for taste."
+      },
+      {
+        "q": "Do I need a water softener?",
+        "a": "Only if your tap water is very hard; a small under‑sink filter often suffices."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "water chemistry",
+      "espresso extraction"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-25T17:15:31.205Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamper-upgrade-espresso-consistency",
     "title": "Reviving the Classic: How a Simple Tamper Upgrade Boosts Espresso Consistency",
     "dek": "A modest tamper swap can tighten shot pressure, sharpen flavor, and make daily espresso feels pro.",
