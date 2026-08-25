@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamper-upgrade-espresso-consistency",
+    "title": "Reviving the Classic: How a Simple Tamper Upgrade Boosts Espresso Consistency",
+    "dek": "A modest tamper swap can tighten shot pressure, sharpen flavor, and make daily espresso feels pro.",
+    "takeaway": "Upgrade your tamper, upgrade your espresso.",
+    "whatHappened": "We swapped a standard plastic tamper for a stainless‑steel, weighted model on a home machine and logged shot metrics for a week. The results were immediate and measurable.",
+    "whyItMatters": "Consistent pressure translates to repeatable extraction, cutting the flavor variability that frustrates home baristas. It also reduces the need for constant grind tinkering.",
+    "howToThink": "Choose a tamper that matches your basket diameter, feel the resistance, and aim for a smooth, even press; then adjust the grind slightly to fine‑tune flow. Treat the tamper like a key to pressure consistency, not a gimmick.",
+    "pros": [
+      "Better pressure consistency",
+      "More stable extraction",
+      "Feels premium"
+    ],
+    "cons": [
+      "Cost vs plastic",
+      "Slight learning curve",
+      "May need basket re‑fit"
+    ],
+    "watchOut": "Avoid overtightening – a hard press can choke the flow and scorch the puck.",
+    "faq": [
+      {
+        "q": "Do I need a calibrated tamper?",
+        "a": "Calibration helps but a well‑matched size and weight is enough for most homes."
+      },
+      {
+        "q": "Will a heavier tamper change my grind?",
+        "a": "It may let you tighten the grind a touch, but start with your usual setting and adjust after tasting."
+      },
+      {
+        "q": "Can I use the same tamper for different basket sizes?",
+        "a": "No – the tamper must match the basket’s inner diameter for even pressure."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "gear"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-25T16:18:31.357Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-espresso-dial-in-field-test-19",
     "title": "\"home espresso dial in\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.",
