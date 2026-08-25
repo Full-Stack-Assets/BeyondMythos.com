@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-tricks-small-adjustments-big-gains",
+    "title": "Tamping Tricks: Small Adjustments, Big Gains",
+    "dek": "A quick guide to fine‑tuning your tamp for richer, more consistent shots at home.",
+    "takeaway": "Even a millimeter shift in tamp pressure can unlock better extraction.",
+    "whatHappened": "I tried three tamping variations—light, medium, and firm—on the same dose and recorded the shot times and flavor notes. The medium‑firm tamp delivered a balanced body with a clean finish, while the light tamp tasted thin and the over‑firm tamp turned bitter.",
+    "whyItMatters": "Tamping pressure influences the water’s path through the puck, directly affecting extraction balance and flavor clarity. Home baristas often overlook this step, missing out on a simple performance boost.",
+    "howToThink": "Aim for a consistent pressure around 30 lb, but focus on a level surface and even distribution before you press. Use a calibrated tamper or a simple bathroom scale to train your hand, and always level the puck with a gentle polish.",
+    "pros": [
+      "Improves shot consistency",
+      "Enhances flavor clarity",
+      "Low‑cost adjustment"
+    ],
+    "cons": [
+      "Requires practice",
+      "May expose grinder dose inconsistencies",
+      "Over‑tamping can cause bitterness"
+    ],
+    "watchOut": "Don’t crank the pressure past 35 lb or you’ll choke the flow and create harsh bitterness.",
+    "faq": [
+      {
+        "q": "Do I need a calibrated tamper?",
+        "a": "Not mandatory, but a weighted tamper or a scale helps you repeat the same pressure each pull."
+      },
+      {
+        "q": "How long should I hold the tamp?",
+        "a": "A steady 2‑second pause lets the puck settle and reduces vibration."
+      },
+      {
+        "q": "Can I tamp with my hand instead of a tool?",
+        "a": "Hand tamping is inconsistent; a proper tamper ensures even pressure and a flat surface."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "tamping",
+      "espresso-tech"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-25T03:30:45.067Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "mastering-pre-infusion-boost-espresso-flavor",
     "title": "Mastering the Pre-Infusion: Boost Your Espresso Flavor",
     "dek": "A quick guide to using pre-infusion to unlock richer, more balanced espresso shots at home.",

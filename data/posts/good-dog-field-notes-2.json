@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-walk-finesse",
+    "title": "First Walk Finesse: Turning a Tug of War into a Joyful Stroll",
+    "dek": "Turn that chaotic first walk into a calm, confidence‑building adventure for you and your puppy.",
+    "takeaway": "A structured, short‑session walk with clear cues makes the first leash outing a success.",
+    "whatHappened": "I took my 8‑week‑old Labrador mix out for his inaugural walk and he immediately lunged for every scent, turning the leash into a tug rope. By pausing, rewarding a few steps forward, and resetting each pull, the walk quickly shifted from chaos to calm.",
+    "whyItMatters": "The first leash experience sets the behavioral baseline for years of walking; a positive start prevents entrenched pulling and fear of the collar. Early success builds both puppy confidence and owner confidence.",
+    "howToThink": "Start with 5‑minute sessions in a low‑distraction area, use a snug but comfortable harness, keep the leash slack, and reward any forward movement with high‑value treats. If the puppy pulls, stop walking, wait for slack, then resume. Consistency beats length.",
+    "pros": [
+      "Boosts confidence",
+      "Reduces pulling",
+      "Strengthens bond"
+    ],
+    "cons": [
+      "Requires patience",
+      "May need extra treats",
+      "Initial time commitment"
+    ],
+    "watchOut": "Avoid long, unstructured walks that overwhelm a new puppy.",
+    "faq": [
+      {
+        "q": "What leash length is best for a first walk?",
+        "a": "A 4‑foot leash gives enough control without feeling restrictive."
+      },
+      {
+        "q": "How often should I practice these short walks?",
+        "a": "Aim for 2‑3 times daily until the puppy reliably walks on loose leash."
+      },
+      {
+        "q": "My puppy is scared of the harness—what now?",
+        "a": "Introduce the harness gradually with play and treats before attaching the leash."
+      }
+    ],
+    "category": "Behavior",
+    "tags": [
+      "Leash Training",
+      "Puppy Walks"
+    ],
+    "sources": [
+      {
+        "label": "r/Dogtraining community threads",
+        "url": "https://www.reddit.com/r/Dogtraining/"
+      },
+      {
+        "label": "Search interest: \"leash reactivity tips\"",
+        "url": "https://duckduckgo.com/?q=leash%20reactivity%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-25T03:30:58.484Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "positive-reinforcement-basics-field-test-19",
     "title": "\"positive reinforcement basics\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about positive reinforcement basics through a month of actual use. Some of it survived.",

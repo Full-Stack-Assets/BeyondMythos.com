@@ -1,5 +1,56 @@
 [
   {
+    "slug": "nighttime-platform-yoga",
+    "title": "Nighttime Platform Yoga: Stretching Between Trains",
+    "dek": "Turn idle platform minutes into a mindful stretch session, boosting energy for the next leg.",
+    "takeaway": "A quick yoga flow on the platform keeps you limber and grounded during slow journeys.",
+    "whatHappened": "While waiting for a delayed night train in Lyon, I tried a simple 10‑minute yoga routine on the platform. Fellow travelers joined, and the mood shifted from restless to relaxed.",
+    "whyItMatters": "Stretching counters the stiffness of long seat hours and reduces travel stress, aligning with low‑impact, mindful travel values. It also fosters community among strangers.",
+    "howToThink": "Pick a safe spot away from the edge, use a travel mat or towel, and follow a basic sequence—neck rolls, cat‑cow, standing forward fold, and a seated twist. Keep movements gentle and respect nearby passengers.",
+    "pros": [
+      "Boosts circulation",
+      "Improves mood",
+      "No gear needed"
+    ],
+    "cons": [
+      "Requires a quiet moment",
+      "Limited space on crowded platforms",
+      "May draw curious looks"
+    ],
+    "watchOut": "Avoid blocking aisles or emergency exits while you stretch.",
+    "faq": [
+      {
+        "q": "Is it allowed to do yoga on train platforms?",
+        "a": "Generally fine as long as you stay clear of traffic and respect signage."
+      },
+      {
+        "q": "What if the platform is crowded?",
+        "a": "Opt for seated stretches on a bench or wait for a quieter moment."
+      },
+      {
+        "q": "Do I need a mat?",
+        "a": "A compact travel towel works perfectly; the floor itself is fine for low‑impact moves."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "Rail",
+      "Local"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-25T03:30:42.849Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-onebag-18",
     "title": "Community pulse: what r/onebag is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",
