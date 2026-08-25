@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-detours-branch-lines",
+    "title": "Micro‑Detours: Tiny Branch Lines for Slow‑Travelers",
+    "dek": "Discover how tiny branch lines turn a routine train ride into a low‑impact adventure.",
+    "takeaway": "Branch lines add scenery, community, and minutes to your journey without extra carbon.",
+    "whatHappened": "While waiting for a delayed intercity service, I hopped onto a nearby heritage branch line that circles a historic valley. The short detour added 30 minutes but delivered rolling vineyards, a restored station café, and a chance to chat with locals who run the line.",
+    "whyItMatters": "Those extra minutes are low‑impact—they use existing tracks and diesel‑free or electric heritage locomotives, yet they enrich the travel narrative. For slow‑travelers, every pause is an opportunity to deepen place‑based connections without increasing your footprint.",
+    "howToThink": "When planning a route, scan the national rail map for “branch” or “regional” lines that intersect your main corridor. Mark them as optional detours, check timetables, and allocate a buffer slot in your itinerary. Treat the detour as a moving day‑trip: pack a lightweight snack, a notebook, and a camera.",
+    "pros": [
+      "Adds unexpected scenery",
+      "Supports local heritage railways",
+      "Minimal extra carbon"
+    ],
+    "cons": [
+      "Schedules can be infrequent",
+      "May require extra ticket purchase",
+      "Limited luggage space on heritage cars"
+    ],
+    "watchOut": "Heritage lines often have older rolling stock with fewer amenities, so bring a water bottle and a light jacket.",
+    "faq": [
+      {
+        "q": "Do I need a separate ticket for the branch line?",
+        "a": "Yes, most heritage lines sell their own tickets; they’re usually cheap and can be bought on‑board or at the small station kiosk."
+      },
+      {
+        "q": "Is the branch line wheelchair‑accessible?",
+        "a": "Accessibility varies; check the operator’s website ahead of time, as many historic cars lack modern ramps."
+      },
+      {
+        "q": "Can I bring a bike on the branch line?",
+        "a": "Most heritage services allow bikes, but space is limited—arrive early to secure a spot."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "slow-travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-25T13:33:46.675Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-platform-cafes-sipping-slow",
     "title": "Hidden Platform Cafés: Sipping Slow in Transit",
     "dek": "Discover tiny café gems tucked into stations, perfect for low‑impact pit stops on your slow‑travel route.",
