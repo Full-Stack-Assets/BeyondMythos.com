@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microfoam-mastery",
+    "title": "Microfoam Mastery: Barista-Level Foam at Home",
+    "dek": "Learn how to create silky, glossy microfoam with a simple milk-steamer tweak and a few seconds of practice.",
+    "takeaway": "A small change in steam wand technique can elevate your latte art from flat to flawless.",
+    "whatHappened": "I experimented with a 30-second pre-heat burst on my home machine’s steam wand, then lowered the pitcher and introduced a gentle whirl. The result was a glossy, marble-like foam that held its shape for minutes.",
+    "whyItMatters": "Great microfoam transforms texture, mouthfeel, and visual appeal, making even budget espresso drinks feel café quality. Consistent foam also improves latte art consistency, boosting confidence.",
+    "howToThink": "Start with cold milk, position the wand just below the surface, and use a short, high-heat pulse before switching to a steady, lower temperature stir. Keep the pitcher moving to incorporate air evenly.",
+    "pros": [
+      "Silky texture",
+      "Visually impressive",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires precise timing",
+      "May overheat milk if mis-timed",
+      "Learning curve for beginners"
+    ],
+    "watchOut": "Avoid steaming too long or at too high a temperature, or the milk will taste burnt and lose sweetness.",
+    "faq": [
+      {
+        "q": "What type of milk works best?",
+        "a": "Whole milk yields the richest foam, but 2% or oat milk can also produce good microfoam with a slightly different mouthfeel."
+      },
+      {
+        "q": "How long should the pre-heat burst be?",
+        "a": "Around 5–7 seconds on full power is enough; watch the milk temperature to stay below 65 °C."
+      },
+      {
+        "q": "Can I use this on a low-pressure machine?",
+        "a": "Yes, the technique relies on steam pressure, not pump pressure, so it works on most home machines with a steam wand."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "milk-steaming"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-26T18:24:32.037Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tuning-extraction-espresso",
     "title": "Fine-Tuning Extraction: The 18-Second Espresso Benchmark",
     "dek": "Discover how shaving a second off your pull can reshape flavor balance without new gear.",

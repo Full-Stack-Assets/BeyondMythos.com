@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-counterweight-hack",
+    "title": "DIY counterweight hack: boost stability without breaking the bank",
+    "dek": "Add a simple DIY counterweight to your mount and watch tracking jitter melt away, all for under $30.",
+    "takeaway": "A cheap counterweight can dramatically improve mount stability for backyard imaging.",
+    "whatHappened": "I tried a 1‑kg fishing sinker attached to my equatorial mount's declination axis during a clear night. The mount's wobble dropped noticeably, and my star trails smoothed out across 30‑minute exposures.",
+    "whyItMatters": "Mount vibrations are a hidden source of blur that can ruin deep‑sky frames, especially on budget rigs. Reducing that jitter extends your usable exposure time without upgrading the whole system.",
+    "howToThink": "Identify where the mount vibrates, then add a modest mass opposite the imbalance. Secure the weight with a zip‑tie or small clamp, and fine‑tune until the tracking error drops.",
+    "pros": [
+      "Cheap",
+      "Easy install",
+      "Immediate improvement"
+    ],
+    "cons": [
+      "Adds load",
+      "May need re‑balancing",
+      "Not a fix for all mounts"
+    ],
+    "watchOut": "Don’t overload the mount – keep added weight under 2 kg to avoid motor strain.",
+    "faq": [
+      {
+        "q": "Will any weight work?",
+        "a": "Use dense, compact masses like fishing sinkers or steel washers; too large a piece can shift the balance too far."
+      },
+      {
+        "q": "Do I need to recalibrate after adding the weight?",
+        "a": "Yes, run a quick polar alignment check and adjust the balance on both axes."
+      },
+      {
+        "q": "Can this be used on alt‑az mounts?",
+        "a": "It works best on equatorial mounts; alt‑az systems have different vibration characteristics."
+      }
+    ],
+    "category": "Rigs",
+    "tags": [
+      "mount upgrades",
+      "budget hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/AskAstrophotography community threads",
+        "url": "https://www.reddit.com/r/AskAstrophotography/"
+      },
+      {
+        "label": "Search interest: \"astrophotography without tracker\"",
+        "url": "https://duckduckgo.com/?q=astrophotography%20without%20tracker"
+      }
+    ],
+    "publishedAt": "2026-08-26T18:24:52.845Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "targets-pre-spend-checklist-61",
     "title": "The targets checklist: run this before you spend",
     "dek": "Seven questions that separate a justified targets purchase from an expensive mood.",

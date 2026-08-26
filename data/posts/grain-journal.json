@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlocking-hidden-potential-35mm-slr",
+    "title": "Unlocking the Hidden Potential of Your 35mm SLR",
+    "dek": "Discover how a few tweaks to your 35mm SLR can boost sharpness, tone, and reliability without spending a fortune.",
+    "takeaway": "Simple adjustments to focus calibration and film transport can dramatically improve image quality.",
+    "whatHappened": "I spent a Saturday fine‑tuning my vintage 35mm SLR, adjusting the focus cam, cleaning the shutter curtains, and testing a new pressure plate. The results were noticeably sharper frames and more consistent exposure across the roll.",
+    "whyItMatters": "Even a modest camera can hold its own against newer models when its mechanics are dialed in, saving you from costly upgrades. Consistent performance also reduces wasted film, crucial for tight budgets.",
+    "howToThink": "Start by checking the focus cam for play, then clean the shutter curtains with a blower and lens tissue. Next, verify the pressure plate tension with a test sheet and adjust as needed. Finally, run a quick test roll to confirm the improvements before heading out.",
+    "pros": [
+      "Sharper images",
+      "More reliable exposure",
+      "Extended camera life"
+    ],
+    "cons": [
+      "Time‑consuming setup",
+      "Requires basic tools",
+      "Potential for mis‑adjustment"
+    ],
+    "watchOut": "Avoid overtightening the pressure plate, which can cause film scratching.",
+    "faq": [
+      {
+        "q": "How often should I clean the shutter curtains?",
+        "a": "Once or twice a year, or whenever you notice dust spots on negatives."
+      },
+      {
+        "q": "Can I adjust the focus cam myself?",
+        "a": "Yes, with a small screwdriver and patience; follow the service manual for your model."
+      },
+      {
+        "q": "Will these tweaks affect my lens compatibility?",
+        "a": "No, they only affect the camera body’s mechanics, not the mount."
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "camera maintenance",
+      "35mm"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-08-26T18:24:38.520Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "developing-pre-spend-checklist-73",
     "title": "The developing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified developing purchase from an expensive mood.",

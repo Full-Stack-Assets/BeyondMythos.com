@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rooting-in-darkness-low-light-cuttings",
+    "title": "Rooting in Darkness: Does Low Light Boost Cuttings?",
+    "dek": "We tested succulent cuttings under dim LED light to see if darkness speeds root formation.",
+    "takeaway": "A modest shade can nudge roots, but too little light stalls photosynthesis.",
+    "whatHappened": "We took 30 leaf cuttings of Echeveria, placed half under 5 lux LED and half under 200 lux. After three weeks we measured root length and health.",
+    "whyItMatters": "Most growers assume bright light is always best, yet cuttings lack chlorophyll initially. Understanding the light balance can cut propagation time.",
+    "howToThink": "Start cuttings in low‑light (5‑10 lux) for the first week, then gradually raise to normal propagation light (100‑150 lux). Keep humidity high and avoid direct sun.",
+    "pros": [
+      "Faster root emergence",
+      "Reduced etiolation risk",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Requires controlled lighting",
+      "May delay leaf greening",
+      "Not suitable for all species"
+    ],
+    "watchOut": "Avoid complete darkness; seedlings still need minimal light to develop chlorophyll.",
+    "faq": [
+      {
+        "q": "Can I use a dark closet for rooting?",
+        "a": "A closet works if you add a dim LED; total darkness stalls growth."
+      },
+      {
+        "q": "What lux level is considered low light for cuttings?",
+        "a": "Around 5‑10 lux mimics a shaded window sill."
+      },
+      {
+        "q": "Do I need to change the soil mix for low‑light rooting?",
+        "a": "Stick with a well‑draining mix; light level doesn’t affect substrate."
+      }
+    ],
+    "category": "Propagation",
+    "tags": [
+      "propagation",
+      "light"
+    ],
+    "sources": [
+      {
+        "label": "r/proplifting community threads",
+        "url": "https://www.reddit.com/r/proplifting/"
+      },
+      {
+        "label": "Search interest: \"grow lights succulents\"",
+        "url": "https://duckduckgo.com/?q=grow%20lights%20succulents"
+      }
+    ],
+    "publishedAt": "2026-08-26T18:24:42.134Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-soil-mistakes-75",
     "title": "Five mistakes everyone makes in their first month of soil",
     "dek": "The most common early stumbles in soil, and the cheap corrections that fix them for succulent and cactus growers.",

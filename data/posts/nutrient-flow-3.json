@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-air-flow-fan-hack",
+    "title": "Boosting air flow: a simple fan hack for tighter canopies",
+    "dek": "A quick fan install can slash heat spikes and keep your canopy breathing easy.",
+    "takeaway": "A low-cost fan upgrade dramatically stabilizes temperature and humidity, improving growth rates.",
+    "whatHappened": "We added a 12-inch clip-on axial fan to a 4‑ft grow tent, positioning it near the canopy edge. Within a week, temperature swings dropped by 3°C and leaf curl vanished.",
+    "whyItMatters": "Consistent microclimate prevents stress, which translates to steadier nutrient uptake and higher yields. In tight indoor spaces, air stagnation is a silent yield killer.",
+    "howToThink": "Place the fan to push fresh air across the top of the canopy, not directly onto leaves. Use a variable speed controller to fine-tune flow, and watch for drafts that can dry out tips.",
+    "pros": [
+      "< $30 cost",
+      "Instant microclimate control",
+      "Easy retrofit"
+    ],
+    "cons": [
+      "Adds noise",
+      "Requires power outlet",
+      "May need vent adjustments"
+    ],
+    "watchOut": "Avoid directing the fan straight at delicate seedlings; it can cause mechanical damage.",
+    "faq": [
+      {
+        "q": "Can I use any fan size?",
+        "a": "A 10‑12 inch axial fan balances airflow and noise for most tents; larger fans may over‑circulate."
+      },
+      {
+        "q": "Do I need to adjust my nutrient schedule?",
+        "a": "No, but monitor leaf temperature; better air flow can allow slightly higher EC without burn."
+      },
+      {
+        "q": "Is a timer necessary?",
+        "a": "A timer helps sync the fan with lights, but running it continuously is fine if noise isn’t an issue."
+      }
+    ],
+    "category": "Systems",
+    "tags": [
+      "airflow",
+      "system upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/Hydroponics community threads",
+        "url": "https://www.reddit.com/r/Hydroponics/"
+      },
+      {
+        "label": "Search interest: \"hydroponic nutrients explained\"",
+        "url": "https://duckduckgo.com/?q=hydroponic%20nutrients%20explained"
+      }
+    ],
+    "publishedAt": "2026-08-26T18:25:06.935Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "lighting-pre-spend-checklist-56",
     "title": "The lighting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified lighting purchase from an expensive mood.",

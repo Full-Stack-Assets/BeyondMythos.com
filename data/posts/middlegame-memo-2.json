@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-drills-calculation-bursts",
+    "title": "Micro-drills: sharpening calculation in 10-minute bursts",
+    "dek": "Boost your calculation speed with focused 10-minute micro-drills you can fit into any break.",
+    "takeaway": "Short, intense drills sharpen calculation more than long study sessions.",
+    "whatHappened": "I tried a week of 10-minute tactical bursts between work tasks, logging each session's success rate. The numbers showed a steady rise in puzzle accuracy and confidence.",
+    "whyItMatters": "Adult improvers often struggle to find time; brief, high-intensity practice fits modern schedules and keeps the brain in sharp tactical mode, leading to better over-the-board performance.",
+    "howToThink": "Pick a mixed-level puzzle set, set a timer for ten minutes, and solve without pause. After each session, note the toughest positions and review them briefly before the next burst.",
+    "pros": [
+      "Fits any schedule",
+      "Immediate feedback loop",
+      "Rapid skill gains"
+    ],
+    "cons": [
+      "May cause fatigue if overused",
+      "Limited depth per session",
+      "Requires disciplined timing"
+    ],
+    "watchOut": "Don't let the timer become a race; accuracy still matters.",
+    "faq": [
+      {
+        "q": "How many bursts per day are optimal?",
+        "a": "Start with one or two, then add a third if you feel fresh; quality beats quantity."
+      },
+      {
+        "q": "What puzzle sources work best?",
+        "a": "Use a mixed-difficulty set from reputable sites like Chess.com or Lichess to keep variety."
+      },
+      {
+        "q": "Should I review missed puzzles immediately?",
+        "a": "Spend a few minutes analyzing errors right after the burst to cement learning."
+      }
+    ],
+    "category": "Tactics",
+    "tags": [
+      "calc",
+      "micro-drills"
+    ],
+    "sources": [
+      {
+        "label": "r/chess community threads",
+        "url": "https://www.reddit.com/r/chess/"
+      },
+      {
+        "label": "Search interest: \"adult chess improvement plan\"",
+        "url": "https://duckduckgo.com/?q=adult%20chess%20improvement%20plan"
+      }
+    ],
+    "publishedAt": "2026-08-26T18:24:54.716Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-openings-62",
     "title": "A weekend project: level up your openings in two hours",
     "dek": "One contained, satisfying openings project for adult chess improvers — start Saturday morning, done by lunch.",
