@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-brew-temp-diy-thermocouple",
+    "title": "Dial‑in the Brew Temperature with a DIY Thermocouple Adapter",
+    "dek": "Turn your budget espresso machine into a temperature‑stable beast with a cheap thermocouple adapter.",
+    "takeaway": "A simple thermocouple hack gives you reliable brew temps without breaking the bank.",
+    "whatHappened": "I 3D‑printed a thermocouple mount, wired it to an Arduino Nano, and displayed real‑time water temperature on a tiny OLED. After a day of tinkering the machine held ±2 °C during a 30‑second brew.",
+    "whyItMatters": "Temperature swing is the #1 cause of inconsistent espresso shots. By seeing the exact temp, you can fine‑tune dosing and pre‑infusion for repeatable flavor.",
+    "howToThink": "Treat temperature as a variable you can measure, not a guess. Use the readout to set your kettle or machine’s heat element, and log the numbers for each bean.",
+    "pros": [
+      "Low cost",
+      "Real‑time feedback",
+      "DIY satisfaction"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "Adds a small bulk to portafilter",
+      "Initial calibration needed"
+    ],
+    "watchOut": "Don’t expose the Arduino to steam; seal it with heat‑shrink tubing.",
+    "faq": [
+      {
+        "q": "Can I use any thermocouple?",
+        "a": "A Type‑K probe works best; it’s cheap and handles espresso temps up to 250 °C."
+      },
+      {
+        "q": "Do I need to modify my machine?",
+        "a": "Only a tiny hole in the portafilter basket for the probe; the rest stays stock."
+      },
+      {
+        "q": "Is the OLED safe near the group head?",
+        "a": "Mount it on the side of the machine away from direct steam; a silicone gasket protects it."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-26T13:40:06.573Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-53",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

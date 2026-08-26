@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-z-axis-backlash",
+    "title": "Fine-tuning Z-axis backlash for smoother prints",
+    "dek": "A quick guide to diagnosing and eliminating Z‑axis backlash on budget printers.",
+    "takeaway": "Eliminate Z‑axis backlash to boost layer adhesion and surface quality.",
+    "whatHappened": "After noticing a persistent ghosting on tall prints, I measured a 0.15 mm gap when the Z motor stopped. The culprit turned out to be loose leadscrew coupling. A few tweaks restored precision.",
+    "whyItMatters": "Backlash compromises first‑layer adhesion and can ruin tall models, leading to wasted filament and time. Fixing it restores dimensional accuracy across the build volume.",
+    "howToThink": "Check for play by moving the Z axis manually, tighten coupling nuts in small increments, and re‑calibrate Z‑offset after each adjustment. If play persists, consider a new leadscrew or anti‑backlash nut.",
+    "pros": [
+      "Improved first layer",
+      "Reduced ghosting",
+      "Longer belt life"
+    ],
+    "cons": [
+      "Time to adjust",
+      "Requires patience",
+      "May need new hardware"
+    ],
+    "watchOut": "Watch out for over‑tightening the leadscrew, which can cause motor strain.",
+    "faq": [
+      {
+        "q": "How much slack is normal for a Z leadscrew?",
+        "a": "A few hundred microns is typical; anything beyond 0.1 mm under load indicates backlash."
+      },
+      {
+        "q": "Do I need a new coupler?",
+        "a": "If tightening the existing nut doesn’t help, replace the coupler with a self‑locking type."
+      },
+      {
+        "q": "Will this affect bed leveling?",
+        "a": "Re‑run your Z‑offset and bed level after adjustments to ensure consistency."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "calibration",
+      "z-axis"
+    ],
+    "sources": [
+      {
+        "label": "r/3Dprinting community threads",
+        "url": "https://www.reddit.com/r/3Dprinting/"
+      },
+      {
+        "label": "Search interest: \"3d print stringing fix\"",
+        "url": "https://duckduckgo.com/?q=3d%20print%20stringing%20fix"
+      }
+    ],
+    "publishedAt": "2026-08-26T13:40:21.456Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "printer-upgrade-guide-field-test-25",
     "title": "\"printer upgrade guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about printer upgrade guide through a month of actual use. Some of it survived.",

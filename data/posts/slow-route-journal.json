@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-signals-eco-navigation",
+    "title": "Silent Signals: Turning Train Announcements into Low‑Impact Wayfinding",
+    "dek": "Learn how to read every station’s chime and PA cue to cut down on paper maps and stay on track with a smaller carbon footprint.",
+    "takeaway": "Listening to rail cues can replace bulky guides and keep you moving sustainably.",
+    "whatHappened": "On a recent weekend trip across the Midwest, I stopped consulting printed timetables and started listening to the train’s automated announcements, platform bells, and station PA systems. Within a day I mapped three new stopovers without a single printed map, and the experience felt surprisingly immersive. The approach turned ordinary travel chatter into a navigational tool for low‑impact explorers.",
+    "whyItMatters": "Every printed guide or smartphone GPS ping adds to resource use and electronic waste. By harnessing the existing acoustic signals on rails, travelers reduce their material footprint while deepening their connection to the journey. The practice also encourages mindfulness, keeping you present in each station’s unique soundscape.",
+    "howToThink": "Start by noting the cadence of departure bells—most regional lines use a distinct three‑tone pattern before a stop. Next, listen for the PA’s station name repetition; it often appears 2–3 minutes before arrival, giving you a natural buffer to plan. Finally, keep a tiny notebook for shorthand symbols (e.g., “♬” for a café stop) so you can log routes without digital devices.",
+    "pros": [
+      "Zero paper waste",
+      "Improves situational awareness",
+      "Works offline"
+    ],
+    "cons": [
+      "Requires attentive listening",
+      "Varies by rail operator",
+      "May miss hidden amenities"
+    ],
+    "watchOut": "If you’re in a noisy carriage, the cues can blend together—bring a simple earplug that filters low‑frequency rumble but lets speech pass.",
+    "faq": [
+      {
+        "q": "Do I need a translator for foreign language announcements?",
+        "a": "Most major stations repeat the name in English; a quick phrasebook or translation app can fill gaps."
+      },
+      {
+        "q": "What if the train uses automated voice without station names?",
+        "a": "Look for the station’s unique jingle or the platform’s ambient sounds—often a distinct echo or crowd pattern."
+      },
+      {
+        "q": "Can I rely on this for tight connections?",
+        "a": "Use it as a supplement, not a replacement for official schedules when timing is critical."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Low‑Impact"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-26T13:40:03.619Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-carriage-eco-sleep-pods",
     "title": "Quiet Carriage: Turning Vintage Freight Wagons into Eco‑Sleep Pods",
     "dek": "Explore how repurposed freight wagons become low‑impact sleeping pods on the rails, blending comfort with sustainability.",

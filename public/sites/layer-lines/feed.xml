@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/layer-lines/</link>
     <description>Fresh takes for home 3D-printing hobbyists.</description>
     <item>
+      <title>Fine-tuning Z-axis backlash for smoother prints</title>
+      <link>https://www.beyondmythos.com/sites/layer-lines/posts/fine-tune-z-axis-backlash.html</link>
+      <guid>https://www.beyondmythos.com/sites/layer-lines/posts/fine-tune-z-axis-backlash.html</guid>
+      <pubDate>Wed, 26 Aug 2026 13:40:21 GMT</pubDate>
+      <description>A quick guide to diagnosing and eliminating Z‑axis backlash on budget printers.</description>
+    </item>
+    <item>
       <title>&quot;printer upgrade guide&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/layer-lines/posts/printer-upgrade-guide-field-test-25.html</link>
       <guid>https://www.beyondmythos.com/sites/layer-lines/posts/printer-upgrade-guide-field-test-25.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/layer-lines/posts/weekend-project-calibration-68.html</guid>
       <pubDate>Tue, 25 Aug 2026 07:29:53 GMT</pubDate>
       <description>One contained, satisfying calibration project for home 3D-printing hobbyists — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/3Dprinting is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/layer-lines/posts/community-pulse-3dprinting-23.html</link>
-      <guid>https://www.beyondmythos.com/sites/layer-lines/posts/community-pulse-3dprinting-23.html</guid>
-      <pubDate>Tue, 25 Aug 2026 06:03:38 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the upgrades community this week.</description>
     </item>
   </channel>
 </rss>
