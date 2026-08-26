@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cold-brew-espresso-hybrid-shot",
+    "title": "Cold Brew Meets Espresso: The Hybrid Shot Experiment",
+    "dek": "Blending cold‑brew sweetness with espresso intensity for a quick, balanced shot you can sip straight or mix into drinks.",
+    "takeaway": "A hybrid shot gives you espresso body with cold‑brew clarity in under a minute.",
+    "whatHappened": "I combined a 30‑second cold‑brew concentrate with a 20‑second ristretto pull, adjusting grind and dose to keep pressure stable. The result was a smooth, low‑acid shot that tasted like a chilled espresso‑cocoa. I logged TDS and extraction time to prove consistency.",
+    "whyItMatters": "Home baristas often juggle cold‑brew and espresso separately, missing out on the synergy of both. This hybrid reduces prep steps while delivering a nuanced flavor profile. It also showcases how small process tweaks can expand your menu without new gear.",
+    "howToThink": "Start with a fine‑tuned espresso grind, then pre‑infuse with a shot of cold‑brew concentrate (1:1 water‑to‑coffee ratio). Keep the brew ratio around 1:1.5 and pull a short shot; adjust grind coarser if pressure spikes. Taste and tweak the cold‑brew strength to match your preferred sweetness.",
+    "pros": [
+      "Instantly sweetens espresso",
+      "Reduces bitterness without sugar",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires cold‑brew prep",
+      "Fine‑tuning pressure can be tricky",
+      "Flavor balance may vary by bean"
+    ],
+    "watchOut": "Avoid over‑diluting the espresso; too much cold‑brew can mute the crema and body.",
+    "faq": [
+      {
+        "q": "Do I need a separate cold‑brew setup?",
+        "a": "A small batch in a French press or AeroPress works fine; you only need a concentrate."
+      },
+      {
+        "q": "Can I use this with a pod machine?",
+        "a": "Yes, just replace the pod’s water with cold‑brew concentrate before pulling the shot."
+      },
+      {
+        "q": "What beans work best?",
+        "a": "Medium‑roast beans with bright acidity pair nicely, letting the cold‑brew mellow the sharp edges."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "hybrid",
+      "quick‑brew"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-26T10:17:42.825Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-51",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

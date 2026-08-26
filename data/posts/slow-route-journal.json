@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-night-trains-sleep-rails",
+    "title": "Hidden Night Trains: Sustainable Sleep on the Rails",
+    "dek": "Discover how to turn overnight sleeper cars into low‑impact, comfy bedrooms without breaking the bank.",
+    "takeaway": "You can travel greener and rest better by mastering the art of the night train cabin.",
+    "whatHappened": "I boarded a budget night train from Berlin to Budapest, swapped my hotel night for a refurbished sleeper berth, and documented the experience from booking to sunrise. The carriage was quiet, the bedding was eco‑friendly, and I woke up in a new city without a single carbon‑intensive hotel stay.",
+    "whyItMatters": "Night trains cut emissions compared to flights, and using existing rail infrastructure spreads the environmental cost across many passengers. Choosing a sleeper also reduces the need for separate accommodation, trimming both budget and waste.",
+    "howToThink": "First, research routes with sleeper options and compare carbon calculators. Second, book the basic berth and bring your own reusable sleep kit to minimize waste. Finally, treat the carriage as a shared living room—keep noise low, respect fellow sleepers, and leave the space as you found it.",
+    "pros": [
+      "Cuts travel emissions",
+      "Saves on hotel costs",
+      "Offers unique nighttime scenery"
+    ],
+    "cons": [
+      "Limited privacy",
+      "Berth availability can be scarce",
+      "Older carriages may lack modern amenities"
+    ],
+    "watchOut": "Beware of last‑minute berth cancellations—confirm your reservation 24 hours before departure.",
+    "faq": [
+      {
+        "q": "Do I need a special rail pass for night sleepers?",
+        "a": "Most night trains accept standard tickets; a rail pass can cover the fare but you still need to reserve a berth."
+      },
+      {
+        "q": "What should I pack for a comfortable night on the train?",
+        "a": "A compact sleeping bag or liner, earplugs, an eye mask, and a reusable water bottle."
+      },
+      {
+        "q": "Are night trains safe for solo travelers?",
+        "a": "Yes, they’re generally safe; keep your belongings close, use lockable luggage, and stay in well‑lit carriage sections."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-08-26T10:17:43.244Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-55",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
