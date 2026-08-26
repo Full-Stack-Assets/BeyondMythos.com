@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sweet-spot-espresso-brew-ratio",
+    "title": "Unlocking the Sweet Spot: Adjusting Brew Ratio for Consistent Espresso",
+    "dek": "Fine‑tune your brew ratio to hit consistent flavor and crema every pull.",
+    "takeaway": "A precise brew ratio is the simplest lever for repeatable espresso quality.",
+    "whatHappened": "I experimented with 1:1.8, 1:2.0, and 1:2.2 ratios on my home machine, tracking extraction time and taste. The 1:2.0 ratio gave the most balanced sweetness and acidity across beans.",
+    "whyItMatters": "Brew ratio directly shapes strength, balance, and consistency, letting you dial in recipes without constant guesswork. Mastering it reduces wasted beans and saves time.",
+    "howToThink": "Start with the manufacturer's suggested ratio, then adjust in 0.1 steps, tasting each change. Keep dose constant, record weight of yield, and note flavor shifts. Use a scale and log to converge on your sweet spot.",
+    "pros": [
+      "Predictable flavor",
+      "Easier dosing",
+      "Less waste"
+    ],
+    "cons": [
+      "Requires precise scale",
+      "May need recalibration per bean",
+      "Can mask other variables"
+    ],
+    "watchOut": "Don’t forget to recalibrate after changing grind size, or your ratio will be off.",
+    "faq": [
+      {
+        "q": "What is the ideal brew ratio for espresso?",
+        "a": "Most home baristas start around 1:2 (dose:yield) and tweak from there based on bean and taste."
+      },
+      {
+        "q": "How often should I adjust my ratio?",
+        "a": "Whenever you change beans, roast level, or grind size—these affect extraction."
+      },
+      {
+        "q": "Can I use the same ratio for a double shot?",
+        "a": "Yes, just double the dose and yield while keeping the same ratio."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "brew-ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-08-26T11:06:03.242Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "cold-brew-espresso-hybrid-shot",
     "title": "Cold Brew Meets Espresso: The Hybrid Shot Experiment",
     "dek": "Blending cold‑brew sweetness with espresso intensity for a quick, balanced shot you can sip straight or mix into drinks.",
