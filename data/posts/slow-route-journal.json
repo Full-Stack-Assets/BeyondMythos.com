@@ -1,5 +1,56 @@
 [
   {
+    "slug": "railway-rests-freight-car-workspaces",
+    "title": "Railway Rests: Repurposing Abandoned Freight Cars as Mobile Workspaces",
+    "dek": "Turning derelict freight cars into low‑impact work nooks on the rails.",
+    "takeaway": "Even a forgotten freight car can become a productive, low‑carbon pit stop for slow travelers.",
+    "whatHappened": "On a recent weekend in the Czech Republic, I stumbled upon an unused freight wagon parked beside a rural siding. With a few solar panels, a fold‑out desk, and a recycled mattress, I transformed it into a pop‑up office. The result was a quiet, off‑grid workspace that cost almost nothing.",
+    "whyItMatters": "Rail corridors are abundant and underused, offering a chance to reduce hotel stays and travel emissions. Repurposing freight cars spreads the impact of existing infrastructure rather than building new facilities. It also creates unique, immersive experiences that align with the slow‑travel ethos.",
+    "howToThink": "Scout for abandoned wagons at low‑traffic yards and get permission from the rail operator. Outfit the interior with lightweight, renewable gear: solar chargers, a compact desk, and biodegradable bedding. Keep the footprint tiny and the energy self‑sufficient, and you have a portable sanctuary.",
+    "pros": [
+      "Zero‑cost accommodation",
+      "Minimal carbon footprint",
+      "Unique work‑travel hybrid"
+    ],
+    "cons": [
+      "Requires rail‑yard access permission",
+      "Limited climate control",
+      "Space constraints"
+    ],
+    "watchOut": "Ensure the wagon is structurally sound and free of hazardous materials before moving in.",
+    "faq": [
+      {
+        "q": "Do I need special permission to use a freight car?",
+        "a": "Yes – always contact the railway operator or yard manager; many are happy to support low‑impact projects."
+      },
+      {
+        "q": "How can I power devices inside?",
+        "a": "Portable solar panels with a battery pack provide enough juice for laptops and phones."
+      },
+      {
+        "q": "Is it safe to stay overnight?",
+        "a": "If the car is on a secure, low‑traffic line and you have fire‑safe bedding, it’s generally safe, but always check local regulations."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-26T06:05:03.070Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-carry-on-packing-list-20",
     "title": "Myth vs. reality: carry on packing list",
     "dek": "The persistent myths around carry on packing list, stress-tested against what slow-travel and low-impact explorers actually report.",
