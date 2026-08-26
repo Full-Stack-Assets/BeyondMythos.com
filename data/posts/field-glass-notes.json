@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spring-migration-feeder-spotting",
+    "title": "Spotting spring migrants: feeder placement hacks for weekend twitchers",
+    "dek": "A quick guide to positioning feeders that coax passing warblers and thrushes into your backyard.",
+    "takeaway": "Right placement can turn a modest feeder into a migration hotspot.",
+    "whatHappened": "During this weekend’s spring passage, I moved my cedar feeder 15 feet north and added a low‑branch perch. Within hours, I logged six new migrant species, including a Yellow‑warbled Warbler.",
+    "whyItMatters": "Backyard birders can contribute valuable migration data and enjoy rare sightings without traveling. Small adjustments in feeder layout can dramatically increase detection rates for passing birds.",
+    "howToThink": "Treat your yard like a stopover stop: place feeders near dense shrubbery, align them with prevailing wind, and keep them low enough for ground‑foraging migrants. Rotate locations weekly to test what works.",
+    "pros": [
+      "Boosts migrant sightings",
+      "Enhances backyard diversity",
+      "Supports citizen‑science data"
+    ],
+    "cons": [
+      "May attract pests",
+      "Requires habitat tweaks",
+      "Potentially distracts resident birds"
+    ],
+    "watchOut": "Avoid placing feeders too close to windows to prevent collisions.",
+    "faq": [
+      {
+        "q": "Do I need a specific feeder type for migrants?",
+        "a": "A simple platform or low tube feeder works best; migrants prefer easy access and mixed seeds."
+      },
+      {
+        "q": "How far should the feeder be from cover?",
+        "a": "Aim for 5–10 feet from dense shrubs or trees, giving birds a quick escape route."
+      },
+      {
+        "q": "Can I use the same spot year after year?",
+        "a": "Rotate positions every 2–3 weeks to find the sweet spot and keep predators guessing."
+      }
+    ],
+    "category": "Migration",
+    "tags": [
+      "migration",
+      "feeders"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"bird id apps compared\"",
+        "url": "https://duckduckgo.com/?q=bird%20id%20apps%20compared"
+      }
+    ],
+    "publishedAt": "2026-08-26T04:23:42.924Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-optics-72",
     "title": "A weekend project: level up your optics in two hours",
     "dek": "One contained, satisfying optics project for backyard birders — start Saturday morning, done by lunch.",

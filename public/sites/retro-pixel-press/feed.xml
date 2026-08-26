@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>DIY Power Stabilizer: Nail Consistent Frame Timing on Your SNES</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-power-stabilizer-snes.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-power-stabilizer-snes.html</guid>
+      <pubDate>Wed, 26 Aug 2026 04:23:26 GMT</pubDate>
+      <description>A cheap, easy mod that smooths power spikes for rock‑solid frame timing on classic SNES rigs.</description>
+    </item>
+    <item>
       <title>Audio Sync Tuning: Align SNES Sound for Frame‑Accurate Speedruns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-sync-tuning-snes.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-sync-tuning-snes.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controllers-mod.html</guid>
       <pubDate>Mon, 24 Aug 2026 21:04:48 GMT</pubDate>
       <description>Add a third fire button to your classic NES pad without breaking the original feel.</description>
-    </item>
-    <item>
-      <title>Pixel-Perfect Audio: Restoring Game Boy Sound Chips</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-audio-restoration.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-audio-restoration.html</guid>
-      <pubDate>Mon, 24 Aug 2026 20:01:54 GMT</pubDate>
-      <description>A quick guide to swapping and calibrating the DMG‑01’s audio PCB for crisp, authentic chiptune sound.</description>
     </item>
   </channel>
 </rss>
