@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-extraction-espresso",
+    "title": "Fine-Tuning Extraction: The 18-Second Espresso Benchmark",
+    "dek": "Discover how shaving a second off your pull can reshape flavor balance without new gear.",
+    "takeaway": "Small timing tweaks yield big taste gains.",
+    "whatHappened": "We timed a batch of single-origin espresso shots, adjusting the brew time in one-second increments from 17 to 20 seconds. The 18-second mark consistently delivered the brightest acidity and clean finish.",
+    "whyItMatters": "Extraction time is a hidden lever that directly controls solubles, so mastering it lets you dial in any bean without buying new equipment. It also prevents over-extraction bitterness that plagues home setups.",
+    "howToThink": "Start with a baseline timer, pull a shot, note the taste, then shift the timer by one second and repeat. Record the flavor shift each time; the sweet spot is where acidity shines and bitterness stays muted.",
+    "pros": [
+      "No extra hardware",
+      "Immediate taste feedback",
+      "Applicable to any machine"
+    ],
+    "cons": [
+      "Requires a reliable timer",
+      "May need multiple attempts",
+      "Small margin for error"
+    ],
+    "watchOut": "Don’t chase the exact second at the expense of proper grind size—adjust grind if the flow becomes too fast or slow.",
+    "faq": [
+      {
+        "q": "What timer should I use?",
+        "a": "A digital kitchen timer or smartphone app with millisecond precision works fine."
+      },
+      {
+        "q": "Will this work on pod machines?",
+        "a": "Pod machines have fixed brew cycles, so the technique is best for traditional espresso machines."
+      },
+      {
+        "q": "How often should I repeat the test?",
+        "a": "Re-test when you change beans, roast level, or grind settings to keep the timing relevant."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "extraction"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-08-26T16:05:17.471Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-51",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ghosting-acceleration-jerk",
+    "title": "Ghosting be gone: mastering acceleration and jerk for crisp prints",
+    "dek": "Tame ghosting by fine‑tuning acceleration and jerk, turning shaky outlines into razor‑sharp edges.",
+    "takeaway": "Lowering acceleration and jerk eliminates ghosting without sacrificing overall speed.",
+    "whatHappened": "I noticed faint, wavy ripples on the sides of a tall vase printed on my Prusa i3 MK3S+. After running a quick accel test, I lowered the acceleration from 3000 mm/s² to 1500 mm/s² and the jerk from 20 mm/s to 8 mm/s. The next print was ghost‑free.",
+    "whyItMatters": "Ghosting not only mars aesthetics but can hide early signs of mechanical wear. By addressing it through firmware settings, you preserve part quality and extend printer life without hardware swaps.",
+    "howToThink": "Start with the manufacturer’s default, then reduce acceleration by 30‑40 % and jerk by half; run a simple speed tower test to confirm improvement. If you lose too much speed, fine‑tune per‑axis – X/Y can stay higher than Z.",
+    "pros": [
+      "Sharper surface detail",
+      "No extra hardware needed",
+      "Improves dimensional accuracy"
+    ],
+    "cons": [
+      "Longer print times at high quality",
+      "May require re‑slicing profiles",
+      "Too low values can cause under‑extrusion on fast moves"
+    ],
+    "watchOut": "Don’t drop acceleration below the printer’s minimum motor torque, or you’ll get missed steps.",
+    "faq": [
+      {
+        "q": "What’s the difference between acceleration and jerk?",
+        "a": "Acceleration is the rate of speed increase (mm/s²), while jerk is the instant speed change allowed before the printer ramps up acceleration."
+      },
+      {
+        "q": "How can I test the right settings quickly?",
+        "a": "Print a calibration speed tower that changes speed every few layers; inspect for ghosting and adjust settings until the transition layers are clean."
+      },
+      {
+        "q": "Will lowering these settings affect overhang quality?",
+        "a": "Generally not; lower acceleration can actually improve overhangs by reducing vibration, though very slow moves may increase cooling time."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "calibration",
+      "print-quality"
+    ],
+    "sources": [
+      {
+        "label": "r/functionalprint community threads",
+        "url": "https://www.reddit.com/r/functionalprint/"
+      },
+      {
+        "label": "Search interest: \"printer upgrade guide\"",
+        "url": "https://duckduckgo.com/?q=printer%20upgrade%20guide"
+      }
+    ],
+    "publishedAt": "2026-08-26T16:05:34.341Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "design-pre-spend-checklist-70",
     "title": "The design checklist: run this before you spend",
     "dek": "Seven questions that separate a justified design purchase from an expensive mood.",

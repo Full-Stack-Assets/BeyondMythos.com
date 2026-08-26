@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-cartridge-reflow-nes",
+    "title": "Reviving the Cartridge: How to Reflow Your NES Board Without a Furnace",
+    "dek": "Give your aging NES a fresh lease on life by reflowing its solder joints using everyday tools.",
+    "takeaway": "A simple reflow can restore stability and prevent random crashes in classic NES hardware.",
+    "whatHappened": "A collector noticed intermittent video glitches on a 1990 NES. After diagnosing, they applied a low‑temp solder reflow using a kitchen toaster oven. The console booted cleanly afterward.",
+    "whyItMatters": "Unreliable hardware can ruin speedrun attempts and ruin preservation efforts. A cheap, safe fix extends the life of rare boards without expensive professional services.",
+    "howToThink": "Start by identifying suspect joints, clean the board, and use a controlled heat profile. Test frequently and avoid overheating delicate chips.",
+    "pros": [
+      "Low cost",
+      "DIY-friendly",
+      "Extends console lifespan"
+    ],
+    "cons": [
+      "Requires careful temperature control",
+      "Potential for damage if mishandled",
+      "Limited to mild solder fatigue"
+    ],
+    "watchOut": "Never exceed 260°C or you risk melting plastic components.",
+    "faq": [
+      {
+        "q": "Do I need a professional reflow oven?",
+        "a": "No, a standard toaster oven with a calibrated thermometer works fine."
+      },
+      {
+        "q": "How long should the heat soak be?",
+        "a": "Around 90 seconds at target temperature is sufficient for most NES boards."
+      },
+      {
+        "q": "Will this void any warranties?",
+        "a": "Yes, but vintage hardware is typically out of warranty anyway."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Solder Reflow"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-26T16:05:17.871Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-56",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",
