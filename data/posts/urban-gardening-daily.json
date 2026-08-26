@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-ready-balcony-herbs",
+    "title": "Winter Ready: Protect Your Balcony Herbs",
+    "dek": "Learn how to shield your balcony herb pots from frost with simple, affordable steps that keep flavor alive through winter.",
+    "takeaway": "A few low‑cost tweaks keep your herbs thriving all winter long.",
+    "whatHappened": "We tried wrapping, mulching, and moving containers on a sunny balcony during a cold snap, tracking growth and flavor.",
+    "whyItMatters": "Herbs are pricey to replace, and winter loss means a bland kitchen; protecting them saves money and flavor.",
+    "howToThink": "Treat each pot like a mini greenhouse—insulate, position for sun, and water wisely, adjusting as temps dip.",
+    "pros": [
+      "Low cost",
+      "No special tools",
+      "Flavor stays fresh"
+    ],
+    "cons": [
+      "Extra effort each week",
+      "Limited to hardy herbs",
+      "May need indoor space"
+    ],
+    "watchOut": "Avoid over‑watering; frozen soil can damage roots.",
+    "faq": [
+      {
+        "q": "Can I leave my basil out in sub‑zero temps?",
+        "a": "No—basil is frost‑sensitive; bring it indoors or heavily insulate."
+      },
+      {
+        "q": "What’s the best material for wrapping pots?",
+        "a": "Bubble wrap or horticultural fleece works well, secured with twine."
+      },
+      {
+        "q": "How often should I water frozen containers?",
+        "a": "Check moisture daily; water only when the soil feels dry to the touch."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "winter"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-08-26T08:23:18.493Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-seasonal-58",
     "title": "Ask the forge: your seasonal questions, answered",
     "dek": "Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.",
