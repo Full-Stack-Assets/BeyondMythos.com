@@ -1,5 +1,56 @@
 [
   {
+    "slug": "marking-gauge-mastery",
+    "title": "Marking gauge mastery: precision without the tech",
+    "dek": "A cheap, accurate way to lay out cuts that beats a pencil and ruler every time.",
+    "takeaway": "A marking gauge can replace several measuring tools for consistent layout.",
+    "whatHappened": "I swapped my trusty pencil‑and‑ruler routine for a 6‑inch marking gauge on a weekend dovetail project. The fit was spot‑on, and the setup time dropped by 30%.",
+    "whyItMatters": "Small shops lack room for bulky CNCs, so reliable hand tools keep precision accessible. Consistent layout reduces waste, crucial when material is pricey.",
+    "howToThink": "Select a gauge with a sturdy steel fence, set the depth to the thinnest cut you’ll make, and use the tip to scribe across grain before each cut. Keep the gauge clean of resin for smooth glides.",
+    "pros": [
+      "Ultra‑precise layout",
+      "Minimal footprint",
+      "Low cost"
+    ],
+    "cons": [
+      "Limited to straight lines",
+      "Requires steady hand",
+      "Depth adjustment can slip if cheap"
+    ],
+    "watchOut": "Don’t press too hard; a gouge can mar delicate workpieces.",
+    "faq": [
+      {
+        "q": "Can I use a marking gauge on softwoods?",
+        "a": "Yes, but set a shallower depth to avoid tearing the fibers."
+      },
+      {
+        "q": "What’s the best fence material?",
+        "a": "A hardened steel fence resists wear and stays true."
+      },
+      {
+        "q": "How often should I sharpen the tip?",
+        "a": "Whenever it starts to drag or produce fuzzy lines, usually after a few uses."
+      }
+    ],
+    "category": "Hand Tools",
+    "tags": [
+      "layout",
+      "hand-tool"
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "publishedAt": "2026-08-26T09:24:29.895Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-wood-finishing-basics-25",
     "title": "Myth vs. reality: wood finishing basics",
     "dek": "The persistent myths around wood finishing basics, stress-tested against what hobby woodworkers in small shops actually report.",

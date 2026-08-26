@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Unlocking Hidden Frame Buffers: A Quick SNES Hack</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/unlocking-hidden-frame-buffers.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/unlocking-hidden-frame-buffers.html</guid>
+      <pubDate>Wed, 26 Aug 2026 09:24:22 GMT</pubDate>
+      <description>Expose your SNES&apos;s hidden frame buffer with a 5‑minute solder tweak for smoother visuals and tighter timing.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-51.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-51.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-17.html</guid>
       <pubDate>Tue, 25 Aug 2026 03:30:41 GMT</pubDate>
       <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your indie questions, answered</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-47.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-47.html</guid>
-      <pubDate>Tue, 25 Aug 2026 02:08:12 GMT</pubDate>
-      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>
