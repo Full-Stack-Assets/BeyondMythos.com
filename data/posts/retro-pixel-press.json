@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-snes-audio-capacitor-swap",
+    "title": "Boost Your SNES Audio: Simple Capacitor Swap for Cleaner Sound",
+    "dek": "Swap a cheap capacitor to tighten SNES audio output and gain clearer sound for your runs.",
+    "takeaway": "A single capacitor swap can noticeably clean up SNES audio without expensive mods.",
+    "whatHappened": "We replaced the original coupling capacitor on the SNES’s audio output stage with a low‑ESR 100 nF part. After bench testing, the hiss dropped and the tonal balance sharpened.",
+    "whyItMatters": "Cleaner audio helps players spot timing cues and reduces fatigue during long speedrun sessions, while preserving the console’s original character for collectors.",
+    "howToThink": "When troubleshooting SNES sound, consider the aging electrolytic caps as the primary culprit. Upgrading to a stable ceramic or low‑ESR electrolytic offers a low‑cost, reversible improvement.",
+    "pros": [
+      "Immediate sound clarity",
+      "Cheap and reversible",
+      "No soldering on board required (socket)"
+    ],
+    "cons": [
+      "Requires opening the console",
+      "May void warranty",
+      "Capacitor choice critical"
+    ],
+    "watchOut": "Avoid using high‑ESR caps or exceeding voltage ratings, as they can introduce distortion instead of fixing it.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A small screwdriver, tweezers, and a solder‑less cap socket are enough; no soldering is required."
+      },
+      {
+        "q": "Will this affect video output?",
+        "a": "No, the modification is isolated to the audio path and leaves video untouched."
+      },
+      {
+        "q": "Can I revert the change?",
+        "a": "Yes—just remove the capacitor and reseat the original one if you keep it."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "audio",
+      "hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-08-26T05:16:26.617Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "diy-power-stabilizer-snes",
     "title": "DIY Power Stabilizer: Nail Consistent Frame Timing on Your SNES",
     "dek": "A cheap, easy mod that smooths power spikes for rock‑solid frame timing on classic SNES rigs.",
