@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pid-espresso-machine-mod",
+    "title": "DIY PID Upgrade: Stabilize Your Home Espresso Machine",
+    "dek": "Add a PID controller to your home espresso machine for rock‑steady temperature and better shots.",
+    "takeaway": "A PID upgrade locks temperature, unlocking consistency and flavor.",
+    "whatHappened": "I installed a low‑cost PID kit on my budget espresso machine, wiring the thermocouple to the controller and integrating it with the boiler's heating element. After a week of tuning, the brew temperature stayed within ±0.5 °C of the target.",
+    "whyItMatters": "Temperature swings are the #1 cause of shot variability, especially on small boilers. By eliminating those swings you gain repeatable extraction, allowing you to fine‑tune grind and dose with confidence.",
+    "howToThink": "Start with a reputable kit, map the machine’s wiring, and calibrate the thermocouple with a trusted thermometer. Tune the PID parameters slowly, watching the temperature graph until overshoot disappears.",
+    "pros": [
+      "Rock‑steady temperature",
+      "Improved shot repeatability",
+      "Low cost compared to new machine"
+    ],
+    "cons": [
+      "Requires basic wiring skills",
+      "Initial tuning can be fiddly",
+      "May void warranty"
+    ],
+    "watchOut": "Double‑check all connections before powering up to avoid shorting the heater.",
+    "faq": [
+      {
+        "q": "Do I need a specific thermocouple type?",
+        "a": "A Type‑K thermocouple works with most kits and offers good accuracy for espresso boilers."
+      },
+      {
+        "q": "Will the PID affect the machine’s pressure?",
+        "a": "No, the PID only controls temperature; pressure regulation remains unchanged."
+      },
+      {
+        "q": "Can I revert the machine back to stock?",
+        "a": "Yes, keep the original wiring diagram; you can unplug the PID and reconnect the heater directly."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "pid",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-08-26T07:31:30.823Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-50",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

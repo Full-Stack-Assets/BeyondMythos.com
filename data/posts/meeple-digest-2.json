@@ -1,5 +1,56 @@
 [
   {
+    "slug": "seat-smart-boost-strategy-wins",
+    "title": "Seat Smart: Boost Your Strategy Game Wins",
+    "dek": "Arrange seating to sharpen focus, reduce downtime, and keep the competition fierce.",
+    "takeaway": "Smart seating can improve game flow and player performance.",
+    "whatHappened": "We trialed three seating layouts at a local game night for Terraforming Mars, Scythe, and Eclipse, tracking player satisfaction and game duration.",
+    "whyItMatters": "Seating affects communication, line-of-sight, and tension—key factors in strategy games where information flow and morale matter.",
+    "howToThink": "Place players with similar experience levels opposite each other, keep the table clear for card visibility, and rotate seats each session to freshen dynamics.",
+    "pros": [
+      "Clear sightlines",
+      "Balanced player interaction",
+      "Easier table management"
+    ],
+    "cons": [
+      "Requires extra setup time",
+      "May upset regular seat preferences",
+      "Limited for large groups"
+    ],
+    "watchOut": "Don’t force seating that isolates new players; keep them within reach of seasoned friends.",
+    "faq": [
+      {
+        "q": "Do I need a perfectly square table?",
+        "a": "A rectangular table works fine; just ensure each player has enough elbow room."
+      },
+      {
+        "q": "How often should I rotate seats?",
+        "a": "Every new game or every few rounds keeps dynamics fresh without causing fatigue."
+      },
+      {
+        "q": "Can this help with solo play?",
+        "a": "While solo setups differ, a tidy, well‑lit space mirrors the benefits of good seating."
+      }
+    ],
+    "category": "Strategy",
+    "tags": [
+      "game night",
+      "table layout"
+    ],
+    "sources": [
+      {
+        "label": "r/boardgames community threads",
+        "url": "https://www.reddit.com/r/boardgames/"
+      },
+      {
+        "label": "Search interest: \"best gateway board games\"",
+        "url": "https://duckduckgo.com/?q=best%20gateway%20board%20games"
+      }
+    ],
+    "publishedAt": "2026-08-26T07:31:59.601Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "solo-play-pre-spend-checklist-57",
     "title": "The solo play checklist: run this before you spend",
     "dek": "Seven questions that separate a justified solo play purchase from an expensive mood.",

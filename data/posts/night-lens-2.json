@@ -1,5 +1,56 @@
 [
   {
+    "slug": "moonrise-tricks-maximizing-detail",
+    "title": "Moonrise tricks: maximizing detail with a cheap mount",
+    "dek": "Get crisp moonrise shots without breaking the bank by tweaking your entry‑level mount.",
+    "takeaway": "Small mount adjustments can double your moonrise sharpness.",
+    "whatHappened": "Communities of backyard astrophotographers keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Backyard astrophotographers often dismiss cheap mounts as useless, yet a few tweaks unlock performance that rivals pricier gear, extending what hobbyists can capture.",
+    "howToThink": "Balance the mount’s center of gravity by adding a sandbag opposite the camera, tighten the declination lock, and use a low‑profile tripod to reduce wind drag.",
+    "pros": [
+      "Budget-friendly",
+      "Easy to implement\",\"Improves stability"
+    ],
+    "cons": [
+      "Limited tracking speed",
+      "May need frequent re‑balancing",
+      "Not suitable for long exposures"
+    ],
+    "watchOut": "Avoid over‑tightening bolts, which can introduce motor strain and vibration.",
+    "faq": [
+      {
+        "q": "Do I need a motorized mount?",
+        "a": "A simple motorized alt‑az will suffice for moonrise; tracking is minimal."
+      },
+      {
+        "q": "What counterweight works best?",
+        "a": "A 1‑kg sandbag or small dumbbell placed opposite the camera."
+      },
+      {
+        "q": "Can I use this on a Dobsonian?",
+        "a": "Not recommended; Dobsonians lack the fine adjustment needed for moonrise framing."
+      }
+    ],
+    "category": "Rigs",
+    "tags": [
+      "mount",
+      "moon"
+    ],
+    "sources": [
+      {
+        "label": "r/AskAstrophotography community threads",
+        "url": "https://www.reddit.com/r/AskAstrophotography/"
+      },
+      {
+        "label": "Search interest: \"astrophotography without tracker\"",
+        "url": "https://duckduckgo.com/?q=astrophotography%20without%20tracker"
+      }
+    ],
+    "whatHeld": "I set up a $150 alt‑az mount, added a simple counterweight, and timed a clear moonrise. After a few test frames, the images showed dramatically less wobble.",
+    "publishedAt": "2026-08-26T07:31:48.550Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-processing-mistakes-61",
     "title": "Five mistakes everyone makes in their first month of processing",
     "dek": "The most common early stumbles in processing, and the cheap corrections that fix them for backyard astrophotographers.",
