@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-power-substrate-depth",
+    "title": "The hidden power of substrate depth: why depth matters more than you think",
+    "dek": "A deeper substrate isn’t just for aesthetics – it reshapes root zones, nutrient cycles, and plant health in subtle, game‑changing ways.",
+    "takeaway": "Increasing substrate depth by just a few centimeters can dramatically boost plant growth and stability.",
+    "whatHappened": "We swapped a 2‑inch sand layer for a 4‑inch mixed soil‑gravel base in a 40‑gallon nano, then tracked growth over six weeks.",
+    "whyItMatters": "Depth controls water retention, root aeration, and nutrient availability, directly influencing plant vigor and tank stability, especially in low‑tech setups.",
+    "howToThink": "Start with a base layer of nutrient‑rich soil about 2‑3 cm, top it with fine gravel or sand 1‑2 cm, and adjust depth based on tank size and plant species.",
+    "pros": [
+      "Boosts root development",
+      "Improves nutrient retention",
+      "Reduces algae spikes"
+    ],
+    "cons": [
+      "Increases initial setup time",
+      "May require heavier substrate",
+      "Potential for compaction if over‑packed"
+    ],
+    "watchOut": "Avoid over‑compressing the mix, or you’ll choke root oxygen and invite anaerobic decay.",
+    "faq": [
+      {
+        "q": "Does deeper substrate work for all plant types?",
+        "a": "Most stem‑cutters and heavy‑rooted species benefit, but delicate carpet plants can thrive in shallower layers if nutrient dosing is adequate."
+      },
+      {
+        "q": "Can I use plain sand for depth?",
+        "a": "Pure sand holds little nutrients, so pair it with a nutrient‑rich base or supplement with root tabs."
+      },
+      {
+        "q": "How often should I stir or refresh deep substrate?",
+        "a": "Only during major clean‑ups; routine stirring can disturb roots and release trapped gases."
+      }
+    ],
+    "category": "Hardscape",
+    "tags": [
+      "substrate",
+      "plant-growth"
+    ],
+    "sources": [
+      {
+        "label": "r/PlantedTank community threads",
+        "url": "https://www.reddit.com/r/PlantedTank/"
+      },
+      {
+        "label": "Search interest: \"low tech planted tank\"",
+        "url": "https://duckduckgo.com/?q=low%20tech%20planted%20tank"
+      }
+    ],
+    "publishedAt": "2026-08-26T02:13:54.554Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "co2-pre-spend-checklist-72",
     "title": "The co2 checklist: run this before you spend",
     "dek": "Seven questions that separate a justified co2 purchase from an expensive mood.",

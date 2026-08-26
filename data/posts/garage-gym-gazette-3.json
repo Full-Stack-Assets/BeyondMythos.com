@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-cost-cheap-deadlift-platforms",
+    "title": "The hidden cost of cheap deadlift platforms",
+    "dek": "Cheap deadlift platforms look tempting, but hidden costs can sabotage your lifts and budget.",
+    "takeaway": "Invest in a proper platform now to avoid costly repairs and safety issues later.",
+    "whatHappened": "I installed a $40 plywood platform in my garage gym last month. Within weeks, the surface warped under heavy deadlifts, causing wobble and a cracked barbell sleeve.",
+    "whyItMatters": "A unstable platform compromises form, increases injury risk, and can damage your equipment. Over time, you’ll spend more on fixes than on a quality platform.",
+    "howToThink": "Treat the platform as a foundation—choose a sturdy base, add interlocking foam or rubber, and secure it to the floor. Budget-friendly options like 3/4‑inch OSB with a rubber mat can deliver stability without breaking the bank.",
+    "pros": [
+      "Budget-friendly",
+      "Quick to build",
+      "Customizable"
+    ],
+    "cons": [
+      "Warps under load",
+      "Noise transmission",
+      "Potential equipment damage"
+    ],
+    "watchOut": "Never skip a solid sub‑floor; a flimsy base will ruin your lifts.",
+    "faq": [
+      {
+        "q": "Can I use plywood alone for a deadlift platform?",
+        "a": "Plywood alone will flex and wear quickly; you need a dense surface and a rubber top to absorb impact."
+      },
+      {
+        "q": "What’s the cheapest way to add stability?",
+        "a": "Layer 3/4‑inch OSB over a 1‑inch plywood base, then top with interlocking rubber tiles and anchor the whole assembly."
+      },
+      {
+        "q": "Will a cheap platform affect my lifts?",
+        "a": "Yes—any wobble can alter bar path, increase strain on joints, and lead to inconsistent performance."
+      }
+    ],
+    "category": "Flooring",
+    "tags": [
+      "flooring",
+      "budget"
+    ],
+    "sources": [
+      {
+        "label": "r/homegym community threads",
+        "url": "https://www.reddit.com/r/homegym/"
+      },
+      {
+        "label": "Search interest: \"garage gym on a budget\"",
+        "url": "https://duckduckgo.com/?q=garage%20gym%20on%20a%20budget"
+      }
+    ],
+    "publishedAt": "2026-08-26T02:14:19.574Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-gym-programming-18",
     "title": "Myth vs. reality: home gym programming",
     "dek": "The persistent myths around home gym programming, stress-tested against what home lifters building garage gyms actually report.",

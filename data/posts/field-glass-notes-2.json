@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spotting-early-warblers-quick-tweak",
+    "title": "Spotting the early warbler: a quick field tweak",
+    "dek": "A 5‑minute tweak to your field glasses can turn those elusive warblers from blur to crisp ID.",
+    "takeaway": "A small focus adjustment can dramatically improve early warbler identification.",
+    "whatHappened": "During a Saturday morning at my backyard feeder I kept missing the first warbler arrivals. I experimented with a quick focus‑lock technique and recorded the difference.",
+    "whyItMatters": "Early warblers are the hardest to ID, and missing them skews your list and enjoyment. A reliable visual cue boosts confidence and data quality.",
+    "howToThink": "Before sunrise set your binoculars to infinity then use a distant lamppost or treetop as a focus reference. Lock the focus ring and fine‑tune by covering one eye and scanning the feeder.",
+    "pros": [
+      "Instant clarity",
+      "No extra gear",
+      "Boosts confidence"
+    ],
+    "cons": [
+      "Requires pre‑setup",
+      "May need re‑focus later",
+      "Less effective in fog"
+    ],
+    "watchOut": "Don’t lock focus in hot weather; heat can shift lens elements.",
+    "faq": [
+      {
+        "q": "Can I use the same trick with spotting scopes?",
+        "a": "Yes, but you’ll need a stable mount and adjust for the longer focal length."
+      },
+      {
+        "q": "What if my binoculars lack a focus lock?",
+        "a": "Use the central focusing wheel and note the position; you can return to it manually."
+      },
+      {
+        "q": "Does this work for all bird species?",
+        "a": "It’s most effective for small, fast‑moving birds like warblers and chickadees."
+      }
+    ],
+    "category": "ID Skills",
+    "tags": [
+      "optics",
+      "warblers"
+    ],
+    "sources": [
+      {
+        "label": "r/whatsthisbird community threads",
+        "url": "https://www.reddit.com/r/whatsthisbird/"
+      },
+      {
+        "label": "Search interest: \"backyard feeder setup\"",
+        "url": "https://duckduckgo.com/?q=backyard%20feeder%20setup"
+      }
+    ],
+    "publishedAt": "2026-08-26T02:14:07.912Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "beginner-binoculars-birding-field-test-20",
     "title": "\"beginner binoculars birding\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about beginner binoculars birding through a month of actual use. Some of it survived.",

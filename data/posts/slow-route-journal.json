@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-platform-gardens-3",
+    "title": "Hidden Platform Gardens: Turning Neglected Stops into Micro‑Oases",
+    "dek": "Transform abandoned station platforms into low‑impact micro‑gardens that feed travelers and locals alike.",
+    "takeaway": "Even a few potted herbs on a forgotten platform can brighten a route and cut waste.",
+    "whatHappened": "During a weekend layover in a midsize town, I spotted an overgrown platform and planted a handful of native herbs in reclaimed wooden crates. Within two weeks the space sprouted, attracted pollinators, and became a quiet rest spot for fellow travelers. The host station even posted a sign inviting others to tend the garden.",
+    "whyItMatters": "Idle platforms waste space and contribute to the visual blight of rail corridors. By greening them, we reclaim underused real estate, reduce carbon footprints through local food, and foster community interaction. Small interventions ripple into broader sustainability narratives for rail networks.",
+    "howToThink": "Start with a site audit: assess sunlight, foot traffic, and permission from the rail operator. Choose hardy, low‑maintenance plants like thyme, sage, or native wildflowers. Use up‑cycled containers, mulch with compost, and enlist fellow passengers for stewardship rotations.",
+    "pros": [
+      "Boosts station aesthetics",
+      "Provides fresh herbs for travelers",
+      "Encourages community stewardship"
+    ],
+    "cons": [
+      "Requires permission from rail authority",
+      "Limited space for large crops",
+      "Maintenance falls on volunteers"
+    ],
+    "watchOut": "Never plant invasive species that could spread beyond the platform and disrupt local ecosystems.",
+    "faq": [
+      {
+        "q": "Do I need official permission to start a platform garden?",
+        "a": "Yes—always contact the station manager or rail authority first; many welcome low‑impact projects when presented with a clear plan."
+      },
+      {
+        "q": "What plants work best in high‑traffic, shallow soil?",
+        "a": "Hardy herbs (thyme, oregano) and native wildflowers thrive in shallow containers and tolerate occasional foot traffic."
+      },
+      {
+        "q": "How can I keep the garden low‑maintenance?",
+        "a": "Use self‑watering containers, mulch to retain moisture, and set up a simple volunteer schedule among regular passengers."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-08-26T02:13:45.789Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-54",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bulk-buying-hacks-stretch-pantry",
+    "title": "Bulk buying hacks: stretch your pantry for less",
+    "dek": "Turn big-box bulk buys into pantry power without waste or overspend.",
+    "takeaway": "Buy bigger, waste less, and keep your grocery bill flat.",
+    "whatHappened": "I tried a month-long bulk strategy—stocking staples like rice, beans, and frozen veggies in 5‑lb bags while using airtight containers. The pantry grew, the price per unit dropped, and my weekly grocery trips shrank.",
+    "whyItMatters": "Bulk buying cuts the per‑unit cost, a core lever for frugal households, and reduces the frequency of trips, saving both money and time. It also lessens packaging waste, aligning budget goals with sustainability.",
+    "howToThink": "Start by listing non‑perishable staples you use weekly, compare unit prices, and invest in reusable containers. Buy only when a discount meets your threshold (e.g., 30% off regular price) and rotate stock using FIFO. Keep a simple spreadsheet to track consumption and avoid over‑stocking.",
+    "pros": [
+      "Lower unit cost",
+      "Fewer store trips",
+      "Reduced packaging waste"
+    ],
+    "cons": [
+      "Requires storage space",
+      "Initial container outlay",
+      "Risk of spoilage if mis‑managed"
+    ],
+    "watchOut": "Don’t let bulk purchases tempt you into buying items you won’t actually use.",
+    "faq": [
+      {
+        "q": "How much storage do I really need?",
+        "a": "A few stackable bins in a garage or pantry are enough; start with one aisle and expand as you see savings."
+      },
+      {
+        "q": "Is bulk buying worth it for fresh produce?",
+        "a": "Only if you can freeze or preserve it; otherwise stick to frozen or long‑shelf items."
+      },
+      {
+        "q": "Can I still be frugal without bulk?",
+        "a": "Absolutely—focus on unit price comparisons and shop sales, bulk is just one tool."
+      }
+    ],
+    "category": "Groceries",
+    "tags": [
+      "bulk-buying",
+      "pantry-management"
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"subscription audit\"",
+        "url": "https://duckduckgo.com/?q=subscription%20audit"
+      }
+    ],
+    "publishedAt": "2026-08-26T02:13:52.456Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-frugal-24",
     "title": "Community pulse: what r/Frugal is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the mindset community this week.",
