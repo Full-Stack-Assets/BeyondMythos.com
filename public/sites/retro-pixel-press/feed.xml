@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Audio Sync Tuning: Align SNES Sound for Frame‑Accurate Speedruns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-sync-tuning-snes.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-sync-tuning-snes.html</guid>
+      <pubDate>Wed, 26 Aug 2026 03:39:03 GMT</pubDate>
+      <description>Get your SNES audio perfectly in sync with video to shave milliseconds off your runs.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-51.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-51.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-audio-restoration.html</guid>
       <pubDate>Mon, 24 Aug 2026 20:01:54 GMT</pubDate>
       <description>A quick guide to swapping and calibrating the DMG‑01’s audio PCB for crisp, authentic chiptune sound.</description>
-    </item>
-    <item>
-      <title>Boosting SNES Power: A DIY 0.5V Upgrade</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boosting-snes-power-diy-upgrade.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boosting-snes-power-diy-upgrade.html</guid>
-      <pubDate>Mon, 24 Aug 2026 19:17:12 GMT</pubDate>
-      <description>A quick guide to squeezing extra voltage from your SNES power supply for tighter controller response.</description>
     </item>
   </channel>
 </rss>

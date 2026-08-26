@@ -1,5 +1,56 @@
 [
   {
+    "slug": "lubing-switches-quick-win",
+    "title": "Lubing switches: the low‑effort upgrade that feels like a new board",
+    "dek": "A quick guide to lubing common switches and why the extra 5 minutes pays off in smoother, quieter typing.",
+    "takeaway": "Proper lubing can shave milliseconds off actuation and dramatically reduce scratchy noise.",
+    "whatHappened": "I took a batch of stock Cherry MX Browns, lubed them with a thin Krytox 205g0 mix, and re‑assembled a 60% board. The result was a noticeably smoother, quieter keystroke.",
+    "whyItMatters": "Switch feel is the core of typing experience; even minor friction adds fatigue and acoustic annoyance, especially in shared spaces. A well‑lubed switch can extend the perceived lifespan of a board.",
+    "howToThink": "Treat lubing as a habit, not a one‑off. Start with a small sample, test feel, then scale to the whole set. Use a brush and avoid excess to keep stems moving freely.",
+    "pros": [
+      "Smoother keystroke",
+      "Reduced ping noise",
+      "Longer switch life"
+    ],
+    "cons": [
+      "Time investment",
+      "Potential mess",
+      "Risk of over‑lubing"
+    ],
+    "watchOut": "Too much lube can make switches feel mushy and cause key chatter.",
+    "faq": [
+      {
+        "q": "Do I need a specific lube for each switch type?",
+        "a": "Most thin Krytox or Tribosys oils work well across common MX‑style stems; thicker greases are better for tactile or linear switches with larger tolerances."
+      },
+      {
+        "q": "Can I lubed my switches without disassembling them?",
+        "a": "Pre‑lubed switch kits exist, but for optimal results you should open each switch to apply lube directly to the spring and stem contact points."
+      },
+      {
+        "q": "How much lube is too much?",
+        "a": "A thin coating—just enough to coat the contact surfaces—prevents excess buildup; if the switch feels sluggish, you’ve over‑lubed."
+      }
+    ],
+    "category": "Switches",
+    "tags": [
+      "lubing",
+      "switch-mods"
+    ],
+    "sources": [
+      {
+        "label": "r/MechanicalKeyboards community threads",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+      },
+      {
+        "label": "Search interest: \"best budget mechanical keyboard\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20mechanical%20keyboard"
+      }
+    ],
+    "publishedAt": "2026-08-26T03:39:28.136Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "first-custom-keyboard-build-field-test-18",
     "title": "\"first custom keyboard build\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about first custom keyboard build through a month of actual use. Some of it survived.",

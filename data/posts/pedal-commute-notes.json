@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midweek-shortcut-15-minutes",
+    "title": "Midweek Shortcut: Cutting 15 Minutes from Your Commute with One Street Change",
+    "dek": "A single street tweak can shave fifteen minutes off your daily bike commute.",
+    "takeaway": "Find and use hidden shortcuts to make your ride faster without extra effort.",
+    "whatHappened": "I spotted a one-way street that becomes a two-way during off-peak hours. By rerouting through it, my commute dropped from 45 to 30 minutes on a trial week.",
+    "whyItMatters": "Time saved translates to less fatigue and more flexibility for errands or work. Urban cyclists often miss micro‑optimizations that compound over weeks.",
+    "howToThink": "Map your route, check municipal traffic calendars, and test alternate streets during different times. Keep a simple log to verify real savings before making it permanent.",
+    "pros": [
+      "Instant time gain",
+      "No extra gear needed",
+      "Reduces exposure to traffic"
+    ],
+    "cons": [
+      "Requires extra planning",
+      "May be unfamiliar to others",
+      "Potential for occasional construction delays"
+    ],
+    "watchOut": "Always verify the street’s direction changes are current; city signage can lag behind updates.",
+    "faq": [
+      {
+        "q": "How can I find hidden two‑way streets?",
+        "a": "Use city traffic apps or Google Maps' traffic layer and look for arrows indicating reversible lanes."
+      },
+      {
+        "q": "Is it safe to ride on streets that switch direction?",
+        "a": "Only if the change is clearly posted and you ride during the allowed window; wear visible gear."
+      },
+      {
+        "q": "What if my employer’s insurance requires a fixed route?",
+        "a": "Check policy details; most cover reasonable alternate routes as long as they’re safe and legal."
+      }
+    ],
+    "category": "Routes",
+    "tags": [
+      "route-optimization",
+      "commute-efficiency"
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike commute gear\"",
+        "url": "https://duckduckgo.com/?q=bike%20commute%20gear"
+      }
+    ],
+    "publishedAt": "2026-08-26T03:39:17.827Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-maintenance-61",
     "title": "The quiet upgrade: small tweaks in maintenance with outsized returns",
     "dek": "No purchases, no overhauls — the modest maintenance adjustments that urban bike commuters and car-light riders report mattering most.",

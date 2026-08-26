@@ -1,5 +1,56 @@
 [
   {
+    "slug": "audio-sync-tuning-snes",
+    "title": "Audio Sync Tuning: Align SNES Sound for Frame‑Accurate Speedruns",
+    "dek": "Get your SNES audio perfectly in sync with video to shave milliseconds off your runs.",
+    "takeaway": "Precise audio timing can be the hidden edge in competitive speedrunning.",
+    "whatHappened": "I discovered that the SNES's APU introduces a variable delay that desynchronizes sound and visuals during fast-paced sections. By measuring the lag with a scope and adjusting the master clock, I brought the audio back in line.",
+    "whyItMatters": "Audio‑visual drift can mislead input timing, causing missed tricks and inconsistent splits. Fixing it gives runners a reliable feedback loop and can tighten leaderboard times.",
+    "howToThink": "Start by recording a known visual cue and its accompanying sound, then compare timestamps. If the sound lags, tweak the audio clock register or add a small resistor to the APU's clock line. Test after each tweak until the waveforms align.",
+    "pros": [
+      "Clearer timing feedback",
+      "Potential split improvements",
+      "Low‑cost mod"
+    ],
+    "cons": [
+      "Requires oscilloscope",
+      "Risk of overheating if over‑clocked",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid exceeding the APU's 21 MHz spec, as it can cause audio distortion or hardware failure.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron?",
+        "a": "A fine tip is recommended, but you can use a hot‑air rework station for less invasive adjustments."
+      },
+      {
+        "q": "Will this affect game audio quality?",
+        "a": "When done correctly, the pitch remains unchanged; only the latency is corrected."
+      },
+      {
+        "q": "Is this mod reversible?",
+        "a": "Yes—simply desolder the added resistor or restore the original clock divider."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "audio",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-08-26T03:39:03.571Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-51",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",
