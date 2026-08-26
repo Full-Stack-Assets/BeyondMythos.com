@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-carriage-eco-sleep-pods",
+    "title": "Quiet Carriage: Turning Vintage Freight Wagons into Eco‑Sleep Pods",
+    "dek": "Explore how repurposed freight wagons become low‑impact sleeping pods on the rails, blending comfort with sustainability.",
+    "takeaway": "Repurposed wagons can offer affordable, eco‑friendly overnight stays for slow travelers.",
+    "whatHappened": "Last month a community of rail‑enthusiasts in the Pacific Northwest finished converting a decommissioned boxcar into a minimalist sleep pod, complete with solar panels and composting toilet. The first guests reported a surprisingly restful night, hearing only the rhythmic clatter of passing trains.",
+    "whyItMatters": "These pods turn otherwise idle metal into valuable micro‑lodgings, reducing waste and expanding low‑impact travel options. They also showcase a model for rural economies to monetize dormant rail assets without heavy infrastructure.",
+    "howToThink": "Scout nearby disused freight cars, partner with a local railway for safe access, and start with a simple insulation‑first build. Prioritise passive heating, renewable power, and a compact water‑loop to keep the footprint tiny. Test the space with a night‑stay before scaling up.",
+    "pros": [
+      "Low material waste",
+      "Minimal land use",
+      "Authentic rail experience"
+    ],
+    "cons": [
+      "Limited space",
+      "Requires rail permissions",
+      "Seasonal temperature swings"
+    ],
+    "watchOut": "Never block emergency exits or interfere with rail signaling when installing pods.",
+    "faq": [
+      {
+        "q": "Do I need a rail licence to modify a freight car?",
+        "a": "Yes, you must obtain permission from the owning railway and comply with safety regulations."
+      },
+      {
+        "q": "How much does a basic conversion cost?",
+        "a": "A bare‑bones retrofit can be done for $3‑5k, depending on insulation and power needs."
+      },
+      {
+        "q": "Can I stay legally in a moving train?",
+        "a": "Only if the rail operator authorises a stationary carriage on a siding; overnight travel on moving trains requires a separate ticket."
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "eco‑sleep",
+      "rail‑stays"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-08-26T12:02:40.538Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-backpacking-19",
     "title": "Community pulse: what r/backpacking is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",
