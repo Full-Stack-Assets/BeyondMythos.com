@@ -1,0 +1,1133 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 280 >>
+stream
+BT
+F2 28 Tf
+44.99 592.00 Td
+(The Autonomous Publisher's Handbook) Tj
+F1 13 Tf
+70.80 532.00 Td
+(How to design, launch, and operate a network of niche publications that runs itself) Tj
+F1 12 Tf
+210.70 472.00 Td
+(BeyondMythos Press · First Edition) Tj
+F1 9 Tf
+303.50 40 Td
+(1) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 279 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(The Autonomous Publisher's Handbook) Tj
+F2 14 Tf
+72.00 666.00 Td
+(How to design, launch, and operate a network of niche publications that runs itself) Tj
+F1 11 Tf
+72.00 642.00 Td
+(BeyondMythos Press · First Edition) Tj
+F1 9 Tf
+303.50 40 Td
+(2) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 2347 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Introduction: The quiet machine) Tj
+F1 11 Tf
+72.00 676.00 Td
+(Most publishing advice assumes a publisher. A person who commissions, edits, schedules,) Tj
+F1 11 Tf
+72.00 660.05 Td
+(promotes, and worries. This book assumes the opposite: a system that does the publishing, and) Tj
+F1 11 Tf
+72.00 644.10 Td
+(a person who designs the system.) Tj
+F1 11 Tf
+72.00 622.15 Td
+(An autonomous publishing network is not a blog with a scheduler plugin. It is a small machine) Tj
+F1 11 Tf
+72.00 606.20 Td
+(with four organs: a niche map that says what to cover, a content engine that drafts on a) Tj
+F1 11 Tf
+72.00 590.25 Td
+(cadence, a distribution surface that readers can actually find, and a monetization layer that) Tj
+F1 11 Tf
+72.00 574.30 Td
+(converts attention into revenue without a human in the loop. When those four organs work, the) Tj
+F1 11 Tf
+72.00 558.35 Td
+(publisher's job moves up a level — from writing posts to tuning the machine.) Tj
+F1 11 Tf
+72.00 536.40 Td
+(This book is a practical manual for building that machine. It is drawn from the construction of a) Tj
+F1 11 Tf
+72.00 520.45 Td
+(real one: a network of niche sites generated hourly, served as static pages, monetized through) Tj
+F1 11 Tf
+72.00 504.50 Td
+(affiliates, sponsors, digital products, and — the subject of the second half of this book — a direct) Tj
+F1 11 Tf
+72.00 488.55 Td
+(bookstore.) Tj
+F1 11 Tf
+72.00 466.60 Td
+(You will not find growth hacks here. You will find architecture: how to choose niches with data) Tj
+F1 11 Tf
+72.00 450.65 Td
+(instead of hunches, how to make generated content genuinely useful, how to keep quality from) Tj
+F1 11 Tf
+72.00 434.70 Td
+(decaying as volume rises, and how to sell things to the audience the machine assembles.) Tj
+F1 11 Tf
+72.00 412.75 Td
+(A note on provenance: this book was drafted with AI assistance and edited by a human. The) Tj
+F1 11 Tf
+72.00 396.80 Td
+(systems it describes are real; the numbers are illustrative unless stated otherwise. Treat every) Tj
+F1 11 Tf
+72.00 380.85 Td
+(claim as a starting hypothesis for your own measurements, not as gospel.) Tj
+F1 11 Tf
+72.00 358.90 Td
+(Who this is for: independent operators, small teams, and engineers who would rather build a) Tj
+F1 11 Tf
+72.00 342.95 Td
+(publishing system once than write posts forever.) Tj
+F1 9 Tf
+303.50 40 Td
+(3) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 1852 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 1 — Why niche sites still win) Tj
+F1 11 Tf
+72.00 676.00 Td
+(The web keeps being declared dead, and niche sites keep paying rent. The reason is structural:) Tj
+F1 11 Tf
+72.00 660.05 Td
+(search engines and feeds reward specificity. A page that answers one question completely will) Tj
+F1 11 Tf
+72.00 644.10 Td
+(outrank a homepage that gestures at a hundred topics. Advertisers pay for intent, and intent) Tj
+F1 11 Tf
+72.00 628.15 Td
+(lives in the long tail.) Tj
+F1 11 Tf
+72.00 606.20 Td
+(Three properties make a niche site durable:) Tj
+F1 11 Tf
+72.00 584.25 Td
+(• Answer-shaped content. The unit of value is the answered question, not the article. If a reader) Tj
+F1 11 Tf
+72.00 568.30 Td
+(arrives with "how do I season a cast iron skillet," the page that ends their search wins.) Tj
+F1 11 Tf
+72.00 550.35 Td
+(• Compounding archives. Each post is a small asset. A hundred assets cross-link, rank, and) Tj
+F1 11 Tf
+72.00 534.40 Td
+(attract subscribers. The archive is the product.) Tj
+F1 11 Tf
+72.00 516.45 Td
+(• Clear monetization fit. Some niches monetize through affiliates \(gear, software\), some through) Tj
+F1 11 Tf
+72.00 500.50 Td
+(sponsors \(local services, B2B\), some through digital products \(templates, guides\). Pick the) Tj
+F1 11 Tf
+72.00 484.55 Td
+(niche after you pick the money model, not before.) Tj
+F1 11 Tf
+72.00 466.60 Td
+(The failure mode is also structural: thin content. A hundred pages that say nothing will not) Tj
+F1 11 Tf
+72.00 450.65 Td
+(compound; they will decay. The entire rest of this book is about producing volume without) Tj
+F1 11 Tf
+72.00 434.70 Td
+(producing thinness.) Tj
+F1 11 Tf
+72.00 412.75 Td
+(Operator's rule: one niche, one money model, one hundred genuinely useful pages before you) Tj
+F1 11 Tf
+72.00 396.80 Td
+(judge anything.) Tj
+F1 9 Tf
+303.50 40 Td
+(4) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 2670 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 2 — Anatomy of the machine) Tj
+F1 11 Tf
+72.00 676.00 Td
+(An autonomous publishing network has four organs. Name them explicitly, because every) Tj
+F1 11 Tf
+72.00 660.05 Td
+(operational problem you'll ever have is a problem in exactly one of them.) Tj
+F2 14 Tf
+72.00 628.10 Td
+(1. The niche map) Tj
+F1 11 Tf
+72.00 604.10 Td
+(A registry of what you cover and why: audience, questions they ask, money model, cadence.) Tj
+F1 11 Tf
+72.00 588.15 Td
+(Stored as data, not as vibes. A niche entry should fit on an index card: who it's for, the ten) Tj
+F1 11 Tf
+72.00 572.20 Td
+(questions that matter most, how it makes money, and what "good" looks like.) Tj
+F2 14 Tf
+72.00 540.25 Td
+(2. The content engine) Tj
+F1 11 Tf
+72.00 516.25 Td
+(The pipeline that turns the niche map into drafts on a schedule: research, drafting, quality) Tj
+F1 11 Tf
+72.00 500.30 Td
+(checks, rendering to static HTML, deployment. Cadence is a design choice — hourly is) Tj
+F1 11 Tf
+72.00 484.35 Td
+(aggressive; daily is sane; weekly is a newsletter with extra steps. Whatever you choose, the) Tj
+F1 11 Tf
+72.00 468.40 Td
+(engine must be boring: same inputs, same checks, same outputs, every run.) Tj
+F2 14 Tf
+72.00 436.45 Td
+(3. The distribution surface) Tj
+F1 11 Tf
+72.00 412.45 Td
+(Where readers meet the work: the sites themselves, RSS feeds, newsletters, marketplaces.) Tj
+F1 11 Tf
+72.00 396.50 Td
+(Static HTML is underrated — it's fast, cheap, cacheable, and nearly impossible to break. Each) Tj
+F1 11 Tf
+72.00 380.55 Td
+(site should have a feed from day one; feeds are the cheapest subscription mechanism ever) Tj
+F1 11 Tf
+72.00 364.60 Td
+(invented.) Tj
+F2 14 Tf
+72.00 332.65 Td
+(4. The monetization layer) Tj
+F1 11 Tf
+72.00 308.65 Td
+(How attention becomes money: affiliate links with honest disclosure, sponsor slots with a real) Tj
+F1 11 Tf
+72.00 292.70 Td
+(rate card, digital products with instant delivery, and a bookstore for your own titles. Every layer) Tj
+F1 11 Tf
+72.00 276.75 Td
+(must work without you touching it — checkout, delivery, receipts, recovery.) Tj
+F1 11 Tf
+72.00 254.80 Td
+(Between the organs sit contracts: the content engine promises the distribution surface valid) Tj
+F1 11 Tf
+72.00 238.85 Td
+(HTML; the monetization layer promises the content engine product metadata; the niche map) Tj
+F1 11 Tf
+72.00 222.90 Td
+(promises everyone a stable vocabulary. Write these contracts down. When something breaks at) Tj
+F1 11 Tf
+72.00 206.95 Td
+(2 a.m., the contract tells you which organ is sick.) Tj
+F1 11 Tf
+72.00 185.00 Td
+(Operator's rule: if you can't diagram it on one page, you can't operate it.) Tj
+F1 9 Tf
+303.50 40 Td
+(5) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 2800 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 3 — Choosing niches with data) Tj
+F1 11 Tf
+72.00 676.00 Td
+(Hunches are expensive. A niche that can't monetize will eat a year of compute and produce a) Tj
+F1 11 Tf
+72.00 660.05 Td
+(beautiful archive nobody pays for. Choose with a scorecard.) Tj
+F2 14 Tf
+72.00 628.10 Td
+(The five-factor scorecard) Tj
+F1 11 Tf
+72.00 604.10 Td
+(Score each candidate niche from 1 to 5 on:) Tj
+F1 11 Tf
+72.00 582.15 Td
+(• Question density. Are there at least 200 distinct questions people actually ask? Check search) Tj
+F1 11 Tf
+72.00 566.20 Td
+(suggestions, forums, and community Q&A. Fewer than 200 means you'll run out of things to) Tj
+F1 11 Tf
+72.00 550.25 Td
+(say.) Tj
+F1 11 Tf
+72.00 532.30 Td
+(• Buyer intent. Do the questions lead to purchases? "Best espresso grinder under $300" beats) Tj
+F1 11 Tf
+72.00 516.35 Td
+("history of espresso" by an order of magnitude in revenue per thousand readers.) Tj
+F1 11 Tf
+72.00 498.40 Td
+(• Affiliate depth. Are there real products with real programs? Count the programs, note the) Tj
+F1 11 Tf
+72.00 482.45 Td
+(commissions, and verify the links work. Three solid programs beat thirty dead ones.) Tj
+F1 11 Tf
+72.00 464.50 Td
+(• Competition shape. You're not trying to outrank giants; you're trying to find questions giants) Tj
+F1 11 Tf
+72.00 448.55 Td
+(answer badly. Look for thin top results, outdated pages, and forums outranking publishers —) Tj
+F1 11 Tf
+72.00 432.60 Td
+(those are gaps.) Tj
+F1 11 Tf
+72.00 414.65 Td
+(• Your unfair advantage. Data access, lived experience, tooling, or distribution. If you have) Tj
+F1 11 Tf
+72.00 398.70 Td
+(none, pick a niche where the work itself is the advantage: testing, measuring, comparing —) Tj
+F1 11 Tf
+72.00 382.75 Td
+(things lazy competitors won't do.) Tj
+F1 11 Tf
+72.00 364.80 Td
+(Total the scores. Anything under 15 is a no. Anything over 20 deserves a pilot.) Tj
+F2 14 Tf
+72.00 332.85 Td
+(The pilot: ten pages, one month) Tj
+F1 11 Tf
+72.00 308.85 Td
+(Before committing to a niche, publish ten pages and watch for thirty days. Measure:) Tj
+F1 11 Tf
+72.00 292.90 Td
+(impressions, clicks, time on page, and — the one that matters — email signups per hundred) Tj
+F1 11 Tf
+72.00 276.95 Td
+(visitors. A niche with traffic but no signups has an audience but not a business. A niche with) Tj
+F1 11 Tf
+72.00 261.00 Td
+(signups but no traffic needs distribution work, which is solvable.) Tj
+F1 11 Tf
+72.00 239.05 Td
+(Kill pilots fast. The scorecard plus the pilot will save you from your two most expensive) Tj
+F1 11 Tf
+72.00 223.10 Td
+(mistakes: the niche you love that can't pay, and the niche that pays that you'll hate operating.) Tj
+F1 11 Tf
+72.00 201.15 Td
+(Operator's rule: ten pages, thirty days, one decision. No sunk-cost extensions.) Tj
+F1 9 Tf
+303.50 40 Td
+(6) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 2742 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 4 — Content systems that don't rot) Tj
+F1 11 Tf
+72.00 676.00 Td
+(Volume without a system produces sludge. A content system has four parts: archetypes, briefs,) Tj
+F1 11 Tf
+72.00 660.05 Td
+(checks, and feedback.) Tj
+F2 14 Tf
+72.00 628.10 Td
+(Archetypes) Tj
+F1 11 Tf
+72.00 604.10 Td
+(Every post belongs to an archetype with a fixed shape: the comparison, the how-to, the glossary) Tj
+F1 11 Tf
+72.00 588.15 Td
+(entry, the checklist, the teardown, the FAQ. Archetypes do three jobs: they tell the drafter what) Tj
+F1 11 Tf
+72.00 572.20 Td
+(to produce, they tell the reader what to expect, and they tell your quality checks what to verify.) Tj
+F1 11 Tf
+72.00 556.25 Td
+(Six archetypes are plenty. Twenty is a taxonomy project, not a publishing system.) Tj
+F2 14 Tf
+72.00 524.30 Td
+(Briefs) Tj
+F1 11 Tf
+72.00 500.30 Td
+(A brief is the contract between the niche map and the draft: the question, the reader's situation,) Tj
+F1 11 Tf
+72.00 484.35 Td
+(the archetype, the facts that must appear, and what "done" means. Generate briefs from data —) Tj
+F1 11 Tf
+72.00 468.40 Td
+(top questions, product specs, community threads — not from inspiration. A good brief makes a) Tj
+F1 11 Tf
+72.00 452.45 Td
+(mediocre draft useful; a bad brief makes a good draft irrelevant.) Tj
+F2 14 Tf
+72.00 420.50 Td
+(Checks) Tj
+F1 11 Tf
+72.00 396.50 Td
+(Automated checks are your editors. Minimum viable checks:) Tj
+F1 11 Tf
+72.00 374.55 Td
+(• Structure: does the draft match its archetype's shape? \(Headings present, comparison has a) Tj
+F1 11 Tf
+72.00 358.60 Td
+(table, how-to has steps.\)) Tj
+F1 11 Tf
+72.00 340.65 Td
+(• Substance: minimum length, no placeholder text, links resolve, product names match the) Tj
+F1 11 Tf
+72.00 324.70 Td
+(catalog.) Tj
+F1 11 Tf
+72.00 306.75 Td
+(• Honesty: affiliate disclosures present, claims hedged where they should be, no fabricated) Tj
+F1 11 Tf
+72.00 290.80 Td
+(specs or prices.) Tj
+F1 11 Tf
+72.00 272.85 Td
+(• Freshness: dates current, no references to expired events or discontinued products.) Tj
+F1 11 Tf
+72.00 254.90 Td
+(Checks should block publication, not just warn. A warning nobody reads is decoration.) Tj
+F2 14 Tf
+72.00 222.95 Td
+(Feedback) Tj
+F1 11 Tf
+72.00 198.95 Td
+(Close the loop: which archetypes earn signups? Which pages get cited? Which products) Tj
+F1 11 Tf
+72.00 183.00 Td
+(convert? Feed those measurements back into the briefs — more of what works, less of what) Tj
+F1 11 Tf
+72.00 167.05 Td
+(doesn't. A content system that doesn't learn is just a printer.) Tj
+F1 11 Tf
+72.00 145.10 Td
+(Operator's rule: archetypes are law, briefs are contracts, checks are editors, metrics are the) Tj
+F1 11 Tf
+72.00 129.15 Td
+(curriculum.) Tj
+F1 9 Tf
+303.50 40 Td
+(7) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 2620 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 5 — The monetization ladder) Tj
+F1 11 Tf
+72.00 676.00 Td
+(Attention is inventory. The ladder describes how you sell it, from lowest to highest effort — and,) Tj
+F1 11 Tf
+72.00 660.05 Td
+(usually, lowest to highest margin.) Tj
+F2 14 Tf
+72.00 628.10 Td
+(Rung 1: Affiliate links) Tj
+F1 11 Tf
+72.00 604.10 Td
+(The easiest money and the easiest to get wrong. Rules: only recommend products the content) Tj
+F1 11 Tf
+72.00 588.15 Td
+(genuinely evaluated, disclose every affiliate relationship plainly, and track every link. A link that) Tj
+F1 11 Tf
+72.00 572.20 Td
+(404s is a leak; a disclosure that's missing is a liability. Affiliate revenue is proportional to buyer) Tj
+F1 11 Tf
+72.00 556.25 Td
+(intent, which is why Chapter 3 matters.) Tj
+F2 14 Tf
+72.00 524.30 Td
+(Rung 2: Sponsors) Tj
+F1 11 Tf
+72.00 500.30 Td
+(One sponsor slot, sold simply. You need three artifacts: a rate card with real numbers, a) Tj
+F1 11 Tf
+72.00 484.35 Td
+(one-page media kit, and a reporting template. Price on value delivered \(targeted readers with) Tj
+F1 11 Tf
+72.00 468.40 Td
+(intent\), not on vanity metrics. Start with a single slot per site; scarcity is a feature.) Tj
+F2 14 Tf
+72.00 436.45 Td
+(Rung 3: Digital products) Tj
+F1 11 Tf
+72.00 412.45 Td
+(Templates, checklists, prompt packs, spreadsheets — the things your readers would otherwise) Tj
+F1 11 Tf
+72.00 396.50 Td
+(build themselves. Digital products have near-zero marginal cost, which means the work is all) Tj
+F1 11 Tf
+72.00 380.55 Td
+(upfront: the product must be genuinely useful on first open. Price on the value of the problem) Tj
+F1 11 Tf
+72.00 364.60 Td
+(solved, not the size of the file. Deliver instantly, gate with expiring links, and make recovery) Tj
+F1 11 Tf
+72.00 348.65 Td
+(self-serve — every support email you avoid is margin.) Tj
+F2 14 Tf
+72.00 316.70 Td
+(Rung 4: Your own books) Tj
+F1 11 Tf
+72.00 292.70 Td
+(The top rung, and the subject of Part II. A book is the highest-trust product you can sell: it says) Tj
+F1 11 Tf
+72.00 276.75 Td
+(you know the subject well enough to sustain an argument for two hundred pages. Books also do) Tj
+F1 11 Tf
+72.00 260.80 Td
+(something products can't — they turn readers into believers, and believers into customers for) Tj
+F1 11 Tf
+72.00 244.85 Td
+(everything else on the ladder.) Tj
+F1 11 Tf
+72.00 222.90 Td
+(Climb in order. Each rung funds the next, and each rung's audience becomes the next rung's) Tj
+F1 11 Tf
+72.00 206.95 Td
+(customers.) Tj
+F1 11 Tf
+72.00 185.00 Td
+(Operator's rule: never add a rung until the one below it runs without you.) Tj
+F1 9 Tf
+303.50 40 Td
+(8) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Length 2686 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 6 — SEO for programmatic publishing) Tj
+F1 11 Tf
+72.00 676.00 Td
+(Programmatic publishing has a reputation problem, and it earned it: thousands of) Tj
+F1 11 Tf
+72.00 660.05 Td
+(auto-generated pages with shuffled synonyms deserve to rank nowhere. The difference) Tj
+F1 11 Tf
+72.00 644.10 Td
+(between spam and a publication is editorial intent, and search engines are increasingly good at) Tj
+F1 11 Tf
+72.00 628.15 Td
+(detecting which one they're looking at.) Tj
+F2 14 Tf
+72.00 596.20 Td
+(What actually ranks) Tj
+F1 11 Tf
+72.00 572.20 Td
+(• Satisfying the query completely. The page that ends the search wins. Cover the question, the) Tj
+F1 11 Tf
+72.00 556.25 Td
+(follow-up questions, and the edge cases. Length is a side effect of completeness, not a goal.) Tj
+F1 11 Tf
+72.00 538.30 Td
+(• Original information. Measurements, tests, comparisons you ran yourself, data you compiled.) Tj
+F1 11 Tf
+72.00 522.35 Td
+(Anything a rewriter can't produce. This is your moat.) Tj
+F1 11 Tf
+72.00 504.40 Td
+(• Site-level coherence. A hundred pages on espresso grinders tell the engine what the site is) Tj
+F1 11 Tf
+72.00 488.45 Td
+(about. A hundred random pages tell it nothing. Topical authority is real; it's just earned slowly.) Tj
+F1 11 Tf
+72.00 470.50 Td
+(• Clean technicals. Fast pages, valid HTML, sensible headings, working internal links, a) Tj
+F1 11 Tf
+72.00 454.55 Td
+(sitemap, a feed. None of this ranks you; all of it un-blocks you.) Tj
+F2 14 Tf
+72.00 426.60 Td
+(What gets you ignored) Tj
+F1 11 Tf
+72.00 402.60 Td
+(Doorway pages, spun text, keyword-stuffed headings, fake review stars, and — the quiet killer —) Tj
+F1 11 Tf
+72.00 386.65 Td
+(publishing faster than you can quality-check. If your checks from Chapter 4 are real, scale is) Tj
+F1 11 Tf
+72.00 370.70 Td
+(safe. If they're decorative, scale is a footprint that says "penalize me.") Tj
+F2 14 Tf
+72.00 338.75 Td
+(The honest keyword workflow) Tj
+F1 11 Tf
+72.00 314.75 Td
+(Start from real questions \(forums, search suggestions, support inboxes\). Group them by intent.) Tj
+F1 11 Tf
+72.00 298.80 Td
+(Assign each group an archetype. Write the brief. Draft, check, publish. Then watch Search) Tj
+F1 11 Tf
+72.00 282.85 Td
+(Console like a hawk for the first ninety days: impressions without clicks mean your titles need) Tj
+F1 11 Tf
+72.00 266.90 Td
+(work; clicks without signups mean the page needs a better offer; neither means the question) Tj
+F1 11 Tf
+72.00 250.95 Td
+(had no demand, and you should stop covering its siblings.) Tj
+F1 11 Tf
+72.00 229.00 Td
+(Operator's rule: publish like an editor, measure like a scientist, prune like a gardener.) Tj
+F1 9 Tf
+303.50 40 Td
+(9) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Length 3031 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 7 — The store: turning attention into revenue) Tj
+F1 11 Tf
+72.00 676.00 Td
+(A publication without a store is a hobby with analytics. The store is where the ladder from) Tj
+F1 11 Tf
+72.00 660.05 Td
+(Chapter 5 becomes infrastructure: product catalog, checkout, delivery, recovery. Every piece) Tj
+F1 11 Tf
+72.00 644.10 Td
+(must work while you sleep, because the whole point is that it does.) Tj
+F2 14 Tf
+72.00 612.15 Td
+(The catalog is the contract) Tj
+F1 11 Tf
+72.00 588.15 Td
+(Prices live on the server, never in the browser. The client sends product IDs and quantities; the) Tj
+F1 11 Tf
+72.00 572.20 Td
+(server looks up names and prices from its own catalog. This isn't paranoia — it's the difference) Tj
+F1 11 Tf
+72.00 556.25 Td
+(between a store and a suggestion box. Anyone can edit JavaScript in their browser; nobody) Tj
+F1 11 Tf
+72.00 540.30 Td
+(should be able to edit your prices.) Tj
+F2 14 Tf
+72.00 508.35 Td
+(Checkout) Tj
+F1 11 Tf
+72.00 484.35 Td
+(Use a hosted checkout \(Stripe Checkout, in our case\) rather than building your own card forms.) Tj
+F1 11 Tf
+72.00 468.40 Td
+(You get PCI compliance, mobile wallets, and tax handling for free. Your job is the session:) Tj
+F1 11 Tf
+72.00 452.45 Td
+(correct line items from the server catalog, the buyer's email, metadata that ties the payment) Tj
+F1 11 Tf
+72.00 436.50 Td
+(back to your records \(product IDs, site\), and success/cancel URLs that actually exist. Test the) Tj
+F1 11 Tf
+72.00 420.55 Td
+(full loop in test mode before you ever take a real dollar: click, pay with a test card, land on) Tj
+F1 11 Tf
+72.00 404.60 Td
+(success, receive the product.) Tj
+F2 14 Tf
+72.00 372.65 Td
+(Delivery) Tj
+F1 11 Tf
+72.00 348.65 Td
+(Digital delivery has one requirement: the buyer gets the file, and nobody else does. The pattern) Tj
+F1 11 Tf
+72.00 332.70 Td
+(that works: on payment confirmation \(via webhook, never via the browser redirect\), record the) Tj
+F1 11 Tf
+72.00 316.75 Td
+(purchase, mint a signed, expiring access token, and serve files only through a gated endpoint) Tj
+F1 11 Tf
+72.00 300.80 Td
+(that verifies the token and the purchase. Never put deliverable files under a public static path.) Tj
+F1 11 Tf
+72.00 284.85 Td
+(Never trust the success-page URL as proof of payment — webhooks are the source of truth; the) Tj
+F1 11 Tf
+72.00 268.90 Td
+(redirect is a courtesy.) Tj
+F2 14 Tf
+72.00 236.95 Td
+(Recovery) Tj
+F1 11 Tf
+72.00 212.95 Td
+(Buyers lose emails, links expire, devices change. Recovery must be self-serve: enter your) Tj
+F1 11 Tf
+72.00 197.00 Td
+(email, get a fresh access link. Every recovery request that needs a human is a failure of design.) Tj
+F1 11 Tf
+72.00 181.05 Td
+(Log everything — checkout started, payment completed, delivery granted, link renewed — so) Tj
+F1 11 Tf
+72.00 165.10 Td
+(when something does go wrong, you can see exactly where.) Tj
+F1 11 Tf
+72.00 143.15 Td
+(Operator's rule: the browser is a liar; the webhook is the truth; the catalog is the law.) Tj
+F1 9 Tf
+301.00 40 Td
+(10) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Length 2327 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 8 — Operations: dashboards, cron, and calm) Tj
+F1 11 Tf
+72.00 676.00 Td
+(An autonomous system still needs an operator — just not a full-time one. Operations means) Tj
+F1 11 Tf
+72.00 660.05 Td
+(three things: seeing what's happening, doing routine work on schedule, and staying calm when) Tj
+F1 11 Tf
+72.00 644.10 Td
+(something breaks.) Tj
+F2 14 Tf
+72.00 612.15 Td
+(Dashboards) Tj
+F1 11 Tf
+72.00 588.15 Td
+(One page that answers: is it alive, is it publishing, is it earning? Health checks, recent) Tj
+F1 11 Tf
+72.00 572.20 Td
+(publications, checkout conversion, revenue. Keep the ops dashboard off the public homepage —) Tj
+F1 11 Tf
+72.00 556.25 Td
+(buyers shouldn't see your internals, and you shouldn't have to explain them. A dashboard you) Tj
+F1 11 Tf
+72.00 540.30 Td
+(check for five minutes a morning beats a wall of metrics you never open.) Tj
+F2 14 Tf
+72.00 508.35 Td
+(Cron) Tj
+F1 11 Tf
+72.00 484.35 Td
+(Scheduled jobs are the heartbeat: generate the next batch of content, rebuild indexes, renew) Tj
+F1 11 Tf
+72.00 468.40 Td
+(feeds, reconcile payments. Every job needs three properties: idempotency \(running twice is) Tj
+F1 11 Tf
+72.00 452.45 Td
+(safe\), a secret \(nobody else can trigger it\), and logging \(you can see what it did\). A cron job) Tj
+F1 11 Tf
+72.00 436.50 Td
+(without idempotency is a incident waiting for a retry.) Tj
+F2 14 Tf
+72.00 404.55 Td
+(Calm) Tj
+F1 11 Tf
+72.00 380.55 Td
+(Things will break: a provider goes down, a webhook fails, a deploy wipes ephemeral state.) Tj
+F1 11 Tf
+72.00 364.60 Td
+(Design for it now: keep purchase records somewhere durable \(a disk that survives deploys, or a) Tj
+F1 11 Tf
+72.00 348.65 Td
+(real database — never the instance's throwaway filesystem\), make webhooks retry-safe by) Tj
+F1 11 Tf
+72.00 332.70 Td
+(recording idempotently on the provider's session ID, and keep a runbook for the three failures) Tj
+F1 11 Tf
+72.00 316.75 Td
+(you've actually seen, not the thirty you imagine.) Tj
+F1 11 Tf
+72.00 294.80 Td
+(The goal isn't zero incidents. It's incidents you notice in minutes, diagnose from the dashboard,) Tj
+F1 11 Tf
+72.00 278.85 Td
+(and fix without heroics.) Tj
+F1 11 Tf
+72.00 256.90 Td
+(Operator's rule: durable state, idempotent jobs, one dashboard, five minutes a morning.) Tj
+F1 9 Tf
+301.00 40 Td
+(11) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Length 1792 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 9 — Legal and trust) Tj
+F1 11 Tf
+72.00 676.00 Td
+(Trust is the product. Everything legal is downstream of that sentence.) Tj
+F2 14 Tf
+72.00 644.05 Td
+(Disclosures) Tj
+F1 11 Tf
+72.00 620.05 Td
+(Affiliate relationships, sponsorships, AI involvement in content — disclose all of it, plainly, where) Tj
+F1 11 Tf
+72.00 604.10 Td
+(the reader will see it. Disclosure isn't just compliance; it's positioning. Readers forgive) Tj
+F1 11 Tf
+72.00 588.15 Td
+(monetization they can see. They punish monetization they discover.) Tj
+F2 14 Tf
+72.00 556.20 Td
+(Privacy) Tj
+F1 11 Tf
+72.00 532.20 Td
+(Collect the minimum: an email for delivery and receipts. Say what you store, how long, and why.) Tj
+F1 11 Tf
+72.00 516.25 Td
+(Never sell buyer data — not because it's illegal \(it often isn't, in the fine print\), but because a) Tj
+F1 11 Tf
+72.00 500.30 Td
+(bookstore that sells its customers has no customers.) Tj
+F2 14 Tf
+72.00 468.35 Td
+(Refunds) Tj
+F1 11 Tf
+72.00 444.35 Td
+(Digital products need a clear refund policy, stated before purchase. Ours: if the file doesn't) Tj
+F1 11 Tf
+72.00 428.40 Td
+(match its description, you get your money back — no interrogation. Chargebacks cost more than) Tj
+F1 11 Tf
+72.00 412.45 Td
+(refunds, and a generous policy is a conversion feature. Mean it.) Tj
+F2 14 Tf
+72.00 380.50 Td
+(Terms and contact) Tj
+F1 11 Tf
+72.00 356.50 Td
+(Real terms of service, a real privacy policy, a real contact address. Placeholder links) Tj
+F1 11 Tf
+72.00 340.55 Td
+(\(javascript:void\(0\)\) are a confession: they tell every buyer the store isn't finished. Finish it before) Tj
+F1 11 Tf
+72.00 324.60 Td
+(you take money.) Tj
+F1 11 Tf
+72.00 302.65 Td
+(Operator's rule: if you wouldn't sign it, don't ship it.) Tj
+F1 9 Tf
+301.00 40 Td
+(12) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Length 2188 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Chapter 10 — From one site to a network) Tj
+F1 11 Tf
+72.00 676.00 Td
+(One site is a publication. Ten sites are a network, and networks have properties single sites) Tj
+F1 11 Tf
+72.00 660.05 Td
+(don't.) Tj
+F2 14 Tf
+72.00 628.10 Td
+(Shared infrastructure) Tj
+F1 11 Tf
+72.00 604.10 Td
+(One content engine, one checkout, one fulfillment system, one dashboard — serving every site.) Tj
+F1 11 Tf
+72.00 588.15 Td
+(The marginal cost of the eleventh site should be near zero: a niche-map entry, a theme, a) Tj
+F1 11 Tf
+72.00 572.20 Td
+(cadence. If launching a site takes more than an afternoon, your infrastructure isn't shared; it's) Tj
+F1 11 Tf
+72.00 556.25 Td
+(repeated.) Tj
+F2 14 Tf
+72.00 524.30 Td
+(The offer ladder, network-wide) Tj
+F1 11 Tf
+72.00 500.30 Td
+(Each site climbs its own ladder \(Chapter 5\), but the ladders connect: the espresso site's buyer is) Tj
+F1 11 Tf
+72.00 484.35 Td
+(the kitchen site's prospect. Cross-promote honestly — recommendations between your own) Tj
+F1 11 Tf
+72.00 468.40 Td
+(properties must be as genuine as any affiliate pick, or they rot trust across the whole network.) Tj
+F2 14 Tf
+72.00 436.45 Td
+(Portfolio strategy) Tj
+F1 11 Tf
+72.00 412.45 Td
+(Not every site should grow forever. Some are cash cows, some are experiments, some are) Tj
+F1 11 Tf
+72.00 396.50 Td
+(feeders for the bookstore. Decide each site's role explicitly and review quarterly. Kill sites that) Tj
+F1 11 Tf
+72.00 380.55 Td
+(fail their role; sentimentality is not a strategy.) Tj
+F2 14 Tf
+72.00 348.60 Td
+(The bookstore at the center) Tj
+F1 11 Tf
+72.00 324.60 Td
+(Here's the endgame: the network assembles audiences; the bookstore converts the deepest) Tj
+F1 11 Tf
+72.00 308.65 Td
+(trust into the highest-margin product. Every site's best readers become the bookstore's) Tj
+F1 11 Tf
+72.00 292.70 Td
+(customers. Every book's readers discover the sites. The flywheel is slow — books take real work) Tj
+F1 11 Tf
+72.00 276.75 Td
+(— but it's the only rung on the ladder your competitors can't copy by outbidding you.) Tj
+F1 11 Tf
+72.00 254.80 Td
+(Operator's rule: the network finds readers; the bookstore keeps them.) Tj
+F1 9 Tf
+301.00 40 Td
+(13) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Length 1161 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Appendix — The 30-day launch checklist) Tj
+F1 11 Tf
+72.00 676.00 Td
+(Days 1–3: Foundation. Pick one niche with the scorecard. Define its money model. Write ten) Tj
+F1 11 Tf
+72.00 660.05 Td
+(briefs. Set up the site, the feed, and the analytics.) Tj
+F1 11 Tf
+72.00 638.10 Td
+(Days 4–10: First pages. Publish the ten pilot pages. Wire affiliate links with disclosures. Set up) Tj
+F1 11 Tf
+72.00 622.15 Td
+(the newsletter capture.) Tj
+F1 11 Tf
+72.00 600.20 Td
+(Days 11–17: The store. Catalog, checkout, webhooks, delivery, recovery — all in test mode. Run) Tj
+F1 11 Tf
+72.00 584.25 Td
+(a full test purchase end to end: click, pay, webhook, download, recover.) Tj
+F1 11 Tf
+72.00 562.30 Td
+(Days 18–24: Trust. Terms, privacy, refunds, contact — all real. Success and cancel pages. Rate) Tj
+F1 11 Tf
+72.00 546.35 Td
+(card and media kit if sponsors fit the niche.) Tj
+F1 11 Tf
+72.00 524.40 Td
+(Days 25–30: Measure and decide. Thirty days of data on ten pages. Impressions, clicks,) Tj
+F1 11 Tf
+72.00 508.45 Td
+(signups, revenue. Decide: scale, pivot, or kill. Then do it without ceremony.) Tj
+F1 9 Tf
+301.00 40 Td
+(14) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Length 1045 >>
+stream
+BT
+F2 20 Tf
+72.00 710.00 Td
+(Colophon) Tj
+F1 11 Tf
+72.00 676.00 Td
+(The Autonomous Publisher's Handbook, first edition, was published by BeyondMythos Press as) Tj
+F1 11 Tf
+72.00 660.05 Td
+(a direct sale from beyondmythos.com — the first title in the bookstore this book describes.) Tj
+F1 11 Tf
+72.00 638.10 Td
+(The manuscript was drafted with AI assistance and edited, verified, and approved by a human) Tj
+F1 11 Tf
+72.00 622.15 Td
+(before publication. The systems described are real and operating; treat the guidance as a) Tj
+F1 11 Tf
+72.00 606.20 Td
+(starting point for your own measurements.) Tj
+F1 11 Tf
+72.00 584.25 Td
+(No part of this book may be reproduced without permission, except brief quotations for review.) Tj
+F1 11 Tf
+72.00 568.30 Td
+(Buyer data is never sold. If your download link expires, request a fresh one — recovery is) Tj
+F1 11 Tf
+72.00 552.35 Td
+(self-serve, forever.) Tj
+F1 11 Tf
+72.00 530.40 Td
+(Set in Helvetica. Built with a static site generator, a cron job, and stubbornness.) Tj
+F1 9 Tf
+301.00 40 Td
+(15) Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+20 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+21 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+22 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+23 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+24 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+25 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 10 0 R >>
+endobj
+26 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+27 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 12 0 R >>
+endobj
+28 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+29 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 14 0 R >>
+endobj
+30 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+31 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 16 0 R >>
+endobj
+32 0 obj
+<< /Type /Page /Parent 33 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+33 0 obj
+<< /Type /Pages /Kids [18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R] /Count 15 >>
+endobj
+34 0 obj
+<< /Type /Metadata /Subtype /XML /Length 11 >>
+stream
+<?xpacket?>
+endstream
+endobj
+35 0 obj
+<< /Type /Catalog /Pages 33 0 R /Metadata 34 0 R >>
+endobj
+xref
+0 36
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000000485 00000 n 
+0000000815 00000 n 
+0000003214 00000 n 
+0000005118 00000 n 
+0000007840 00000 n 
+0000010692 00000 n 
+0000013486 00000 n 
+0000016159 00000 n 
+0000018898 00000 n 
+0000021982 00000 n 
+0000024362 00000 n 
+0000026207 00000 n 
+0000028448 00000 n 
+0000029662 00000 n 
+0000030760 00000 n 
+0000030898 00000 n 
+0000031036 00000 n 
+0000031174 00000 n 
+0000031312 00000 n 
+0000031450 00000 n 
+0000031588 00000 n 
+0000031726 00000 n 
+0000031865 00000 n 
+0000032004 00000 n 
+0000032143 00000 n 
+0000032282 00000 n 
+0000032421 00000 n 
+0000032560 00000 n 
+0000032699 00000 n 
+0000032838 00000 n 
+0000032996 00000 n 
+0000033088 00000 n 
+trailer
+<< /Size 36 /Root 35 0 R >>
+startxref
+33156
+%%EOF

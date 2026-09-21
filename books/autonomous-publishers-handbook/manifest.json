@@ -1,0 +1,19 @@
+{
+  "slug": "autonomous-publishers-handbook",
+  "title": "The Autonomous Publisher's Handbook",
+  "author": "BeyondMythos Press",
+  "chapters": 14,
+  "wordCount": 3257,
+  "pdfPages": 15,
+  "files": {
+    "epub": {
+      "path": "downloads/autonomous-publishers-handbook.epub",
+      "bytes": 17804
+    },
+    "pdf": {
+      "path": "downloads/autonomous-publishers-handbook.pdf",
+      "bytes": 33943
+    }
+  },
+  "builtAt": "2026-09-21T19:52:44.561Z"
+}

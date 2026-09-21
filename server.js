@@ -7,7 +7,7 @@ const { renderDashboard } = require("./lib/dashboard");
 const { generateBlogSite } = require("./lib/blog-site-generator");
 const { getBaseUrl } = require("./lib/config");
 const { contentModeLabel } = require("./lib/content-provider");
-const { listProducts, listCategories, listProductTypes } = require("./lib/products");
+const { listProducts, listBooks, listCategories, listProductTypes } = require("./lib/products");
 const { buildCheckoutLineItems } = require("./lib/checkout");
 const { purchasePayloadFromSession } = require("./lib/stripe-webhooks");
 const { getMarketplaceLinks, getSponsorSlot, affiliateDisclosure } = require("./lib/monetization");
@@ -19,6 +19,7 @@ const {
   requestCustomerAccess,
   customerAccess,
   resolveDigitalAccess,
+  resolveDownload,
   recoverPurchaseAccess,
   markPurchaseRefunded,
   revenueDashboard
@@ -164,10 +165,138 @@ function authorizeCron(req) {
   return bearer === secret || cronHeader === secret;
 }
 
+const STOREFOOT =
+  `<footer style="margin-top:3rem;padding-top:1.5rem;border-top:1px solid rgba(148,163,184,.2);color:#94a3b8;font-size:.9rem;display:flex;gap:1.25rem;flex-wrap:wrap">` +
+  `<a href="/terms">Terms</a><a href="/privacy">Privacy</a><a href="/refunds">Refunds</a><a href="/contact">Contact</a>` +
+  `<span style="margin-left:auto">© ${new Date().getFullYear()} BeyondMythos Press</span></footer>`;
+
+function productCard(product) {
+  const formats = Array.isArray(product.formats) && product.formats.length
+    ? `<p style="color:#94a3b8;font-size:.85rem">Includes: ${product.formats.map((f) => escapeHtml(f.toUpperCase())).join(" + ")} · DRM-free</p>`
+    : "";
+  const author = product.author ? `<p style="color:#94a3b8;font-size:.85rem">By ${escapeHtml(product.author)}</p>` : "";
+  return `<article id="product-${product.id}"><span style="display:inline-block;padding:.2rem .45rem;border:1px solid rgba(96,165,250,.5);border-radius:999px;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:#93c5fd">${escapeHtml(product.offerTier)}</span><h2>${escapeHtml(product.name)}</h2>${author}<p>${escapeHtml(product.description)}</p>${formats}<strong>$${product.price.toFixed(2)}</strong><div style="display:flex;gap:.6rem;flex-wrap:wrap;margin-top:.7rem"><button data-buy-now data-product-id="${product.id}" style="cursor:pointer;padding:.45rem .7rem;border-radius:.6rem;border:1px solid rgba(96,165,250,.45);background:#2563eb;color:#fff">Buy now</button></div></article>`;
+}
+
+function buyNowScript() {
+  return `<script>document.addEventListener("click",async function(event){var button=event.target.closest("[data-buy-now]");if(!button)return;event.preventDefault();var status=document.getElementById("checkout-status");var emailField=document.getElementById("checkout-email");var email=emailField&&emailField.value?emailField.value.trim():"";button.disabled=true;if(status)status.textContent="Starting checkout...";try{var response=await fetch("/api/create-checkout",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:email,site:"beyondmythos.com",items:[{id:Number(button.getAttribute("data-product-id")),quantity:1}]})});var payload=await response.json();if(!response.ok||!payload.url){throw new Error(payload&&payload.error?payload.error:"Checkout failed");}window.location.href=payload.url;}catch(error){if(status)status.textContent=error.message||"Checkout failed";button.disabled=false;}});</script>`;
+}
+
+const PAGE_STYLE = `body{margin:0;background:#0b1020;color:#eef2ff;font-family:Inter,system-ui,sans-serif}.wrap{max-width:1100px;margin:auto;padding:2rem 1.25rem 4rem}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem}article{border:1px solid rgba(148,163,184,.2);border-radius:1rem;padding:1rem;background:rgba(255,255,255,.04)}a{color:#60a5fa}p{color:#94a3b8}.checkout{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:1rem 0}.checkout input{padding:.5rem .65rem;border-radius:.5rem;border:1px solid rgba(148,163,184,.4);background:#0f172a;color:#eef2ff}`;
+
+function renderBookstoreHomepage() {
+  const books = listBooks();
+  const kits = listProducts({ type: "digital" }).filter((p) => p.category !== "books");
+  const bookCards = books.map(productCard).join("");
+  const kitCards = kits.map(productCard).join("");
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BeyondMythos Press — Bookstore</title><meta name="description" content="Direct bookstore for BeyondMythos Press: ebooks on autonomous publishing, plus creator kits and templates."><style>${PAGE_STYLE}.hero{padding:2.5rem 0 1rem}.hero h1{font-size:2.2rem;margin:.4rem 0}.kicker{display:inline-block;padding:.25rem .6rem;border:1px solid rgba(249,115,22,.5);border-radius:999px;font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:#fdba74}h2.section{margin:2.5rem 0 1rem;font-size:1.4rem}</style></head><body><main class="wrap">
+<header class="hero"><span class="kicker">BeyondMythos Press</span><h1>The bookstore for autonomous publishing</h1><p>Books, kits, and templates from the publishing network that runs itself. Buy direct — every purchase includes DRM-free downloads and self-serve recovery, forever.</p></header>
+<div class="checkout"><label for="checkout-email">Checkout email</label><input id="checkout-email" type="email" placeholder="you@example.com" autocomplete="email" /><span id="checkout-status" style="color:#93c5fd;font-size:.9rem"></span></div>
+<h2 class="section">Books</h2><section class="grid">${bookCards || "<p>No books yet — check back soon.</p>"}</section>
+<h2 class="section">Creator kits &amp; templates</h2><section class="grid">${kitCards}</section>
+<section style="margin-top:2.5rem;border:1px solid rgba(148,163,184,.2);border-radius:1rem;padding:1.25rem;background:rgba(249,115,22,.06)"><h2 style="margin-top:0">How delivery works</h2><p>Pay securely with Stripe. Your download links are signed to your purchase and never shared. Lost your link? Enter your email on the <a href="/success">order success</a> page or use purchase recovery — no support ticket needed.</p></section>
+${STOREFOOT}
+</main>${buyNowScript()}</body></html>`;
+}
+
 app.get("/", (req, res) => {
+  res.set("Cache-Control", "public, max-age=120, stale-while-revalidate=60");
+  res.type("html").send(renderBookstoreHomepage());
+});
+
+app.get("/ops", (req, res) => {
   const sites = registry.listSites();
   res.set("Cache-Control", "no-store");
   res.type("html").send(renderDashboard(sites, getBaseUrl(), summarizePortfolio()));
+});
+
+app.get("/success", (req, res) => {
+  const sessionId = escapeHtml(String(req.query.session_id || ""));
+  res.set("Cache-Control", "no-store");
+  res.type("html").send(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Order confirmed — BeyondMythos Press</title><style>${PAGE_STYLE}</style></head><body><main class="wrap">
+<p><a href="/">← Back to the bookstore</a></p>
+<h1>Thank you — your order is confirmed</h1>
+${sessionId ? `<p style="color:#94a3b8">Stripe session: <code>${sessionId}</code></p>` : ""}
+<p>Your payment went through. Here's how to get your files:</p>
+<ol>
+<li><strong>Request your access link</strong> with the email you used at checkout, below.</li>
+<li>Open the link to see every purchase on your account, with fresh download buttons.</li>
+<li>Links expire after 14 days for security — you can renew them any time, free, forever.</li>
+</ol>
+<form id="recover-form" style="display:flex;gap:.6rem;flex-wrap:wrap;margin:1.5rem 0">
+<input id="recover-email" type="email" required placeholder="you@example.com" autocomplete="email" style="padding:.5rem .65rem;border-radius:.5rem;border:1px solid rgba(148,163,184,.4);background:#0f172a;color:#eef2ff" />
+<button type="submit" style="cursor:pointer;padding:.5rem .8rem;border-radius:.6rem;border:1px solid rgba(96,165,250,.45);background:#2563eb;color:#fff">Email me my downloads</button>
+</form>
+<p id="recover-status" style="color:#93c5fd"></p>
+${STOREFOOT}
+</main><script>document.getElementById("recover-form").addEventListener("submit",async function(e){e.preventDefault();var s=document.getElementById("recover-status");var email=document.getElementById("recover-email").value.trim();s.textContent="Sending...";try{var r=await fetch("/api/customer/access/request",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:email})});var p=await r.json();if(!r.ok)throw new Error(p.error||"Request failed");s.innerHTML='Access link ready: <a href="'+p.accessUrl+'">open your downloads</a>';}catch(err){s.textContent=err.message;}});</script></body></html>`);
+});
+
+app.get("/cancel", (req, res) => {
+  res.set("Cache-Control", "no-store");
+  res.type("html").send(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Checkout cancelled — BeyondMythos Press</title><style>${PAGE_STYLE}</style></head><body><main class="wrap">
+<p><a href="/">← Back to the bookstore</a></p>
+<h1>Checkout cancelled</h1>
+<p>No charge was made. Your cart is waiting whenever you're ready.</p>
+<p><a href="/store">Return to the store</a> · Questions? <a href="/contact">Contact us</a></p>
+${STOREFOOT}
+</main></body></html>`);
+});
+
+function legalPage(title, bodyHtml) {
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(title)} — BeyondMythos Press</title><style>${PAGE_STYLE}.prose p{color:#cbd5e1}.prose li{color:#cbd5e1;margin:.4rem 0}</style></head><body><main class="wrap"><p><a href="/">← Back to the bookstore</a></p><h1>${escapeHtml(title)}</h1><div class="prose">${bodyHtml}</div>${STOREFOOT}</main></body></html>`;
+}
+
+app.get("/terms", (req, res) => {
+  res.set("Cache-Control", "public, max-age=3600");
+  res.type("html").send(legalPage("Terms of Service", `
+<p>Last updated: September 2026. By purchasing from BeyondMythos Press you agree to the following.</p>
+<h2>What you buy</h2><p>Digital products (ebooks, kits, templates) are licensed to you personally, DRM-free. You may read and use them on your own devices; you may not resell, redistribute, or publish them.</p>
+<h2>Delivery</h2><p>Files are delivered through signed, expiring download links tied to your purchase email. Links expire after 14 days and can be renewed free at any time via purchase recovery.</p>
+<h2>Payments</h2><p>Payments are processed securely by Stripe. Prices are in USD. We never see or store your card details.</p>
+<h2>Refunds</h2><p>See our <a href="/refunds">refund policy</a>. If a file doesn't match its description, you get your money back.</p>
+<h2>Contact</h2><p>Questions about these terms: see <a href="/contact">contact</a>.</p>`));
+});
+
+app.get("/privacy", (req, res) => {
+  res.set("Cache-Control", "public, max-age=3600");
+  res.type("html").send(legalPage("Privacy Policy", `
+<p>Last updated: September 2026.</p>
+<h2>What we collect</h2><p>Your email address (for delivery, receipts, and recovery) and purchase records (what you bought, when). That's it.</p>
+<h2>What we don't do</h2><p>We never sell your data. We never share your email with advertisers. Payment details go to Stripe, never to us.</p>
+<h2>Storage</h2><p>Purchase records are kept to honor your downloads and refunds. Ask for deletion via <a href="/contact">contact</a> and we'll remove what the law allows us to remove (tax records may require retention).</p>
+<h2>Cookies</h2><p>This storefront uses no tracking cookies. Stripe's checkout may set its own cookies during payment; see Stripe's privacy policy.</p>`));
+});
+
+app.get("/refunds", (req, res) => {
+  res.set("Cache-Control", "public, max-age=3600");
+  res.type("html").send(legalPage("Refund Policy", `
+<p>Last updated: September 2026.</p>
+<p>Digital products can't be returned, but they can be wrong. Our promise:</p>
+<ul><li>If a file doesn't match its product description, you get a full refund — no interrogation.</li><li>Request within 30 days of purchase via <a href="/contact">contact</a> with your order email.</li><li>Refunded purchases lose download access; that's the only catch.</li></ul>
+<p>Chargebacks cost everyone more than refunds do. We'd rather refund you and keep your trust.</p>`));
+});
+
+app.get("/contact", (req, res) => {
+  res.set("Cache-Control", "public, max-age=3600");
+  res.type("html").send(legalPage("Contact", `
+<p>For order help, refunds, or anything else:</p>
+<ul><li><strong>Lost downloads?</strong> Use purchase recovery on the <a href="/success">order success page</a> — instant, no email needed.</li><li><strong>Refunds &amp; order issues:</strong> include your purchase email and we'll sort it out.</li><li><strong>Press &amp; wholesale:</strong> BeyondMythos Press titles are available for bundle licensing — get in touch.</li></ul>
+<p>We answer within two business days.</p>`));
+});
+
+app.get("/api/downloads/:purchaseId/:productId/:format", (req, res) => {
+  const result = resolveDownload({
+    purchaseId: req.params.purchaseId,
+    productId: req.params.productId,
+    format: req.params.format,
+    token: req.query.token
+  });
+  if (result.error) return res.status(401).json({ error: result.error });
+  res.set("Cache-Control", "no-store");
+  res.set("Content-Type", result.contentType);
+  res.set("Content-Disposition", `attachment; filename="${result.fileName}"`);
+  res.sendFile(result.filePath);
 });
 
 app.get("/portfolio", (req, res) => {
@@ -237,14 +366,12 @@ app.get("/healthz", (req, res) => {
 });
 
 app.get("/store", (req, res) => {
-  const products = listProducts({ type: "digital" });
+  const books = listBooks();
+  const kits = listProducts({ type: "digital" }).filter((p) => p.category !== "books");
   const markets = getMarketplaceLinks();
-  const cards = products
-    .map(
-      (product) => `<article id="product-${product.id}"><span style="display:inline-block;padding:.2rem .45rem;border:1px solid rgba(96,165,250,.5);border-radius:999px;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:#93c5fd">${escapeHtml(product.offerTier)}</span><h2>${escapeHtml(product.name)}</h2><p>${escapeHtml(product.description)}</p><strong>$${product.price.toFixed(2)}</strong><div style="display:flex;gap:.6rem;flex-wrap:wrap;margin-top:.7rem"><button data-buy-now data-product-id="${product.id}" style="cursor:pointer;padding:.45rem .7rem;border-radius:.6rem;border:1px solid rgba(96,165,250,.45);background:#2563eb;color:#fff">Buy now</button><a href="/api/store/products?type=digital&tier=${encodeURIComponent(product.offerTier)}">API details</a></div></article>`
-    )
-    .join("");
-  res.type("html").send(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BeyondMythos Store</title><style>body{margin:0;background:#0b1020;color:#eef2ff;font-family:Inter,system-ui,sans-serif}.wrap{max-width:1100px;margin:auto;padding:2rem 1.25rem 4rem}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem}article{border:1px solid rgba(148,163,184,.2);border-radius:1rem;padding:1rem;background:rgba(255,255,255,.04)}a{color:#60a5fa}p{color:#94a3b8}.markets{display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0 2rem}.trust{border:1px solid rgba(148,163,184,.2);border-radius:1rem;padding:1rem;margin:1rem 0 2rem;background:rgba(249,115,22,.08)}.checkout{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:1rem 0}.checkout input{padding:.5rem .65rem;border-radius:.5rem;border:1px solid rgba(148,163,184,.4);background:#0f172a;color:#eef2ff}.checkout button{cursor:pointer}</style></head><body><main class="wrap"><p><a href="/">← Live stream</a></p><h1>Digital products and creator tools</h1><p>Guides, templates, prompt packs, launch kits, and automation assets for niche-site operators.</p><div class="checkout"><label for="checkout-email">Checkout email</label><input id="checkout-email" type="email" placeholder="you@example.com" autocomplete="email" /><span id="checkout-status" style="color:#93c5fd;font-size:.9rem"></span></div><div class="trust"><strong>Delivery and recovery</strong><p>After purchase, request account access at <code>/api/customer/access/request</code> to retrieve your digital products and renew expired links.</p></div><div class="markets">${markets.map((link) => `<a href="${escapeHtml(link.url)}" rel="noopener nofollow">${escapeHtml(link.label)}</a>`).join("")}</div><section class="grid">${cards}</section></main><script>document.addEventListener("click",async function(event){var button=event.target.closest("[data-buy-now]");if(!button)return;event.preventDefault();var status=document.getElementById("checkout-status");var emailField=document.getElementById("checkout-email");var email=emailField&&emailField.value?emailField.value.trim():"";button.disabled=true;if(status)status.textContent="Starting checkout...";try{var response=await fetch("/api/create-checkout",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:email,site:"beyondmythos.com",items:[{id:Number(button.getAttribute("data-product-id")),quantity:1}]})});var payload=await response.json();if(!response.ok||!payload.url){throw new Error(payload&&payload.error?payload.error:"Checkout failed");}window.location.href=payload.url;}catch(error){if(status)status.textContent=error.message||"Checkout failed";button.disabled=false;}});</script></body></html>`);
+  const bookCards = books.map(productCard).join("");
+  const kitCards = kits.map(productCard).join("");
+  res.type("html").send(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BeyondMythos Store</title><style>${PAGE_STYLE}.markets{display:flex;gap:1rem;flex-wrap:wrap;margin:1rem 0 2rem}.trust{border:1px solid rgba(148,163,184,.2);border-radius:1rem;padding:1rem;margin:1rem 0 2rem;background:rgba(249,115,22,.08)}h2.section{margin:2.5rem 0 1rem;font-size:1.4rem}</style></head><body><main class="wrap"><p><a href="/">← Bookstore home</a></p><h1>BeyondMythos Store</h1><p>Books first, creator kits after. Guides, templates, prompt packs, launch kits, and automation assets for niche-site operators.</p><div class="checkout"><label for="checkout-email">Checkout email</label><input id="checkout-email" type="email" placeholder="you@example.com" autocomplete="email" /><span id="checkout-status" style="color:#93c5fd;font-size:.9rem"></span></div><div class="trust"><strong>Delivery and recovery</strong><p>After purchase, request account access at <code>/api/customer/access/request</code> to retrieve your digital products and renew expired links.</p></div><div class="markets">${markets.map((link) => `<a href="${escapeHtml(link.url)}" rel="noopener nofollow">${escapeHtml(link.label)}</a>`).join("")}</div><h2 class="section">Books</h2><section class="grid">${bookCards}</section><h2 class="section">Creator kits &amp; templates</h2><section class="grid">${kitCards}</section>${STOREFOOT}</main>${buyNowScript()}</body></html>`);
 });
 
 app.get("/api/store/config", (req, res) => {
