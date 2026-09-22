@@ -68,11 +68,26 @@ app.post("/api/stripe/webhook", express.raw({ type: "application/json" }), async
     return res.status(400).json({ error: "Invalid Stripe signature" });
   }
 
+  // TEMP-DIAG (2026-09-22): narrow webhook diagnostics, reversible. No secrets or customer PII logged.
+  console.log("stripe_webhook_event", {
+    type: event.type,
+    eventId: event.id,
+    livemode: event.livemode
+  });
+
   if (event.type !== "checkout.session.completed" && event.type !== "checkout.session.async_payment_succeeded") {
     return res.json({ received: true });
   }
 
   const session = event.data?.object;
+  // TEMP-DIAG: log session state without customer PII (email presence only).
+  console.log("stripe_webhook_session", {
+    sessionId: session?.id,
+    paymentStatus: session?.payment_status,
+    hasEmail: Boolean(
+      session?.customer_details?.email || session?.customer_email || session?.metadata?.email
+    )
+  });
   if (!session?.id || session.payment_status !== "paid") {
     return res.json({ received: true });
   }
@@ -86,22 +101,35 @@ app.post("/api/stripe/webhook", express.raw({ type: "application/json" }), async
       session,
       lineItems: lineItemsResponse?.data || []
     });
+    // TEMP-DIAG: log parsed product IDs (internal catalog IDs only, no PII).
+    console.log("stripe_webhook_payload", {
+      sessionId: session.id,
+      hasEmail: Boolean(purchasePayload.email),
+      productIds: (purchasePayload.items || []).map((item) => item.id)
+    });
 
     if (!purchasePayload.email || !purchasePayload.items.length) {
-      console.warn("Stripe webhook ignored due to incomplete purchase payload", {
-        sessionId: session.id
-      });
-      return res.json({ received: true, ignored: true });
+      // TEMP-DIAG: fail loudly (400) instead of silent 200 so Stripe retries
+      // and the failure is visible in delivery logs.
+      console.warn("stripe_webhook_rejected_incomplete", { sessionId: session.id });
+      return res.status(400).json({ error: "Incomplete purchase payload" });
     }
 
     const result = recordPurchase(purchasePayload);
     if (result.error) {
-      console.warn("Stripe webhook purchase record rejected:", {
+      // TEMP-DIAG: fail loudly (400) instead of silent 200 so Stripe retries
+      // and the failure is visible in delivery logs.
+      console.warn("stripe_webhook_rejected_record", {
         sessionId: session.id,
         error: result.error
       });
-      return res.json({ received: true, ignored: true });
+      return res.status(400).json({ error: "Purchase record rejected" });
     }
+    console.log("stripe_webhook_recorded", {
+      sessionId: session.id,
+      purchaseId: result.purchaseId || result.purchase?.id || null,
+      existing: Boolean(result.existing)
+    });
     return res.json({ received: true });
   } catch (error) {
     console.error("Stripe webhook purchase sync failed:", error.message);
